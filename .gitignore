@@ -1,0 +1,6 @@
+# Code Editors or IDE.
+.idea
+
+# Envioromental variables.
+.env
+readme-maker/.env
