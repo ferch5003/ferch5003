@@ -4,15 +4,14 @@ import (
 	"encoding/json"
 	"fmt"
 	"io"
-	"log"
 	"net/http"
 	"os"
 
-	"github.com/ferch5003/ferch5003/readme-maker/internal/platform/nasa/dto"
+	"github.com/ferch5003/ferch5003/readme-maker/internal/nasa/dto"
 	"github.com/google/go-querystring/query"
 )
 
-const _planetaryPath = "planetary/"
+const _planetaryPath = "planetary"
 
 type Client interface {
 	// GetAPOD returns an APODResponse that the response for the /planetary/apod endpoint for NASA API.
@@ -39,7 +38,7 @@ func (c client) GetAPOD(params dto.APODRequestParams) (dto.APODResponse, error) 
 		return dto.APODResponse{}, err
 	}
 
-	apodEndpoint := fmt.Sprintf("%s%s%s?api_key=%s&%v", c.baseUrl, _planetaryPath, "apod", c.apiKey, queryValues.Encode())
+	apodEndpoint := fmt.Sprintf("%s/%s/%s?api_key=%s&%v", c.baseUrl, _planetaryPath, "apod", c.apiKey, queryValues.Encode())
 	resp, err := http.Get(apodEndpoint)
 	if err != nil {
 		return dto.APODResponse{}, err
@@ -57,8 +56,6 @@ func (c client) GetAPOD(params dto.APODRequestParams) (dto.APODResponse, error) 
 	if err != nil {
 		return dto.APODResponse{}, err
 	}
-
-	log.Println(apodResponse)
 
 	return apodResponse, nil
 }

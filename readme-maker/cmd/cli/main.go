@@ -3,8 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/ferch5003/ferch5003/readme-maker/internal/platform/nasa"
-	"github.com/ferch5003/ferch5003/readme-maker/internal/platform/nasa/dto"
+	"github.com/ferch5003/ferch5003/readme-maker/internal"
 	"github.com/joho/godotenv"
 )
 
@@ -20,12 +19,23 @@ func run() error {
 		return err
 	}
 
-	nasaClient := nasa.NewClient()
+	deps, err := newDependencies()
+	if err != nil {
+		return err
+	}
 
-	apodParams := dto.APODRequestParams{}
-	response, err := nasaClient.GetAPOD(apodParams)
+	mainTemplate := internal.NewTemplate()
+	mainTemplate.AddTemplates(deps.Templates)
 
-	log.Println(response)
+	readmeString, err := deps.Storage.Read()
+	if err != nil {
+		return err
+	}
 
-	return err
+	mainTemplateString, err := mainTemplate.Parse(readmeString)
+	if err != nil {
+		return err
+	}
+
+	return deps.Storage.Write(mainTemplateString)
 }
