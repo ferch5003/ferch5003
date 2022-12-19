@@ -1,0 +1,28 @@
+name: Go
+
+on:
+  schedule:
+    - cron: "30 */17 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    environment: README_ACTIONS
+    env:
+      GIT_NAME: ${{ secrets.GIT_NAME }}
+      GIT_EMAIL: ${{ secrets.GIT_EMAIL }}
+      NASA_BASE_URL: ${{ secrets.NASA_BASE_URL }}
+      NASA_API_KEY: ${{ secrets.NASA_API_KEY }}
+    steps:
+      - uses: actions/checkout@v3
+      - name: Go README
+        uses: actions/setup-go@v3
+        with:
+          go-version: 'stable'
+      - run: |
+          go run ./readme-maker/cmd/cli/
+          git config user.name "$GIT_NAME"
+          git config user.email "GIT_EMAIL"
+          git add README.md
+          git commit -m "[bot]: 🤖Update README.md"
+          git push origin main

@@ -12,7 +12,7 @@ type dependencies struct {
 }
 
 func newDependencies() (dependencies, error) {
-	fs := storage.New("../README.md.tpl", "../README.md")
+	fs := storage.New("./README.md.tpl", "./README.md")
 
 	// Slice to save all the templates.
 	var templates []templates.Templater
