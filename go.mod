@@ -1,4 +1,4 @@
-module github.com/ferch5003/ferch5003/readme-maker
+module github.com/ferch5003/ferch5003
 
 go 1.19
 
