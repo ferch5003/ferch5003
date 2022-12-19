@@ -6,13 +6,13 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
+      - uses: actions/checkout@v3
       - uses: actions/setup-go@v3
         with:
-          go-version: '1.19.x'
+          go-version: 'stable'
         env:
           GIT_NAME: ${{ secrets.GIT_NAME }}
           GIT_EMAIL: ${{ secrets.GIT_EMAIL }}
@@ -20,7 +20,6 @@ jobs:
           NASA_API_KEY: ${{ secrets.NASA_API_KEY }}
       - run: go mod tidy
       - run: go run ./readme-maker/cmd/cli/
-      - uses: actions/checkout@v3
       - run: |
           git config user.name "$GIT_NAME"
           git config user.email "GIT_EMAIL"
