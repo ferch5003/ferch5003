@@ -4,7 +4,6 @@ import (
 	"log"
 
 	"github.com/ferch5003/ferch5003/readme-maker/internal"
-	"github.com/joho/godotenv"
 )
 
 func main() {
@@ -14,11 +13,6 @@ func main() {
 }
 
 func run() error {
-	err := godotenv.Load()
-	if err != nil {
-		return err
-	}
-
 	deps, err := newDependencies()
 	if err != nil {
 		return err
