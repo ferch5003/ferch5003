@@ -14,11 +14,6 @@ func main() {
 }
 
 func run() error {
-	err := godotenv.Load()
-	if err != nil {
-		return err
-	}
-
 	deps, err := newDependencies()
 	if err != nil {
 		return err
