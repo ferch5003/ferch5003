@@ -2,7 +2,7 @@ name: Go
 
 on:
   schedule:
-    - cron: "* * * * *"
+    - cron: "*/1 * * * *"
 
 jobs:
   build:
