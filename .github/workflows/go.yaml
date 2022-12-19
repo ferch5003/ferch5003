@@ -10,7 +10,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-      - name: Go Make README
+      - name: Go Make README.md
         uses: actions/setup-go@v3
         with:
           go-version: 'stable'
