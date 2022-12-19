@@ -2,7 +2,7 @@ name: Go
 
 on:
   schedule:
-    - cron: "* * * * *"
+    - cron: "5 */24 * * *"
 
 jobs:
   build:
@@ -10,7 +10,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-      - name: Setup go
+      - name: Go Make README.md
         uses: actions/setup-go@v3
         with:
           go-version: 'stable'
