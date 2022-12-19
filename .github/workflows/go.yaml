@@ -9,6 +9,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Go Make README.md
       - uses: actions/checkout@v3
       - uses: actions/setup-go@v3
         with:
