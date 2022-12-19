@@ -4,7 +4,6 @@ import (
 	"log"
 
 	"github.com/ferch5003/ferch5003/readme-maker/internal"
-	"github.com/joho/godotenv"
 )
 
 func main() {

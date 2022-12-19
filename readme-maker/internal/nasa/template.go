@@ -32,12 +32,19 @@ func (nt *nasaTemplate) Parse(in string) (string, error) {
 		return "", err
 	}
 
+	var nasaAPODValues struct {
+		Nasa struct {
+			APOD dto.APODResponse
+		}
+	}
+	nasaAPODValues.Nasa.APOD = response
+
 	tmpl, err := template.New("nasa").Parse(in)
 	if err != nil {
 		return "", err
 	}
 
-	if err = tmpl.Execute(parsed, response); err != nil {
+	if err = tmpl.Execute(parsed, nasaAPODValues); err != nil {
 		return "", err
 	}
 

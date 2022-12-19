@@ -57,14 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="{{.Url}}">
-      <img align="left" src="{{.Url}}" width="400" height="500" alt="{{.Copyright}}">
+    <a href="{{.Nasa.APOD.Url}}">
+      <img align="left" src="{{.Nasa.APOD.Url}}" width="400" height="500" alt="{{.Nasa.APOD.Copyright}}">
     </a>
     <div>
-        <h4>{{.Title}}</h4>
-        <time>{{.Date}}</time>
-        <p>{{.Explanation}}</p>
-        <strong><em>{{.Copyright}}</em></strong>
+        <h4>{{.Nasa.APOD.Title}}</h4>
+        <time>{{.Nasa.APOD.Date}}</time>
+        <p>{{.Nasa.APOD.Explanation}}</p>
+        <strong><em>{{.Nasa.APOD.Copyright}}</em></strong>
     </div>
 </div>
 
