@@ -20,7 +20,6 @@ jobs:
           NASA_BASE_URL: ${{ secrets.NASA_BASE_URL }}
           NASA_API_KEY: ${{ secrets.NASA_API_KEY }}
       - run: |
-          go mod tidy
           go run ./readme-maker/cmd/cli/
           git config user.name "$GIT_NAME"
           git config user.email "GIT_EMAIL"
