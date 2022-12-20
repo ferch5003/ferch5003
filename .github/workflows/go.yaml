@@ -15,14 +15,14 @@ jobs:
       - uses: actions/setup-go@v3
         with:
           go-version: 'stable'
+        env:
+          GIT_NAME: ${{ secrets.GIT_NAME }}
+          GIT_EMAIL: ${{ secrets.GIT_EMAIL }}
+          NASA_BASE_URL: ${{ env.CI }}
+          NASA_API_KEY: ${{ secrets.NASA_API_KEY }}
       - run: |
           echo $NASA_BASE_URL
           echo ${{ env.CI }}
           echo ${{ secrets.CI }}
           echo ${{ env.README_ACTIONS }}
           echo ${{ env.NASA_BASE_URL }}
-        env:
-          GIT_NAME: ${{ secrets.GIT_NAME }}
-          GIT_EMAIL: ${{ secrets.GIT_EMAIL }}
-          NASA_BASE_URL: ${{ env.CI }}
-          NASA_API_KEY: ${{ secrets.NASA_API_KEY }}
