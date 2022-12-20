@@ -28,4 +28,4 @@ jobs:
           git config user.email "GIT_EMAIL"
           git add README.md
           git commit -m "[bot]: 🤖Update README.md"
-          git push origin main
+          git push -F origin main
