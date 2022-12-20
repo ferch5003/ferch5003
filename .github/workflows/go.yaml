@@ -17,6 +17,7 @@ jobs:
           go-version: 'stable'
       - run: |
           echo $NASA_BASE_URL
+          echo ${{ secrets.GIT_NAME }}
           echo ${{ secrets.NASA_BASE_URL }}
         env:
           GIT_NAME: ${{ secrets.GIT_NAME }}
