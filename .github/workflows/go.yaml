@@ -18,10 +18,10 @@ jobs:
       NASA_API_KEY: ${{ secrets.NASA_API_KEY }}
     steps:
       - uses: actions/checkout@v3
-      - uses: actions/setup-go@v3
+      - name: Go README
+        uses: actions/setup-go@v3
         with:
           go-version: 'stable'
-      - name: Setup go
       - run: |
           go run ./readme-maker/cmd/cli/
           git config user.name "$GIT_NAME"
