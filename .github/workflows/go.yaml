@@ -1,9 +1,12 @@
 name: Go
 
 on:
-  schedule:
-    - cron: "* * * * *"
-
+  push:
+    branches:
+      - main
+    paths:
+      - 'readme-maker/**'
+      - '.github/workflows/go.yml'
 jobs:
   build:
     runs-on: ubuntu-latest
