@@ -21,7 +21,7 @@ jobs:
         with:
           go-version: 'stable'
       - run: |
-          echo $NASA_BASE_URL
+          echo "$NASA_BASE_URL"
           go run ./readme-maker/cmd/cli/
           git config user.name "$GIT_NAME"
           git config user.email "$GIT_EMAIL"
