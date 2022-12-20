@@ -9,7 +9,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
       - uses: actions/setup-go@v3
         with:
           go-version: 'stable'
@@ -20,6 +19,8 @@ jobs:
           NASA_API_KEY: ${{ secrets.NASA_API_KEY }}
       - run: |
           go run ./readme-maker/cmd/cli/
+      - uses: actions/checkout@v3
+      - run: |
           git config user.name "$GIT_NAME"
           git config user.email "GIT_EMAIL"
           git add README.md
