@@ -10,15 +10,15 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    env:
-      GIT_NAME: ${{ secrets.GIT_NAME }}
-      GIT_EMAIL: ${{ secrets.GIT_EMAIL }}
-      NASA_BASE_URL: ${{ secrets.NASA_BASE_URL }}
-      NASA_API_KEY: ${{ secrets.NASA_API_KEY }}
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-go@v3
         with:
           go-version: 'stable'
       - run: |
-          echo "$NASA_BASE_URL"
+          echo $NASA_BASE_URL
+        env:
+          GIT_NAME: ${{ secrets.GIT_NAME }}
+          GIT_EMAIL: ${{ secrets.GIT_EMAIL }}
+          NASA_BASE_URL: ${{ secrets.NASA_BASE_URL }}
+          NASA_API_KEY: ${{ secrets.NASA_API_KEY }}
