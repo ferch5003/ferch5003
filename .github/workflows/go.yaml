@@ -22,5 +22,5 @@ jobs:
         env:
           GIT_NAME: ${{ secrets.GIT_NAME }}
           GIT_EMAIL: ${{ secrets.GIT_EMAIL }}
-          NASA_BASE_URL: ${{ secrets.NASA_BASE_URL }}
+          NASA_BASE_URL: ${{ secrets.CI }}
           NASA_API_KEY: ${{ secrets.NASA_API_KEY }}
