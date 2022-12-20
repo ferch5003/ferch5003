@@ -17,6 +17,8 @@ jobs:
           go-version: 'stable'
       - run: |
           echo $NASA_BASE_URL
+          echo ${{ env.CI }}
+          echo ${{ secrets.CI }}
           echo ${{ env.README_ACTIONS }}
           echo ${{ env.NASA_BASE_URL }}
         env:
