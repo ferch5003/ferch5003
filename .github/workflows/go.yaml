@@ -22,9 +22,3 @@ jobs:
           go-version: 'stable'
       - run: |
           echo "$NASA_BASE_URL"
-          go run ./readme-maker/cmd/cli/
-          git config user.name "$GIT_NAME"
-          git config user.email "$GIT_EMAIL"
-          git add README.md
-          git commit -m "[bot]: 🤖Update README.md"
-          git push origin main
