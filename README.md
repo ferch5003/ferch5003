@@ -57,14 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2212/NGC1365-CDK24-CDK17_1024.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2212/NGC1365-CDK24-CDK17_1024.jpg" width="400" height="500" alt="Martin Pugh">
+    <a href="https://apod.nasa.gov/apod/image/2212/SaturnInsideOut2_cassini_960.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2212/SaturnInsideOut2_cassini_960.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>NGC 1365: Majestic Island Universe</h4>
-        <time>2022-12-22</time>
-        <p>Barred spiral galaxy NGC 1365 is truly a majestic island universe some 200,000 light-years across. Located a mere 60 million light-years away toward the faint but heated constellation Fornax, NGC 1365 is a dominant member of the well-studied Fornax Cluster of galaxies. This impressively sharp color image shows the intense, reddish star forming regions near the ends of central bar and along the spiral arms, with details of the obscuring dust lanes cutting across the galaxy's bright core. At the core lies a supermassive black hole. Astronomers think NGC 1365's prominent bar plays a crucial role in the galaxy's evolution, drawing gas and dust into a star-forming maelstrom and ultimately feeding material into the central black hole.</p>
-        <strong><em>Martin Pugh</em></strong>
+        <h4>Cassini Looks Out from Saturn</h4>
+        <time>2022-12-23</time>
+        <p>This is what Saturn looks like from inside the rings. In 2017, for the first time, NASA directed the Cassini spacecraft to swoop between Saturn and its rings. During the dive, the robotic spacecraft took hundreds of images showing unprecedented detail for structures in Saturn's atmosphere. Looking back out, however, the spacecraft was also able to capture impressive vistas. In the featured image, taken a few hours before closest approach, Saturn's unusual northern hexagon is seen surrounding the North Pole. Saturn's B ring is the closest visible, while the dark Cassini Division separates B from the outer A.  A close inspection will find the two small moons that shepherd the F-ring, the farthest ring discernable.  A few months after this image was taken -- and after more than a decade of exploration and discovery -- the Cassini spacecraft ran low on fuel and was directed to enter Saturn's atmosphere, where it surely melted.</p>
+        <strong><em></em></strong>
     </div>
 </div>
 
