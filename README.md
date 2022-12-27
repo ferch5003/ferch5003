@@ -57,14 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2212/DragonsEgg_Croman_960.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2212/DragonsEgg_Croman_960.jpg" width="400" height="500" alt="Russell Croman">
+    <a href="https://apod.nasa.gov/apod/image/2212/FullCircleRainbow_Moesch_960.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2212/FullCircleRainbow_Moesch_960.jpg" width="400" height="500" alt="Lukas Moesch">
     </a>
     <div>
-        <h4>NGC 6164: Dragon's Egg Nebula and Halo</h4>
-        <time>2022-12-26</time>
-        <p>The star at the center created everything.  Known as the Dragon's Egg, this star -- a rare, hot, luminous O-type star some 40 times as massive as the Sun -- created not only the complex nebula (NGC 6164) that immediately surrounds it, but also the encompassing blue halo. Its name is derived, in part, from the region's proximity to the picturesque NGC 6188, known as the fighting Dragons of Ara. In another three to four million years the massive star will likely end its life in a supernova explosion. Spanning around 4 light-years, the nebula itself has a bipolar symmetry making it similar in appearance to more common planetary nebulae - the gaseous shrouds surrounding dying sun-like stars. Also like many planetary nebulae, NGC 6164 has been found to have an extensive, faint halo, revealed in blue in this deep telescopic image of the region. Expanding into the surrounding interstellar medium, the material in the blue halo was likely expelled from an earlier active phase of the O-star. NGC 6164 lies 4,200 light-years away in the southern constellation of the Carpenter's Square (Norma).</p>
-        <strong><em>Russell Croman</em></strong>
+        <h4>A Full Circle Rainbow over Norway</h4>
+        <time>2022-12-27</time>
+        <p>Have you ever seen an entire rainbow? From the ground, typically, only the top portion of a rainbow is visible because directions toward the ground have fewer raindrops. From the air, though, the entire 360-degree circle of a rainbow is more commonly visible. Pictured here, a full-circle rainbow was captured over the Lofoten Islands of Norway in September by a drone passing through a rain shower. An observer-dependent phenomenon primarily caused by the internal reflection of sunlight by raindrops, the rainbow has a full diameter of 84 degrees. The Sun is in the exact opposite direction from the rainbow's center.  As a bonus, a second rainbow that was more faint and color-reversed was visible outside the first.</p>
+        <strong><em>Lukas Moesch</em></strong>
     </div>
 </div>
 
