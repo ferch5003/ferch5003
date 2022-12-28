@@ -57,14 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2212/FullCircleRainbow_Moesch_960.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2212/FullCircleRainbow_Moesch_960.jpg" width="400" height="500" alt="Lukas Moesch">
+    <a href="https://apod.nasa.gov/apod/image/2212/M88_2022weebly.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2212/M88_2022weebly.jpg" width="400" height="500" alt="Adam Block">
     </a>
     <div>
-        <h4>A Full Circle Rainbow over Norway</h4>
-        <time>2022-12-27</time>
-        <p>Have you ever seen an entire rainbow? From the ground, typically, only the top portion of a rainbow is visible because directions toward the ground have fewer raindrops. From the air, though, the entire 360-degree circle of a rainbow is more commonly visible. Pictured here, a full-circle rainbow was captured over the Lofoten Islands of Norway in September by a drone passing through a rain shower. An observer-dependent phenomenon primarily caused by the internal reflection of sunlight by raindrops, the rainbow has a full diameter of 84 degrees. The Sun is in the exact opposite direction from the rainbow's center.  As a bonus, a second rainbow that was more faint and color-reversed was visible outside the first.</p>
-        <strong><em>Lukas Moesch</em></strong>
+        <h4>Messier 88</h4>
+        <time>2022-12-28</time>
+        <p>Charles Messier described the 88th entry in his 18th century catalog of Nebulae and Star Clusters as a spiral nebula without stars. Of course the gorgeous M88 is now understood to be a galaxy full of stars, gas, and dust, not unlike our own Milky Way. In fact, M88 is one of the brightest galaxies in the Virgo Galaxy Cluster some 50 million light-years away. M88's beautiful spiral arms are easy to trace in this sharp cosmic portait.  The arms are lined with young blue star clusters, pink star-forming regions, and obscuring dust lanes extending from a yellowish core dominated by an older population of stars. Spiral galaxy M88 spans over 100,000 light-years.</p>
+        <strong><em>Adam Block</em></strong>
     </div>
 </div>
 
