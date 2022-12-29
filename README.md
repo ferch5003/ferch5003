@@ -57,14 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2212/M88_2022weebly.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2212/M88_2022weebly.jpg" width="400" height="500" alt="Adam Block">
+    <a href="https://apod.nasa.gov/apod/image/2212/B33LRGB_fb1024.png">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2212/B33LRGB_fb1024.png" width="400" height="500" alt="Jason Close">
     </a>
     <div>
-        <h4>Messier 88</h4>
-        <time>2022-12-28</time>
-        <p>Charles Messier described the 88th entry in his 18th century catalog of Nebulae and Star Clusters as a spiral nebula without stars. Of course the gorgeous M88 is now understood to be a galaxy full of stars, gas, and dust, not unlike our own Milky Way. In fact, M88 is one of the brightest galaxies in the Virgo Galaxy Cluster some 50 million light-years away. M88's beautiful spiral arms are easy to trace in this sharp cosmic portait.  The arms are lined with young blue star clusters, pink star-forming regions, and obscuring dust lanes extending from a yellowish core dominated by an older population of stars. Spiral galaxy M88 spans over 100,000 light-years.</p>
-        <strong><em>Adam Block</em></strong>
+        <h4>Horsehead and Flame</h4>
+        <time>2022-12-29</time>
+        <p>The Horsehead Nebula, famous celestial dark marking also known as Barnard 33, is notched against a background glow of emission nebulae in this sharp cosmic skyscape. About five light-years "tall" the Horsehead lies some 1,500 light-years away in the constellation of Orion. Within the region's fertile molecular cloud complex, the expanse of obscuring dust has a recognizable shape only by chance from our perspective in the Milky Way though. Orion's easternmost belt star, bright Alnitak, is to the left of center.  Energetic ultraviolet light from Alnitak powers the glow of dusty NGC 2024, the Flame Nebula, just below it. Completing a study in cosmic contrasts, bluish reflection nebula NGC 2023 is below the Horsehead itself. This well-framed telescopic field spans about 3 full moons on the sky.</p>
+        <strong><em>Jason Close</em></strong>
     </div>
 </div>
 
