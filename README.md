@@ -57,14 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2212/B33LRGB_fb1024.png">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2212/B33LRGB_fb1024.png" width="400" height="500" alt="Jason Close">
+    <a href="https://apod.nasa.gov/apod/image/2212/mars_clusters1024.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2212/mars_clusters1024.jpg" width="400" height="500" alt="Gabor Balazs">
     </a>
     <div>
-        <h4>Horsehead and Flame</h4>
-        <time>2022-12-29</time>
-        <p>The Horsehead Nebula, famous celestial dark marking also known as Barnard 33, is notched against a background glow of emission nebulae in this sharp cosmic skyscape. About five light-years "tall" the Horsehead lies some 1,500 light-years away in the constellation of Orion. Within the region's fertile molecular cloud complex, the expanse of obscuring dust has a recognizable shape only by chance from our perspective in the Milky Way though. Orion's easternmost belt star, bright Alnitak, is to the left of center.  Energetic ultraviolet light from Alnitak powers the glow of dusty NGC 2024, the Flame Nebula, just below it. Completing a study in cosmic contrasts, bluish reflection nebula NGC 2023 is below the Horsehead itself. This well-framed telescopic field spans about 3 full moons on the sky.</p>
-        <strong><em>Jason Close</em></strong>
+        <h4>Mars and the Star Clusters</h4>
+        <time>2022-12-30</time>
+        <p>At this year's end Mars still shines brightly in planet Earth's night as it wanders through the head-strong constellation Taurus. Its bright yellowish hue dominates this starry field of view that includes Taurus' alpha star Aldebaran and the Hyades and Pleiades star clusters. While red giant Aldebaran appears to anchor the V-shape of the Hyades at the left of the frame, Aldebaran is not a member of the Hyades star cluster. The Hyades cluster is 151 light-years away making it the nearest established open star cluster, but Aldebaran lies at less than half that distance, along the same line-of-sight.  At the right, some 400 light-years distant is the open star cluster cataloged as Messier 45, also known as the Pleiades or Seven Sisters. In Greek myth, the Pleiades were daughters of the astronomical titan Atlas and sea-nymph Pleione.</p>
+        <strong><em>Gabor Balazs</em></strong>
     </div>
 </div>
 
