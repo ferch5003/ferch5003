@@ -57,14 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2301/MacsClusterLens_Webb_960.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2301/MacsClusterLens_Webb_960.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2301/crtastro_0172_1097p.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2301/crtastro_0172_1097p.jpg" width="400" height="500" alt="Carlos Taylor">
     </a>
     <div>
-        <h4>MACS0647: Gravitational Lensing of the Early Universe by Webb</h4>
-        <time>2023-01-18</time>
-        <p>Gravitational lensing by the galaxy cluster MACS0647 -- in which the massive foreground cluster distorts and lenses the light emitted by distant background galaxies along the line of sight — is on vivid display here in this recent multi-color infrared image from the James Webb Space Telescope (JWST).  In particular, the background source MACS0647-JD is seen to be lensed three times by the cluster.  When first discovered with the Hubble Space Telescope, MACS0647-JD was observed as an amorphous blob.  With Webb though, this single source is revealed to be a pair or small group of galaxies.  The colors of the MACS0647-JD objects are different as well -- indicating differences potentially in the age or dust content of these galaxies.  These new images provide rare examples of galaxies in an era only a few 100 million years after the Big Bang.   Explore Your Universe: Random APOD Generator</p>
-        <strong><em></em></strong>
+        <h4>The Seagull Nebula</h4>
+        <time>2023-01-19</time>
+        <p>A broad expanse of glowing gas and dust presents a bird-like visage to astronomers from planet Earth, suggesting its popular moniker - The Seagull Nebula. Using narrowband image data, this 3-panel mosaic of the cosmic bird covers a 2.5 degree swath across the plane of the Milky Way, near the direction of Sirius, alpha star of the constellation Canis Major. Likely part of a larger shell structure swept up by successive supernova explosions, the broad Seagull Nebula is cataloged as Sh2-296 and IC 2177. The prominent bluish arc below and right of center is a bow shock from runaway star FN Canis Majoris. This complex of gas and dust clouds with other stars of the Canis Majoris OB1 association spans over 200 light-years at the Seagull Nebula's estimated 3,800 light-year distance.</p>
+        <strong><em>Carlos Taylor</em></strong>
     </div>
 </div>
 
