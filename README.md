@@ -57,14 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2301/greencompany_rive_960.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2301/greencompany_rive_960.jpg" width="400" height="500" alt="Max Rive">
+    <a href="https://apod.nasa.gov/apod/image/2301/Arp274_HubbleOzsarac_1080.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2301/Arp274_HubbleOzsarac_1080.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>In Green Company: Aurora over Norway</h4>
-        <time>2023-01-22</time>
-        <p>Raise your arms if you see an aurora. With those instructions, two nights went by with, well, clouds -- mostly. On the third night of returning to same peaks, though, the sky not only cleared up but lit up with a spectacular auroral display. Arms went high in the air, patience and experience paid off, and the creative featured image was captured as a composite from three separate exposures. The setting is a summit of the Austnesfjorden fjord close to the town of Svolvear on the Lofoten islands in northern Norway. The time was early 2014. Although our Sun passed the solar minimum of its 11-year cycle only a few years ago, surface activity is picking up and already triggering more spectacular auroras here on Earth.</p>
-        <strong><em>Max Rive</em></strong>
+        <h4>The Colliding Spiral Galaxies of Arp 274</h4>
+        <time>2023-01-23</time>
+        <p>Two galaxies are squaring off in Virgo and here are the latest pictures.  When two galaxies collide, the stars that compose them usually do not. This is because galaxies are mostly empty space and, however bright, stars only take up only a small fraction of that space. But during the collision, one galaxy can rip the other apart gravitationally, and dust and gas common to both galaxies does collide. If the two galaxies merge, black holes that likely resided in each galaxy center may eventually merge. Because the distances are so large, the whole thing takes place in slow motion -- over hundreds of millions of years. Besides the two large spiral galaxies, a smaller third galaxy is visible on the far left of the featured image of Arp 274, also known as NGC 5679. Arp 274 spans about 200,000 light years across and lies about 400 million light years away toward the constellation of Virgo.   Night Sky Network webinar: APOD editor to review best space images of 2022</p>
+        <strong><em></em></strong>
     </div>
 </div>
 
