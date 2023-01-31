@@ -57,14 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2301/ngc6355_hubble_1080.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2301/ngc6355_hubble_1080.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2301/TripleCometZTF_Caldera_960.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2301/TripleCometZTF_Caldera_960.jpg" width="400" height="500" alt="Javier CalderaMiguel Gracia">
     </a>
     <div>
-        <h4>Globular Star Cluster NGC 6355 from Hubble</h4>
-        <time>2023-01-30</time>
-        <p>Globular clusters once ruled the Milky Way.  Back in the old days, back when our Galaxy first formed, perhaps thousands of globular clusters roamed our Galaxy.  Today, there are less than 200 left.  Over the eons, many globular clusters were destroyed by repeated fateful encounters with each other or the Galactic center.  Surviving relics are older than any Earth fossil, older than any other structures in our Galaxy, and limit the universe itself in raw age.  There are few, if any, young globular clusters left in our Milky Way Galaxy because conditions are not ripe for more to form. The featured image shows a Hubble Space Telescope view of 13-billion year old NGC 6355, a surviving globular cluster currently passing near the Milky Way's center.  Globular cluster stars are concentrated toward the image center and highlighted by bright blue stars. Most other stars in the frame are dimmer, redder, and just coincidently lie near the direction to NGC 6355.</p>
-        <strong><em></em></strong>
+        <h4>A Triple View of Comet ZTF</h4>
+        <time>2023-01-31</time>
+        <p>Comet ZTF has a distinctive shape. The now bright comet visiting the inner Solar System has been showing not only a common dust tail, ion tail, and green gas coma, but also an uncommonly distinctive antitail. The antitail does not actually lead the comet -- it is just that the head of the comet is seen superposed on part of the fanned-out and trailing dust tail.  The giant dirty snowball that is Comet C/2022 E3 (ZTF) has now passed its closest to the Sun and tomorrow will pass its closest to the Earth. The main panel of the featured triple image shows how Comet ZTF looked last week to the unaided eye under a dark and clear sky over Cáceres, Spain.  The top inset image shows how the comet looked through binoculars, while the lower inset shows how the comet looked through a small telescope.  The comet is now visible all night long from northern latitudes but will surely fade from easy observation during the next few weeks.    Comet ZTF Gallery: Notable Submissions to APOD</p>
+        <strong><em>Javier CalderaMiguel Gracia</em></strong>
     </div>
 </div>
 
