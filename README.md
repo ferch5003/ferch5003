@@ -57,14 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2302/enceladus12_cassini_960.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2302/enceladus12_cassini_960.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2302/Rosette_Insley_960.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2302/Rosette_Insley_960.jpg" width="400" height="500" alt="Lyman Insley">
     </a>
     <div>
-        <h4>Enceladus by Saturnshine</h4>
-        <time>2023-02-05</time>
-        <p>This moon is shining by the light of its planet. Specifically, a large portion of Enceladus pictured here is illuminated primarily by sunlight first reflected from the planet Saturn. The result is that the normally snow-white moon appears in the gold color of Saturn's cloud tops.  As most of the illumination comes from the image left, a labyrinth of ridges throws notable shadows just to the right of the image center, while the kilometer-deep canyon Labtayt Sulci is visible just below. The bright thin crescent on the far right is the only part of Enceladus directly lit by the Sun. The featured image was taken in 2011 by the robotic Cassini spacecraft during a close pass by by the enigmatic moon.  Inspection of the lower left part of this digitally sharpened image reveals plumes of ice crystals thought to originate in a below-surface sea.</p>
-        <strong><em></em></strong>
+        <h4>In the Heart of the Rosette Nebula</h4>
+        <time>2023-02-06</time>
+        <p>In the heart of the Rosette Nebula lies a bright cluster of stars that lights up the nebula.  The stars of NGC 2244 formed from the surrounding gas only a few million years ago.  The featured image taken in mid-January using multiple exposures and very specific colors of Sulfur (shaded red), Hydrogen (green), and Oxygen (blue), captures the central region in tremendous detail. A hot wind of particles streams away from the cluster stars and contributes to an already complex menagerie of gas and dust filaments while slowly evacuating the cluster center.  The Rosette Nebula's center measures about 50 light-years across, lies about 5,200 light-years away, and is visible with binoculars towards the constellation of the Unicorn (Monoceros).   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)</p>
+        <strong><em>Lyman Insley</em></strong>
     </div>
 </div>
 
