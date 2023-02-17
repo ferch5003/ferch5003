@@ -57,14 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2302/ABELL1060_LRGB_NASA_1024.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2302/ABELL1060_LRGB_NASA_1024.jpg" width="400" height="500" alt="Marco Lorenzi">
+    <a href="https://apod.nasa.gov/apod/image/2302/gijsDSC_1917(2x3)800px.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2302/gijsDSC_1917(2x3)800px.jpg" width="400" height="500" alt="Gijs de Reijke">
     </a>
     <div>
-        <h4>The Hydra Cluster of Galaxies</h4>
-        <time>2023-02-16</time>
-        <p>Once upon a midnight dreary, while I pondered weak and weary, O'er volumes of astronomy and forgotten lore, I stumbled upon this snapshot, cosmic and eerie, A sight that filled my heart with awe and more. Two stars, like sentinels, anchored the foreground, Of our Milky Way galaxy, a sight to behold, Beyond them, a cluster of Hydra, galaxies abound, 100 million light-years away, a story to be told. Three large galaxies, ellipticals and a spiral blue, Dominant and grand, each 150,000 light-years wide, But it was the overlapping pair that caught my view, Cataloged as NGC 3314, a sight I cannot hide. Abell 1060, the Hydra galaxy cluster's name, One of three large galaxy clusters close to our Milky Way, A universe bound by gravity, a celestial game, Where clusters align over larger scales, I cannot sway. At a distance of 100 million light-years, this snapshot's size, 1.3 million light-years across, a cosmic delight, A momentary glimpse into the universe's guise, But even this shall fade, and be nevermore in sight.</p>
-        <strong><em>Marco Lorenzi</em></strong>
+        <h4>2023 CX1 Meteor Flash</h4>
+        <time>2023-02-17</time>
+        <p>While scanning the skies for near earth objects Hungarian astronomer Krisztián Sárneczky first imaged the meter-sized space rock now cataloged as 2023 CX1 on 12 February 2023 at 20:18:07 UTC. That was about 7 hours before it impacted planet Earth's atmosphere. Its predicted trajectory created a rare opportunity for meteor observers and a last minute plan resulted in this spectacular image of the fireball, captured from the Netherlands as 2023 CX1 vaporized and broke up over northern France. Remarkably it was Sárneczky's second discovery of an impacting asteroid, while 2023 CX1 is only the seventh asteroid to be detected before being successfully predicted to impact Earth. It has recently become the third such object from which meteorites have been recovered. This fireball was witnessed almost 10 years to the day following the infamous Chelyabinsk Meteor flash.</p>
+        <strong><em>Gijs de Reijke</em></strong>
     </div>
 </div>
 
