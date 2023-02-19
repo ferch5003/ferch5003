@@ -57,13 +57,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2302/JWSTMIRI_ngc1365_1024.png">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2302/JWSTMIRI_ngc1365_1024.png" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2302/Pleiades_WiseAntonucci_960.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2302/Pleiades_WiseAntonucci_960.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Barred Spiral Galaxy NGC 1365 from Webb</h4>
-        <time>2023-02-18</time>
-        <p>A mere 56 million light-years distant toward the southern constellation Fornax, NGC 1365 is an enormous barred spiral galaxy about 200,000 light-years in diameter. That's twice the size of our own barred spiral Milky Way. This sharp image from the James Webb Space Telescope's Mid-Infrared Instrument (MIRI) reveals stunning details of this magnificent spiral in infrared light. Webb's field of view stretches about 60,000 light-years across NGC 1365, exploring the galaxy's core and bright newborn star clusters. The intricate network of dusty filaments and bubbles is created by young stars along spiral arms winding from the galaxy's central bar. Astronomers suspect the gravity field of NGC 1365's bar plays a crucial role in the galaxy's evolution, funneling gas and dust into a star-forming maelstrom and ultimately feeding material into the active galaxy's central, supermassive black hole.</p>
+        <h4>Seven Dusty Sisters in Infrared</h4>
+        <time>2023-02-19</time>
+        <p>Is this really the famous Pleiades star cluster? Known for its iconic blue stars, the Pleiades is shown here in infrared light where the surrounding dust outshines the stars. Here three infrared colors have been mapped into visual colors (R=24, G=12, B=4.6 microns). The base images were taken by NASA's orbiting Wide Field Infrared Survey Explorer (WISE) spacecraft. Cataloged as M45 and nicknamed the Seven Sisters, the Pleiades star cluster is by chance situated in a passing dust cloud. The light and winds from the massive Pleiades stars preferentially repel smaller dust particles, causing the dust to become stratified into filaments, as seen. The featured image spans about 20 light years at the distance of the Pleiades, which lies about 450 light years distant toward the constellation of the Bull (Taurus).</p>
         <strong><em></em></strong>
     </div>
 </div>
