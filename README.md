@@ -57,14 +57,16 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2302/NGC772-L2bh-RGB-19-8aT-cC1024.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2302/NGC772-L2bh-RGB-19-8aT-cC1024.jpg" width="400" height="500" alt="Josep Drudis">
+    <a href="https://apod.nasa.gov/apod/image/2302/jonesemberson1_1024.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2302/jonesemberson1_1024.jpg" width="400" height="500" alt="Serge
+Brunier, Jean-François Bax, David Vernet">
     </a>
     <div>
-        <h4>Arp 78: Peculiar Galaxy in Aries</h4>
-        <time>2023-02-23</time>
-        <p>Peculiar spiral galaxy Arp 78 is found within the boundaries of the head strong constellation Aries. Some 100 million light-years beyond the stars and nebulae of our Milky Way galaxy, the island universe is an enormous 200,000 light-years across. Also known as NGC 772, it sports a prominent, outer spiral arm in this detailed cosmic portrait. Tracking along sweeping dust lanes and lined with young blue star clusters, Arp 78's overdeveloped spiral arm is pumped-up by galactic-scale gravitational tides. Interactions with its brightest companion galaxy, the more compact NGC 770 seen above and right of the larger spiral, are likely responsible. Embedded in faint star streams revealed in the deep telescopic exposure, NGC 770's fuzzy, elliptical appearance contrasts nicely with spiky foreground Milky Way stars in matching yellowish hues.</p>
-        <strong><em>Josep Drudis</em></strong>
+        <h4>Jones-Emberson 1</h4>
+        <time>2023-02-24</time>
+        <p>Planetary nebula Jones-Emberson 1 is the death shroud of a dying Sun-like star. It lies some 1,600 light-years from Earth toward the sharp-eyed constellation Lynx. About 4 light-years across, the expanding remnant of the dying star's atmosphere was shrugged off into interstellar space, as the star's central supply of hydrogen and then helium for fusion was finally depleted after billions of years. Visible near the center of the planetary nebula is what remains of the stellar core, a blue-hot white dwarf star.  Also known as PK 164 +31.1, the nebula is faint and very difficult to glimpse at a telescope's eyepiece. But this deep broadband image combining 22 hours of exposure time does show it off in exceptional detail. Stars within our own Milky Way galaxy as well as background galaxies across the universe are scattered through the clear field of view. Ephemeral on the cosmic stage, Jones-Emberson 1 will fade away over the next few thousand years. Its hot, central white dwarf star will take billions of years to cool.</p>
+        <strong><em>Serge
+Brunier, Jean-François Bax, David Vernet</em></strong>
     </div>
 </div>
 
