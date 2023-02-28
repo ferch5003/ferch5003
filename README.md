@@ -57,14 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2302/ZodiacalPlanets_Merzlyakov_960.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2302/ZodiacalPlanets_Merzlyakov_960.jpg" width="400" height="500" alt="Ruslan Merzlyakovastrorms">
+    <a href="https://apod.nasa.gov/apod/image/2302/CrescentPoseiden_Chasiotis_1080.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2302/CrescentPoseiden_Chasiotis_1080.jpg" width="400" height="500" alt="Elias Chasiotis">
     </a>
     <div>
-        <h4>Zodiacal Ray with Venus and Jupiter</h4>
-        <time>2023-02-27</time>
-        <p>What's causing that unusual ray of light extending from the horizon? Dust orbiting the Sun. At certain times of the year, a band of sun-reflecting dust from the inner Solar System appears prominently after sunset or before sunrise and is called zodiacal light.  The dust was emitted mostly from faint Jupiter-family comets and slowly spirals into the Sun. The featured HDR image, acquired in mid-February from the Sierra Nevada National Park in Spain, captures the glowing band of zodiacal light going right in front of the bright evening planets Jupiter (upper) and Venus (lower). Emitted from well behind the zodiacal light is a dark night sky that prominently includes the Pleiades star cluster. Jupiter and Venus are slowly switching places in the evening sky, and just in the next few days nearing their closest angular approach.</p>
-        <strong><em>Ruslan Merzlyakovastrorms</em></strong>
+        <h4>Crescent Moon Beyond Greek Temple</h4>
+        <time>2023-02-28</time>
+        <p>Why is a thin crescent moon never seen far from a horizon? Because the only geometry that gives a thin crescent lunar phase occurs when the Moon appears close to the Sun in the sky.  The crescent is not caused by the shadow of the Earth, but by seeing only a small part of the Moon directly illuminated by the Sun.  Moreover, the thickest part of the crescent always occurs in the direction of the Sun.  In the evening, a thin crescent Moon will set shortly after the Sun and not be seen for the rest of the night. Alternatively, in the morning, a crescent Moon will rise shortly before the Sun after not being seen for most of the night. Pictured two weeks ago, a crescent moon was captured near the horizon, just before sunrise, far behind remnants of the ancient Temple of Poseidon in Greece.</p>
+        <strong><em>Elias Chasiotis</em></strong>
     </div>
 </div>
 
