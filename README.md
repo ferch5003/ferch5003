@@ -57,14 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2303/noirlab2307a1024c.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2303/noirlab2307a1024c.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2303/PSX_20230302_200358_1024.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2303/PSX_20230302_200358_1024.jpg" width="400" height="500" alt="Soumyadeep Mukherjee">
     </a>
     <div>
-        <h4>RCW 86: Historical Supernova Remnant</h4>
-        <time>2023-03-03</time>
-        <p>In 185 AD, Chinese astronomers recorded the appearance of a new star in the Nanmen asterism. That part of the sky is identified with Alpha and Beta Centauri on modern star charts. The new star was visible to the naked-eye for months, and is now thought to be the earliest recorded supernova. This deep telescopic view reveals the wispy outlines of emission nebula RCW 86, just visible against the starry background, understood to be the remnant of that stellar explosion. Captured by the wide-field Dark Energy Camera operating at Cerro Tololo Inter-American Observatory in Chile, the image traces the full extent of a ragged shell of gas ionized by the still expanding shock wave. Space-based images indicate an abundance of the element iron in RCW 86 and the absence of a neutron star or pulsar within the remnant, suggesting that the original supernova was Type Ia. Unlike the core collapse supernova explosion of a massive star, a Type Ia supernova is a thermonuclear detonation on a white dwarf star that accretes material from a companion in a binary star system. Near the plane of our Milky Way galaxy and larger than the full moon on the sky this supernova remnant is too faint to be seen by eye though. RCW 86 is some 8,000 light-years distant and around 100 light-years across.</p>
-        <strong><em></em></strong>
+        <h4>10 Days of Venus and Jupiter</h4>
+        <time>2023-03-04</time>
+        <p>Venus and Jupiter may have caught your attention lately.  The impending close conjunction of the two brightest planets visible in clear evening skies has been hard to miss. With Jupiter at the top, starting on February 21 and ending on March 2, their close approach is chronicled daily, left to right, in these panels recorded from Dhanbad, India. Near the western horizon, the evening sky colors and exposures used for each panel depend on the local conditions near sunset. On February 22, Jupiter and Venus were joined by the young crescent Moon. The celestial pair appeared to be only the width of a full moon apart by March 2. Of course on that date the two planets were physically separated by over 600 million kilometers in their orbits around the Sun. In the coming days Jupiter will slowly settle into the glare at sunset, but Venus will continue to move farther from the Sun in the western sky to excel in its current role as the brilliant evening star.   Jupiter & Venus Conjunction Gallery: Notable Submissions to APOD</p>
+        <strong><em>Soumyadeep Mukherjee</em></strong>
     </div>
 </div>
 
