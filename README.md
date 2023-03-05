@@ -57,14 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2303/PSX_20230302_200358_1024.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2303/PSX_20230302_200358_1024.jpg" width="400" height="500" alt="Soumyadeep Mukherjee">
+    <a href="https://apod.nasa.gov/apod/image/2303/VenusJupiterSky_Tumino_1080.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2303/VenusJupiterSky_Tumino_1080.jpg" width="400" height="500" alt="Giovanni Tumino">
     </a>
     <div>
-        <h4>10 Days of Venus and Jupiter</h4>
-        <time>2023-03-04</time>
-        <p>Venus and Jupiter may have caught your attention lately.  The impending close conjunction of the two brightest planets visible in clear evening skies has been hard to miss. With Jupiter at the top, starting on February 21 and ending on March 2, their close approach is chronicled daily, left to right, in these panels recorded from Dhanbad, India. Near the western horizon, the evening sky colors and exposures used for each panel depend on the local conditions near sunset. On February 22, Jupiter and Venus were joined by the young crescent Moon. The celestial pair appeared to be only the width of a full moon apart by March 2. Of course on that date the two planets were physically separated by over 600 million kilometers in their orbits around the Sun. In the coming days Jupiter will slowly settle into the glare at sunset, but Venus will continue to move farther from the Sun in the western sky to excel in its current role as the brilliant evening star.   Jupiter & Venus Conjunction Gallery: Notable Submissions to APOD</p>
-        <strong><em>Soumyadeep Mukherjee</em></strong>
+        <h4>Jupiter and Venus over Italy</h4>
+        <time>2023-03-05</time>
+        <p>What are those two bright spots? Planets.  A few days ago, the two brightest planets in the night sky passed within a single degree of each other in what is termed a conjunction. Visible just after sunset in much of the world, the two bright spots were Jupiter (left) and Venus (right).  The featured image was taken near closest approach from Cirica, Sicily, Italy. The week before, Venus was rising higher in the sunset sky to meet the dropping Jupiter. Now they have switched places. Of course, Venus remains much closer to both the Sun and the Earth than Jupiter -- the apparent closeness between the planets in the sky of Earth was only angular.  You can still see the popular pair for an hour or so after sunset this month although they continue to separate, and Jupiter continues to set earlier each night.   Jupiter & Venus Conjunction Gallery: Notable Submissions to APOD</p>
+        <strong><em>Giovanni Tumino</em></strong>
     </div>
 </div>
 
