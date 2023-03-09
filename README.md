@@ -57,13 +57,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2303/WorldSkyBrightness_JpssLorenz_1080.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2303/WorldSkyBrightness_JpssLorenz_1080.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2303/pressdracowithspacecraft1_1024.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2303/pressdracowithspacecraft1_1024.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Artificial Night Sky Brightness</h4>
-        <time>2023-03-08</time>
-        <p>Where have all the dim stars gone?  From many places on the Earth including major cities, the night sky has been reduced from a fascinating display of thousands of stars to a diffuse glow through which only a few stars are visible.  The featured map indicates the relative amount of light pollution that occurs across the Earth.  The cause of the pollution is artificial light reflecting off molecules and aerosols in the atmosphere.  Parts of the Eastern United States and Western Europe  colored red, for example, have an artificial night sky glow over ten times that of the natural sky.  In any area marked orange or red, the central band of our Milky Way Galaxy is no longer visible. The International Dark Sky Association suggests common types of fixtures that provide relatively little amounts of light pollution.   Light Up Your Internal Night Sky: Random APOD Generator</p>
+        <h4>DART vs Dimorphos</h4>
+        <time>2023-03-09</time>
+        <p>On the first planetary defense test mission from planet Earth, the DART spacecraft captured this close-up on 26 September 2022, three seconds before slamming into the surface of asteroid moonlet Dimorphos. The spacecraft's outline with two long solar panels is traced at its projected point of impact between two boulders. The larger boulder is about 6.5 meters across. While the DART (Double Asteroid Redirection Test) spacecraft had a mass of some 570 kilograms, the estimated mass of Dimorphos, the smaller member of a near-Earth binary asteroid system, was about 5 billion kilograms. The direct kinetic impact of the spacecraft measurably altered the speed of Dimorphos by a fraction of a percent, reducing its 12 hour orbital period around its larger companion asteroid 65803 Didymos by about 33 minutes. Beyond successfully demonstrating a technique to change an asteroid's orbit that can prevent future asteroid strikes on planet Earth, the planetary-scale impact experiment has given the 150-meter-sized Dimorphos a comet-like tail of material.</p>
         <strong><em></em></strong>
     </div>
 </div>
