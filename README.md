@@ -57,14 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2303/M31_Alharbi_960.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2303/M31_Alharbi_960.jpg" width="400" height="500" alt="Abdullah Al-Harbi">
+    <a href="https://apod.nasa.gov/apod/image/2303/NGC2841_1024.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2303/NGC2841_1024.jpg" width="400" height="500" alt="Roberto Marinoni">
     </a>
     <div>
-        <h4>M31: The Andromeda Galaxy</h4>
-        <time>2023-03-22</time>
-        <p>How far can you see? The most distant object easily visible to the unaided eye is M31, the great Andromeda Galaxy, over two million light-years away.  Without a telescope, even this immense spiral galaxy appears as an unremarkable, faint, nebulous cloud in the constellation Andromeda.  But a bright white nucleus, dark winding dust lanes, luminous blue spiral arms, and bright red emission nebulas are recorded in this stunning fifteen-hour telescopic digital mosaic of our closest major galactic neighbor.  But how do we know this spiral nebula is really so far away? This question was central to the famous Shapley-Curtis debate of 1920.  M31's great distance was determined in the 1920s by observations that resolved individual stars that changed their brightness in a way that gave up their true distance. The result proved that Andromeda is just like our Milky Way Galaxy -- a conclusion making the rest of the universe much more vast than had ever been previously imagined.</p>
-        <strong><em>Abdullah Al-Harbi</em></strong>
+        <h4>Spiral Galaxy NGC 2841</h4>
+        <time>2023-03-23</time>
+        <p>A mere 46 million light-years distant, spiral galaxy NGC 2841 can be found in planet Earth's night sky toward the northern constellation of Ursa Major. This sharp image centered on the gorgeous island universe also captures spiky foreground Milky Way stars and more distant background galaxies within the same telescopic field of view. It shows off the bright nucleus of NGC 2841, along with its inclined galactic disk, and faint outer regions.  Dust lanes, small star-forming regions, and young star clusters are embedded in the galaxy's patchy, tightly wound spiral arms. In contrast, many other spirals exhibit broader, sweeping arms with large star-forming regions.  NGC 2841 has a diameter of over 150,000 light-years, making it even larger than our own Milky Way. X-ray images suggest that extreme outflows from giant stars and stellar explosions create plumes of hot gas extending into a halo around NGC 2841.</p>
+        <strong><em>Roberto Marinoni</em></strong>
     </div>
 </div>
 
