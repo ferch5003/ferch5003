@@ -57,14 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2303/_GHR3094-venerelunafirma800.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2303/_GHR3094-venerelunafirma800.jpg" width="400" height="500" alt="Giorgia Hofer">
+    <a href="//player.vimeo.com/video/108650530?title=0&byline=0&portrait=0&badge=0&color=ffffff">
+      <img align="left" src="//player.vimeo.com/video/108650530?title=0&byline=0&portrait=0&badge=0&color=ffffff" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Venus and the Da Vinci Glow</h4>
-        <time>2023-03-25</time>
-        <p>On March 23 early evening skygazers could watch Venus and a young crescent moon, both near the western horizon. On that date Earth's brilliant evening star, faint lunar night side and slender sunlit crescent were captured in this telephoto skyscape posing alongside a church tower from Danta di Cadore, Dolomiti, Italy. Of course the subtle lunar illumination is earthshine, earthlight reflected from the Moon's night side. A description of earthshine, in terms of sunlight reflected by Earth's oceans illuminating the Moon's dark surface, was written over 500 years ago by Leonardo da Vinci. On March 24, from some locations the Moon could be seen to occult or pass in front of Venus. Around the planet tonight, a waxing lunar crescent will appear near the Pleiades star cluster.</p>
-        <strong><em>Giorgia Hofer</em></strong>
+        <h4>Wanderers</h4>
+        <time>2023-03-26</time>
+        <p>How far out will humanity explore? If this video's fusion of real space imagery and fictional space visualizations is on the right track, then at least the Solar System. Some of the video's wondrous sequences depict future humans drifting through the rings of Saturn, exploring Jupiter from a nearby spacecraft, and jumping off a high cliff in the low gravity of a moon of Uranus. Although no one can know the future, wandering and exploring beyond boundaries -- both physical and intellectual -- is part of the human spirit and has frequently served humanity well in the past.</p>
+        <strong><em></em></strong>
     </div>
 </div>
 
