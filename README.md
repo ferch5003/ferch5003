@@ -57,14 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2303/ArcticHenge_Letelier_960.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2303/ArcticHenge_Letelier_960.jpg" width="400" height="500" alt="Cari Letelier">
+    <a href="https://apod.nasa.gov/apod/image/2303/GreenFlashesB_Slovinsky_960.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2303/GreenFlashesB_Slovinsky_960.jpg" width="400" height="500" alt="T. SlovinskýP. HorálekIoP OpavaCTIONOIRLabNSFAURA">
     </a>
     <div>
-        <h4>Aurora Over Arctic Henge</h4>
-        <time>2023-03-27</time>
-        <p>Reports of powerful solar flares started a seven-hour quest north to capture modern monuments against an aurora-filled sky.  The peaks of iconic Arctic Henge in Raufarhöfn in northern Iceland were already aligned with the stars: some are lined up toward the exact north from one side and toward exact south from the other. The featured image, taken after sunset late last month, looks directly south, but since the composite image covers so much of the sky, the north star Polaris is actually visible at the very top of the frame. Also visible are familiar constellations including the Great Bear (Ursa Major) on the left, and the Hunter (Orion) on the lower right. The quest was successful.  The sky lit up dramatically with bright and memorable auroras that shimmered with amazing colors including red, pink, yellow, and green -- sometimes several at once.</p>
-        <strong><em>Cari Letelier</em></strong>
+        <h4>A Multiple Green Flash Sunset</h4>
+        <time>2023-03-28</time>
+        <p>Yes, but can your green flash do this? A green flash at sunset is a rare event that many Sun watchers pride themselves on having seen.  Once thought to be a myth, a green flash is now understood to occur when the Earth's atmosphere acts like both a prism and a lens. Different atmospheric layers create altitude-variable refraction that takes light from the top of the Sun and disperses its colors, creates two images, and magnifies it in just the right way to make a thin sliver appear green just before it disappears. Pictured, though, is an even more unusual sunset. From the high-altitude Cerro Tololo Inter-American Observatory in Chile one day last April, the Sun was captured setting beyond an atmosphere with multiple distinct thermal layers, creating several  mock images of the Sun.  This time and from this location, many of those layers produced a green flash simultaneously. Just seconds after this multiple-green-flash event was caught by two well-surprised astrophotographers, the Sun set below the clouds.</p>
+        <strong><em>T. SlovinskýP. HorálekIoP OpavaCTIONOIRLabNSFAURA</em></strong>
     </div>
 </div>
 
