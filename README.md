@@ -57,13 +57,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2304/GalCenRadioArc_MeerKat_1080.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2304/GalCenRadioArc_MeerKat_1080.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2304/OlympusMons_MarsExpress_960.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2304/OlympusMons_MarsExpress_960.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>The Galactic Center Radio Arc</h4>
-        <time>2023-04-03</time>
-        <p>What causes this unusual curving structure near the center of our Galaxy? The long parallel rays slanting across the top of the featured radio image are known collectively as the Galactic Center Radio Arc and point out from the Galactic plane.  The Radio Arc is connected to the Galactic Center by strange curving filaments known as the Arches.  The bright radio structure at the bottom right surrounds a black hole at the Galactic Center and is known as Sagittarius A*.  One origin hypothesis holds that the Radio Arc and the Arches have their geometry because they contain hot plasma flowing along lines of a constant magnetic field.  Images from NASA's Chandra X-ray Observatory appear to show this plasma colliding with a nearby cloud of cold gas.</p>
+        <h4>Olympus Mons: Largest Volcano in the Solar System</h4>
+        <time>2023-04-04</time>
+        <p>The largest volcano in our Solar System is on Mars.  Although three times higher than Earth's Mount Everest, Olympus Mons will not be difficult for humans to climb because of the volcano's shallow slopes and Mars' low gravity.  Covering an area greater than the entire Hawaiian volcano chain, the slopes of Olympus Mons typically rise only a few degrees at a time.  Olympus Mons is an immense shield volcano, built long ago by fluid lava.  A relatively static surface crust allowed it to build up over time. Its last eruption is thought to have been about 25 million years ago.  The featured image was taken by the European Space Agency's robotic Mars Express spacecraft currently orbiting the  Red Planet.    Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)</p>
         <strong><em></em></strong>
     </div>
 </div>
