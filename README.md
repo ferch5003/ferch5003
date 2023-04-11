@@ -57,14 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2304/ChickenRun_Stern_960.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2304/ChickenRun_Stern_960.jpg" width="400" height="500" alt="Daniel Stern">
+    <a href="https://apod.nasa.gov/apod/image/2304/PolarisIfn_Zayaz_960.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2304/PolarisIfn_Zayaz_960.jpg" width="400" height="500" alt="Javier Zayaz">
     </a>
     <div>
-        <h4>IC 2944: The Running Chicken Nebula</h4>
-        <time>2023-04-10</time>
-        <p>To some, it looks like a giant chicken running across the sky. To others, it looks like a gaseous nebula where star formation takes place. Cataloged as IC 2944, the Running Chicken Nebula spans about 100 light years and lies about 6,000 light years away toward the constellation of the Centaur (Centaurus).  The featured image, shown in scientifically assigned colors, was captured recently in a 16-hour exposure over three nights. The star cluster Collinder 249 is visible embedded in the nebula's glowing gas.  Although difficult to discern here, several dark molecular clouds with distinct shapes can be found inside the nebula.</p>
-        <strong><em>Daniel Stern</em></strong>
+        <h4>North Star: Polaris and Surrounding Dust</h4>
+        <time>2023-04-11</time>
+        <p>Why is Polaris called the North Star? First, Polaris is the nearest bright star toward the north spin axis of the Earth.  Therefore, as the Earth turns, stars appear to revolve around Polaris, but Polaris itself always stays in the same northerly direction -- making it the North Star.  Since no bright star is near the south spin axis of the Earth, there is currently no bright South Star.  Thousands of years ago, Earth's spin axis pointed in a slightly different direction so that Vega was the North Star.  Although Polaris is not the brightest star on the sky, it is easily located because it is nearly aligned with two stars in the cup of the Big Dipper. Polaris is near the center of the eight-degree wide featured image, a digital composite of hundreds of exposures that brings out faint gas and dust of the Integrated Flux Nebula (IFN) all over the frame as well as the globular star cluster NGC 188 on the far left.  The surface of Cepheid Polaris slowly pulsates, causing the famous star to change its brightness by a few percent over the course of a few days.    Explore Your Universe: Random APOD Generator</p>
+        <strong><em>Javier Zayaz</em></strong>
     </div>
 </div>
 
