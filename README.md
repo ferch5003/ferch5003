@@ -57,14 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2304/PSX_20230420_140324h1024.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2304/PSX_20230420_140324h1024.jpg" width="400" height="500" alt="Gwenaël Blanck">
+    <a href="https://apod.nasa.gov/apod/image/2304/NGC1333HST33rd_800.png">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2304/NGC1333HST33rd_800.png" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Solar Eclipse from Western Australia</h4>
-        <time>2023-04-21</time>
-        <p>Along a narrow path that mostly avoided landfall, the shadow of the New Moon raced across planet Earth's southern hemisphere on April 20 to create a rare annular-total or hybrid solar eclipse. A mere 62 seconds of totality could be seen though, when the dark central lunar shadow just grazed the North West Cape, a peninsula in western Australia. From top to bottom these panels capture the beginning, middle, and end of that fleeting total eclipse phase. At start and finish, solar prominences and beads of sunlight stream past the lunar limb. At mid-eclipse the central frame reveals the sight only easily visible during totality and most treasured by eclipse chasers, the magnificent corona of the active Sun. Of course eclipses tend to come in pairs. On May 5, the next Full Moon will just miss the dark inner part of Earth's shadow in a penumbral lunar eclipse.</p>
-        <strong><em>Gwenaël Blanck</em></strong>
+        <h4>NGC 1333: Stellar Nursery in Perseus</h4>
+        <time>2023-04-22</time>
+        <p>In visible light NGC 1333 is seen as a reflection nebula, dominated by bluish hues characteristic of starlight reflected by interstellar dust. A mere 1,000 light-years distant toward the heroic constellation Perseus, it lies at the edge of a large, star-forming molecular cloud. This Hubble Space Telescope close-up frames a region just over 1 light-year wide at the estimated distance of NGC 1333. It shows details of the dusty region along with telltale hints of contrasty red emission from Herbig-Haro objects, jets and shocked glowing gas emanating from recently formed stars. In fact, NGC 1333 contains hundreds of stars less than a million years old, most still hidden from optical telescopes by the pervasive stardust. The chaotic environment may be similar to one in which our own Sun formed over 4.5 billion years ago. Hubble's stunning image of the stellar nursery was released to celebrate the 33rd anniversary of the space telescope's launch.  Watch: Planet Earth's annual Lyrid Meteor Shower</p>
+        <strong><em></em></strong>
     </div>
 </div>
 
