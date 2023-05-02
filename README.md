@@ -57,14 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2305/CarNorth_Taylor_960.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2305/CarNorth_Taylor_960.jpg" width="400" height="500" alt="Carlos Taylor">
+    <a href="https://apod.nasa.gov/apod/image/2305/FlatMars_CuriosityThompson_1080.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2305/FlatMars_CuriosityThompson_1080.jpg" width="400" height="500" alt="NASAJPL-CaltechMSSSNeville Thompson">
     </a>
     <div>
-        <h4>Carina Nebula North</h4>
-        <time>2023-05-01</time>
-        <p>The Great Carina Nebula is home to strange stars and iconic nebulas. Named for its home constellation, the huge star-forming region is larger and brighter than the Great Orion Nebula but less well known because it is so far south -- and because so much of humanity lives so far north.  The featured image shows in great detail the northernmost part of the Carina Nebula. On the bottom left is the Gabriela Mistral Nebula consisting of an emission nebula of glowing gas (IC 2599) surrounding the small open cluster of stars (NGC 3324). Above the image center is the larger star cluster NGC 3293, while to its right is the emission nebula Loden 153.  The most famous occupant of the Carina Nebula, however, is not shown. Off the image to the lower right is the bright, erratic, and doomed star known as Eta Carinae -- a star once one of the brightest stars in the sky and now predicted to explode in a supernova sometime in the next few million years.</p>
-        <strong><em>Carlos Taylor</em></strong>
+        <h4>Flat Rock Hills on Mars</h4>
+        <time>2023-05-02</time>
+        <p>Why are there so many flat rocks on Mars? Some views of plains and hills on Mars show many rocks that are unusually flat when compared to rocks on Earth. One reason for this is a process that is common to both Mars and Earth: erosion. The carbon-dioxide wind on Mars can act like sandpaper when it blows around gritty Martian sand. This sand can create differential erosion, smoothing over some rocks, while wearing down the tops of other long-exposed stones.  The featured image capturing several hills covered with flat-topped rocks was taken last month by NASA's  Curiosity Rover on Mars. This robotic rover has now been rolling across Mars for ten years and has helped uncover many details of the wet and windy past of Earth's planetary neighbor.  After taking this and other images, Curiosity carefully navigated stones and slippery sand to climb up Marker Band Valley.</p>
+        <strong><em>NASAJPL-CaltechMSSSNeville Thompson</em></strong>
     </div>
 </div>
 
