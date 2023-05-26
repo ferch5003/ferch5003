@@ -57,14 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2305/NGC6543_wide1024.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2305/NGC6543_wide1024.jpg" width="400" height="500" alt="Jean-François Bax">
+    <a href="https://apod.nasa.gov/apod/image/2305/virgoCL1024.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2305/virgoCL1024.jpg" width="400" height="500" alt="Abdullah Alharbi">
     </a>
     <div>
-        <h4>Cat's Eye Wide and Deep</h4>
-        <time>2023-05-25</time>
-        <p>The Cat's Eye Nebula (NGC 6543) is one of the best known planetary nebulae in the sky. Its more familiar outlines are seen in the brighter central region of the nebula in this impressive wide-angle view. But this wide and deep image combining data from two telescopes also reveals its extremely faint outer halo. At an estimated distance of 3,000 light-years, the faint outer halo is over 5 light-years across. Planetary nebulae have long been appreciated as a final phase in the life of a sun-like star. More recently, some planetary nebulae are found to have halos like this one, likely formed of material shrugged off during earlier episodes in the star's evolution. While the planetary nebula phase is thought to last for around 10,000 years, astronomers estimate the age of the outer filamentary portions of this halo to be 50,000 to 90,000 years. Visible on the right, some 50 million light-years beyond the watchful planetary nebula, lies spiral galaxy NGC 6552.</p>
-        <strong><em>Jean-François Bax</em></strong>
+        <h4>Virgo Cluster Galaxies</h4>
+        <time>2023-05-26</time>
+        <p>Galaxies of the Virgo Cluster are scattered across this nearly 4 degree wide telescopic field of view. About 50 million light-years distant, the Virgo Cluster is the closest large galaxy cluster to our own local galaxy group. Prominent here are Virgo's bright elliptical galaxies Messier catalog, M87 at bottom center, and M84 and M86 (top to bottom) near top left. M84 and M86 are recognized as part of Markarian's Chain, a visually striking line-up of galaxies on the left side of this frame. Near the middle of the chain lies an intriguing interacting pair of galaxies, NGC 4438 and NGC 4435, known to some as Markarian's Eyes. Of course giant elliptical galaxy M87 dominates the Virgo cluster. It's the home of a super massive black hole, the first black hole ever imaged by planet Earth's Event Horizon Telescope.</p>
+        <strong><em>Abdullah Alharbi</em></strong>
     </div>
 </div>
 
