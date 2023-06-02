@@ -57,13 +57,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://www.youtube.com/embed/X4UF9Akman0?rel=0">
-      <img align="left" src="https://www.youtube.com/embed/X4UF9Akman0?rel=0" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2306/M101_hst1280.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2306/M101_hst1280.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Simulation: A Disk Galaxy Forms</h4>
-        <time>2023-05-31</time>
-        <p>How did we get here? We know that we live on a planet orbiting a star orbiting a galaxy, but how did all of this form? Since our universe moves too slowly to watch, faster-moving computer simulations are created to help find out. Specifically, this featured video from the IllustrisTNG collaboration tracks gas from the early universe (redshift 12) until today (redshift 0). As the simulation begins, ambient gas falls into and accumulates in a region of relatively high gravity.  After a few billion years, a well-defined center materializes from a strange and fascinating cosmic dance. Gas blobs -- some representing small satellite galaxies -- continue to fall into and become absorbed by the rotating galaxy as the present epoch is reached and the video ends.  For the Milky Way Galaxy, however, big mergers may not be over -- recent evidence indicates that our large spiral disk Galaxy will collide and coalesce with the slightly larger Andromeda spiral disk galaxy in the next few billion years.    Open Science: Browse 3,000+ codes in the Astrophysics Source Code Library</p>
+        <h4>Messier 101</h4>
+        <time>2023-06-02</time>
+        <p>Big, beautiful spiral galaxy M101 is one of the last entries in Charles Messier's famous catalog, but definitely not one of the least. About 170,000 light-years across, this galaxy is enormous, almost twice the size of our own Milky Way. M101 was also one of the original spiral nebulae observed by Lord Rosse's large 19th century telescope, the Leviathan of Parsontown. Assembled from 51 exposures recorded by the Hubble Space Telescope in the 20th and 21st centuries, with additional data from ground based telescopes, this mosaic spans about 40,000 light-years across the central region of M101 in one of the highest definition spiral galaxy portraits ever released from Hubble. The sharp image shows stunning features of the galaxy's face-on disk of stars and dust along with background galaxies, some visible right through M101 itself. Also known as the Pinwheel Galaxy, M101 lies within the boundaries of the northern constellation Ursa Major, about 25 million light-years away.</p>
         <strong><em></em></strong>
     </div>
 </div>
