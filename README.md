@@ -57,13 +57,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2306/charon_then_now_1024.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2306/charon_then_now_1024.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2306/BeyondEarth_Unknown_960.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2306/BeyondEarth_Unknown_960.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Charon: Moon of Pluto</h4>
-        <time>2023-06-03</time>
-        <p>A darkened and mysterious north polar region known to some as Mordor Macula caps this premier high-resolution view. The portrait of Charon, Pluto's largest moon, was captured by New Horizons near the spacecraft's closest approach on July 14, 2015. The combined blue, red, and infrared data was processed to enhance colors and follow variations in Charon's surface properties with a resolution of about 2.9 kilometers (1.8 miles). A stunning image of Charon's Pluto-facing hemisphere, it also features a clear view of an apparently moon-girdling belt of fractures and canyons that seems to separate smooth southern plains from varied northern terrain. Charon is 1,214 kilometers (754 miles) across. That's about 1/10th the size of planet Earth but a whopping 1/2 the diameter of Pluto itself, and makes it the largest satellite relative to its parent body in the Solar System. Still, the moon appears as a small bump at about the 1 o'clock position on Pluto's disk in the grainy, negative,telescopic picture inset at upper left. That view was used by James Christy and Robert Harrington at the U.S. Naval Observatory in Flagstaff to discover Charon in June of 1978.</p>
+        <h4>Color the Universe</h4>
+        <time>2023-06-04</time>
+        <p>Wouldn't it be fun to color in the universe?  If you think so, please accept this famous astronomical illustration as a preliminary substitute.  You, your friends, your parents or children, can print it out or even color it digitally.  While coloring, you might be interested to know that even though this illustration has appeared in numerous places over the past 100 years, the actual artist remains unknown.  Furthermore, the work has no accepted name -- can you think of a good one?  The illustration, first appearing in a book by Camille Flammarion in 1888, is frequently used to show that humanity's present concepts are susceptible to being supplanted by greater truths.</p>
         <strong><em></em></strong>
     </div>
 </div>
