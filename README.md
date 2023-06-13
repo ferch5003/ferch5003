@@ -57,13 +57,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2306/BeyondEarth_Unknown_960.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2306/BeyondEarth_Unknown_960.jpg" width="400" height="500" alt="">
+    <a href="https://www.youtube.com/embed/YEXuGgRCyS0?rel=0">
+      <img align="left" src="https://www.youtube.com/embed/YEXuGgRCyS0?rel=0" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Color the Universe</h4>
-        <time>2023-06-04</time>
-        <p>Wouldn't it be fun to color in the universe?  If you think so, please accept this famous astronomical illustration as a preliminary substitute.  You, your friends, your parents or children, can print it out or even color it digitally.  While coloring, you might be interested to know that even though this illustration has appeared in numerous places over the past 100 years, the actual artist remains unknown.  Furthermore, the work has no accepted name -- can you think of a good one?  The illustration, first appearing in a book by Camille Flammarion in 1888, is frequently used to show that humanity's present concepts are susceptible to being supplanted by greater truths.</p>
+        <h4>Moons Across Jupiter</h4>
+        <time>2023-06-13</time>
+        <p>Jupiter's moons circle Jupiter. The featured video depicts Europa and Io, two of Jupiter's largest moons, crossing in front of the grand planet's Great Red Spot, the largest known storm system in our Solar System. The video was composed from images taken by the robotic Cassini spacecraft as it passed Jupiter in 2000, on its way to Saturn. The two moons visible are volcanic Io, in the distance, and icy Europa.  In the time-lapse video, Europa appears to overtake Io, which is odd because Io is closer to Jupiter and moves faster. The explanation is that the motion of the fast Cassini spacecraft changes the camera location significantly during imaging.  Jupiter is currently being visited by NASA's robotic Juno spacecraft, while ESA's Jupiter Icy Moons Explorer (JUICE), launched in April, is enroute.</p>
         <strong><em></em></strong>
     </div>
 </div>
