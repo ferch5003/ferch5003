@@ -57,14 +57,18 @@
 ### Do you know...
 
 <div>
-    <a href="https://www.youtube.com/embed/YEXuGgRCyS0?rel=0">
-      <img align="left" src="https://www.youtube.com/embed/YEXuGgRCyS0?rel=0" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2306/Shark_Kennedy_960.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2306/Shark_Kennedy_960.jpg" width="400" height="500" alt="
+Stephen Kennedy
+">
     </a>
     <div>
-        <h4>Moons Across Jupiter</h4>
-        <time>2023-06-13</time>
-        <p>Jupiter's moons circle Jupiter. The featured video depicts Europa and Io, two of Jupiter's largest moons, crossing in front of the grand planet's Great Red Spot, the largest known storm system in our Solar System. The video was composed from images taken by the robotic Cassini spacecraft as it passed Jupiter in 2000, on its way to Saturn. The two moons visible are volcanic Io, in the distance, and icy Europa.  In the time-lapse video, Europa appears to overtake Io, which is odd because Io is closer to Jupiter and moves faster. The explanation is that the motion of the fast Cassini spacecraft changes the camera location significantly during imaging.  Jupiter is currently being visited by NASA's robotic Juno spacecraft, while ESA's Jupiter Icy Moons Explorer (JUICE), launched in April, is enroute.</p>
-        <strong><em></em></strong>
+        <h4>The Shark Nebula</h4>
+        <time>2023-06-14</time>
+        <p>There is no sea on Earth large enough to contain the Shark nebula. This predator apparition poses us no danger as it is composed only of interstellar gas and dust. Dark dust like that featured here is somewhat like cigarette smoke and created in the cool atmospheres of giant stars. After being expelled with gas and gravitationally recondensing, massive stars may carve intricate structures into their birth cloud using their high energy light and fast stellar winds as sculpting tools.  The heat they generate evaporates the murky molecular cloud as well as causing ambient hydrogen gas to disperse and glow red.  During disintegration, we humans can enjoy imagining these great clouds as common icons, like we do for water clouds on Earth. Including smaller dust nebulae such as Lynds Dark Nebula 1235 and Van den Bergh 149 & 150, the Shark nebula spans about 15 light years and lies about 650 light years away toward the constellation of the King of Aethiopia (Cepheus).</p>
+        <strong><em>
+Stephen Kennedy
+</em></strong>
     </div>
 </div>
 
