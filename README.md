@@ -57,26 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2306/NorthSaturn_Cassini_960.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2306/NorthSaturn_Cassini_960.jpg" width="400" height="500" alt="
-NASA,
-ESA,
-JPL,
-SSI,
-Cassini Imaging Team
-">
+    <a href="https://apod.nasa.gov/apod/image/2306/LagoonCenter_HubblePobes_960.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2306/LagoonCenter_HubblePobes_960.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Saturn's Northern Hexagon</h4>
-        <time>2023-06-18</time>
-        <p>Why would clouds form a hexagon on Saturn? Nobody is sure.   Originally discovered during the Voyager flybys of Saturn in the 1980s, nobody has ever seen anything like it anywhere else in the Solar System.  Acquiring its first sunlit views of far northern Saturn in late 2012, the Cassini spacecraft's wide-angle camera recorded this stunning, false-color image of the ringed planet's north pole. The composite of near-infrared image data results in red hues for low clouds and green for high ones, giving the Saturnian cloudscape a vivid appearance. This and similar images show the stability of the hexagon even 20+ years after Voyager.  Movies of Saturn's North Pole show the cloud structure maintaining its hexagonal structure while rotating.  Unlike individual clouds appearing like a hexagon on Earth, the Saturn cloud pattern appears to have six well defined sides of nearly equal length. Four Earths could fit inside the hexagon. Beyond the cloud tops at the upper right, arcs of the planet's eye-catching rings are tinted bright blue.</p>
-        <strong><em>
-NASA,
-ESA,
-JPL,
-SSI,
-Cassini Imaging Team
-</em></strong>
+        <h4>The Busy Center of the Lagoon Nebula</h4>
+        <time>2023-06-19</time>
+        <p>The center of the Lagoon Nebula is a whirlwind of spectacular star formation. Visible near the image center, at least two long funnel-shaped clouds, each roughly half a light-year long, have been formed by extreme stellar winds and intense energetic starlight.  A tremendously bright nearby star, Herschel 36, lights the area.  Vast walls of dust hide and redden other hot young stars.  As energy from these stars pours into the cool dust and gas, large temperature differences in adjoining regions can be created generating shearing winds which may cause the funnels.  This picture, spanning about 15 light years, combines images taken in four colors by the orbiting Hubble Space Telescope.  The Lagoon Nebula, also known as M8, lies about 5000 light years distant toward the constellation of the Archer (Sagittarius).</p>
+        <strong><em></em></strong>
     </div>
 </div>
 
