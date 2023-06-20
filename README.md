@@ -57,14 +57,20 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2306/LagoonCenter_HubblePobes_960.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2306/LagoonCenter_HubblePobes_960.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2306/NanduMilkyWay_Bouvier_1080.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2306/NanduMilkyWay_Bouvier_1080.jpg" width="400" height="500" alt="
+Fefo Bouvier;
+Line Drawing: Alfonso Rosso
+">
     </a>
     <div>
-        <h4>The Busy Center of the Lagoon Nebula</h4>
-        <time>2023-06-19</time>
-        <p>The center of the Lagoon Nebula is a whirlwind of spectacular star formation. Visible near the image center, at least two long funnel-shaped clouds, each roughly half a light-year long, have been formed by extreme stellar winds and intense energetic starlight.  A tremendously bright nearby star, Herschel 36, lights the area.  Vast walls of dust hide and redden other hot young stars.  As energy from these stars pours into the cool dust and gas, large temperature differences in adjoining regions can be created generating shearing winds which may cause the funnels.  This picture, spanning about 15 light years, combines images taken in four colors by the orbiting Hubble Space Telescope.  The Lagoon Nebula, also known as M8, lies about 5000 light years distant toward the constellation of the Archer (Sagittarius).</p>
-        <strong><em></em></strong>
+        <h4>The Ñandú in the Milky Way</h4>
+        <time>2023-06-20</time>
+        <p>Have you seen the bird in the Milky Way? Beyond the man in the Moon, the night sky is filled with stories, and cultures throughout history have projected some of their most enduring legends onto the stars and dust above.  Generations of people see these celestial icons, hear their associated stories, and pass them down. Pictured here is not only a segment of the central band of our Milky Way galaxy, but, according to folklore of several native peoples of Uruguay, the outline of a great bird called Ñandú. Furthermore, Ñandú's footprint is associated with the Southern Cross asterism. In the foreground, in silhouette, is a statue of María Micaela Guyunusa, an indigenous woman of the Charrúa people who lived in the 1800s and endures as a symbol of colonial resistance.  The composite image was taken in mid-April in Cabo Polonio, Uruguay, with the Atlantic Ocean in the background.</p>
+        <strong><em>
+Fefo Bouvier;
+Line Drawing: Alfonso Rosso
+</em></strong>
     </div>
 </div>
 
