@@ -57,19 +57,17 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2306/NanduMilkyWay_Bouvier_1080.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2306/NanduMilkyWay_Bouvier_1080.jpg" width="400" height="500" alt="
-Fefo Bouvier;
-Line Drawing: Alfonso Rosso
+    <a href="https://apod.nasa.gov/apod/image/2306/SunPath_Pace_960_annotated.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2306/SunPath_Pace_960_annotated.jpg" width="400" height="500" alt="
+Marcella Giulia Pace & Giuseppe De Donà 
 ">
     </a>
     <div>
-        <h4>The Ñandú in the Milky Way</h4>
-        <time>2023-06-20</time>
-        <p>Have you seen the bird in the Milky Way? Beyond the man in the Moon, the night sky is filled with stories, and cultures throughout history have projected some of their most enduring legends onto the stars and dust above.  Generations of people see these celestial icons, hear their associated stories, and pass them down. Pictured here is not only a segment of the central band of our Milky Way galaxy, but, according to folklore of several native peoples of Uruguay, the outline of a great bird called Ñandú. Furthermore, Ñandú's footprint is associated with the Southern Cross asterism. In the foreground, in silhouette, is a statue of María Micaela Guyunusa, an indigenous woman of the Charrúa people who lived in the 1800s and endures as a symbol of colonial resistance.  The composite image was taken in mid-April in Cabo Polonio, Uruguay, with the Atlantic Ocean in the background.</p>
+        <h4>Three Sun Paths</h4>
+        <time>2023-06-21</time>
+        <p>Does the Sun follow the same path every day? No.  The Sun's path changes during the year, tracing a longer route during the summer than the winter. Pictured here, the Sun's arc was captured from noon to sunset on three days,  from highest in the sky to lowest: summer solstice, equinox, and winter solstice.  The images were taken near Gatto Corvino Village in Sicily, Italy in 2020 and 2021. The path and time the Sun spends in the sky is more important in determining the season than how close the Earth is to the Sun.  In fact, the Earth is closest to the Sun in January, during northern winter.  Today is a solstice, so today the Sun is taking its longest path of the year across the sky in Earth's  northern hemisphere, but the shortest path in the southern hemisphere.</p>
         <strong><em>
-Fefo Bouvier;
-Line Drawing: Alfonso Rosso
+Marcella Giulia Pace & Giuseppe De Donà 
 </em></strong>
     </div>
 </div>
