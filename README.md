@@ -57,14 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2306/corona_aus1024.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2306/corona_aus1024.jpg" width="400" height="500" alt="Alessandro Cipolat Bares">
+    <a href="https://apod.nasa.gov/apod/image/2306/PIA24547_fig1_1024.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2306/PIA24547_fig1_1024.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Stars and Dust across Corona Australis</h4>
-        <time>2023-06-22</time>
-        <p>Cosmic dust clouds cross a rich field of stars in this telescopic vista near the northern boundary of Corona Australis, the Southern Crown. Part of a sprawling molecular cloud complex this star forming region is a mere 500 light-years away. That's about one third the distance of the more famous stellar nursery known as the Orion Nebula. The 2 degree wide frame would span 15 light-years at the clouds' estimated distance. Mixed with bright nebulosities the dust clouds effectively block light from more distant background stars in the Milky Way and obscure from view embedded stars still in the process of formation. Large dark nebula Bernes 157 is on the left. To its right are a group of pretty reflection nebulae cataloged as NGC 6726, 6727, 6729, and IC 4812. Their characteristic blue color is produced as light from hot stars is reflected by the cosmic dust. The more compact NGC 6729 surrounds young variable star R Coronae Australis. Just below it, filamentary arcs and loops are identified as Herbig Haro objects associated with energetic newborn stars. In fact, at the heart of this area lies the Coronet Cluster, one of the nearest and most active star forming regions.</p>
-        <strong><em>Alessandro Cipolat Bares</em></strong>
+        <h4>3D Ingenuity</h4>
+        <time>2023-06-24</time>
+        <p>The multicolor, stereo imaging Mastcam-Z on the Perseverance rover zoomed in to capture this 3D close-up (get out your red/blue glasses) of the Mars Ingenuity helicopter on mission sol 45. That's Earth-date 2021 April 5. Casting a shadow on the Martian surface, Ingenuity is standing alone on its four landing legs next to the rover's wheel tracks. The experimental helicopter's solar panel, charging batteries that keep it warm through the cold Martian nights and power its flight, sits just above Ingenuity's two 1.2 meter (4 foot) long counter-rotating blades. Thirteen sols later, on April 19, Ingenuity became the first aircraft to perform powered, controlled flight on another planet. It has since gone on to complete more than 50 flights through the thin atmosphere of Mars.</p>
+        <strong><em></em></strong>
     </div>
 </div>
 
