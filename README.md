@@ -57,17 +57,33 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2307/WaterfallAurora_Letelier_960.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2307/WaterfallAurora_Letelier_960.jpg" width="400" height="500" alt="
-Cari Letelier
+    <a href="https://apod.nasa.gov/apod/image/2307/MapObsUni_SDSS_960.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2307/MapObsUni_SDSS_960.jpg" width="400" height="500" alt="
+B. Ménard & 
+N. Shtarkman;
+Data:  
+SDSS, 
+Planck, 
+JHU, 
+Sloan, 
+NASA, 
+ESA
 ">
     </a>
     <div>
-        <h4>Aurora over Icelandic Waterfall</h4>
-        <time>2023-07-04</time>
-        <p>It seemed like the sky exploded. The original idea was to photograph an aurora over a waterfall. After waiting for hours under opaque clouds, though, hope was running out. Others left. Then, unexpectedly, the clouds moved away. Suddenly, particles from a large solar magnetic storm were visible impacting the Earth's upper atmosphere with full effect. The night sky filled with colors and motion in a thrilling auroral display.  Struggling to steady the camera from high Earthly winds, the 34 exposures that compose the featured image were taken.  The resulting featured composite image shows the photogenic Godafoss (Goðafoss) waterfall in northern Iceland in front of a very active aurora in late February. The solar surface explosion that expelled the energetic particles occurred a few days before.  Our Sun is showing an impressive amount of surface activity as it approaches solar maximum, indicating that more impressive auroras are likely to appear in Earth's northern and southern sky over the next few years.</p>
+        <h4>A Map of the Observable Universe</h4>
+        <time>2023-07-05</time>
+        <p>What if you could see out to the edge of the observable universe? You would see galaxies, galaxies, galaxies, and then, well, quasars, which are the bright centers of distant galaxies.  To expand understanding of the very largest scales that humanity can see, a map of the galaxies and quasars found by the Sloan Digital Sky Survey from 2000 to 2020 -- out to near the edge of the observable universe -- has been composed. Featured here, one wedge from this survey encompasses about 200,000 galaxies and quasars out beyond a look-back time of 12 billion years and cosmological redshift 5.  Almost every dot in the nearby lower part of the illustration represents a galaxy, with redness indicating increasing redshift and distance. Similarly, almost every dot on the upper part represents a distant quasar, with blue-shaded dots being closer than red. Clearly shown among many discoveries, gravity between galaxies has caused the nearby universe to condense and become increasingly more filamentary than the distant universe.   More Detailed Maps: Related to Today's APOD</p>
         <strong><em>
-Cari Letelier
+B. Ménard & 
+N. Shtarkman;
+Data:  
+SDSS, 
+Planck, 
+JHU, 
+Sloan, 
+NASA, 
+ESA
 </em></strong>
     </div>
 </div>
