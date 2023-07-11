@@ -57,20 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2307/NGC6559_Block_960.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2307/NGC6559_Block_960.jpg" width="400" height="500" alt="
-Adam Block,
-Telescope Live
-">
+    <a href="https://apod.nasa.gov/apod/image/2307/SpottedSun_Sanli_960.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2307/SpottedSun_Sanli_960.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Stars, Dust and Nebula in NGC 6559</h4>
-        <time>2023-07-10</time>
-        <p>When stars form, pandemonium reigns.  A textbook case is the star forming region NGC 6559.  Visible in the featured image are red glowing emission nebulas of hydrogen, blue reflection nebulas of dust, dark absorption nebulas of dust, and the stars that formed from them.  The first massive stars formed from the dense gas will emit energetic light and winds that erode, fragment, and sculpt their birthplace.  And then they explode. The resulting morass can be as beautiful as it is complex.  After tens of millions of years, the dust boils away, the gas gets swept away, and all that is left is a bare open cluster of stars.</p>
-        <strong><em>
-Adam Block,
-Telescope Live
-</em></strong>
+        <h4>Sunspots on an Active Sun</h4>
+        <time>2023-07-11</time>
+        <p>Why is our Sun so active now? No one is sure.  An increase in surface activity was expected because our Sun is approaching solar maximum in 2025. However, last month our Sun sprouted more sunspots than in any month during the entire previous 11-year solar cycle -- and even dating back to 2002. The featured picture is a composite of images taken every day from January to June by NASA's Solar Dynamic Observatory.  Showing a high abundance of sunspots, large individual spots can be tracked across the Sun's disk, left to right, over about two weeks.  As a solar cycle continues, sunspots typically appear closer to the equator.  Sunspots are just one way that our Sun displays surface activity -- another is flares and coronal mass ejections (CMEs) that expel particles out into the Solar System. Since these particles can affect astronauts and electronics, tracking surface disturbances is of more than aesthetic value.  Conversely, solar activity can have very high aesthetic value -- in the Earth's atmosphere when they trigger aurora.</p>
+        <strong><em></em></strong>
     </div>
 </div>
 
