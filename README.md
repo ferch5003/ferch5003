@@ -57,14 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2307/STScI-01_RhoOph1024.png">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2307/STScI-01_RhoOph1024.png" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2307/C_2023_E1_ATLAS_C14F2_DEBartlett1024.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2307/C_2023_E1_ATLAS_C14F2_DEBartlett1024.jpg" width="400" height="500" alt="Dan Bartlett">
     </a>
     <div>
-        <h4>Webb's Rho Ophiuchi</h4>
-        <time>2023-07-13</time>
-        <p>A mere 390 light-years away, Sun-like stars and future planetary systems are forming in the Rho Ophiuchi molecular cloud complex, the closest star-forming region to our fair planet. The James Webb Space Telescope's NIRCam peered into the nearby natal chaos to capture this infrared image at an inspiring scale. The spectacular cosmic snapshot was released to celebrate the successful first year of Webb's exploration of the Universe. The frame spans less than a light-year across the Rho Ophiuchi region and contains about 50 young stars. Brighter stars clearly sport Webb's characteristic pattern of diffraction spikes. Huge jets of shocked molecular hydrogen blasting from newborn stars are red in the image, with the large, yellowish dusty cavity carved out by the energetic young star near its center. Near some stars in the stunning image are shadows cast by their protoplanetary disks.</p>
-        <strong><em></em></strong>
+        <h4>Comet C/2023 E1 ATLAS near Perihelion</h4>
+        <time>2023-07-14</time>
+        <p>Comet C/2023 E1 (ATLAS) was just spotted in March, another comet found by the NASA funded Asteroid Terrestrial-impact Last Alert System.  On July 1 this Comet ATLAS reached perihelion, its closest approach to the Sun. Shortly afterwards the telescopic comet was captured in this frame sporting a pretty greenish coma and faint, narrow ion tail against a background of stars in the far northern constellation Ursa Minor.  This comet's closest approach to Earth is still to come though. On August 18 this visitor to the inner Solar System will be a mere 3 light-minutes or so from our fair planet. Based on its inclination to the ecliptic plane and orbital period of about 85 years C/2023 E1 (ATLAS) is considered a Halley-type comet.</p>
+        <strong><em>Dan Bartlett</em></strong>
     </div>
 </div>
 
