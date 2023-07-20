@@ -57,18 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2307/MwLaPalma_Rosadzinski_960.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2307/MwLaPalma_Rosadzinski_960.jpg" width="400" height="500" alt="
-Marcin Rosadziński
-">
+    <a href="https://apod.nasa.gov/apod/image/2307/M64Hubble1024.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2307/M64Hubble1024.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Milky Way above La Palma Observatory</h4>
-        <time>2023-07-18</time>
-        <p>What's happening in the night sky? To help find out, telescopes all over the globe will be pointing into deep space.  Investigations will include trying to understand the early universe, finding and tracking Earth-menacing asteroids, searching for planets that might contain extra-terrestrial life, and monitoring stars to help better understand our Sun. The featured composite includes foreground and background images taken in April from a mountaintop on La Palma island in the Canary Islands of Spain.  Pictured, several telescopes from the Roque de los Muchachos Observatory are shown in front of a dark night sky. Telescopes in the foreground include, left to right, Magic 1, Galileo, Magic 2, Gran Canarian, and LST. Sky highlights in the background include the central band of our Milky Way Galaxy, the constellations of Sagittarius, Ophiuchus and Scorpius, the red-glowing Eagle and Lagoon Nebulas, and the stars Alrami and Antares.  Due to observatories like this, humanity has understood more about our night sky in the past 100 years than ever before in all of human history.</p>
-        <strong><em>
-Marcin Rosadziński
-</em></strong>
+        <h4>M64: The Black Eye Galaxy Close Up</h4>
+        <time>2023-07-20</time>
+        <p>This magnificent spiral galaxy is Messier 64, often called the Black Eye Galaxy or the Sleeping Beauty Galaxy for its dark-lidded appearance in telescopic views. The spiral's central region, about 7,400 light-years across, is pictured in this reprocessed image from the Hubble Space Telescope. M64 lies some 17 million light-years distant in the otherwise well-groomed northern constellation Coma Berenices. The enormous dust clouds partially obscuring M64's central region are laced with young, blue star clusters and the reddish glow of hydrogen associated with star forming regions.  But imposing clouds of dust are not this galaxy's only peculiar feature. Observations show that M64 is actually composed of two concentric, counter-rotating systems. While all the stars in M64 rotate in the same direction as the interstellar gas in the galaxy's central region, gas in the outer regions, extending to about 40,000 light-years, rotates in the opposite direction. The dusty eye and bizarre rotation are likely the result of a billion year old merger of two different galaxies.</p>
+        <strong><em></em></strong>
     </div>
 </div>
 
