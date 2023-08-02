@@ -57,20 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2308/SunMonster_Wenz_960.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2308/SunMonster_Wenz_960.jpg" width="400" height="500" alt="
-Mike
-Wenz
-">
+    <a href="https://apod.nasa.gov/apod/image/2308/M82_HubblePathak_1080.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2308/M82_HubblePathak_1080.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Monster Solar Prominence</h4>
-        <time>2023-08-01</time>
-        <p>The monsters that live on the Sun are not like us. They are larger than the Earth and made of gas hotter than in any teapot. They have no eyes, but at times, many tentacles. They float.  Usually, they slowly change shape and just fade back onto the Sun over about a month. Sometimes, though, they suddenly explode and unleash energetic particles into the Solar System that can attack the Earth.  Pictured is a huge solar prominence imaged almost two weeks ago in the light of hydrogen. Captured by a small telescope in Gilbert, Arizona, USA, the monsteresque plume of gas was held aloft by the ever-present but ever-changing magnetic field near the surface of the Sun. Our active Sun continues to show an unusually high number of prominences, filaments, sunspots, and large active regions as solar maximum approaches in 2025.</p>
-        <strong><em>
-Mike
-Wenz
-</em></strong>
+        <h4>M82: Galaxy with a Supergalactic Wind</h4>
+        <time>2023-08-02</time>
+        <p>Why is the Cigar Galaxy billowing red smoke?  M82, as this starburst galaxy is also known, was stirred up by a recent pass near large spiral galaxy M81.  This doesn't fully explain the source of the red-glowing outwardly expanding gas and dust, however.  Evidence indicates that this gas and dust is being driven out by the combined emerging particle winds of many stars, together creating a galactic superwind.  The dust particles are thought to originate in M82's interstellar medium and are actually similar in size to particles in cigar smoke.  The featured photographic mosaic highlights a specific color of red light strongly emitted by ionized hydrogen gas, showing detailed filaments of this gas and dust.  The filaments extend for over 10,000 light years. The 12-million light-year distant Cigar Galaxy is the brightest galaxy in the sky in infrared light and can be seen in visible light with a small telescope towards the constellation of the Great Bear (Ursa Major).   APOD in world languages: Arabic, Bulgarian, Catalan, Chinese (Beijing), Chinese (Taiwan), Croatian, Czech, Dutch, French, German, Hebrew, Indonesian, Japanese, Montenegrin, Polish, Russian, Serbian, Slovenian,  Spanish, Taiwanese, Turkish, and  Ukrainian</p>
+        <strong><em></em></strong>
     </div>
 </div>
 
