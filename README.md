@@ -57,20 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2308/Perseids18_Horalek_960.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2308/Perseids18_Horalek_960.jpg" width="400" height="500" alt="
-Petr Horálek /
-Institute of Physics in Opava
-">
+    <a href="https://apod.nasa.gov/apod/image/2308/PIA25969_Ingenuity1024.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2308/PIA25969_Ingenuity1024.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Meteor Shower: Perseids from Perseus</h4>
-        <time>2023-08-09</time>
-        <p>This is a good week to see meteors.  Comet dust will rain down on planet Earth, streaking through dark skies during peak nights of the annual Perseid Meteor Shower.  The featured composite image was taken during the 2018 Perseids from the Poloniny Dark Sky Park in Slovakia.  The dome of the observatory in the foreground is on the grounds of Kolonica Observatory. Although the comet dust particles travel parallel to each other, the resulting shower meteors clearly seem to radiate from a single point on the sky in the eponymous constellation Perseus.  The radiant effect is due to perspective, as the parallel tracks appear to converge at a distance, like train tracks.  The Perseid Meteor Shower is expected to reach its highest peak on Saturday after midnight.  Since a crescent Moon will rise only very late that night, cloudless skies will be darker than usual, making a high number of faint meteors potentially visible this year.</p>
-        <strong><em>
-Petr Horálek /
-Institute of Physics in Opava
-</em></strong>
+        <h4>Five Meters over Mars</h4>
+        <time>2023-08-10</time>
+        <p>On mission sol 872 (Earth date August 3) Ingenuity snapped this sharp image on its 54th flight above the surface of the Red Planet. During the flight the Mars Helicopter hovered about 5 meters, or just over 16 feet, above the Jezero crater floor. Tips of Ingenuity's landing legs peek over the left and right edges in the camera's field of view. Tracks visible near the upper right corner lead to the Perseverance Mars Rover, seen looking on from a distance at the top right edge of the frame. Planned as a brief "pop-up" flight, Ingenuity's 54th flight lasted less than 25 seconds. It followed Ingenuity's 53rd flight made on July 22 that resulted in an unscheduled landing.</p>
+        <strong><em></em></strong>
     </div>
 </div>
 
