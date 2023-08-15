@@ -57,14 +57,22 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2308/M57_JwstKong_960.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2308/M57_JwstKong_960.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2308/TripleIceland_Zarzycka_1080.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2308/TripleIceland_Zarzycka_1080.jpg" width="400" height="500" alt="
+Wioleta Gorecka;
+Text: Natalia Lewandowska 
+(SUNY Oswego)
+">
     </a>
     <div>
-        <h4>The Ring Nebula from Webb</h4>
-        <time>2023-08-14</time>
-        <p>The Ring Nebula (M57), is more complicated than it appears through a small telescope.  The easily visible central ring is about one light-year across, but this remarkable exposure by the James Webb Space Telescope explores this popular nebula with a deep exposure in infrared light. Strings of gas, like eyelashes around a cosmic eye, become evident around the Ring in this digitally enhanced featured image in assigned colors. These long filaments may be caused by shadowing of knots of dense gas in the ring from energetic light emitted within. The Ring Nebula is an elongated planetary nebula, a type of gas cloud created when a Sun-like star evolves to throw off its outer atmosphere to become a white dwarf star.  The central oval in the Ring Nebula lies about 2,500 light-years away toward the musical constellation Lyra.</p>
-        <strong><em></em></strong>
+        <h4>A Triply Glowing Night Sky over Iceland</h4>
+        <time>2023-08-15</time>
+        <p>The Sun is not the quiet place it seems.  It expels an unsteady stream of energetic electrons and protons known as the solar wind.  These charged particles deform the Earth's magnetosphere, change paths, and collide with atoms in Earth's atmosphere, causing the generation of light in auroras like that visible in green in the image left.  Earth itself is also geologically active and covered with volcanoes. For example, Fagradalsfjall volcano in Iceland, seen emitting hot gas in orange near the image center. Iceland is one of the most geologically active places on Earth. On the far right is the Svartsengi geothermal power plant which creates the famous human-made Blue Lagoon, shown emitting white gas plumes. The featured composition therefore highlights three different sky phenomena, including both natural and human-made phenomena.</p>
+        <strong><em>
+Wioleta Gorecka;
+Text: Natalia Lewandowska 
+(SUNY Oswego)
+</em></strong>
     </div>
 </div>
 
