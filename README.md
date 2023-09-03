@@ -57,14 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2309/268_lorand_fenyes_iris_ngc7023_1024.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2309/268_lorand_fenyes_iris_ngc7023_1024.jpg" width="400" height="500" alt="Lorand Fenyes">
+    <a href="https://apod.nasa.gov/apod/image/2309/fragb73p_hst_960.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2309/fragb73p_hst_960.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>NGC 7023: The Iris Nebula</h4>
-        <time>2023-09-02</time>
-        <p>These cosmic clouds have blossomed 1,300 light-years away in the fertile starfields of the constellation Cepheus. Called the Iris Nebula, NGC 7023 is not the only nebula to evoke the imagery of flowers. Still, this deep telescopic image shows off the Iris Nebula's range of colors and symmetries embedded in surrounding fields of interstellar dust. Within the Iris itself, dusty nebular material surrounds a hot, young star. The dominant color of the brighter reflection nebula is blue, characteristic of dust grains reflecting starlight. Central filaments of the reflection nebula glow with a faint reddish photoluminescence as some dust grains effectively convert the star's invisible ultraviolet radiation to visible red light. Infrared observations indicate that this nebula contains complex carbon molecules known as PAHs. The dusty blue petals of the Iris Nebula span about six light-years.</p>
-        <strong><em>Lorand Fenyes</em></strong>
+        <h4>Comet Schwassmann-Wachmann 3 Fragments</h4>
+        <time>2023-09-03</time>
+        <p>Periodic comet 73P/Schwassmann-Wachmann 3 has broken up at least twice. A cosmic souffle of ice and dust left over from the early solar system, this comet was first seen to split into several large pieces during the close-in part of its orbit in 1995.  However, in the 2006 passage, it disintegrated into dozens of fragments that stretched several degrees across the sky. Since comets are relatively fragile, stresses from heat, gravity and outgassing, for example, could be responsible for their tendency to break up in such a spectacular fashion when they near the hot Sun. The Hubble Space Telescope recorded, in 2006, the featured sharp view of prolific Fragment B, itself trailing a multitude of smaller pieces, each with its own cometary coma and tail. The picture spans over 3,000 kilometers at the comet's distance of 32 million kilometers from planet Earth.</p>
+        <strong><em></em></strong>
     </div>
 </div>
 
