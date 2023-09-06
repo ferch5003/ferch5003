@@ -57,17 +57,27 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2309/SuperBlueMoon_Saragozza_960.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2309/SuperBlueMoon_Saragozza_960.jpg" width="400" height="500" alt="
-Kevin Saragozza
+    <a href="https://www.youtube.com/embed/QmCFdFGNwmo?si=Sp8Y5IS2-pWVLPn0?rel=0">
+      <img align="left" src="https://www.youtube.com/embed/QmCFdFGNwmo?si=Sp8Y5IS2-pWVLPn0?rel=0" width="400" height="500" alt="
+Jeff Dai
+(TWAN), 
+H.E.S.S. Collaboration; 
+ Music: 
+Ibaotu catalog number 1044988 
+(Used with permission) 
 ">
     </a>
     <div>
-        <h4>Blue Supermoon Beyond Syracuse</h4>
-        <time>2023-09-05</time>
-        <p>The last full moon was doubly unusual. First of all, it was a blue moon.  A modern definition of a blue moon is a second full moon to occur during one calendar month.  Since there are 13 full moons in 2023, one month has to have two -- and that month was August.  The first full moon was on August 1 and named a Sturgeon Moon. The second reason that the last full moon was unusual was because it was a supermoon.  A modern definition of supermoon is a moon that reaches its full phase when it is relatively close to Earth -- and so appears a bit larger and brighter than average.  Pictured, the blue supermoon of 2023 was imaged hovering far behind a historic castle and lighthouse in Syracuse, Sicily, Italy.    Gallery: Selected August 2023 supermoon images submitted to APOD</p>
+        <h4>HESS Telescopes Explore the High-Energy Sky</h4>
+        <time>2023-09-06</time>
+        <p>They may look like modern mechanical dinosaurs, but they are enormous swiveling eyes that watch the sky. The High Energy Stereoscopic System (H.E.S.S.) Observatory is composed of four 12-meter reflecting-mirror telescopes surrounding a larger telescope housing a 28-meter mirror. They are designed to detect strange flickers of blue light -- Cherenkov radiation --emitted when charged particles move slightly faster than the speed of light in air.  This light is emitted when a gamma ray from a distant source strikes a molecule in Earth's atmosphere and starts a charged-particle shower.  H.E.S.S. is sensitive to some of the highest energy photons (TeV) crossing the universe.  Operating since 2003 in Namibia, H.E.S.S. has searched for dark matter and has discovered over 50 sources emitting high energy radiation including supernova remnants and the centers of galaxies that contain supermassive black holes.  Pictured in June, H.E.S.S. telescopes swivel and stare in time-lapse sequences shot in front of our Milky Way Galaxy and the Magellanic Clouds -- as the occasional Earth-orbiting satellite zips by.   Surf the Universe: Random APOD Generator</p>
         <strong><em>
-Kevin Saragozza
+Jeff Dai
+(TWAN), 
+H.E.S.S. Collaboration; 
+ Music: 
+Ibaotu catalog number 1044988 
+(Used with permission) 
 </em></strong>
     </div>
 </div>
