@@ -57,28 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="https://www.youtube.com/embed/QmCFdFGNwmo?si=Sp8Y5IS2-pWVLPn0?rel=0">
-      <img align="left" src="https://www.youtube.com/embed/QmCFdFGNwmo?si=Sp8Y5IS2-pWVLPn0?rel=0" width="400" height="500" alt="
-Jeff Dai
-(TWAN), 
-H.E.S.S. Collaboration; 
- Music: 
-Ibaotu catalog number 1044988 
-(Used with permission) 
-">
+    <a href="https://apod.nasa.gov/apod/image/2309/TheLargeMagellanicCloud1024.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2309/TheLargeMagellanicCloud1024.jpg" width="400" height="500" alt="Chris Willocks">
     </a>
     <div>
-        <h4>HESS Telescopes Explore the High-Energy Sky</h4>
-        <time>2023-09-06</time>
-        <p>They may look like modern mechanical dinosaurs, but they are enormous swiveling eyes that watch the sky. The High Energy Stereoscopic System (H.E.S.S.) Observatory is composed of four 12-meter reflecting-mirror telescopes surrounding a larger telescope housing a 28-meter mirror. They are designed to detect strange flickers of blue light -- Cherenkov radiation --emitted when charged particles move slightly faster than the speed of light in air.  This light is emitted when a gamma ray from a distant source strikes a molecule in Earth's atmosphere and starts a charged-particle shower.  H.E.S.S. is sensitive to some of the highest energy photons (TeV) crossing the universe.  Operating since 2003 in Namibia, H.E.S.S. has searched for dark matter and has discovered over 50 sources emitting high energy radiation including supernova remnants and the centers of galaxies that contain supermassive black holes.  Pictured in June, H.E.S.S. telescopes swivel and stare in time-lapse sequences shot in front of our Milky Way Galaxy and the Magellanic Clouds -- as the occasional Earth-orbiting satellite zips by.   Surf the Universe: Random APOD Generator</p>
-        <strong><em>
-Jeff Dai
-(TWAN), 
-H.E.S.S. Collaboration; 
- Music: 
-Ibaotu catalog number 1044988 
-(Used with permission) 
-</em></strong>
+        <h4>The Large Cloud of Magellan</h4>
+        <time>2023-09-07</time>
+        <p>The 16th century Portuguese navigator Ferdinand Magellan and his crew had plenty of time to study the southern sky during the first circumnavigation of planet Earth. As a result, two fuzzy cloud-like objects easily visible to southern hemisphere skygazers are known as the Clouds of Magellan, now understood to be satellite galaxies of our much larger, spiral Milky Way galaxy. About 160,000 light-years distant in the constellation Dorado, the Large Magellanic Cloud is seen in this sharp galaxy portrait. Spanning about 15,000 light-years or so, it is the most massive of the Milky Way's satellite galaxies and is the home of the closest supernova in modern times, SN 1987A.  The prominent patch above center is 30 Doradus, also known as the magnificent Tarantula Nebula, a giant star-forming region about 1,000 light-years across.</p>
+        <strong><em>Chris Willocks</em></strong>
     </div>
 </div>
 
