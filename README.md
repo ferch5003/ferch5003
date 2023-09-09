@@ -57,14 +57,18 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2309/OmegaNebulaGrandMesaObservatory2023_1024.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2309/OmegaNebulaGrandMesaObservatory2023_1024.jpg" width="400" height="500" alt="Kim Quick">
+    <a href="https://apod.nasa.gov/apod/image/2309/Nishimura_Kennett_1080.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2309/Nishimura_Kennett_1080.jpg" width="400" height="500" alt="
+Peter Kennett
+">
     </a>
     <div>
-        <h4>Star Factory Messier 17</h4>
-        <time>2023-09-08</time>
-        <p>Sculpted by stellar winds and radiation, the star factory known as Messier 17 lies some 5,500 light-years away in the nebula-rich constellation Sagittarius. At that distance, this 1/3 degree wide field of view spans over 30 light-years. The sharp composite, color image highlights faint details of the region's gas and dust clouds against a backdrop of central Milky Way stars. Stellar winds and energetic light from hot, massive stars formed from M17's stock of cosmic gas and dust have slowly carved away at the remaining interstellar material, producing the cavernous appearance and undulating shapes. M17 is also known as the Omega Nebula or the Swan Nebula.</p>
-        <strong><em>Kim Quick</em></strong>
+        <h4>Comet Nishimura Grows</h4>
+        <time>2023-09-09</time>
+        <p>Comet Nishimura is growing. More precisely, the tails C/2023 P1 (Nishimura) are growing as it nears the Sun. Discovered only last month, the comet is already near naked eye brightness as it now moves inside the Earth's orbit.  The comet will be nearest the Earth next week, but nearest the Sun the week after -- on September 17.  Speculation holds that expelled ice and dust from Comet Nishimura's last visit to the inner Solar System may have created the Sigma Hydrids meteor shower which peaks yearly in December.  If so, then this meteor shower may become more active, refreshed with new comet debris. Pictured, Comet Nishimura was captured from Edgewood, New Mexico, USA four nights ago, showing a long ion tail structured by interactions with the Sun's wind. Look for this comet near your eastern horizon just before sunrise for the next few mornings, but very near your western horizon just after sunset next week -- as its coma continues to brighten and its tails continue to grow.    Gallery: Selected Comet Nishimura images submitted to APOD</p>
+        <strong><em>
+Peter Kennett
+</em></strong>
     </div>
 </div>
 
