@@ -57,13 +57,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2309/STSCI-HST-abell370_1024.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2309/STSCI-HST-abell370_1024.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2309/PolarRing_Askap_960.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2309/PolarRing_Askap_960.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Galaxy Cluster Abell 370 and Beyond</h4>
-        <time>2023-09-12</time>
-        <p>Some 4 billion light-years away, massive galaxy cluster Abell 370 is captured in this sharp Hubble Space Telescope snapshot. The cluster of galaxies only appears to be dominated by two giant elliptical galaxies and infested with faint arcs. In reality, the fainter, scattered bluish arcs, along with the dramatic dragon arc below and left of center, are images of galaxies that lie far beyond Abell 370. About twice as distant, their otherwise undetected light is magnified and distorted by the cluster's enormous gravitational mass, overwhelmingly dominated by unseen dark matter. Providing a tantalizing glimpse of galaxies in the early universe, the effect is known as gravitational lensing. A consequence of warped spacetime, lensing was predicted by Einstein almost a century ago. Far beyond the spiky foreground Milky Way star at lower right, Abell 370 is seen toward the constellation Cetus, the Sea Monster. It was the last of six galaxy clusters imaged in the Frontier Fields project.</p>
+        <h4>NGC 4632: Galaxy with a Hidden Polar Ring</h4>
+        <time>2023-09-13</time>
+        <p>Galaxy NGC 4632 hides a secret from optical telescopes.  It is surrounded by a ring of cool hydrogen gas orbiting at 90 degrees to its spiral disk.  Such polar ring galaxies have previously been discovered using starlight.  However, NGC 4632 is among the first in which a radio telescope survey revealed a polar ring.  The featured composite image combines this gas ring, observed with the highly sensitive ASKAP telescope, with optical data from the Subaru telescope.  Using virtual reality, astronomers separated out the gas in the main disk of the galaxy from the ring, and the subtle color gradient traces its orbital motion.  Why do polar rings exist?  They could be material pulled from one galaxy as it gravitationally interacts with a companion.  Or hydrogen gas flows along the filaments of the cosmic web and accretes into a ring around a galaxy, some of which gravitationally contracts into stars.</p>
         <strong><em></em></strong>
     </div>
 </div>
