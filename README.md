@@ -57,14 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2309/PolarRing_Askap_960.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2309/PolarRing_Askap_960.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2309/LRGBHa23_n7331r_800c.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2309/LRGBHa23_n7331r_800c.jpg" width="400" height="500" alt="Ian Gorenstein">
     </a>
     <div>
-        <h4>NGC 4632: Galaxy with a Hidden Polar Ring</h4>
-        <time>2023-09-13</time>
-        <p>Galaxy NGC 4632 hides a secret from optical telescopes.  It is surrounded by a ring of cool hydrogen gas orbiting at 90 degrees to its spiral disk.  Such polar ring galaxies have previously been discovered using starlight.  However, NGC 4632 is among the first in which a radio telescope survey revealed a polar ring.  The featured composite image combines this gas ring, observed with the highly sensitive ASKAP telescope, with optical data from the Subaru telescope.  Using virtual reality, astronomers separated out the gas in the main disk of the galaxy from the ring, and the subtle color gradient traces its orbital motion.  Why do polar rings exist?  They could be material pulled from one galaxy as it gravitationally interacts with a companion.  Or hydrogen gas flows along the filaments of the cosmic web and accretes into a ring around a galaxy, some of which gravitationally contracts into stars.</p>
-        <strong><em></em></strong>
+        <h4>NGC 7331 and Beyond</h4>
+        <time>2023-09-14</time>
+        <p>Big, beautiful spiral galaxy NGC 7331 is often touted as an analog to our own Milky Way. About 50 million light-years distant in the northern constellation Pegasus, NGC 7331 was recognized early on as a spiral nebula and is actually one of the brighter galaxies not included in Charles Messier's famous 18th century catalog. Since the galaxy's disk is inclined to our line-of-sight, long telescopic exposures often result in images that evokes a strong sense of depth. The effect is further enhanced in this sharp image by galaxies that lie beyond the gorgeous island universe. The most prominent background galaxies are about one tenth the apparent size of NGC 7331 and so lie roughly ten times farther away. Their close alignment on the sky with NGC 7331 occurs just by chance. Lingering above the plane of the Milky Way, this striking visual grouping of galaxies is known to some as the Deer Lick Group.</p>
+        <strong><em>Ian Gorenstein</em></strong>
     </div>
 </div>
 
