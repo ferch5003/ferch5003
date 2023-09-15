@@ -57,14 +57,18 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2309/LRGBHa23_n7331r_800c.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2309/LRGBHa23_n7331r_800c.jpg" width="400" height="500" alt="Ian Gorenstein">
+    <a href="https://apod.nasa.gov/apod/image/2309/IMG_3603_1024.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2309/IMG_3603_1024.jpg" width="400" height="500" alt="
+Luis Miguel Meade Rodríguez
+">
     </a>
     <div>
-        <h4>NGC 7331 and Beyond</h4>
-        <time>2023-09-14</time>
-        <p>Big, beautiful spiral galaxy NGC 7331 is often touted as an analog to our own Milky Way. About 50 million light-years distant in the northern constellation Pegasus, NGC 7331 was recognized early on as a spiral nebula and is actually one of the brighter galaxies not included in Charles Messier's famous 18th century catalog. Since the galaxy's disk is inclined to our line-of-sight, long telescopic exposures often result in images that evokes a strong sense of depth. The effect is further enhanced in this sharp image by galaxies that lie beyond the gorgeous island universe. The most prominent background galaxies are about one tenth the apparent size of NGC 7331 and so lie roughly ten times farther away. Their close alignment on the sky with NGC 7331 occurs just by chance. Lingering above the plane of the Milky Way, this striking visual grouping of galaxies is known to some as the Deer Lick Group.</p>
-        <strong><em>Ian Gorenstein</em></strong>
+        <h4>Venus, Moon, and the Smoking Mountain</h4>
+        <time>2023-09-15</time>
+        <p>Venus has returned as a brilliant morning star. From a window seat on a flight to Mexico City, the bright celestial beacon was captured just before sunrise in this astronomical snapshot, taken on September 12. Venus, at the upper right, shared the early predawn skies with an old crescent Moon. Seen from this stratospheric perspective, both mountain peaks and clouds appear in silhouette along a glowing eastern horizon. The dramatic, long, low cloud bank was created by venting from planet Earth's active volcano Popocatépetl.</p>
+        <strong><em>
+Luis Miguel Meade Rodríguez
+</em></strong>
     </div>
 </div>
 
