@@ -57,13 +57,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2309/HH211_webb_960.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2309/HH211_webb_960.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2309/ExoplanetJ2_Jabakenji_960.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2309/ExoplanetJ2_Jabakenji_960.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>HH 211: Jets from a Forming Star</h4>
-        <time>2023-09-19</time>
-        <p>Do stars always create jets as they form? No one is sure. As a gas cloud gravitationally contracts, it forms a disk that can spin too fast to continue contracting into a protostar.  Theorists hypothesize that this spin can be reduced by expelling jets. This speculation coincides with known Herbig-Haro (HH) objects, young stellar objects seen to emit jets -- sometimes in spectacular fashion. Pictured is Herbig-Haro 211, a young star in formation recently imaged by the Webb Space Telescope (JWST) in infrared light and in great detail.  Along with the two narrow beams of particles, red shock waves can be seen as the outflows impact existing interstellar gas. The jets of HH 221 will likely change shape as they brighten and fade over the next 100,000 years, as research into the details of star formation continues.</p>
+        <h4>Methane Discovered on Distant Exoplanet</h4>
+        <time>2023-09-20</time>
+        <p>Where else might life exist?  One of humanity's great outstanding questions, locating planets where extrasolar life might survive took a step forward in 2019 with the discovery of a significant amount of water vapor in the atmosphere of distant exoplanet K2-18b. The planet and its parent star, K2-18, lie about 124 light years away toward the constellation of the Lion (Leo). The exoplanet is significantly larger and more massive than our Earth, but orbits in the habitable zone of its home star. K2-18, although more red than our Sun, shines in K2-18b's sky with a brightness similar to the Sun in Earth's sky.  The 2019 discovery of atmospheric water was made in data from three space telescopes: Hubble, Spitzer, and Kepler, by noting the absorption of water-vapor colors when the planet moved in front of the star.  Now in 2023, further observations by the Webb Space Telescope in infrared light have uncovered evidence of other life-indicating molecules -- including methane.  The featured illustration imagines exoplanet K2-18b on the far right orbited by a moon (center), which together orbit a red dwarf star depicted on the lower left.</p>
         <strong><em></em></strong>
     </div>
 </div>
