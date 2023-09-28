@@ -57,18 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2309/SteveMw_Clarke_960.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2309/SteveMw_Clarke_960.jpg" width="400" height="500" alt="
-Theresa Clarke
-">
+    <a href="https://apod.nasa.gov/apod/image/2309/M8-Mos-SL10-DCPrgb-st-154-cC-cr1024.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2309/M8-Mos-SL10-DCPrgb-st-154-cC-cr1024.jpg" width="400" height="500" alt="Josep Drudis">
     </a>
     <div>
-        <h4>STEVE and Milky Way Cross over Rural Road</h4>
-        <time>2023-09-27</time>
-        <p>Not every road ends in a STEVE. A week ago, a sky enthusiast's journey began with a goal: to photograph an aurora over Lake Huron. Driving through rural Ontario, Canada, the forecasted sky show started unexpectedly early, causing the photographer to stop before arriving at the scenic Great Lake. Aurora images were taken toward the north -- but over land, not sea. While waiting for a second round of auroras, a peculiar band of light was noticed to the west.  Slowly, the photographer and friends realized that this western band was likely an unusual type of aurora: a Strong Thermal Emission Velocity Enhancement (STEVE). Moreover, this STEVE was putting on quite a show: appearing intertwined with the central band of our Milky Way Galaxy while intersecting the horizon just near the end of the country road. After capturing this cosmic X on camera, the photographer paused to appreciate the unexpected awesomeness of finding extraordinary beauty in an ordinary setting.     Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)</p>
-        <strong><em>
-Theresa Clarke
-</em></strong>
+        <h4>The Deep Lagoon</h4>
+        <time>2023-09-28</time>
+        <p>Ridges of glowing interstellar gas and dark dust clouds inhabit the turbulent, cosmic depths of the Lagoon Nebula. Also known as M8, The bright star forming region is about 5,000 light-years distant. It makes for a popular stop on telescopic tours of the constellation Sagittarius toward the center of our Milky Way Galaxy. Dominated by the telltale red emission of ionized hydrogen atoms recombining with stripped electrons, this deep telescopic view of the Lagoon's central reaches is about 40 light-years across. The bright hourglass shape near the center of the frame is gas ionized and sculpted by energetic radiation and extreme stellar winds from a massive young star.</p>
+        <strong><em>Josep Drudis</em></strong>
     </div>
 </div>
 
