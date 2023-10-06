@@ -57,14 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2310/MoValleyEclipse1024.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2310/MoValleyEclipse1024.jpg" width="400" height="500" alt="Tunc Tezel">
+    <a href="https://apod.nasa.gov/apod/image/2004/HubbleVarOrig_Carnegie_960.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2004/HubbleVarOrig_Carnegie_960.jpg" width="400" height="500" alt="Carnegie Institution for Science">
     </a>
     <div>
-        <h4>Ring of Fire over Monument Valley</h4>
-        <time>2023-10-05</time>
-        <p>Tracking along a narrow path, the shadow of a new moon will race across North, Central, and South America, on October 14. When viewed from the shadow path the apparent size of the lunar disk will not quite completely cover the Sun though. Instead, the moon in silhouette will appear during the minutes of totality surrounded by a fiery ring, an annular solar eclipse more dramatically known as a ring of fire eclipse. This striking time lapse sequence from May of 2012 illustrates the stages of a ring of fire eclipse. From before eclipse start until sunset, they are seen over the iconic buttes of planet Earth's Monument Valley. Remarkably, the October 14 ring of fire eclipse will also be visible over Monument Valley, beginning after sunrise in the eastern sky.</p>
-        <strong><em>Tunc Tezel</em></strong>
+        <h4>Edwin Hubble Discovers the Universe</h4>
+        <time>2023-10-06</time>
+        <p>How big is our universe? This question, among others, was debated by two leading astronomers in 1920 in what has since become known as astronomy's Great Debate.  Many astronomers then believed that our Milky Way Galaxy was the entire universe.  Many others, though, believed that our galaxy was just one of many.  In the Great Debate, each argument was detailed, but no consensus was reached.  The answer came over three years later with the detected variation of single spot in the Andromeda Nebula, as shown on the original glass discovery plate digitally reproduced here. When Edwin Hubble compared images, he noticed that this spot varied, and on October 6, 1923 wrote "VAR!" on the plate.  The best explanation, Hubble knew, was that this spot was the image of a variable star that was very far away. So M31 was really the Andromeda Galaxy -- a galaxy possibly similar to our own.  Annotated 100 years ago, the featured image may not be pretty, but the variable spot on it opened a window through which humanity gazed knowingly, for the first time, into a surprisingly vast cosmos.</p>
+        <strong><em>Carnegie Institution for Science</em></strong>
     </div>
 </div>
 
