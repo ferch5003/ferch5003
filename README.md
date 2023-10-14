@@ -57,14 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2310/M33_Triangulum1024.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2310/M33_Triangulum1024.jpg" width="400" height="500" alt="Reinhold Wittich">
+    <a href="https://apod.nasa.gov/apod/image/2310/Vincenzo_Mirabella_20210529_134459_1024px.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2310/Vincenzo_Mirabella_20210529_134459_1024px.jpg" width="400" height="500" alt="Vincenzo Mirabella">
     </a>
     <div>
-        <h4>Hydrogen Clouds of M33</h4>
-        <time>2023-10-13</time>
-        <p>Gorgeous spiral galaxy Messier 33 seems to have more than its fair share of glowing hydrogen gas. A prominent member of the local group of galaxies, M33 is also known as the Triangulum Galaxy and lies a mere 3 million light-years away.  The galaxy's central 30,000 light-years or so are shown in this sharp galaxy portrait. The portrait features M33's reddish ionized hydrogen clouds or HII regions. Sprawling along loose spiral arms that wind toward the core, M33's giant HII regions are some of the largest known stellar nurseries, sites of the formation of short-lived but very massive stars. Intense ultraviolet radiation from the luminous, massive stars ionizes the surrounding hydrogen gas and ultimately produces the characteristic red glow. In this image, broadband data were combined with narrowband data recorded through a hydrogen-alpha filter. That filter transmits the light of the strongest visible hydrogen emission line.</p>
-        <strong><em>Reinhold Wittich</em></strong>
+        <h4>Circular Sun Halo</h4>
+        <time>2023-10-14</time>
+        <p>Want to see a ring around the Sun? It's easy to do in daytime skies around the world. Created by randomly oriented ice crystals in thin high cirrus clouds, circular 22 degree halos are visible much more often than rainbows. This one was captured by smart phone photography on May 29, 2021 near Rome, Italy. Carefully blocking the Sun, for example with a finger tip, is usually all that it takes to reveal the common bright halo ring. The halo's characteristic angular radius is about equal to the span of your hand, thumb to little finger, at the end of your outstretched arm.  Want to see a ring of fire eclipse? That's harder. The spectacular annular phase of today's (October 14) solar eclipse, known as a ring of fire, is briefly visible only when standing along the Moon's narrow shadow track that passes over limited parts of North, Central, and South America. The solar eclipse is partial though, when seen from broader regions throughout the Americas.</p>
+        <strong><em>Vincenzo Mirabella</em></strong>
     </div>
 </div>
 
