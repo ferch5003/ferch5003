@@ -57,14 +57,20 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2310/quartermoon2022date.jpeg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2310/quartermoon2022date.jpeg" width="400" height="500" alt="Marcella Giulia Pace">
+    <a href="https://apod.nasa.gov/apod/image/2310/AuroraGhost_Takasaka_960.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2310/AuroraGhost_Takasaka_960.jpg" width="400" height="500" alt="
+Yuichi Takasaka,
+TWAN
+">
     </a>
     <div>
-        <h4>Quarter Moons</h4>
-        <time>2023-10-21</time>
-        <p>Half way between New Moon and Full Moon is the Moon's first quarter phase. That's a quarter of the way around its moonthly orbit. At the first quarter phase, half the Moon's visible side is illuminated by sunlight. For the Moon's third quarter phase, half way between Full Moon and New Moon, sunlight illuminates the other half of the visible lunar disk. At both first and third quarter phases, the terminator, or shadow line separating the lunar night and day, runs down the middle. Near the terminator, long shadows bring lunar craters and mountains in to sharp relief, making the quarter phases a good time to observe the Moon. But in case you missed some, all the quarter phases of the Moon and their calendar dates during 2022 can be found in this well-planned array of telephoto images. Of course, you can observe a first quarter Moon tonight.  International: Observe the Moon Night</p>
-        <strong><em>Marcella Giulia Pace</em></strong>
+        <h4>Ghost Aurora over Canada</h4>
+        <time>2023-10-22</time>
+        <p>What does this aurora look like to you? While braving the cold to watch the skies above northern Canada early one morning in 2013, a most unusual aurora appeared.  The aurora definitely appeared to be shaped like something, but what? Two ghostly possibilities recorded by the astrophotographer were "witch" and "goddess of dawn", but please feel free to suggest your own Halloween-enhanced impressions. Regardless of fantastical pareidolic interpretations, the pictured aurora had a typical green color and was surely caused by the scientifically commonplace action of high-energy particles from space interacting with oxygen in Earth's upper atmosphere.  In the image foreground, at the bottom, is a frozen Alexandra Falls, while evergreen trees cross the middle.   Help Wanted: Professional-astronomer level guest writers and assistant editors for APOD</p>
+        <strong><em>
+Yuichi Takasaka,
+TWAN
+</em></strong>
     </div>
 </div>
 
