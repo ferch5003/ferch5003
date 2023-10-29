@@ -57,14 +57,18 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2310/IC63_GruntzBax1024.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2310/IC63_GruntzBax1024.jpg" width="400" height="500" alt="Guillaume Gruntz">
+    <a href="https://apod.nasa.gov/apod/image/2310/PartialLunarItaly_Mezzio_1080.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2310/PartialLunarItaly_Mezzio_1080.jpg" width="400" height="500" alt="
+Orazio Mezzio
+">
     </a>
     <div>
-        <h4>The Ghosts of Gamma Cas</h4>
-        <time>2023-10-28</time>
-        <p>Gamma Cassiopeiae shines high in northern autumn evening skies. It's the brightest spiky star in this telescopic field of view toward the constellation Cassiopeia. Gamma Cas shares the ethereal-looking scene with ghostly interstellar clouds of gas and dust, IC 59 (top left) and IC 63.  About 600 light-years distant, the clouds aren't actually ghosts. They are slowly disappearing though, eroding under the influence of energetic radiation from hot and luminous gamma Cas. Gamma Cas is physically located only 3 to 4 light-years from the nebulae. Slightly closer to gamma Cas, IC 63 is dominated by red H-alpha light emitted as hydrogen atoms ionized by the star's ultraviolet radiation recombine with electrons. Farther from the star, IC 59 shows proportionally less H-alpha emission but more of the characteristic blue tint of dust reflected star light. The cosmic stage spans over 1 degree or 10 light-years at the estimated distance of gamma Cas and friends.</p>
-        <strong><em>Guillaume Gruntz</em></strong>
+        <h4>A Partial Lunar Eclipse</h4>
+        <time>2023-10-29</time>
+        <p>What's happened to the Moon?  Within the last day, part of the Moon moved through the Earth's shadow.  This happens about once or twice a year, but not every month since the Moon's orbit around the Earth is slightly tilted.  Pictured here, the face of a full Hunter's Moon is shown twice from Italy during this partial lunar eclipse.  On the left, most of the Moon appears overexposed except for the eclipsed bottom right, which shows some familiar lunar surface details. In contrast, on the right, most of the (same) Moon appears normally exposed, with the exception of the bottom right, which now appears dark. All lunar eclipses are visible from the half of the Earth facing the Moon at the time of the eclipse, but this eclipse was visible specifically from Europe, Africa, Asia, and Australia, clouds permitting. In April, a total solar eclipse will be visible from North America.   Album: Selected partial lunar eclipse images sent in to APOD</p>
+        <strong><em>
+Orazio Mezzio
+</em></strong>
     </div>
 </div>
 
