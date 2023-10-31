@@ -57,17 +57,17 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2310/GhostNebula_Jarzyna_960.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2310/GhostNebula_Jarzyna_960.jpg" width="400" height="500" alt="
-Bogdan Jarzyna
+    <a href="https://apod.nasa.gov/apod/image/2310/WizardCenter_McInnis_960.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2310/WizardCenter_McInnis_960.jpg" width="400" height="500" alt="
+Richard McInnis
 ">
     </a>
     <div>
-        <h4>Reflections of the Ghost Nebula</h4>
-        <time>2023-10-30</time>
-        <p>Do any shapes seem to jump out at you from this interstellar field of stars and dust?  The jeweled expanse, filled with faint, starlight-reflecting clouds, drifts through the night in the royal constellation of Cepheus. Far from your own neighborhood on planet Earth, these ghostly apparitions lurk along the plane of the Milky Way at the edge of the Cepheus Flare molecular cloud complex some 1,200 light-years away. Over two light-years across and brighter than the other spooky chimeras, VdB 141 or Sh2-136 is also known as the Ghost Nebula, seen toward the bottom of the featured image. Within the reflection nebula are the telltale signs of dense cores collapsing in the early stages of star formation.   Tour the Universe: Random APOD Generator</p>
+        <h4>Halloween and the Wizard Nebula</h4>
+        <time>2023-10-31</time>
+        <p>Halloween's origin is ancient and astronomical.  Since the fifth century BC, Halloween has been celebrated as a cross-quarter day, a day halfway between an equinox (equal day / equal night) and a solstice (minimum day / maximum night in the northern hemisphere).  With a modern calendar however, even though Halloween occurs today, the real cross-quarter day will occur next week.  Another cross-quarter day is Groundhog Day. Halloween's modern celebration retains historic roots in dressing to scare away the spirits of the dead.  Perhaps a fitting tribute to this ancient holiday is this closeup view of the Wizard Nebula (NGC 7380).  Visually, the interplay of stars, gas, and dust has created a shape that appears to some like a fictional ancient sorcerer. Although the nebula may last only a few million years, some of the stars being conjured from the gas by the great gravitational powers may outlive our Sun.</p>
         <strong><em>
-Bogdan Jarzyna
+Richard McInnis
 </em></strong>
     </div>
 </div>
