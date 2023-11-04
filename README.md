@@ -57,14 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2311/_GHR7338_3_firma_picc1024.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2311/_GHR7338_3_firma_picc1024.jpg" width="400" height="500" alt="Giorgia Hofer">
+    <a href="https://apod.nasa.gov/apod/image/2311/dinkinesh-firstlook-llorri.png">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2311/dinkinesh-firstlook-llorri.png" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Jupiter by Moonlight</h4>
-        <time>2023-11-03</time>
-        <p>That bright beacon you've seen rising in the east just after sunset is Jupiter. Climbing high in midnight skies, our Solar System's ruling gas giant was at its 2023 opposition, opposite the Sun in planet Earth's sky, on November 2. But only a few days earlier, on October 28, the Moon was at its own opposition. Then both Full Moon and Jupiter could share this telephoto field of view. The celestial scene is composed from two exposures, one long and one short, blended to record bright planet and even brighter Moon during that evening's partial lunar eclipse. Moonlight shining through the thin, high clouds over northern Italy creates the colorful iridescence and lunar corona. Look closely and you'll also spot some of Jupiter's Galilean moons.</p>
-        <strong><em>Giorgia Hofer</em></strong>
+        <h4>Dinkinesh Moonrise</h4>
+        <time>2023-11-04</time>
+        <p>Last Wednesday the voyaging Lucy spacecraft encountered its first asteroid, 152830 Dinkinesh, and discovered the inner-main belt asteroid has a moon. From a distance of just over 400 kilometers, Lucy's Long-Range Reconnaissance Imager captured this close-up of the binary system during a flyby at 4.5 kilometer per second or around 10,000 miles per hour. A marvelous world, Dinkinesh itself is small, less than 800 meters (about 0.5 miles) across at its widest. Its satellite is seen from the spacecraft's perspective to emerge from behind the primary asteroid. The asteroid moon is estimated to be only about 220 meters wide.</p>
+        <strong><em></em></strong>
     </div>
 </div>
 
