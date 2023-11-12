@@ -57,14 +57,18 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2311/SARarcLooten1024.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2311/SARarcLooten1024.jpg" width="400" height="500" alt="Julien Looten">
+    <a href="https://apod.nasa.gov/apod/image/2311/GibbousMoon_Strand_960.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2311/GibbousMoon_Strand_960.jpg" width="400" height="500" alt="
+Göran Strand
+">
     </a>
     <div>
-        <h4>The SAR and the Milky Way</h4>
-        <time>2023-11-11</time>
-        <p>This broad, luminous red arc was a surprising visitor to partly cloudy evening skies over northern France. Captured extending toward the zenith in a west-to-east mosaic of images from November 5, the faint atmospheric ribbon of light is an example of a Stable Auroral Red (SAR) arc. The rare night sky phenomenon was also spotted at unusually low latitudes around world, along with more dynamic auroral displays during an intense geomagnetic storm. SAR arcs and their relation to auroral emission have been explored by citizen science and satellite investigations. From altitudes substantially above the normal auroral glow, the deep red SAR emission is thought to be caused by strong heating due to currents flowing in planet Earth's inner magnetosphere. Beyond this SAR, the Milky Way arcs above the cloud banks along the horizon, a regular visitor to night skies over northern France.</p>
-        <strong><em>Julien Looten</em></strong>
+        <h4>Gibbous Moon beyond Swedish Mountain</h4>
+        <time>2023-11-12</time>
+        <p>This is a gibbous Moon. More Earthlings are familiar with a full moon, when the entire face of Luna is lit by the Sun, and a crescent moon, when only a sliver of the Moon's face is lit.  When more than half of the Moon is illuminated, though, but still short of full illumination, the phase is called gibbous.  Rarely seen in television and movies, gibbous moons are quite common in the actual night sky. The featured image was taken in Jämtland, Sweden near the end of 2018 October. That gibbous moon turned, in a few days, into a crescent moon, and then a new moon, then back to a crescent, and a few days past that, back to gibbous.  Setting up to capture a picturesque gibbous moonscape, the photographer was quite surprised to find an airplane, surely well in the foreground, appearing to fly past it.   Almost Hyperspace: Random APOD Generator</p>
+        <strong><em>
+Göran Strand
+</em></strong>
     </div>
 </div>
 
