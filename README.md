@@ -57,27 +57,17 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2311/Horsehead_Hanson_960.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2311/Horsehead_Hanson_960.jpg" width="400" height="500" alt="
-Mark Hanson & 
-Martin Pugh,
-SSRO, 
-PROMPT, 
-CTIO,
-NSF
+    <a href="https://apod.nasa.gov/apod/image/2311/FlemingsWisp_Gualco_960.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2311/FlemingsWisp_Gualco_960.jpg" width="400" height="500" alt="
+Cristiano Gualco
 ">
     </a>
     <div>
-        <h4>The Horsehead Nebula</h4>
-        <time>2023-11-20</time>
-        <p>Sculpted by stellar winds and radiation, a magnificent interstellar dust cloud by chance has assumed this recognizable shape.  Fittingly named the Horsehead Nebula, it is some 1,500 light-years distant, embedded in the vast Orion cloud complex. About five light-years "tall," the dark cloud is cataloged as Barnard 33 and is visible only because its obscuring dust is silhouetted against the glowing red emission nebula IC 434.  Stars are forming within the dark cloud. Contrasting blue reflection nebula NGC 2023, surrounding a hot, young star, is at the lower left of the full image.  The featured gorgeous color image combines both narrowband and broadband images recorded using several different telescopes.    New: Follow APOD on Telegram</p>
+        <h4>Fleming's Triangular Wisp</h4>
+        <time>2023-11-21</time>
+        <p>These chaotic and tangled filaments of shocked, glowing gas are spread across planet Earth's sky toward the constellation of Cygnus as part of the Veil Nebula. The Veil Nebula itself is a large supernova remnant, an expanding cloud born of the death explosion of a massive star. Light from the original supernova explosion likely reached Earth over 5,000 years ago. The glowing filaments are really more like long ripples in a sheet seen almost edge on, remarkably well separated into the glow of ionized hydrogen atoms shown in red and oxygen in blue hues. Also known as the Cygnus Loop and cataloged as NGC 6979, the Veil Nebula now spans about 6 times the diameter of the full Moon. The length of the wisp corresponds to about 30 light years, given its estimated distance of 2,400 light years.  Often identified as Pickering's Triangle for a director of Harvard College Observatory, it is perhaps better named for its discoverer, astronomer Williamina Fleming, as Fleming's Triangular Wisp.   New: Follow APOD on Telegram</p>
         <strong><em>
-Mark Hanson & 
-Martin Pugh,
-SSRO, 
-PROMPT, 
-CTIO,
-NSF
+Cristiano Gualco
 </em></strong>
     </div>
 </div>
