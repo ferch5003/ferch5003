@@ -57,18 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2311/LowerLandspout_Hannon_960.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2311/LowerLandspout_Hannon_960.jpg" width="400" height="500" alt="
-Brad Hannon
-">
+    <a href="https://apod.nasa.gov/apod/image/2311/art001e000672-orig1024c.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2311/art001e000672-orig1024c.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>A Landspout Tornado over Kansas</h4>
-        <time>2023-11-29</time>
-        <p>Could there be a tornado inside another tornado? In general, no.  OK, but could there be a tornado inside a wider dust devil? No again, for one reason because tornados comes down from the sky, but dust devils rise up from the ground. What is pictured is a landspout, an unusual type of tornado known to occur on the edge of a violent thunderstorm. The featured landspout was imaged and identified in Kansas, USA, in June 2019 by an experienced storm chaser.  The real tornado is in the center, and the outer sheath was possibly created by large dust particles thrown out from the central tornado. So far, the only planet known to create tornados is Earth, although tornado-like activity has been found on the Sun and dust devils are common on Mars.   Almost Hyperspace: Random APOD Generator</p>
-        <strong><em>
-Brad Hannon
-</em></strong>
+        <h4>Artemis 1: Flight Day 13</h4>
+        <time>2023-11-30</time>
+        <p>On flight day 13 (November 28, 2022) of the Artemis I mission, the Orion spacecraft reached its maximum distance from its home world. Over 430,000 kilometers from Earth in a distant retrograde orbit, Orion surpassed the record for most distant spacecraft designed to carry humans. That record was previously set in 1970 during the Apollo 13 mission to the Moon. Both Earth and Moon are in the same field of view in this video frame from Orion on Artemis I mission flight day 13. The planet and its large natural satellite even appear about the same apparent size from the uncrewed spacecraft's perspective.</p>
+        <strong><em></em></strong>
     </div>
 </div>
 
