@@ -57,14 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2311/art001e000672-orig1024c.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2311/art001e000672-orig1024c.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2312/_MG_2485-mod_APOD1024.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2312/_MG_2485-mod_APOD1024.jpg" width="400" height="500" alt="José Rodrigues">
     </a>
     <div>
-        <h4>Artemis 1: Flight Day 13</h4>
-        <time>2023-11-30</time>
-        <p>On flight day 13 (November 28, 2022) of the Artemis I mission, the Orion spacecraft reached its maximum distance from its home world. Over 430,000 kilometers from Earth in a distant retrograde orbit, Orion surpassed the record for most distant spacecraft designed to carry humans. That record was previously set in 1970 during the Apollo 13 mission to the Moon. Both Earth and Moon are in the same field of view in this video frame from Orion on Artemis I mission flight day 13. The planet and its large natural satellite even appear about the same apparent size from the uncrewed spacecraft's perspective.</p>
-        <strong><em></em></strong>
+        <h4>Milky Way Rising</h4>
+        <time>2023-12-01</time>
+        <p>The core of the Milky Way is rising beyond the Chilean mountain-top La Silla Observatory in this deep night skyscape. Seen toward the constellation Sagittarius, our home galaxy's center is flanked on the left, by the European Southern Observatory's New Technology Telescope which pioneered the use of active optics to accurately control the shape of large telescope mirrors. To the right stands the ESO 3.6-meter Telescope, home of the exoplanet hunting HARPS and NIRPS spectrographs. Between them, the galaxy's central bulge is filled with obscuring clouds of interstellar dust, bright stars, clusters, and nebulae. Prominent reddish hydrogen emission from the star-forming Lagoon Nebula, M8, is near center. The Trifid Nebula, M20, combines blue light of a dusty reflection nebula with reddish emission just left of the cosmic Lagoon. Both are popular stops on telescopic tours of the galactic center. The composited image is a stack of separate exposures for ground and sky made in April 2023, all captured consecutively with the same framing and camera equipment.</p>
+        <strong><em>José Rodrigues</em></strong>
     </div>
 </div>
 
