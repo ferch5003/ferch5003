@@ -57,14 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2312/StartrailsBeijingAncientObservatory-3_1024.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2312/StartrailsBeijingAncientObservatory-3_1024.jpg" width="400" height="500" alt="Jeff Dai">
+    <a href="https://www.youtube.com/embed/afHfMMC-MJE?rel=0">
+      <img align="left" src="https://www.youtube.com/embed/afHfMMC-MJE?rel=0" width="400" height="500" alt="El Cielo de Canarias">
     </a>
     <div>
-        <h4>Startrails over Beijing Ancient Observatory</h4>
-        <time>2023-12-02</time>
-        <p>You can take a subway ride to visit this observatory in Beijing, China but you won't find any telescopes there. Starting in the 1400s astronomers erected devices at the Beijing Ancient Observatory site to enable them to accurately measure and track the positions of naked-eye stars and planets. Some of the large, ornate astronomical instruments are still standing. You can even see stars from the star observation platform today, but now only the very brightest celestial beacons are visible against the city lights. In this time series of exposures from a camera fixed to a tripod to record graceful arcing startrails, the brightest trail is actually the Moon. Its broad arc is seen behind the ancient observatory's brass armillary sphere. Compare this picture from the Beijing Ancient Observatory taken in September 2023 to one taken in 1895.</p>
-        <strong><em>Jeff Dai</em></strong>
+        <h4>Moon Setting Behind Teide Volcano</h4>
+        <time>2023-12-03</time>
+        <p>These people are not in danger. What is coming down from the left is just the Moon, far in the distance. Luna appears so large here because she is being photographed through a telescopic lens.  What is moving is mostly the Earth, whose spin causes the Moon to slowly disappear behind Mount Teide, a volcano in the Canary Islands off the northwest coast of Africa. The people pictured are 16 kilometers away and  many are facing the camera because they are watching the Sun rise behind the photographer. It is not a coincidence that a full moon rises just when the Sun sets because the Sun is always on the opposite side of the sky from a full moon. The featured video was made in 2018 during the full Milk Moon.  The video is not time-lapse -- this was really how fast the Moon was setting.</p>
+        <strong><em>El Cielo de Canarias</em></strong>
     </div>
 </div>
 
