@@ -57,18 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2312/BowArrow_Patel_960.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2312/BowArrow_Patel_960.jpg" width="400" height="500" alt="
-Juned Patel
-">
+    <a href="https://apod.nasa.gov/apod/image/2312/Exaray_OsakaU_1080.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2312/Exaray_OsakaU_1080.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Plane Crossing Crescent Moon</h4>
-        <time>2023-12-04</time>
-        <p>No, the Moon is not a bow, and no, it did not shoot out a plane like an arrow. What is pictured is a chance superposition.  The plane's contrail would normally appear white, but the large volume of air toward the rising Sun preferentially knocked away blue light, not only making the sky blue, but giving the reflected trail a bright red hue.  Far in the distance, well behind the plane, the crescent Moon also appears slightly reddened. Captured early last month from Bolton, UK, the featured image was taken so soon after sunrise that the plane was sunlit from below, as was its contrail.  Within minutes, unfortunately, the impromptu sky show ended.  The plane moved out of sight.  The Moon kept rising but became harder to see through a brightening sky.  And the contrail gradually dispersed.</p>
-        <strong><em>
-Juned Patel
-</em></strong>
+        <h4>Energetic Particle Strikes the Earth</h4>
+        <time>2023-12-05</time>
+        <p>It was one of the most energetic particles ever known to strike the Earth -- but where did it come from?  Dubbed Amaterasu after the Shinto sun goddess, this particle, as do all cosmic rays that strike the Earth's atmosphere, caused an air shower of electrons, protons, and other elementary particles to spray down onto the Earth below. In the featured illustration, a cosmic ray air shower is pictured striking the Telescope Array in Utah, USA, which recorded the Amaterasu event in 2021 May.  Cosmic ray air showers are common enough that you likely have been in a particle spray yourself, although you likely wouldn't have noticed.  The origin of this energetic particle, likely the nucleus of an atom, remains a mystery in two ways. First, it is not known how any single particle or atomic nucleus can practically acquire so much energy, and second, attempts to trace the particle back to where it originated did not indicate any likely potential source.    Open Science: Browse 3,200+ codes in the Astrophysics Source Code Library</p>
+        <strong><em></em></strong>
     </div>
 </div>
 
