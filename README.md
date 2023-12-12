@@ -57,14 +57,18 @@
 ### Do you know...
 
 <div>
-    <a href="https://www.youtube.com/embed/JqH0diwqcUM?rel=0">
-      <img align="left" src="https://www.youtube.com/embed/JqH0diwqcUM?rel=0" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2312/ArcticNight_Cobianchi_1080.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2312/ArcticNight_Cobianchi_1080.jpg" width="400" height="500" alt="
+Giulio Cobianchi
+">
     </a>
     <div>
-        <h4>Solar Minimum versus Solar Maximum</h4>
-        <time>2023-12-11</time>
-        <p>The surface of our Sun is constantly changing.  Some years it is quiet, showing relatively few sunspots and active regions. Other years it is churning, showing many sunspots and throwing frequent Coronal Mass Ejections (CMEs) and flares. Reacting to magnetism, our Sun's surface goes through periods of relative calm, called Solar Minimum and relative unrest, called Solar Maximum, every 11 years. The featured video shows on the left a month in late 2019 when the Sun was near Solar Minimum, while on the right a month in 2014 when near Solar Maximum.  The video was taken by NASA's Solar Dynamic Observatory in far ultraviolet light. Our Sun is progressing again toward Solar Maximum in 2025, but displaying even now a surface with a surprisingly high amount of activity.   Night Sky Network webinar: APOD editor to review coolest space images of 2023</p>
-        <strong><em></em></strong>
+        <h4>Aurora and Milky Way over Norway</h4>
+        <time>2023-12-12</time>
+        <p>What are these two giant arches across the sky? Perhaps the more familiar one, on the left, is the central band of our Milky Way Galaxy. This grand disk of stars and nebulas here appears to encircle much of the southern sky. Visible below the stellar arch is the rusty-orange planet Mars and the extended Andromeda galaxy. But this night had more!  For a few minutes during this cold arctic night, a second giant arch appeared  encircling part of the northern sky: an aurora. Auroras are much closer than stars as they are composed of glowing air high in Earth's atmosphere.  Visible outside the green auroral arch is the group of stars popularly known as the Big Dipper.  The featured digital composite of 20 images was captured in mid-November 2022 over the Lofoten Islands in Norway.    APOD Year in Review (2023): RJN's Night Sky Network Lecture</p>
+        <strong><em>
+Giulio Cobianchi
+</em></strong>
     </div>
 </div>
 
