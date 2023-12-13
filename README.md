@@ -57,17 +57,19 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2312/ArcticNight_Cobianchi_1080.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2312/ArcticNight_Cobianchi_1080.jpg" width="400" height="500" alt="
-Giulio Cobianchi
+    <a href="https://apod.nasa.gov/apod/image/2312/Heart_TelLiveOstling_960.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2312/Heart_TelLiveOstling_960.jpg" width="400" height="500" alt="
+William Ostling, 
+Telescope Live 
 ">
     </a>
     <div>
-        <h4>Aurora and Milky Way over Norway</h4>
-        <time>2023-12-12</time>
-        <p>What are these two giant arches across the sky? Perhaps the more familiar one, on the left, is the central band of our Milky Way Galaxy. This grand disk of stars and nebulas here appears to encircle much of the southern sky. Visible below the stellar arch is the rusty-orange planet Mars and the extended Andromeda galaxy. But this night had more!  For a few minutes during this cold arctic night, a second giant arch appeared  encircling part of the northern sky: an aurora. Auroras are much closer than stars as they are composed of glowing air high in Earth's atmosphere.  Visible outside the green auroral arch is the group of stars popularly known as the Big Dipper.  The featured digital composite of 20 images was captured in mid-November 2022 over the Lofoten Islands in Norway.    APOD Year in Review (2023): RJN's Night Sky Network Lecture</p>
+        <h4>Deep Field: The Heart Nebula</h4>
+        <time>2023-12-13</time>
+        <p>What excites the Heart Nebula? First, the large emission nebula on the left, catalogued as IC 1805, looks somewhat like a human heart.  The nebula glows brightly in red light emitted by its most prominent element, hydrogen, but this long-exposure image was also blended with light emitted by silicon (yellow) and oxygen (blue).  In the center of the Heart Nebula are young stars from the open star cluster Melotte 15 that are eroding away several picturesque dust pillars with their atom-exciting energetic light and winds. The Heart Nebula is located about 7,500 light years away toward the constellation of Cassiopeia.  At the bottom right of the Heart Nebula is the companion Fishhead Nebula.  This wide and deep image clearly shows, though, that glowing gas surrounds the Heart Nebula in all directions.</p>
         <strong><em>
-Giulio Cobianchi
+William Ostling, 
+Telescope Live 
 </em></strong>
     </div>
 </div>
