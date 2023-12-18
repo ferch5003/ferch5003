@@ -57,18 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2312/Geminids_Hongyang_1080.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2312/Geminids_Hongyang_1080.jpg" width="400" height="500" alt="
-Hongyang Luo
-">
+    <a href="https://apod.nasa.gov/apod/image/2312/greyillusion_wikipedia_960.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2312/greyillusion_wikipedia_960.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Geminids over China's Nianhu Lake</h4>
-        <time>2023-12-17</time>
-        <p>Where are all of these meteors coming from?  In terms of direction on the sky, the pointed answer is the constellation of Gemini.  That is why the major meteor shower in December is known as the Geminids -- because shower meteors all appear to come from a radiant toward Gemini. Three dimensionally, however, sand-sized debris expelled from the unusual asteroid 3200 Phaethon follows a well-defined orbit about our Sun, and the part of the orbit that approaches Earth is superposed in front of the constellation of Gemini. Therefore, when Earth crosses this orbit, the radiant point of falling debris appears in Gemini. Featured here is a composite of many images taken a few days ago through dark skies from Nianhu Lake in China. Over 100 bright meteor streaks from the Geminids meteor shower are visible.    APOD Year in Review (2023): RJN's Night Sky Network Lecture</p>
-        <strong><em>
-Hongyang Luo
-</em></strong>
+        <h4>The Same Color Illusion</h4>
+        <time>2023-12-18</time>
+        <p>Are squares A and B the same color? They are! To verify this, either run your cursor over the image or click here to see them connected.  The featured illusion, an example of the same color illusion, illustrates that purely human perceptions in science may be ambiguous or inaccurate, even such a seemingly direct perception as relative color.  Similar illusions exist on the sky, such as the size of the Moon near the horizon, or the apparent shapes of astronomical objects.  The advent of automated, reproducible measuring devices such as CCDs have made science in general and astronomy in particular less prone to, but not free of, human-biased illusions.    APOD Year in Review (2023): RJN's Night Sky Network Lecture</p>
+        <strong><em></em></strong>
     </div>
 </div>
 
