@@ -57,14 +57,18 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2312/ngc2440e_hst_960.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2312/ngc2440e_hst_960.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2312/MoonAligned_Minato_960.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2312/MoonAligned_Minato_960.jpg" width="400" height="500" alt="
+Valerio Minato
+">
     </a>
     <div>
-        <h4>NGC 2440: Cocoon of a New White Dwarf</h4>
-        <time>2023-12-24</time>
-        <p>What's that in the center?  Like a butterfly, a white dwarf star begins its life by casting off a cocoon of gas that enclosed its former self.  In this analogy, however, the Sun would be a caterpillar and the ejected shell of gas would become the prettiest cocoon of all.  In the featured cocoon, the planetary nebula designated NGC 2440 contains one of the hottest white dwarf stars known.  The white dwarf can be seen as the bright orange dot near the image center.  Our Sun will eventually become a white dwarf butterfly, but not for another 5 billion years.</p>
-        <strong><em></em></strong>
+        <h4>Cathedral, Mountain, Moon</h4>
+        <time>2023-12-25</time>
+        <p>Single shots like this require planning.  The first step is to realize that such an amazing triple-alignment actually takes place. The second step is to find the best location to photograph it. But it was the third step: being there at exactly the right time -- and when the sky was clear -- that was the hardest. Five times over six years the photographer tried and found bad weather.  Finally, just ten days ago, the weather was perfect, and a photographic dream was realized. Taken in Piemonte, Italy, the cathedral in the foreground is the Basilica of Superga, the mountain in the middle is Monviso, and, well, you know which moon is in the background. Here, even though the setting Moon was captured in a crescent phase, the exposure was long enough for doubly reflected Earthlight, called the da Vinci glow, to illuminate the entire top of the Moon.    Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)</p>
+        <strong><em>
+Valerio Minato
+</em></strong>
     </div>
 </div>
 
