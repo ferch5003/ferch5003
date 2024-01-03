@@ -57,17 +57,21 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2401/FalconMoon_Madow_960.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2401/FalconMoon_Madow_960.jpg" width="400" height="500" alt="
-Steven Madow
+    <a href="https://apod.nasa.gov/apod/image/2401/SarArcNz_McDonald_960.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2401/SarArcNz_McDonald_960.jpg" width="400" height="500" alt="
+Tristian McDonald;
+Text: Tiffany Lewis 
+(Michigan Tech U.)
 ">
     </a>
     <div>
-        <h4>Rocket Transits Rippling Moon</h4>
-        <time>2024-01-02</time>
-        <p>Can a rocket make the Moon ripple? No, but it can make a background moon appear wavy.  The rocket, in this case, was a SpaceX Falcon Heavy that blasted off from NASA's Kennedy Space Center last week. In the featured launch picture, the rocket's exhaust plume glows beyond its projection onto the distant, rising, and nearly full moon.  Oddly, the Moon's lower edge shows unusual drip-like ripples. The Moon itself, far in the distance, was really unchanged.  The physical cause of these apparent ripples was pockets of relatively hot or rarefied air deflecting moonlight less strongly than pockets of relatively cool or compressed air: refraction. Although the shot was planned, the timing of the launch had to be just right for the rocket to be transiting the Moon during this single exposure.</p>
+        <h4>A SAR Arc from New Zealand</h4>
+        <time>2024-01-03</time>
+        <p>What is that unusual red halo surrounding this aurora?  It is a Stable Auroral Red (SAR) arc. SAR arcs are rare and have only been acknowledged and studied since 1954.  The featured wide-angle photograph, capturing nearly an entire SAR arc surrounding more common green and red aurora, was taken earlier this month from Poolburn, New Zealand, during an especially energetic geomagnetic storm. Why SAR arcs form remains a topic of research, but is likely related to Earth's protective magnetic field, a field created by molten iron flowing deep inside the Earth.  This magnetic field usually redirects incoming charged particles from the Sun's wind toward the Earth's poles. However, it also traps a ring of ions closer to the equator, where they can gain energy from the magnetosphere during high solar activity. The energetic electrons in this ion ring can collide with and excite oxygen higher in Earth's ionosphere than typical auroras, causing the oxygen to glow red. Ongoing research has uncovered evidence that a red SAR arc can even transform into a purple and green STEVE.</p>
         <strong><em>
-Steven Madow
+Tristian McDonald;
+Text: Tiffany Lewis 
+(Michigan Tech U.)
 </em></strong>
     </div>
 </div>
