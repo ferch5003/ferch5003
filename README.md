@@ -57,13 +57,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2401/CatsEye_HubblePohl_960.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2401/CatsEye_HubblePohl_960.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2401/VenusPhases_Gonzales_960.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2401/VenusPhases_Gonzales_960.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>The Cat's Eye Nebula in Optical and X-ray</h4>
-        <time>2024-01-07</time>
-        <p>To some it looks like a cat's eye. To others, perhaps like a giant cosmic conch shell.  It is actually one of the brightest and most highly detailed planetary nebula known, composed of gas expelled in the brief yet glorious phase near the end of life of a Sun-like star. This nebula's dying central star may have produced the outer circular concentric shells by shrugging off outer layers in a series of regular convulsions. The formation of the beautiful, complex-yet-symmetric inner structures, however, is not well understood. The featured image is a composite of a digitally sharpened Hubble Space Telescope image with X-ray light captured by the orbiting Chandra Observatory.  The exquisite floating space statue spans over half a light-year across. Of course, gazing into this Cat's Eye, humanity may well be seeing the fate of our sun, destined to enter its own planetary nebula phase of evolution ... in about 5 billion years.   Free APOD Lecture: January 9, 2024 to the Amateur Astronomers of Association of New York</p>
+        <h4>The Phases of Venus</h4>
+        <time>2024-01-08</time>
+        <p>Venus goes through phases.  Just like our Moon, Venus can appear as a full circular disk, a thin crescent, or anything in between.  Venus, frequently the brightest object in the post-sunset or pre-sunrise sky, appears so small, however, that it usually requires binoculars or a small telescope to clearly see its current phase.  The featured time-lapse sequence was taken over the course of six months in 2015 from Surgères, Charente-Maritime, France, and shows not only how Venus changes phase, but changes angular size as well. When Venus is on the far side of the Sun from the Earth, it appears angularly smallest and nearest to full phase, while when Venus and Earth are on the same side of the Sun, Venus appears larger, but as a crescent. This month Venus rises before dawn in waxing gibbous phases.    Free APOD Lecture: January 9, 2024 to the Amateur Astronomers of Association of New York</p>
         <strong><em></em></strong>
     </div>
 </div>
