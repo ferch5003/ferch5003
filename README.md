@@ -57,14 +57,18 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2401/22halo_Zboran1115.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2401/22halo_Zboran1115.jpg" width="400" height="500" alt="Radoslav Zboran">
+    <a href="https://apod.nasa.gov/apod/image/2401/DragonAurora_Zhang_960.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2401/DragonAurora_Zhang_960.jpg" width="400" height="500" alt="
+Jingyi Zhang & Wang Zheng
+">
     </a>
     <div>
-        <h4>Circling the Sun</h4>
-        <time>2024-01-13</time>
-        <p>rth's orbit around the Sun is not a circle, it's an ellipse. The point along its elliptical orbit where our fair planet is closest to the Sun is called perihelion. This year, perihelion was on January 2 at 01:00 UTC, with the Earth about 3 million miles closer to the Sun than it was at aphelion (last July 6), the farthest point in its elliptical orbit. Of course, distance from the Sun doesn't determine the seasons, and it doesn't the determine size of Sun halos. Easier to see with the Sun hidden behind a tall tree trunk, this beautiful ice halo forms a 22 degree-wide circle around the Sun, recorded while strolling through the countryside near Heroldstatt, Germany. The Sun halo's 22 degree angular diameter is determined by the six-sided geometry of water ice crystals drifting high in planet Earth's atmosphere.</p>
-        <strong><em>Radoslav Zboran</em></strong>
+        <h4>Dragon Aurora over Iceland</h4>
+        <time>2024-01-14</time>
+        <p>Have you ever seen a dragon in the sky? Although real flying dragons don't exist, a huge dragon-shaped aurora developed in the sky over Iceland in 2019.  The aurora was caused by a hole in the Sun's corona that expelled charged particles into a solar wind that followed a changing interplanetary magnetic field to Earth's magnetosphere.  As some of those particles then struck Earth's atmosphere, they excited atoms which subsequently emitted light: aurora. This iconic display was so enthralling that the photographer's mother ran out to see it and was captured in the foreground.  Our active Sun continues to show an unusually high number of prominences, filaments, sunspots, and large active regions as solar maximum approaches in 2025.</p>
+        <strong><em>
+Jingyi Zhang & Wang Zheng
+</em></strong>
     </div>
 </div>
 
