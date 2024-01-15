@@ -57,18 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2401/DragonAurora_Zhang_960.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2401/DragonAurora_Zhang_960.jpg" width="400" height="500" alt="
-Jingyi Zhang & Wang Zheng
-">
+    <a href="https://apod.nasa.gov/apod/image/2401/IC348_webb_960.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2401/IC348_webb_960.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Dragon Aurora over Iceland</h4>
-        <time>2024-01-14</time>
-        <p>Have you ever seen a dragon in the sky? Although real flying dragons don't exist, a huge dragon-shaped aurora developed in the sky over Iceland in 2019.  The aurora was caused by a hole in the Sun's corona that expelled charged particles into a solar wind that followed a changing interplanetary magnetic field to Earth's magnetosphere.  As some of those particles then struck Earth's atmosphere, they excited atoms which subsequently emitted light: aurora. This iconic display was so enthralling that the photographer's mother ran out to see it and was captured in the foreground.  Our active Sun continues to show an unusually high number of prominences, filaments, sunspots, and large active regions as solar maximum approaches in 2025.</p>
-        <strong><em>
-Jingyi Zhang & Wang Zheng
-</em></strong>
+        <h4>Star Cluster IC 348 from Webb</h4>
+        <time>2024-01-15</time>
+        <p>Sometimes, it's the stars that are the hardest to see that are the most interesting. IC 348 is a young star cluster that illuminates surrounding filamentary dust.  The stringy and winding dust appears pink in this recently released infrared image from the Webb Space Telescope. In visible light, this dust reflects mostly blue light, giving the surrounding material the familiar blue hue of a reflection nebula.  Besides bright stars, several cool objects have been located in IC 348, visible because they glow brighter in infrared light.  These objects are hypothesized to be low mass brown dwarfs.  Evidence for this includes the detection of an unidentified atmospheric chemical, likely a hydrocarbon, seen previously in the atmosphere of Saturn. These objects appear to have masses slightly greater than known planets, only a few times greater than Jupiter.  Together, these indicate that this young star cluster contains something noteworthy -- young planet-mass brown dwarfs that float free, not orbiting any other star.</p>
+        <strong><em></em></strong>
     </div>
 </div>
 
