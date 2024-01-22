@@ -57,14 +57,18 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2401/snowpoles_brinkman_960.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2401/snowpoles_brinkman_960.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2401/GrivolaMoon_Micon_1080.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2401/GrivolaMoon_Micon_1080.jpg" width="400" height="500" alt="
+Enzo Massa Micon
+">
     </a>
     <div>
-        <h4>The Upper Michigan Blizzard of 1938</h4>
-        <time>2024-01-21</time>
-        <p>Yes, but can your blizzard do this? In the Upper Peninsula of Michigan's Storm of the Century in 1938, some snow drifts reached the level of utility poles. Nearly a meter of new and unexpected snow fell over two days in a storm that started 86 years ago this week.  As snow fell and gale-force winds piled snow to surreal heights, many roads became not only impassable but unplowable; people became stranded, cars, school buses and a train became mired, and even a dangerous fire raged. Two people were killed and some students were forced to spend several consecutive days at school.  The featured image was taken by a local resident soon after the storm. Although all of this snow eventually melted, repeated snow storms like this help build lasting glaciers in snowy regions of our planet Earth.</p>
-        <strong><em></em></strong>
+        <h4>Shadows of Mountain and Moon</h4>
+        <time>2024-01-22</time>
+        <p>Can the Moon and a mountain really cast similar shadows? Yes, but the division between light and dark does not have to be aligned. Pictured, a quarter moon was captured above the mountain Grivola in Italy in early October of 2022.  The Sun is to the right of the featured picturesque landscape, illuminating the right side of the Moon in a similar way that it illuminates the right side of the mountain. This lunar phase is called "quarter" because the lit fraction visible from Earth is one quarter of the entire lunar surface.  Digital post-processing of this single exposure gave both  gigantic objects more prominence. Capturing the terminator of this quarter moon in close alignment with nearly vertical mountain ridge required careful timing because the Earth rotates once a day.</p>
+        <strong><em>
+Enzo Massa Micon
+</em></strong>
     </div>
 </div>
 
