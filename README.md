@@ -57,17 +57,17 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2401/GrivolaMoon_Micon_1080.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2401/GrivolaMoon_Micon_1080.jpg" width="400" height="500" alt="
-Enzo Massa Micon
+    <a href="https://apod.nasa.gov/apod/image/2401/SeagullToCalifornia_Symon_960.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2401/SeagullToCalifornia_Symon_960.jpg" width="400" height="500" alt="
+Alistair Symon
 ">
     </a>
     <div>
-        <h4>Shadows of Mountain and Moon</h4>
-        <time>2024-01-22</time>
-        <p>Can the Moon and a mountain really cast similar shadows? Yes, but the division between light and dark does not have to be aligned. Pictured, a quarter moon was captured above the mountain Grivola in Italy in early October of 2022.  The Sun is to the right of the featured picturesque landscape, illuminating the right side of the Moon in a similar way that it illuminates the right side of the mountain. This lunar phase is called "quarter" because the lit fraction visible from Earth is one quarter of the entire lunar surface.  Digital post-processing of this single exposure gave both  gigantic objects more prominence. Capturing the terminator of this quarter moon in close alignment with nearly vertical mountain ridge required careful timing because the Earth rotates once a day.</p>
+        <h4>Deep Nebulas: From Seagull to California</h4>
+        <time>2024-01-23</time>
+        <p>How well do you know the night sky? OK, but how well can you identify famous sky objects in a very deep image? Either way, here is a test: see if you can find some well-known night-sky icons in a deep image filled with faint nebulosity.  This image contains the Pleiades star cluster, Barnard's Loop, Horsehead Nebula, Orion Nebula, Rosette Nebula, Cone Nebula, Rigel, Jellyfish Nebula, Monkey Head Nebula, Flaming Star Nebula, Tadpole Nebula, Aldebaran, Simeis 147, Seagull Nebula and the California Nebula. To find their real locations, here is an annotated image version.  The reason this task might be difficult is similar to the reason it is initially hard to identify familiar constellations in a very dark sky: the tapestry of our night sky has an extremely deep hidden complexity.  The featured composite reveals some of this complexity in a mosaic of 28 images taken over 800 hours from dark skies over Arizona, USA.</p>
         <strong><em>
-Enzo Massa Micon
+Alistair Symon
 </em></strong>
     </div>
 </div>
