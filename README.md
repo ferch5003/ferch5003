@@ -57,14 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2401/Full_Moon_Jan_24_Beletsky1024c.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2401/Full_Moon_Jan_24_Beletsky1024c.jpg" width="400" height="500" alt="Yuri Beletsky">
+    <a href="https://apod.nasa.gov/apod/image/2401/PlutoTrueColor_NewHorizons_960.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2401/PlutoTrueColor_NewHorizons_960.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Full Observatory Moon</h4>
-        <time>2024-01-27</time>
-        <p>A popular name for January's full moon in the northern hemisphere is the Full Wolf Moon. As the new year's first full moon, it rises over Las Campanas Observatory in this dramatic Earth-and-moonscape. Peering from the foreground like astronomical eyes are the observatory's twin 6.5 meter diameter Magellan telescopes. The snapshot was captured with telephoto lens across rugged terrain in the Chilean Atacama Desert, taken at a distance of about 9 miles from the observatory and about 240,000 miles from the lunar surface. Of course the first full moon of the lunar new year, known to some as the Full Snow Moon, will rise on February 24.</p>
-        <strong><em>Yuri Beletsky</em></strong>
+        <h4>Pluto in True Color</h4>
+        <time>2024-01-28</time>
+        <p>What color is Pluto, really? It took some effort to figure out.  Even given all of the images sent back to Earth when the robotic New Horizons spacecraft sped past Pluto in 2015, processing these multi-spectral frames to approximate what the human eye would see was challenging. The result featured here, released three years after the raw data was acquired by New Horizons, is the highest resolution true color image of Pluto ever taken. Visible in the image is the light-colored, heart-shaped, Tombaugh Regio, with the unexpectedly smooth Sputnik Planitia, made of frozen nitrogen, filling its western lobe. New Horizons found the dwarf planet to have a surprisingly complex surface composed of many regions having perceptibly different hues.  In total, though, Pluto is mostly brown, with much of its muted color originating from small amounts of surface methane energized by ultraviolet light from the Sun. 	</p>
+        <strong><em></em></strong>
     </div>
 </div>
 
