@@ -57,18 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2401/OrionRising_Slipko_960.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2401/OrionRising_Slipko_960.jpg" width="400" height="500" alt="
-Marcin Ślipko
-">
+    <a href="https://apod.nasa.gov/apod/image/2402/NGC1365_v4_1024.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2402/NGC1365_v4_1024.jpg" width="400" height="500" alt="Jean-Baptiste Auroux">
     </a>
     <div>
-        <h4>Camera Orion Rising</h4>
-        <time>2024-01-31</time>
-        <p>What does Orion rising look like to a camera? During this time of the year, the famous constellation is visible to the southeast just after sunset. From most Earthly locations, Orion's familiar star pattern, highlighted by the three-stars-in-a-row belt stars, rises sideways. An entire section of the night sky that includes Orion was photographed rising above Śnieżka, a mountain on the border between Poland and the Czech Republic.  The long duration exposure sequence brings up many faint features including the Orion and Flame Nebulas, both encompassed by the curving Barnard's Loop. The featured wide-angle camera composite also captured night sky icons including the blue Pleiades star cluster at the image top and the red Rosette Nebula to the left of Orion. Famous stars in the frame include Sirius, Betelgeuse, Rigel and Aldebaran. Orion will appear successively higher in the sky at sunset during the coming months.</p>
-        <strong><em>
-Marcin Ślipko
-</em></strong>
+        <h4>NGC 1365: Majestic Island Universe</h4>
+        <time>2024-02-01</time>
+        <p>Barred spiral galaxy NGC 1365 is truly a majestic island universe some 200,000 light-years across. Located a mere 60 million light-years away toward the faint but heated constellation Fornax, NGC 1365 is a dominant member of the well-studied Fornax Cluster of galaxies. This sharp color image shows the intense, reddish star forming regions near the ends of the galaxy's central bar and along its spiral arms. Seen in fine detail, obscuring dust lanes cut across the galaxy's bright core. At the core lies a supermassive black hole. Astronomers think NGC 1365's prominent bar plays a crucial role in the galaxy's evolution, drawing gas and dust into a star-forming maelstrom and ultimately feeding material into the central black hole.</p>
+        <strong><em>Jean-Baptiste Auroux</em></strong>
     </div>
 </div>
 
