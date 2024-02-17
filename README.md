@@ -57,14 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2402/12P_Pons_Brooks_2024_02_11_185335PST_JuneLake_DEBartlett800.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2402/12P_Pons_Brooks_2024_02_11_185335PST_JuneLake_DEBartlett800.jpg" width="400" height="500" alt="Dan Bartlett">
+    <a href="https://apod.nasa.gov/apod/image/2402/MeteorBayofNaples_V2_1024.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2402/MeteorBayofNaples_V2_1024.jpg" width="400" height="500" alt="Wang Letian">
     </a>
     <div>
-        <h4>Structure in the Tail of Comet 12P/Pons-Brooks</h4>
-        <time>2024-02-16</time>
-        <p>Heading for its next perihelion passage on April 21, Comet 12P/Pons-Brooks is growing brighter. The greenish coma of this periodic Halley-type comet has become relatively easy to observe in small telescopes. But the bluish ion tail now streaming from the active comet's coma and buffeted by the solar wind, is faint and difficult to follow. Still, in this image stacked exposures made on the night of February 11 reveal the fainter tail's detailed structures. The frame spans over two degrees across a background of faint stars and background galaxies toward the northern constellation Lacerta. Of course Comet 12P's April 21 perihelion passage will be only two weeks after the April 8 total solar eclipse, putting the comet in planet Earth's sky along with a totally eclipsed Sun.</p>
-        <strong><em>Dan Bartlett</em></strong>
+        <h4>Meteor over the Bay of Naples</h4>
+        <time>2024-02-17</time>
+        <p>A cosmic dust grain plowing through the upper atmosphere much faster than a falling leaf created this brilliant meteor streak. In a serendipitous moment, the sublime night sky view was captured from the resort island of Capri, in the Bay of Naples, on the evening of February 8. Looking across the bay, the camera faces northeast toward the lights of Naples and surrounding cities. Pointing toward the horizon, the meteor streak by chance ends above the silhouette of Mount Vesuvius. One of planet Earth's most famous volcanos, an eruption of Mount Vesuvius destroyed the city of Pompeii in 79 AD.</p>
+        <strong><em>Wang Letian</em></strong>
     </div>
 </div>
 
