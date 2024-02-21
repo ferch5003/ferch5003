@@ -57,14 +57,18 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2402/AM1054_Hubble_960.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2402/AM1054_Hubble_960.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2402/SeagullPinnacles_Venkatraman_960.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2402/SeagullPinnacles_Venkatraman_960.jpg" width="400" height="500" alt="
+Dheera Venkatraman
+">
     </a>
     <div>
-        <h4>AM1054: Stars Form as Galaxies Collide</h4>
-        <time>2024-02-20</time>
-        <p>When galaxies collide, how many stars are born?  For AM1054-325, featured here in a recently released image by the Hubble Space Telescope, the answer is millions. Instead of stars being destroyed as galaxy AM1054-325 and a nearby galaxy circle each other, their gravity and motion has ignited stellar creation.  Star formation occurs rapidly in the gaseous debris stretching from AM1054-325’s yellowish body due to the other galaxy’s gravitational pull.  Hydrogen gas surrounding newborn stars glows pink.  Bright infant stars shine blue and cluster together in compact nurseries of thousands to millions of stars. AM1054-325 possesses over 100 of these intense-blue, dot-like star clusters, some appearing like a string of pearls.  Analyzing ultraviolet light helped determine that most of these stars are less than 10 million years old: stellar babies.  Many of these nurseries may grow up to be globular star clusters, while the bundle of young stars at the bottom tip may even detach and form a small galaxy.</p>
-        <strong><em></em></strong>
+        <h4>Seagull Nebula over Pinnacles' Peak</h4>
+        <time>2024-02-21</time>
+        <p>The bird is bigger than the peak.  Nicknamed for its avian shape, the Seagull Nebula is an emission nebula on the night sky that is vast, spanning an angle over five times the diameter of the full moon and over 200 light years.  The head of the nebula is catalogued as IC 2177, and the star cluster under its right wing is catalogued as NGC 2343. Consisting of mostly red-glowing hydrogen gas, the Seagull Nebula incorporates some dust lanes and is forming stars.  The peak over which this Seagull seems to soar occurs at Pinnacles National Park in California, USA.  The featured image is a composite of long exposure images of the background sky and short exposure images of the foreground, all taken consecutively with the same camera and from the same location.    Explore Your Universe: Random APOD Generator</p>
+        <strong><em>
+Dheera Venkatraman
+</em></strong>
     </div>
 </div>
 
