@@ -57,18 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2402/SeagullPinnacles_Venkatraman_960.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2402/SeagullPinnacles_Venkatraman_960.jpg" width="400" height="500" alt="
-Dheera Venkatraman
-">
+    <a href="https://apod.nasa.gov/apod/image/2402/M106field_KyunghoonLim1024.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2402/M106field_KyunghoonLim1024.jpg" width="400" height="500" alt="Kyunghoon Lim">
     </a>
     <div>
-        <h4>Seagull Nebula over Pinnacles' Peak</h4>
-        <time>2024-02-21</time>
-        <p>The bird is bigger than the peak.  Nicknamed for its avian shape, the Seagull Nebula is an emission nebula on the night sky that is vast, spanning an angle over five times the diameter of the full moon and over 200 light years.  The head of the nebula is catalogued as IC 2177, and the star cluster under its right wing is catalogued as NGC 2343. Consisting of mostly red-glowing hydrogen gas, the Seagull Nebula incorporates some dust lanes and is forming stars.  The peak over which this Seagull seems to soar occurs at Pinnacles National Park in California, USA.  The featured image is a composite of long exposure images of the background sky and short exposure images of the foreground, all taken consecutively with the same camera and from the same location.    Explore Your Universe: Random APOD Generator</p>
-        <strong><em>
-Dheera Venkatraman
-</em></strong>
+        <h4>A View Toward M106</h4>
+        <time>2024-02-22</time>
+        <p>Big, bright, beautiful spiral, Messier 106 dominates this cosmic vista. The nearly two degree wide telescopic field of view looks toward the well-trained constellation Canes Venatici, near the handle of the Big Dipper. Also known as NGC 4258, M106 is about 80,000 light-years across and 23.5 million light-years away, the largest member of the Canes II galaxy group. For a far far away galaxy, the distance to M106 is well-known in part because it can be directly measured by tracking this galaxy's remarkable maser, or microwave laser emission. Very rare but naturally occurring, the maser emission is produced by water molecules in molecular clouds orbiting its active galactic nucleus. Another prominent spiral galaxy on the scene, viewed nearly edge-on, is NGC 4217 below and right of M106. The distance to NGC 4217 is much less well-known, estimated to be about 60 million light-years, but the bright spiky stars are in the foreground, well inside our own Milky Way galaxy.</p>
+        <strong><em>Kyunghoon Lim</em></strong>
     </div>
 </div>
 
