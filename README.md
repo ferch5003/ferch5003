@@ -57,14 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2402/M106field_KyunghoonLim1024.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2402/M106field_KyunghoonLim1024.jpg" width="400" height="500" alt="Kyunghoon Lim">
+    <a href="https://apod.nasa.gov/apod/image/2402/NGC2736_Helge_Buesing1024.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2402/NGC2736_Helge_Buesing1024.jpg" width="400" height="500" alt="Helge Buesing">
     </a>
     <div>
-        <h4>A View Toward M106</h4>
-        <time>2024-02-22</time>
-        <p>Big, bright, beautiful spiral, Messier 106 dominates this cosmic vista. The nearly two degree wide telescopic field of view looks toward the well-trained constellation Canes Venatici, near the handle of the Big Dipper. Also known as NGC 4258, M106 is about 80,000 light-years across and 23.5 million light-years away, the largest member of the Canes II galaxy group. For a far far away galaxy, the distance to M106 is well-known in part because it can be directly measured by tracking this galaxy's remarkable maser, or microwave laser emission. Very rare but naturally occurring, the maser emission is produced by water molecules in molecular clouds orbiting its active galactic nucleus. Another prominent spiral galaxy on the scene, viewed nearly edge-on, is NGC 4217 below and right of M106. The distance to NGC 4217 is much less well-known, estimated to be about 60 million light-years, but the bright spiky stars are in the foreground, well inside our own Milky Way galaxy.</p>
-        <strong><em>Kyunghoon Lim</em></strong>
+        <h4>The Pencil Nebula Supernova Shock Wave</h4>
+        <time>2024-02-23</time>
+        <p>This supernova shock wave plows through interstellar space at over 500,000 kilometers per hour. Centered and moving upward in the sharply detailed color composite its thin, bright, braided filaments are actually long ripples in a cosmic sheet of glowing gas seen almost edge-on. Discovered in the 1840s by Sir John Herschel, the narrow-looking nebula is sometimes known as Herschel's Ray. Cataloged as NGC 2736, its pointed appearance suggests its modern popular name, the Pencil Nebula. The Pencil Nebula is about 800 light-years away. Nearly 5 light-years long it represents only a small part of the Vela supernova remnant though. The enormous Vela remnant itself is around 100 light-years in diameter, the expanding debris cloud of a star that was seen to explode about 11,000 years ago. Initially, the section of the shock wave seen as the Pencil nebula was moving at millions of kilometers per hour but has slowed considerably, sweeping up surrounding interstellar material.</p>
+        <strong><em>Helge Buesing</em></strong>
     </div>
 </div>
 
