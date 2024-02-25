@@ -57,14 +57,22 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2402/im-moon-imageFeb23_1024.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2402/im-moon-imageFeb23_1024.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2402/PhoenixAurora_Helgason_960.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2402/PhoenixAurora_Helgason_960.jpg" width="400" height="500" alt="
+Hallgrimur P. Helgason;
+ Rollover Annotation: 
+Judy Schmidt
+">
     </a>
     <div>
-        <h4>To the Moon</h4>
-        <time>2024-02-24</time>
-        <p>Intuitive Machines' robotic lander Odysseus has accomplished the first U.S. landing on the Moon since the Apollo 17 mission in 1972. Launched on a SpaceX rocket on February 15, the phone booth sized lander reached lunar orbit on the 21st and touched down on the lunar surface at 6:23 pm ET on February 22nd. Its landing region is about 300 kilometers north of the Moon's south pole, near a crater designated Malapert A. The lander is presently collecting solar power and transmitting data back to the Intuitive Machines' mission control center in Houston. The mission marks the first commercial uncrewed landing on the Moon. Prior to landing, Odysseus’ camera captured this extreme wide angle image (landing legs visible at right) as it flew over Schomberger crater some 200 kilometers from its landing site. Odysseus was still about 10 kilometers above the lunar surface.</p>
-        <strong><em></em></strong>
+        <h4>A Phoenix Aurora over Iceland</h4>
+        <time>2024-02-25</time>
+        <p>All of the other aurora watchers had gone home. By 3:30 am in Iceland, on a quiet September night, much of that night's auroras had died down. Suddenly, unexpectedly, a new burst of particles streamed down from space, lighting up the Earth's atmosphere once again. This time, surprisingly, pareidoliacally, the night lit up with an  amazing shape reminiscent of a giant phoenix. With camera equipment at the ready, two quick sky images were taken, followed immediately by a third of the land.  The mountain in the background is Helgafell, while the small foreground river is called Kaldá, both located about 30 kilometers north of Iceland's capital Reykjavík. Seasoned skywatchers will note that just above the mountain, toward the left, is the constellation of Orion, while the Pleiades star cluster is also visible just above the frame center.  The 2016 aurora, which lasted only a minute and was soon gone forever --  would possibly be dismissed as a fanciful fable -- were it not captured in the featured, digitally-composed, image mosaic.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)</p>
+        <strong><em>
+Hallgrimur P. Helgason;
+ Rollover Annotation: 
+Judy Schmidt
+</em></strong>
     </div>
 </div>
 
