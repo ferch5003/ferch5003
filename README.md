@@ -57,14 +57,20 @@
 ### Do you know...
 
 <div>
-    <a href="https://youtube.com/embed/hwQTH0IGrwE?rel=0">
-      <img align="left" src="https://youtube.com/embed/hwQTH0IGrwE?rel=0" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2402/Simeis147_Vetter_960.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2402/Simeis147_Vetter_960.jpg" width="400" height="500" alt="
+Stéphane Vetter
+(Nuits sacrées)
+">
     </a>
     <div>
-        <h4>Martian Moon Eclipses Martian Moon</h4>
-        <time>2024-02-26</time>
-        <p>What if there were two moons in the sky -- and they eclipsed each other? This happens on Mars. The featured video shows a version of this unusual eclipse from space. Pictured are the two moons of Mars: the larger Phobos, which orbits closer to the red planet, and the smaller Deimos, which orbits further out. The sequence was captured last year by the ESA’s Mars Express, a robotic spacecraft that itself orbits Mars. A similar eclipse is visible from the Martian surface, although very rarely.  From the surface, though, the closer moon Phobos would appear to pass in front of farther moon Deimos. Most oddly, both moons orbit Mars so close that they appear to move backwards when compared to Earth's Moon from Earth, both rising in west and setting in the east. Phobos, the closer moon, orbits so close and so fast that it passes nearly overhead about three times a day.</p>
-        <strong><em></em></strong>
+        <h4>Supernova Remnant Simeis 147</h4>
+        <time>2024-02-27</time>
+        <p>It's easy to get lost following the intricate, looping, and twisting filaments of supernova remnant Simeis 147.  Also cataloged as Sharpless 2-240, the filamentary nebula goes by the popular nickname the Spaghetti Nebula.  Seen toward the boundary of the constellations of the Bull (Taurus) and the Charioteer (Auriga), the impressive gas structure covers nearly 3 degrees on the sky, equivalent to 6 full moons. That's about 150 light-years at the stellar debris cloud's estimated distance of 3,000 light-years.  This composite image includes data taken through narrow-band filters isolating emission from hydrogen (red) and oxygen (blue) glowing gas. The supernova remnant has an estimated age of about 40,000 years, meaning light from this massive stellar explosion first reached the Earth when woolly mammoths roamed free.  Besides the expanding remnant, this cosmic catastrophe left behind a pulsar: a spinning neutron star that is the remnant of the original star's core.</p>
+        <strong><em>
+Stéphane Vetter
+(Nuits sacrées)
+</em></strong>
     </div>
 </div>
 
