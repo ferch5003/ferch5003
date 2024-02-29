@@ -57,18 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2402/TwilightShades_Giannobile_1080.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2402/TwilightShades_Giannobile_1080.jpg" width="400" height="500" alt="
-Dario Giannobile
-">
+    <a href="https://apod.nasa.gov/apod/image/2402/CaesarCoin_Wikipedia_960.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2402/CaesarCoin_Wikipedia_960.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Shades of Night</h4>
-        <time>2024-02-28</time>
-        <p>How does the sky turn dark at night? In stages, and with different characteristic colors rising from the horizon. The featured image shows, left to right, increasingly late twilight times after sunset in 20 different vertical bands. The picture was taken last month in Syracuse, Sicily, Italy, in the direction opposite the Sun. On the far left is the pre-sunset upper sky.  Toward the right, prominent bands include the Belt of Venus, the Blue Band, the Horizon Band, and the Red Band. As the dark shadow of the Earth rises, the colors in these bands are caused by direct sunlight reflecting from air and aerosols in the Earth's atmosphere, multiple reflections sometimes involving a reddened sunset, and refraction. In practice, these bands can be diffuse and hard to discern, and their colors can depend on colors near the setting Sun. Finally, the Sun completely sets and the sky becomes dark. Don't despair -- the whole thing will happen in reverse when the Sun rises again in the morning.</p>
-        <strong><em>
-Dario Giannobile
-</em></strong>
+        <h4>Julius Caesar and Leap Days</h4>
+        <time>2024-02-29</time>
+        <p>In 46 BC Julius Caesar reformed the calendar system. Based on advice by astronomer Sosigenes of Alexandria, the Julian calendar included one leap day every four years to account for the fact that an Earth year is slightly more than 365 days long. In modern terms, the time it takes for the planet to orbit the Sun once is 365.24219 mean solar days. So if calendar years contained exactly 365 days they would drift from the Earth's year by about 1 day every 4 years and eventually July (named for Julius Caesar himself) would occur during the northern hemisphere winter. By adopting a leap year with an extra day every four years, the Julian calendar year would drift much less. In 1582 Pope Gregory XIII provided the further fine-tuning that leap days should not occur in years ending in 00, unless divisible by 400. This Gregorian Calendar system is the one in wide use today. Of course, tidal friction in the Earth-Moon system slows Earth's rotation and gradually lengthens the day by about 1.4 milliseconds per century. That means that leap days like today will not be necessary, about 4 million years from now. This Roman silver coin, a denarius, depicts Julius Caesar (left) and Venus, Roman goddess of love.</p>
+        <strong><em></em></strong>
     </div>
 </div>
 
