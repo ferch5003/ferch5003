@@ -57,14 +57,26 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2403/IM_Odysseus_landing-1100x600.png">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2403/IM_Odysseus_landing-1100x600.png" width="400" height="500" alt="">
+    <a href="https://www.youtube.com/embed/5D9j-8Vhyto?rel=0&showinfo=0">
+      <img align="left" src="https://www.youtube.com/embed/5D9j-8Vhyto?rel=0&showinfo=0" width="400" height="500" alt="
+Jun Ho Oh (KAIST, 
+HuboLab); 
+ Music: 
+Flowing Air by 
+Mattia Vlad Morleo
+">
     </a>
     <div>
-        <h4>Odysseus on the Moon</h4>
-        <time>2024-03-02</time>
-        <p>Methalox rocket engine firing, Odysseus' landing legs absorb first contact with the lunar surface in this wide-angle snapshot from a camera on board the robotic Intuitive Machines Nova-C moon lander. Following the landing on February 22, broken landing legs, visible in the image, ultimately left the lander at rest but tilted. Odysseus' gentle lean into a sloping lunar surface preserved the phone booth-sized lander's ability to operate, collect solar power, and return images and data to Earth. Its exact landing site in the Moon's far south polar region was imaged by NASA's Lunar Reconnaissance Orbiter. Donated by NASA, the American flag seen on the lander's central panel is 1970 Apollo program flight hardware.</p>
-        <strong><em></em></strong>
+        <h4>A Total Solar Eclipse Close-Up in Real Time</h4>
+        <time>2024-03-03</time>
+        <p>How would you feel if the Sun disappeared? Many eclipse watchers across the USA surprised themselves in 2017 with the awe that they felt and the exclamations that they made as the Sun momentarily disappeared behind the Moon. Perhaps expecting just a brief moment of dusk, the spectacle of unusually rapid darkness, breathtakingly bright glowing beads around the Moon's edge, shockingly pink solar prominences, and a strangely detailed corona stretching across the sky caught many a curmudgeon by surprise.  Many of these attributes  were captured in the featured real-time, three-minute video of 2017's total solar eclipse. The video frames were acquired in  Warm Springs, Oregon with equipment specifically designed by Jun Ho Oh to track a close-up of the Sun's periphery during eclipse.  As the video ends, the Sun is seen being reborn on the other side of the Moon from where it departed.  Next month, on April 8th, a new total solar eclipse will be visible in a thin band across North America.</p>
+        <strong><em>
+Jun Ho Oh (KAIST, 
+HuboLab); 
+ Music: 
+Flowing Air by 
+Mattia Vlad Morleo
+</em></strong>
     </div>
 </div>
 
