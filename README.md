@@ -57,17 +57,17 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2403/PillarsMongolia_Liao_960.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2403/PillarsMongolia_Liao_960.jpg" width="400" height="500" alt="
-N. D. Liao
+    <a href="https://apod.nasa.gov/apod/image/2403/AngelNebula_Moulton_960.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2403/AngelNebula_Moulton_960.jpg" width="400" height="500" alt="
+David Moulton
 ">
     </a>
     <div>
-        <h4>Light Pillars Over Inner Mongolia</h4>
-        <time>2024-03-04</time>
-        <p>What's happening across that field?  Pictured here are not auroras but nearby light pillars, a phenomenon typically much closer.   In most places on Earth, a lucky viewer can see a Sun pillar, a column of light appearing to extend up from the Sun caused by flat fluttering ice-crystals reflecting sunlight from the upper atmosphere.  Usually, these ice crystals evaporate before reaching the ground.  During freezing temperatures, however, flat fluttering ice crystals may form near the ground in a form of light snow  sometimes known as a crystal fog.  These ice crystals may then reflect ground lights in columns not unlike a Sun pillar.  The featured image was taken last month across the Wulan Butong Grasslands in Inner Mongolia, China.</p>
+        <h4>NGC 2170: Angel Nebula Abstract Art</h4>
+        <time>2024-03-05</time>
+        <p>Is this a painting or a photograph? In this celestial abstract art composed with a cosmic brush, dusty nebula NGC 2170, also known as the Angel Nebula, shines just above the image center. Reflecting the light of nearby hot stars, NGC 2170 is joined by other bluish reflection nebulae, a red emission region, many dark absorption nebulae, and a backdrop of colorful stars. Like the common household items that abstract painters often choose for their subjects, the clouds of gas, dust, and hot stars featured here are also commonly found in a setting like this one --  a massive, star-forming molecular cloud in the constellation of the Unicorn (Monoceros). The giant molecular cloud, Mon R2, is impressively close, estimated to be only 2,400 light-years or so away. At that distance, this canvas would be over 60 light-years across.</p>
         <strong><em>
-N. D. Liao
+David Moulton
 </em></strong>
     </div>
 </div>
