@@ -23,7 +23,7 @@ func TestTemplate_ParseSuccessful(t *testing.T) {
 	mainTemplate := NewTemplate()
 	mainTemplate.AddTemplates([]templates.Templater{nasaTemplate})
 
-	template := "{{.Title}} template from main template"
+	template := "{{.Nasa.APOD.Title}} template from main template"
 
 	// When
 	templateString, err := mainTemplate.Parse(template)
@@ -46,7 +46,7 @@ func TestTemplate_ParseErrorWrongURL(t *testing.T) {
 	mainTemplate := NewTemplate()
 	mainTemplate.AddTemplates([]templates.Templater{nasaTemplate})
 
-	template := "{{.Title}} template from main template"
+	template := "{{.Nasa.APOD.Title}} template from main template"
 
 	// When
 	templateString, err := mainTemplate.Parse(template)

@@ -1,6 +1,7 @@
 package nasa
 
 import (
+	"fmt"
 	"strings"
 	"text/template"
 
@@ -38,6 +39,8 @@ func (nt *nasaTemplate) Parse(in string) (string, error) {
 		}
 	}
 	nasaAPODValues.Nasa.APOD = response
+
+	fmt.Println(nasaAPODValues, err)
 
 	tmpl, err := template.New("nasa").Parse(in)
 	if err != nil {

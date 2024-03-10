@@ -1,6 +1,6 @@
 module github.com/ferch5003/ferch5003
 
-go 1.19
+go 1.22
 
 require (
 	github.com/google/go-querystring v1.1.0

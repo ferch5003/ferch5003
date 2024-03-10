@@ -18,7 +18,7 @@ func TestNasaTemplate_ParseSuccessful(t *testing.T) {
 	nasaClient := NewClient()
 	nasaTemplate := NewNasaTemplate(nasaClient)
 
-	template := "{{.Title}} template for nasa"
+	template := "{{.Nasa.APOD.Title}} template for nasa"
 
 	// When
 	templateString, err := nasaTemplate.Parse(template)
@@ -38,7 +38,7 @@ func TestNasaTemplate_ParseErrorWrongURL(t *testing.T) {
 	nasaClient := NewClient()
 	nasaTemplate := NewNasaTemplate(nasaClient)
 
-	template := "{{.Title}} template for nasa"
+	template := "{{.Nasa.APOD.Title}} template for nasa"
 
 	// When
 	templateString, err := nasaTemplate.Parse(template)

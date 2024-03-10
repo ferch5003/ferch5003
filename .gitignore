@@ -3,3 +3,6 @@
 
 # Envioromental variables.
 .env
+
+# Profiles.
+profile.cov
