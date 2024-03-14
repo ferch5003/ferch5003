@@ -57,18 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2403/Seagull_Lacroce_1080.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2403/Seagull_Lacroce_1080.jpg" width="400" height="500" alt="
-Gianni Lacroce
-">
+    <a href="https://apod.nasa.gov/apod/image/2403/MoonriseShadowDLopez_1024.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2403/MoonriseShadowDLopez_1024.jpg" width="400" height="500" alt="El Cielo de Canarias">
     </a>
     <div>
-        <h4>The Seagull Nebula</h4>
-        <time>2024-03-13</time>
-        <p>A broad expanse of glowing gas and dust presents a bird-like visage to astronomers from planet Earth, suggesting its popular moniker: the Seagull Nebula. This portrait of the cosmic bird covers a 1.6-degree wide swath across the plane of the Milky Way, near the direction of Sirius, the alpha star of the constellation of the Big Dog (Canis Major). Of course, the region includes objects with other catalog designations: notably NGC 2327, a compact, dusty emission and reflection nebula with an embedded massive star that forms the bird's head. Dominated by the reddish glow of atomic hydrogen, the complex of gas and dust clouds with bright young stars spans over 100 light-years at an estimated 3,800 light-year distance.   Almost Hyperspace: Random APOD Generator</p>
-        <strong><em>
-Gianni Lacroce
-</em></strong>
+        <h4>Moon Pi and Mountain Shadow</h4>
+        <time>2024-03-14</time>
+        <p>What phase of the Moon is 3.14 radians from the Sun? The Full Moon, of course. Even though the Moon might look full for several days, the Moon is truly at its full phase when it is Pi radians (aka 180 degrees) from the Sun in ecliptic longitude. That's opposite the Sun in planet Earth's sky. Rising as the Sun set on March 9, 2020, only an hour or so after the moment of its full phase, this orange tinted and slightly flattened Moon still looked full. It was photographed opposite the setting Sun from Teide National Park on the Canary Island of Tenerife. Also opposite the setting Sun, seen from near the Teide volcano peak about 3,500 meters above sea level, is the mountain's rising triangular shadow extending into Earth's dense atmosphere. Below the distant ridge line on the left are the white telescope domes of Teide Observatory. Again Pi radians from the Sun, on March 25 the Full Moon will dim slightly as it glides through Earth's outer shadow in a penumbral lunar eclipse.</p>
+        <strong><em>El Cielo de Canarias</em></strong>
     </div>
 </div>
 
