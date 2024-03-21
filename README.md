@@ -57,18 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2403/Ngc4438_Selby_960.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2403/Ngc4438_Selby_960.jpg" width="400" height="500" alt="
-Mike Selby
-">
+    <a href="https://apod.nasa.gov/apod/image/2403/leotripletasi294large1024.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2403/leotripletasi294large1024.jpg" width="400" height="500" alt="Steve Cannistra">
     </a>
     <div>
-        <h4>The Eyes in Markarian's Galaxy Chain</h4>
-        <time>2024-03-20</time>
-        <p>Across the heart of the Virgo Galaxy Cluster lies a string of galaxies known as Markarian's Chain. Prominent in Markarian's Chain are these two interacting galaxies, NGC 4438 (left) and NGC 4435 - also known as The Eyes. About 50 million light-years away, the two galaxies appear to be about 100,000 light-years apart in this sharp close-up, but have likely approached to within an estimated 16,000 light-years of each other in their cosmic past. Gravitational tides from the close encounter have ripped away at their stars, gas, and dust. The more massive NGC 4438 managed to hold on to much of the material torn out in the collision, while material from the smaller NGC 4435 was more easily lost. The remarkably deep image of this crowded region of the universe also includes many more distant background galaxies.</p>
-        <strong><em>
-Mike Selby
-</em></strong>
+        <h4>The Leo Trio</h4>
+        <time>2024-03-21</time>
+        <p>This popular group leaps into the early evening sky around the March equinox and the northern hemisphere spring.  Famous as the Leo Triplet, the three magnificent galaxies found in the prominent constellation Leo gather here in one astronomical field of view. Crowd pleasers when imaged with even modest telescopes, they can be introduced individually as NGC 3628 (left), M66 (bottom right), and M65 (top). All three are large spiral galaxies but tend to look dissimilar, because their galactic disks are tilted at different angles to our line of sight. NGC 3628, also known as the Hamburger Galaxy, is temptingly seen edge-on, with obscuring dust lanes cutting across its puffy galactic plane. The disks of M66 and M65 are both inclined enough to show off their spiral structure.  Gravitational interactions between galaxies in the group have left telltale signs, including the tidal tails and warped, inflated disk of NGC 3628 and the drawn out spiral arms of M66. This gorgeous view of the region spans over 1 degree (two full moons) on the sky in a frame that covers over half a million light-years at the trio's estimated distance of 30 million light-years.</p>
+        <strong><em>Steve Cannistra</em></strong>
     </div>
 </div>
 
