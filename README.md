@@ -57,14 +57,16 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2403/STSCI-MarsPhobosComp1024.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2403/STSCI-MarsPhobosComp1024.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2403/eclipse99_mir_960.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2403/eclipse99_mir_960.jpg" width="400" height="500" alt="CNES
+">
     </a>
     <div>
-        <h4>Phobos: Moon over Mars</h4>
-        <time>2024-03-22</time>
-        <p>A tiny moon with a scary name, Phobos emerges from behind the Red Planet in this timelapse sequence from the Earth-orbiting Hubble Space Telescope. Over 22 minutes the 13 separate exposures were captured near the 2016 closest approach of Mars to planet Earth. Martians have to look to the west to watch Phobos rise, though. The small moon is closer to its parent planet than any other moon in the Solar System, about 3,700 miles (6,000 kilometers) above the Martian surface. It completes one orbit in just 7 hours and 39 minutes. That's faster than a Mars rotation, which corresponds to about 24 hours and 40 minutes. So on Mars, Phobos can be seen to rise above the western horizon 3 times a day. Still, Phobos is doomed.</p>
-        <strong><em></em></strong>
+        <h4>Looking Back at an Eclipsed Earth</h4>
+        <time>2024-03-24</time>
+        <p>Here is what the Earth looks like during a solar eclipse. The shadow of the Moon can be seen darkening part of Earth. This shadow moved across the Earth at nearly 2000 kilometers per hour. Only observers near the center of the dark circle see a total solar eclipse - others see a partial eclipse where only part of the Sun appears blocked by the Moon. This spectacular picture of the 1999 August 11 solar eclipse was one of the last ever taken from the Mir space station. The two bright spots that appear on the upper left are thought to be Jupiter and Saturn. Mir was deorbited in a controlled re-entry in 2001. A new solar eclipse will occur over North America in about two weeks.</p>
+        <strong><em>CNES
+</em></strong>
     </div>
 </div>
 
