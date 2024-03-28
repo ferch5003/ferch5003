@@ -57,18 +57,16 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2403/ComaCluster_Hua_960.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2403/ComaCluster_Hua_960.jpg" width="400" height="500" alt="
-Joe Hua
-">
+    <a href="https://apod.nasa.gov/apod/image/2403/NGC5139_mdf1024.png">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2403/NGC5139_mdf1024.png" width="400" height="500" alt="
+Massimo Di Fusco">
     </a>
     <div>
-        <h4>The Coma Cluster of Galaxies</h4>
-        <time>2024-03-27</time>
-        <p>Almost every object in the featured photograph is a galaxy.  The Coma Cluster of Galaxies pictured here is one of the densest clusters known - it contains thousands of galaxies.  Each of these galaxies houses billions of stars - just as our own Milky Way Galaxy does.  Although nearby when compared to most other clusters, light from the Coma Cluster still takes hundreds of millions of years to reach us.  In fact, the Coma Cluster is so big it takes light millions of years just to go from one side to the other.  Most galaxies in Coma and other clusters are ellipticals, while most galaxies outside of clusters are spirals.  The nature of Coma's X-ray emission is still being investigated.</p>
+        <h4>Millions of Stars in Omega Centauri</h4>
+        <time>2024-03-28</time>
+        <p>Globular star cluster Omega Centauri, also known as NGC 5139, is 15,000 light-years away. The cluster is packed with about 10 million stars much older than the Sun within a volume about 150 light-years in diameter. It's the largest and brightest of 200 or so known globular clusters that roam the halo of our Milky Way galaxy. Though most star clusters consist of stars with the same age and composition, the enigmatic Omega Cen exhibits the presence of different stellar populations with a spread of ages and chemical abundances. In fact, Omega Cen may be the remnant core of a small galaxy merging with the Milky Way. With a yellowish hue, Omega Centauri's red giant stars are easy to pick out in this sharp, color telescopic view.</p>
         <strong><em>
-Joe Hua
-</em></strong>
+Massimo Di Fusco</em></strong>
     </div>
 </div>
 
