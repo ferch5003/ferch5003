@@ -57,17 +57,27 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2403/medieval_fragmentW600.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2403/medieval_fragmentW600.jpg" width="400" height="500" alt="Library of Melk Abbey, Frag. 229
-
+    <a href="https://apod.nasa.gov/apod/image/2403/EclipseAntarctica_Horalek_1080.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2403/EclipseAntarctica_Horalek_1080.jpg" width="400" height="500" alt="
+Petr Horálek
+(ESO
+Photo Ambassador,
+Inst. of Physics in Opava) ;
+ Acknowledgement: 
+Xavier Jubier
 ">
     </a>
     <div>
-        <h4>Medieval Astronomy from Melk Abbey</h4>
-        <time>2024-03-30</time>
-        <p>Discovered by accident, this manuscript page provides graphical insight to astronomy in medieval times, before the Renaissance and the influence of Nicolaus Copernicus, Tycho de Brahe, Johannes Kepler, and Galileo. The intriguing page is from lecture notes on astronomy compiled by the monk Magister Wolfgang de Styria before the year 1490. The top panels clearly illustrate the necessary geometry for a lunar (left) and solar eclipse in the Earth-centered Ptolemaic system. At lower left is a diagram of the Ptolemaic view of the Solar System with text at the upper right to explain the movement of the planets according to Ptolemy's geocentric model. At the lower right is a chart to calculate the date of Easter Sunday in the Julian calendar. The illustrated manuscript page was found at historic Melk Abbey in Austria.</p>
-        <strong><em>Library of Melk Abbey, Frag. 229
-
+        <h4>Total Solar Eclipse Below the Bottom of the World</h4>
+        <time>2024-03-31</time>
+        <p>In late 2021 there was a total solar eclipse visible only at the end of the Earth.  To capture the unusual phenomenon, airplanes took flight below the clouded seascape of Southern Ocean. The featured image shows one relatively spectacular capture where the bright spot is the outer corona of the Sun and the eclipsing Moon is seen as the dark spot in the center.  A wing and engine of the airplane are visible across the left and bottom of the image, while another airplane observing the eclipse is visible on the far left. The dark area of the sky surrounding the eclipsed Sun is called a shadow cone. It is dark because you are looking down a long corridor of air shadowed by the Moon. A careful inspection of the eclipsed Sun will reveal the planet Mercury just to the right. You won't have to travel to the end of the Earth to see the next total solar eclipse. The total eclipse path will cross North America on 2024 April 8, just over one week from today.   NASA Coverage: Total Solar Eclipse of 2024 April 8</p>
+        <strong><em>
+Petr Horálek
+(ESO
+Photo Ambassador,
+Inst. of Physics in Opava) ;
+ Acknowledgement: 
+Xavier Jubier
 </em></strong>
     </div>
 </div>
