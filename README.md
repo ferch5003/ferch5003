@@ -57,18 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2404/Comet12pTails_ShengyuLi_960.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2404/Comet12pTails_ShengyuLi_960.jpg" width="400" height="500" alt="
-Shengyu Li & Shaining
-">
+    <a href="https://apod.nasa.gov/apod/image/2404/StanHonda2024TSEMagogCanada1200.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2404/StanHonda2024TSEMagogCanada1200.jpg" width="400" height="500" alt="Stan Honda">
     </a>
     <div>
-        <h4>The Changing Ion Tail of Comet Pons-Brooks</h4>
-        <time>2024-04-08</time>
-        <p>How does a comet tail change? It depends on the comet.  The ion tail of Comet 12P/Pons–Brooks has been changing markedly, as detailed in the featured image sequenced over nine days from March 6 to 14 (top to bottom).  On some days, the comet's ion tail was relatively long and complex, but not every day.  Reasons for tail changes include the rate of ejection of material from the comet's nucleus, the strength and complexity of the passing solar wind, and the rotation rate of the comet.  Over the course of a week, apparent changes even include a change of perspective from the Earth. In general, a comet's ion tail will point away from the Sun, as gas expelled is pushed out by the Sun's wind. Today, Pons-Brooks may become a rare comet suddenly visible in the middle of the day for those able to see the Sun totally eclipsed by the Moon.   NASA Coverage: Today's Total Solar Eclipse  Total Eclipse Imagery: Notable Submissions to APOD</p>
-        <strong><em>
-Shengyu Li & Shaining
-</em></strong>
+        <h4>Moon's Shadow over Lake Magog</h4>
+        <time>2024-04-09</time>
+        <p>Captured in this snapshot, the shadow of the Moon came to Lake Magog, Quebec, North America, planet Earth on April 8. For the lakeside eclipse chasers, the much anticipated total solar eclipse was a spectacle to behold in briefly dark, but clear skies. Of course Lake Magog was one of the last places to be visited by the Moon's shadow. The narrow path of totality for the 2024 total solar eclipse swept from Mexico's Pacific Coast north and eastward through the US and Canada. But a partial eclipse was visible across the entire North American continent.   Total Eclipse Imagery: Notable Submissions to APOD</p>
+        <strong><em>Stan Honda</em></strong>
     </div>
 </div>
 
