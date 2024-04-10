@@ -57,14 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2404/StanHonda2024TSEMagogCanada1200.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2404/StanHonda2024TSEMagogCanada1200.jpg" width="400" height="500" alt="Stan Honda">
+    <a href="https://apod.nasa.gov/apod/image/2404/EclipsePlanets_Vetter_960.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2404/EclipsePlanets_Vetter_960.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Moon's Shadow over Lake Magog</h4>
-        <time>2024-04-09</time>
-        <p>Captured in this snapshot, the shadow of the Moon came to Lake Magog, Quebec, North America, planet Earth on April 8. For the lakeside eclipse chasers, the much anticipated total solar eclipse was a spectacle to behold in briefly dark, but clear skies. Of course Lake Magog was one of the last places to be visited by the Moon's shadow. The narrow path of totality for the 2024 total solar eclipse swept from Mexico's Pacific Coast north and eastward through the US and Canada. But a partial eclipse was visible across the entire North American continent.   Total Eclipse Imagery: Notable Submissions to APOD</p>
-        <strong><em>Stan Honda</em></strong>
+        <h4>Planets Around a Total Eclipse</h4>
+        <time>2024-04-10</time>
+        <p>What wonders appear when the Moon blocks the Sun? For many eager observers of Monday’s total eclipse of the Sun, the suddenly dark sky included the expected corona and two (perhaps surprise) planets: Venus and Jupiter. Normally, in recent days, Venus is visible only in the morning when the Sun and Jupiter are below the horizon, while Jupiter appears bright only in the evening.  On Monday, though, for well-placed observers, both planets became easily visible during the day right in line with the totally eclipsed Sun. This line was captured Monday afternoon in the featured image from Mount Nebo, Arkansas, USA, along with a line of curious observers — and a picturesque tree.   Monday's Eclipse Imagery: Notable Submissions to APOD</p>
+        <strong><em></em></strong>
     </div>
 </div>
 
