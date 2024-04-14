@@ -57,14 +57,18 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2404/pinholepalm1024.png">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2404/pinholepalm1024.png" width="400" height="500" alt="Lori Haffelt">
+    <a href="https://www.youtube.com/embed/w5uUcq__vMo?rel=0">
+      <img align="left" src="https://www.youtube.com/embed/w5uUcq__vMo?rel=0" width="400" height="500" alt="
+David Duarte
+">
     </a>
     <div>
-        <h4>Palm Tree Partial Eclipse</h4>
-        <time>2024-04-13</time>
-        <p>Only those along the narrow track of the Moon's shadow on April 8 saw a total solar eclipse. But most of North America still saw a partial eclipse of the Sun. From Clearwater, Florida, USA this single snapshot captured multiple images of that more widely viewed celestial event without observing the Sun directly. In the shade of a palm tree, criss-crossing fronds are projecting recognizable eclipse images on the ground, pinhole camera style.  In Clearwater the maximum eclipse phase was about 53 percent.   Solar Eclipse Imagery: Notable Submissions to APOD</p>
-        <strong><em>Lori Haffelt</em></strong>
+        <h4>How a Total Solar Eclipse Ended</h4>
+        <time>2024-04-14</time>
+        <p>How does a total solar eclipse end? Yes, the Moon moves out from fully blocking the Sun, but in the first few seconds of transition, interesting things appear. The first is called a diamond ring. Light might stream between mountains or through relative lowlands around the Moon's edge, as seen from your location, making this sudden first light, when combined with the corona that surrounds the Moon, look like a diamond ring. Within seconds other light streams appear that are called, collectively, Bailey's beads. In the featured video, it may seem that the pink triangular prominence on the Sun is somehow related to where the Sun begins to reappear, but it is not. Observers from other locations saw Bailey's beads emerge from different places around the Moon, away from the iconic triangular solar prominence visible to all. The video was captured with specialized equipment from New Boston, Texas, USA on April 8, 2024.   Solar Eclipse Imagery: Notable Submissions to APOD</p>
+        <strong><em>
+David Duarte
+</em></strong>
     </div>
 </div>
 
