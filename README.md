@@ -57,20 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2404/EclipseComets_Zixuan_1080.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2404/EclipseComets_Zixuan_1080.jpg" width="400" height="500" alt="
-Lin Zixuan
-(Tsinghua U.)
-">
+    <a href="https://apod.nasa.gov/apod/image/2404/NGC1232_Eye_of_God_Galaxy_fullsize_2024-03-28_1024.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2404/NGC1232_Eye_of_God_Galaxy_fullsize_2024-03-28_1024.jpg" width="400" height="500" alt="Neil Corke">
     </a>
     <div>
-        <h4>Total Eclipse and Comets</h4>
-        <time>2024-04-17</time>
-        <p>Not one, but two comets appeared near the Sun during last week's total solar eclipse. The expected comet was Comet 12P/Pons-Brooks, but it was disappointingly dimmer than many had hoped. However, relatively unknown Comet SOHO-5008 also appeared in long duration camera exposures. This comet was the 5008th comet identified on images taken by ESA & NASA's Sun-orbiting SOHO spacecraft.  Likely much smaller, Comet SOHO-5008 was a sungrazer which disintegrated within hours as it passed too near the Sun.  The featured image is not only unusual for capturing two comets during an eclipse, but one of the rare times that a sungrazing comet has been photographed from the Earth's surface. Also visible in the image is the sprawling corona of our Sun and the planets Mercury (left) and Venus (right).  Of these planets and comets, only Venus was easily visible to millions of people in the dark shadow of the Moon that crossed North America on April 8.    Solar Eclipse Imagery: Notable Submissions to APOD</p>
-        <strong><em>
-Lin Zixuan
-(Tsinghua U.)
-</em></strong>
+        <h4>Facing NGC 1232</h4>
+        <time>2024-04-18</time>
+        <p>From our vantage point in the Milky Way Galaxy, we see NGC 1232 face-on. Nearly 200,000 light-years across, the big, beautiful spiral galaxy is located some 47 million light-years away in the flowing southern constellation of Eridanus. This sharp, multi-color, telescopic image of NGC 1232 includes remarkable details of the distant island universe. From the core outward, the galaxy's colors change from the yellowish light of old stars in the center to young blue star clusters and reddish star forming regions along the grand, sweeping spiral arms. NGC 1232's apparent, small, barred-spiral companion galaxy is cataloged as NGC 1232A. Distance estimates place it much farther though, around 300 million light-years away, and unlikely to be interacting with NGC 1232.  Of course, the prominent bright star with the spiky appearance is much closer than NGC 1232 and lies well within our own Milky Way.</p>
+        <strong><em>Neil Corke</em></strong>
     </div>
 </div>
 
