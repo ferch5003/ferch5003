@@ -57,17 +57,17 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2404/EtnaRingsMoonCrop_Giannobile_960.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2404/EtnaRingsMoonCrop_Giannobile_960.jpg" width="400" height="500" alt="
-Dario Giannobile
+    <a href="https://apod.nasa.gov/apod/image/2404/ContrailX_Ekmen_960.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2404/ContrailX_Ekmen_960.jpg" width="400" height="500" alt="
+Fatih Ekmen
 ">
     </a>
     <div>
-        <h4>Moon and Smoke Rings from Mt. Etna</h4>
-        <time>2024-04-22</time>
-        <p>Yes, but can your volcano do this? To the surprise of some, Mt. Etna emits, on occasion, smoke rings. Technically known as vortex rings, the walls of the volcano slightly slow the outside of emitted smoke puffs, causing the inside gas to move faster.  A circle of low pressure develops so that the emitted puff of volcanic gas and ash loops around in a ring, a familiar geometric structure that can be surprisingly stable as it rises. Smoke rings are quite rare and need a coincidence of the right geometry  of the vent, the right speed of ejected smoke, and the relative calmness of the outside atmosphere.  In the featured image taken about two weeks ago from Gangi, Sicily, Italy, multiple volcanic smoke rings are visible.  The scene is shaded by the red light of a dawn Sun, while a crescent Moon is visible in the background.</p>
+        <h4>Contrail Shadow X</h4>
+        <time>2024-04-23</time>
+        <p>What created this giant X in the clouds? It was the shadow of contrails illuminated from below. When airplanes fly, humid engine exhaust may form water droplets that might freeze in Earth's cold upper atmosphere.  These persistent streams of water and ice scatter light from the Sun above and so appear bright from below. On rare occasions, though, when the Sun is near the horizon, contrails can be lit from below.  These contrails cast long shadows upwards, shadows that usually go unseen unless there is a high cloud deck. But that was just the case over Istanbul, Türkiye, earlier this month. Contrails occur all over planet Earth and, generally, warm the Earth when the trap infrared light but cool the Earth when they efficiently reflect sunlight. The image was taken by a surprised photographer in the morning on the way to work.</p>
         <strong><em>
-Dario Giannobile
+Fatih Ekmen
 </em></strong>
     </div>
 </div>
