@@ -57,14 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2404/stsci-xNGC604NIRcam1024.png">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2404/stsci-xNGC604NIRcam1024.png" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2404/Regulus_Dwarf_by_Markus_Horn1024.png">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2404/Regulus_Dwarf_by_Markus_Horn1024.png" width="400" height="500" alt="Markus Horn">
     </a>
     <div>
-        <h4>NGC 604: Giant Stellar Nursery</h4>
-        <time>2024-04-25</time>
-        <p>Located some 3 million light-years away in the arms of nearby spiral galaxy M33, giant stellar nursery NGC 604 is about 1,300 light-years across. That's nearly 100 times the size of the Milky Way's Orion Nebula, the closest large star forming region to planet Earth. In fact, among the star forming regions within the Local Group of galaxies, NGC 604 is second in size only to 30 Doradus, also known as the Tarantula Nebula in the Large Magellanic Cloud. Cavernous bubbles and cavities in NGC 604 fill this stunning infrared image from the James Webb Space Telescope's NIRCam. They are carved out by energetic stellar winds from the region's more than 200 hot, massive, young stars, all still in early stages of their lives.</p>
-        <strong><em></em></strong>
+        <h4>Regulus and the Dwarf Galaxy</h4>
+        <time>2024-04-26</time>
+        <p>In northern hemisphere spring, bright star Regulus is easy to spot above the eastern horizon. The alpha star of the constellation Leo, Regulus is the spiky star centered in this telescopic field of view. A mere 79 light-years distant, Regulus is a hot, rapidly spinning star that is known to be part of a multiple star system. Not quite lost in the glare, the fuzzy patch just below Regulus is diffuse starlight from small galaxy Leo I. Leo I is a dwarf spheroidal galaxy, a member of the Local Group of galaxies dominated by our Milky Way Galaxy and the Andromeda Galaxy (M31). About 800 thousand light-years away, Leo I is thought to be the most distant of the known small satellite galaxies orbiting the Milky Way. But dwarf galaxy Leo I has shown evidence of a supermassive black hole at its center, comparable in mass to the black hole at the center of the Milky Way.</p>
+        <strong><em>Markus Horn</em></strong>
     </div>
 </div>
 
