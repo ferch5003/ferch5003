@@ -57,17 +57,19 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2404/GKPerWide_DSC_960.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2404/GKPerWide_DSC_960.jpg" width="400" height="500" alt="
-Deep Sky Collective
+    <a href="https://apod.nasa.gov/apod/image/2405/FishheadB_Colombari_960.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2405/FishheadB_Colombari_960.jpg" width="400" height="500" alt="
+Roberto Colombari & 
+Mauro Narduzzi
 ">
     </a>
     <div>
-        <h4>GK Per: Nova and Planetary Nebula</h4>
-        <time>2024-04-30</time>
-        <p>The star system GK Per is known to be associated with only two of the three nebulas pictured.  At 1500 light years distant, Nova Persei 1901 (GK Persei) was the second closest nova yet recorded. At the very center is a white dwarf star, the surviving core of a former Sun-like star. It is surrounded by the circular Firework nebula, gas that was ejected by a thermonuclear explosion on the white dwarf's surface -- a nova -- as recorded in 1901. The red glowing gas surrounding the Firework nebula is the atmosphere that used to surround the central star. This gas was expelled before the nova and appears as a diffuse planetary nebula.  The faint gray gas running across is interstellar cirrus that seems to be just passing through coincidently. In 1901, GK Per's nova became brighter than Betelgeuse. Similarly, star system T CrB is expected to erupt in a nova later this year, but we don't know exactly when nor how bright it will become.</p>
+        <h4>IC 1795: The Fishhead Nebula</h4>
+        <time>2024-05-01</time>
+        <p>To some, this nebula looks like the head of a fish. However, this colorful cosmic portrait really features glowing gas and obscuring dust clouds in IC 1795, a star forming region in the northern constellation Cassiopeia. The nebula's colors were created by adopting the Hubble color palette for mapping narrowband emissions from oxygen, hydrogen, and sulfur atoms to blue, green and red colors, and further blending the data with images of the region recorded through broadband filters. Not far on the sky from the famous Double Star Cluster in Perseus, IC 1795 is itself located next to IC 1805, the Heart Nebula, as part of a complex of star forming regions that lie at the edge of a large molecular cloud. Located just over 6,000 light-years away, the larger star forming complex sprawls along the Perseus spiral arm of our Milky Way Galaxy. At that distance, IC 1795 would span about 70 light-years across.   Open Science: Browse 3,300+ codes in the Astrophysics Source Code Library</p>
         <strong><em>
-Deep Sky Collective
+Roberto Colombari & 
+Mauro Narduzzi
 </em></strong>
     </div>
 </div>
