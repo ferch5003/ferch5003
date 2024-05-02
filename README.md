@@ -57,20 +57,14 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2405/FishheadB_Colombari_960.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2405/FishheadB_Colombari_960.jpg" width="400" height="500" alt="
-Roberto Colombari & 
-Mauro Narduzzi
-">
+    <a href="https://apod.nasa.gov/apod/image/2405/M100_DrewEvans1024.png">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2405/M100_DrewEvans1024.png" width="400" height="500" alt="Drew Evans">
     </a>
     <div>
-        <h4>IC 1795: The Fishhead Nebula</h4>
-        <time>2024-05-01</time>
-        <p>To some, this nebula looks like the head of a fish. However, this colorful cosmic portrait really features glowing gas and obscuring dust clouds in IC 1795, a star forming region in the northern constellation Cassiopeia. The nebula's colors were created by adopting the Hubble color palette for mapping narrowband emissions from oxygen, hydrogen, and sulfur atoms to blue, green and red colors, and further blending the data with images of the region recorded through broadband filters. Not far on the sky from the famous Double Star Cluster in Perseus, IC 1795 is itself located next to IC 1805, the Heart Nebula, as part of a complex of star forming regions that lie at the edge of a large molecular cloud. Located just over 6,000 light-years away, the larger star forming complex sprawls along the Perseus spiral arm of our Milky Way Galaxy. At that distance, IC 1795 would span about 70 light-years across.   Open Science: Browse 3,300+ codes in the Astrophysics Source Code Library</p>
-        <strong><em>
-Roberto Colombari & 
-Mauro Narduzzi
-</em></strong>
+        <h4>M100: A Grand Design Spiral Galaxy</h4>
+        <time>2024-05-02</time>
+        <p>Majestic on a truly cosmic scale, M100 is appropriately known as a grand design spiral galaxy.  The large galaxy of over 100 billion stars has well-defined spiral arms, similar to our own Milky Way.  One of the brightest members of the Virgo Cluster of galaxies, M100, also known as NGC 4321 is 56 million light-years distant toward the well-groomed constellation Coma Berenices.  In this telescopic image, the face-on grand design spiral shares a nearly 1 degree wide field-of-view with slightly less conspicuous edge-on spiral NGC 4312 (at upper right). The 21 hour long equivalent exposure from a dark sky site near Flagstaff, Arizona, planet Earth, reveals M100's bright blue star clusters and intricate winding dust lanes which are hallmarks of this class of galaxies.  Measurements of variable stars in M100 have played an important role in determining the size and age of the Universe.</p>
+        <strong><em>Drew Evans</em></strong>
     </div>
 </div>
 
