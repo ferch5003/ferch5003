@@ -57,13 +57,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2405/BlackHole_Simonnet_960.jpg">
-      <img align="left" src="https://apod.nasa.gov/apod/image/2405/BlackHole_Simonnet_960.jpg" width="400" height="500" alt="">
+    <a href="https://www.youtube.com/embed/l36UkYtq6m0?rel=0">
+      <img align="left" src="https://www.youtube.com/embed/l36UkYtq6m0?rel=0" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Black Hole Accreting with Jet</h4>
-        <time>2024-05-07</time>
-        <p>What happens when a black hole devours a star?  Many details remain unknown, but observations are providing new clues. In 2014, a powerful explosion was recorded by the ground-based robotic telescopes of the All Sky Automated Survey for SuperNovae (Project ASAS-SN), with followed-up observations by instruments including NASA's Earth-orbiting Swift satellite. Computer modeling of these emissions fit a star being ripped apart by a distant supermassive black hole.  The results of such a collision are portrayed in the featured artistic illustration. The black hole itself is a depicted as a tiny black dot in the center. As matter falls toward the hole, it collides with other matter and heats up. Surrounding the black hole is an accretion disk of hot matter that used to be the star, with a jet emanating from the black hole's spin axis.   Fall towards eternity: It's Black Hole Week at NASA!</p>
+        <h4>Visualization: A Black Hole Accretion Disk</h4>
+        <time>2024-05-08</time>
+        <p>What would it look like to circle a black hole? If the black hole was surrounded by a swirling disk of glowing and accreting gas, then the great gravity of the black hole would deflect light emitted by the disk to make it look very unusual. The featured animated video gives a visualization. The video starts with you, the observer, looking toward the black hole from just above the plane of the accretion disk.  Surrounding the central black hole is a thin circular image of the orbiting disk that marks the position of the photon sphere -- inside of which lies the black hole's event horizon.  Toward the left, parts of the large main image of the disk appear brighter as they move toward you. As the video continues, you loop over the black hole, soon looking down from the top, then passing through the disk plane on the far side, then returning to your original vantage point. The accretion disk does some interesting image inversions -- but never appears flat. Visualizations such as this are particularly relevant today as black holes are being imaged in unprecedented detail by the Event Horizon Telescope.   Singularity Impressive: It's Black Hole Week at NASA!</p>
         <strong><em></em></strong>
     </div>
 </div>
