@@ -57,14 +57,22 @@
 ### Do you know...
 
 <div>
-    <a href="https://www.youtube.com/embed/I_88S8DWbcU?rel=0">
-      <img align="left" src="https://www.youtube.com/embed/I_88S8DWbcU?rel=0" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2405/SunAr3664_Fantasia_960.jpg">
+      <img align="left" src="https://apod.nasa.gov/apod/image/2405/SunAr3664_Fantasia_960.jpg" width="400" height="500" alt="
+Franco Fantasia & 
+Guiseppe Conzo 
+(Gruppo Astrofili Palidoro)
+">
     </a>
     <div>
-        <h4>Simulation: Two Black Holes Merge</h4>
-        <time>2024-05-10</time>
-        <p>Relax and watch two black holes merge. Inspired by the first direct detection of gravitational waves in 2015, this simulation plays in slow motion but would take about one third of a second if run in real time. Set on a cosmic stage, the black holes are posed in front of stars, gas, and dust. Their extreme gravity lenses the light from behind them into Einstein rings as they spiral closer and finally merge into one. The otherwise invisible gravitational waves generated as the massive objects rapidly coalesce cause the visible image to ripple and slosh both inside and outside the Einstein rings even after the black holes have merged. Dubbed GW150914, the gravitational waves detected by LIGO are consistent with the merger of 36 and 31 solar mass black holes at a distance of 1.3 billion light-years. The final, single black hole has 63 times the mass of the Sun, with the remaining 3 solar masses converted into energy radiated in gravitational waves.   Today's Event Horizon: It's Black Hole Week at NASA!</p>
-        <strong><em></em></strong>
+        <h4>AR 3664: Giant Sunspot Group</h4>
+        <time>2024-05-11</time>
+        <p>Right now, one of the largest sunspot groups in recent history is crossing the Sun. Active Region 3664 is not only big -- it's violent, throwing off clouds of particles into the Solar System. Some of these CMEs are already impacting the Earth, and others might follow.  At the extreme, these solar storms could cause some Earth-orbiting satellites to malfunction, the Earth's atmosphere to slightly distort, and electrical power grids to surge. When impacting Earth's upper atmosphere, these particles can produce beautiful auroras, with some auroras already being reported unusually far south.  Pictured here, AR3664 and its dark sunspots were captured yesterday in visible light from Rome, Italy. The AR3664 sunspot group is so large that it is visible just with glasses designed to view last month's total solar eclipse.  This weekend, skygazing enthusiasts will be keenly watching the night skies all over the globe for bright and unusual auroras.   Gallery: Active Region 6443 on the Sun</p>
+        <strong><em>
+Franco Fantasia & 
+Guiseppe Conzo 
+(Gruppo Astrofili Palidoro)
+</em></strong>
     </div>
 </div>
 
