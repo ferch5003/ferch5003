@@ -57,13 +57,11 @@
 ### Do you know...
 
 <div>
-    
-        <a href="https://apod.nasa.gov/apod/image/2405/SunAr3664_Menario_960.jpg">
-            <img align="left" src="https://apod.nasa.gov/apod/image/2405/SunAr3664_Menario_960.jpg" width="400" height="500" alt="
+    <a href="https://apod.nasa.gov/apod/image/2405/SunAr3664_Menario_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2405/SunAr3664_Menario_960.jpg" width="400" height="500" alt="
 Marco Meniero
 ">
-        </a>
-    
+    </a>
     <div>
         <h4>AR 3664 on a Setting Sun</h4>
         <time>2024-05-13</time>
