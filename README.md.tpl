@@ -57,9 +57,13 @@
 ### Do you know...
 
 <div>
-    <a href="{{.Nasa.APOD.Url}}">
-      <img align="left" src="{{.Nasa.APOD.Url}}" width="400" height="500" alt="{{.Nasa.APOD.Copyright}}">
-    </a>
+    {{if .IsVideoFormat}}
+        <video src="{{.Nasa.APOD.Url}}" width="400" height="500"></video>
+    {{else}}
+        <a href="{{.Nasa.APOD.Url}}">
+            <img align="left" src="{{.Nasa.APOD.Url}}" width="400" height="500" alt="{{.Nasa.APOD.Copyright}}">
+        </a>
+    {{end}}
     <div>
         <h4>{{.Nasa.APOD.Title}}</h4>
         <time>{{.Nasa.APOD.Date}}</time>

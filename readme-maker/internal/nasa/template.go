@@ -1,13 +1,29 @@
 package nasa
 
 import (
-	"fmt"
 	"strings"
 	"text/template"
 
 	"github.com/ferch5003/ferch5003/readme-maker/internal/nasa/dto"
 	"github.com/ferch5003/ferch5003/readme-maker/internal/platform/templates"
 )
+
+var _videoFormats = []string{"youtube"}
+
+type _nasaAPODValues struct {
+	Nasa struct {
+		APOD dto.APODResponse
+	}
+}
+
+func (n _nasaAPODValues) IsVideoFormat() bool {
+	for _, format := range _videoFormats {
+		if n.Nasa.APOD.Url != "" && strings.Contains(n.Nasa.APOD.Url, format) {
+			return true
+		}
+	}
+	return false
+}
 
 type nasaTemplate struct {
 	client    Client
@@ -33,14 +49,8 @@ func (nt *nasaTemplate) Parse(in string) (string, error) {
 		return "", err
 	}
 
-	var nasaAPODValues struct {
-		Nasa struct {
-			APOD dto.APODResponse
-		}
-	}
+	var nasaAPODValues _nasaAPODValues
 	nasaAPODValues.Nasa.APOD = response
-
-	fmt.Println(nasaAPODValues, err)
 
 	tmpl, err := template.New("nasa").Parse(in)
 	if err != nil {
