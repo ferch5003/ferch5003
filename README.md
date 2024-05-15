@@ -58,14 +58,18 @@
 
 <div>
 
-    <a href="https://apod.nasa.gov/apod/image/2405/NGC2169LRGBQHY183HR_c1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2405/NGC2169LRGBQHY183HR_c1024.jpg" width="400" height="500" alt="Sergio Eguivar">
+    <a href="https://apod.nasa.gov/apod/image/2405/AR3664Prom_Voltmer_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2405/AR3664Prom_Voltmer_960.jpg" width="400" height="500" alt="
+Sebastian Voltmer
+">
     </a>
 
     <div>
-        <h4>The 37 Cluster</h4>
-        <time>2024-05-14</time>
-        <p>For the mostly harmless denizens of planet Earth, the brighter stars of open cluster NGC 2169 seem to form a cosmic 37. Did you expect 42? From our perspective, the improbable numerical asterism appears solely by chance. It lies at an estimated distance of 3,300 light-years toward the constellation Orion. As far as galactic or open star clusters go, NGC 2169 is a small one, spanning about 7 light-years.  Formed at the same time from the same cloud of dust and gas, the stars of NGC 2169 are only about 11 million years old. Such clusters are expected to disperse over time as they encounter other stars, interstellar clouds, and experience gravitational tides while hitchhiking through the galaxy. Over four billion years ago, our own Sun was likely formed in a similar open cluster of stars.   Gallery: Earth Aurora from Solar Active Region 3664</p>
-        <strong><em>Sergio Eguivar</em></strong>
+        <h4>AR 3664 at the Sun's Edge</h4>
+        <time>2024-05-15</time>
+        <p>What did the monster active region that created the recent auroras look like when at the Sun's edge? There, AR 3664 better showed its 3D structure. Pictured, a large multi-pronged solar prominence was captured extending from chaotic sunspot region AR 3664 out into space, just one example of the particle clouds ejected from this violent solar region. The Earth could easily fit under this long-extended prominence.  The featured image was captured two days ago from this constantly changing region. Yesterday, the strongest solar flare in years was expelled (not shown), a blast classified in the upper X-class. Ultraviolet light from that flare quickly hit the Earth's atmosphere and caused shortwave radio blackouts across both North and South America. Although now rotated to be facing slightly away from the Earth, particles from AR 3664 and subsequent coronal mass ejections (CMEs) might still follow curved magnetic field lines across the inner Solar System and create more Earthly auroras.    Gallery: Earth Aurora from Solar Active Region 6443</p>
+        <strong><em>
+Sebastian Voltmer
+</em></strong>
     </div>
 </div>
