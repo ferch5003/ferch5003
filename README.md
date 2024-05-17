@@ -57,11 +57,9 @@
 ### Do you know...
 
 <div>
-
     <a href="https://apod.nasa.gov/apod/image/2405/WrightDobbs_Georgia_Aurora_2_1024.jpg">
         <img align="left" src="https://apod.nasa.gov/apod/image/2405/WrightDobbs_Georgia_Aurora_2_1024.jpg" width="400" height="500" alt="Wright Dobbs">
     </a>
-
     <div>
         <h4>Aurora Georgia</h4>
         <time>2024-05-16</time>
