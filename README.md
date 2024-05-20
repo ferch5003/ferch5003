@@ -58,12 +58,20 @@
 
 <div>
 
-    <video src="https://www.youtube.com/embed/uj3Lq7Gu94Y?rel=0" width="400" height="500"></video>
+    <a href="https://apod.nasa.gov/apod/image/2405/AuroraWisconsin_Liu_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2405/AuroraWisconsin_Liu_960.jpg" width="400" height="500" alt="
+Xuecheng Liu & 
+Yuxuan Liu
+">
+    </a>
 
     <div>
-        <h4>Jupiter Diving</h4>
-        <time>2024-05-19</time>
-        <p>Take this simulated plunge and dive into the upper atmosphere of Jupiter, the Solar System's ruling gas giant. The awesome animation is based on image data from JunoCam, and the microwave radiometer on board the Jupiter-orbiting Juno spacecraft. Your view will start about 3,000 kilometers above the southern Jovian cloud tops, and you can track your progress on the display at the left. As altitude decreases, temperature increases while you dive deeper at the location of Jupiter's famous Great Red Spot. In fact, Juno data indicates the Great Red Spot, the Solar System's largest storm system, penetrates some 300 kilometers into the giant planet's atmosphere. For comparison, the deepest point for planet Earth's oceans is just under 11 kilometers down. Don't worry though, you'll fly back out again.   Dive into the Universe: Random APOD Generator</p>
-        <strong><em></em></strong>
+        <h4>Aurora Dome Sky</h4>
+        <time>2024-05-20</time>
+        <p>It seemed like night, but part of the sky glowed purple.  It was the now famous night of May 10, 2024, when people over much of the world reported beautiful aurora-filled skies. The featured image was captured this night during early morning hours from Arlington, Wisconsin, USA. The panorama is a composite of several 6-second exposures covering two thirds of the visible sky, with north in the center, and processed to heighten the colors and remove electrical wires. The photographer (in the foreground) reported that the aurora appeared to flow from a point overhead but illuminated the sky only toward the north. The aurora's energetic particles originated from CMEs ejected from our Sun over sunspot AR 6443 a few days before. This large active region rotated to the far side of the Sun last week, but may well survive to rotate back toward the Earth next week.</p>
+        <strong><em>
+Xuecheng Liu & 
+Yuxuan Liu
+</em></strong>
     </div>
 </div>
