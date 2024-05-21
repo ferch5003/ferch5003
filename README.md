@@ -58,20 +58,14 @@
 
 <div>
 
-    <a href="https://apod.nasa.gov/apod/image/2405/AuroraWisconsin_Liu_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2405/AuroraWisconsin_Liu_960.jpg" width="400" height="500" alt="
-Xuecheng Liu & 
-Yuxuan Liu
-">
+    <a href="https://apod.nasa.gov/apod/image/2405/Cg4Galaxy_CtioRector_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2405/Cg4Galaxy_CtioRector_960.jpg" width="400" height="500" alt="">
     </a>
 
     <div>
-        <h4>Aurora Dome Sky</h4>
-        <time>2024-05-20</time>
-        <p>It seemed like night, but part of the sky glowed purple.  It was the now famous night of May 10, 2024, when people over much of the world reported beautiful aurora-filled skies. The featured image was captured this night during early morning hours from Arlington, Wisconsin, USA. The panorama is a composite of several 6-second exposures covering two thirds of the visible sky, with north in the center, and processed to heighten the colors and remove electrical wires. The photographer (in the foreground) reported that the aurora appeared to flow from a point overhead but illuminated the sky only toward the north. The aurora's energetic particles originated from CMEs ejected from our Sun over sunspot AR 6443 a few days before. This large active region rotated to the far side of the Sun last week, but may well survive to rotate back toward the Earth next week.</p>
-        <strong><em>
-Xuecheng Liu & 
-Yuxuan Liu
-</em></strong>
+        <h4>CG4: The Globule and the Galaxy</h4>
+        <time>2024-05-21</time>
+        <p>Can a gas cloud eat a galaxy?  It's not even close.  The "claw" of this odd looking "creature" in the featured photo is a gas cloud known as a cometary globule.  This globule, however, has ruptured.  Cometary globules are typically characterized by dusty heads and elongated tails.  These features cause cometary globules to have visual similarities to comets, but in reality they are very much different.  Globules are frequently the birthplaces of stars, and many show very young stars in their heads. The reason for the rupture in the head of this object is not yet known. The galaxy to the left of the globule is huge, very far in the distance, and only placed near CG4 by chance superposition.</p>
+        <strong><em></em></strong>
     </div>
 </div>
