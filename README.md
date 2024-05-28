@@ -58,14 +58,12 @@
 
 <div>
 
-    <a href="https://apod.nasa.gov/apod/image/2405/Cederblad111-110_1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2405/Cederblad111-110_1024.jpg" width="400" height="500" alt="Amiel Contuliano">
-    </a>
+    <video src="https://www.youtube.com/embed/yt7uwWzSTw0?rel=0" width="400" height="500"></video>
 
     <div>
-        <h4>Chamaeleon I Molecular Cloud</h4>
-        <time>2024-05-27</time>
-        <p>Dark markings and bright nebulae in this telescopic southern sky view are telltale signs of young stars and active star formation. They lie a mere 650 light-years away, at the boundary of the local bubble and the Chamaeleon molecular cloud complex. Regions with young stars identified as dusty reflection nebulae from the 1946 Cederblad catalog include the C-shaped Ced 110 just above and right of center, and bluish Ced 111 below it. Also a standout in the frame, the orange tinted V-shape of the Chamaeleon Infrared Nebula (Cha IRN) was carved by material streaming from a newly formed low-mass star.  The well-composed image spans 1.5 degrees. That's about 17 light-years at the estimated distance of the nearby Chamaeleon I molecular cloud.</p>
-        <strong><em>Amiel Contuliano</em></strong>
+        <h4>Solar X Flare as Famous Active Region Returns</h4>
+        <time>2024-05-28</time>
+        <p>It's back. The famous active region on the Sun that created auroras visible around the Earth earlier this month has survived its rotation around the far side of the Sun -- and returned.  Yesterday, as it was beginning to reappear on the Earth-facing side, the region formerly labeled AR 3664 threw another major solar flare, again in the highest-energy X-class range. The featured video shows the emerging active region on the lower left, as it was captured by NASA's Earth-orbiting Solar Dynamics Observatory yesterday in ultraviolet light. The video is a time-lapse of the entire Sun rotating over 24 hours.  Watch the lower-left region carefully at about the 2-second mark to see the powerful flare burst out. The energetic particles from that flare and associated CME are not expected to directly impact the Earth and trigger impressive auroras, but scientists will keep a close watch on this unusually active region over the next two weeks, as it faces the Earth, to see what develops.</p>
+        <strong><em></em></strong>
     </div>
 </div>
