@@ -57,11 +57,9 @@
 ### Do you know...
 
 <div>
-
     <a href="https://apod.nasa.gov/apod/image/2405/NebulousRealmofWR134_1024.png">
         <img align="left" src="https://apod.nasa.gov/apod/image/2405/NebulousRealmofWR134_1024.png" width="400" height="500" alt="Xin Long">
     </a>
-
     <div>
         <h4>The Nebulous Realm of WR 134</h4>
         <time>2024-05-31</time>
