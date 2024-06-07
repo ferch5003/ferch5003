@@ -57,13 +57,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2406/278_lorand_fenyes_ngc4565_1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2406/278_lorand_fenyes_ngc4565_1024.jpg" width="400" height="500" alt="Lóránd Fényes">
+    <a href="https://apod.nasa.gov/apod/image/2406/DolphinNebulaHOO_1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2406/DolphinNebulaHOO_1024.jpg" width="400" height="500" alt="Prabhu Kutti">
     </a>
     <div>
-        <h4>NGC 4565: Galaxy on Edge</h4>
-        <time>2024-06-06</time>
-        <p>Magnificent spiral galaxy NGC 4565 is viewed edge-on from planet Earth. Also known as the Needle Galaxy for its narrow profile, bright NGC 4565 is a stop on many telescopic tours of the northern sky, in the faint but well-groomed constellation Coma Berenices. This sharp, colorful image reveals the galaxy's boxy, bulging central core cut by obscuring dust lanes that lace NGC 4565's thin galactic plane. NGC 4565 itself lies about 40 million light-years distant and spans some 100,000 light-years.  Easily spotted with small telescopes, sky enthusiasts consider NGC 4565 to be a prominent celestial masterpiece Messier missed.</p>
-        <strong><em>Lóránd Fényes</em></strong>
+        <h4>SH2-308: The Dolphin Head Nebula</h4>
+        <time>2024-06-07</time>
+        <p>Blown by fast winds from a hot, massive star, this cosmic bubble is huge. Cataloged as Sharpless 2-308 it lies some 5,000 light-years away toward the well-trained constellation Canis Major and covers slightly more of the sky than a Full Moon. That corresponds to a diameter of 60 light-years at its estimated distance. The massive star that created the bubble, a Wolf-Rayet star, is the bright one near the center of the nebula. Wolf-Rayet stars have over 20 times the mass of the Sun and are thought to be in a brief, pre-supernova phase of massive star evolution. Fast winds from this Wolf-Rayet star create the bubble-shaped nebula as they sweep up slower moving material from an earlier phase of evolution. The windblown nebula has an age of about 70,000 years. Relatively faint emission captured by narrowband filters in the deep image is dominated by the glow of ionized oxygen atoms mapped to a blue hue. Presenting a mostly harmless outline, SH2-308 is also known as The Dolphin-head Nebula.</p>
+        <strong><em>Prabhu Kutti</em></strong>
     </div>
 </div>
