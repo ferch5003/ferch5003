@@ -57,17 +57,17 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2406/RhoAntares_Stocks_1080.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2406/RhoAntares_Stocks_1080.jpg" width="400" height="500" alt="
-Craig Stocks
+    <a href="https://apod.nasa.gov/apod/image/2406/AuroraKarkonosze_Koszela_1080.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2406/AuroraKarkonosze_Koszela_1080.jpg" width="400" height="500" alt="
+Daniel Koszela
 ">
     </a>
     <div>
-        <h4>Colorful Stars and Clouds near Rho Ophiuchi</h4>
-        <time>2024-06-11</time>
-        <p>Why is the sky near Antares and Rho Ophiuchi so colorful, yet dusty?  The colors result from a mixture of objects and processes.  Fine dust -- illuminated by starlight -- produces blue reflection nebulae. Gaseous clouds whose atoms are excited by ultraviolet starlight produce reddish emission nebulae. Backlit dust clouds block starlight and so appear dark.   Antares, a red supergiant and one of the brighter stars in the night sky, lights up the yellow-red clouds on the upper right of the featured image. The Rho Ophiuchi star system lies at the center of the blue reflection nebula on the left, while a different reflection nebula, IC 4605, lies just below and right of the image center.  These star clouds are even more colorful than humans can see, emitting light across the electromagnetic spectrum.   Open Science: Browse 3,400+ codes in the Astrophysics Source Code Library</p>
+        <h4>Aurora over Karkonosze Mountains</h4>
+        <time>2024-06-12</time>
+        <p>It was the first time ever. At least, the first time this photographer had ever seen aurora from his home mountains.  And what a spectacular aurora it was. The Karkonosze Mountains in Poland are usually too far south to see any auroras.  But on the amazing night of May 10 - 11, purple and green colors lit up much of the night sky, a surprising spectacle that  also appeared over many mid-latitude locations around the Earth.  The featured image is a composite of six vertical exposures taken during the auroral peak. The futuristic buildings on the right are part of a meteorological observatory located on the highest peak of the Karkonosze Mountains.  The purple color is primarily due to Sun-triggered, high-energy electrons impacting nitrogen molecules in Earth's atmosphere.  Our Sun is reaching its maximum surface activity over the next two years, and although many more auroras are predicted, most will occur over regions closer to the Earth's poles.</p>
         <strong><em>
-Craig Stocks
+Daniel Koszela
 </em></strong>
     </div>
 </div>
