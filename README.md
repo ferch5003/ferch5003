@@ -57,17 +57,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2406/AraDragons_Taylor_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2406/AraDragons_Taylor_960.jpg" width="400" height="500" alt="
-Carlos Taylor
-">
+    <a href="https://apod.nasa.gov/apod/image/2406/MoonHalo_pace.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2406/MoonHalo_pace.jpg" width="400" height="500" alt="Marcella Giulia Pace">
     </a>
     <div>
-        <h4>NGC 6188: Dragons of Ara</h4>
-        <time>2024-06-19</time>
-        <p>Do dragons fight on the altar of the sky?  Although it might appear that way, these dragons are illusions made of thin gas and dust. The emission nebula NGC 6188, home to the glowing clouds, is found about 4,000 light years away near the edge of a large molecular cloud, unseen at visible wavelengths, in the southern constellation Ara (the Altar). Massive, young stars of the embedded Ara OB1 association were formed in that region only a few million years ago, sculpting the dark shapes and powering the nebular glow with stellar winds and intense ultraviolet radiation. The recent star formation itself was likely triggered by winds and supernova explosions from previous generations of massive stars, that swept up and compressed the molecular gas. This impressively detailed image spans over 2 degrees (four full Moons), corresponding to over 150 light years at the estimated distance of NGC 6188.</p>
-        <strong><em>
-Carlos Taylor
-</em></strong>
+        <h4>Sandy and the Moon Halo</h4>
+        <time>2024-06-20</time>
+        <p>Last April's Full Moon shines through high clouds near the horizon, casting shadows in this garden-at-night skyscape. Along with canine sentinel Sandy watching the garden gate, the wide-angle snapshot also captured the bright Moon's 22 degree ice halo. But June's bright Full Moon will cast shadows too. This month, the Moon's exact full phase occurs at 01:08 UTC June 22. That's a mere 28 hours or so after today's June solstice (at 20:51 UTC June 20), the moment when the Sun reaches its maximum northern declination. Known to some as a Strawberry Moon, June's Full Moon is at its southernmost declination, and of course will create its own 22 degree halos in hazy night skies.</p>
+        <strong><em>Marcella Giulia Pace</em></strong>
     </div>
 </div>
