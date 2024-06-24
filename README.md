@@ -57,13 +57,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2406/SaturnColors_CassiniSchmidt_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2406/SaturnColors_CassiniSchmidt_960.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2406/MostDistantGalaxy_Webb_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2406/MostDistantGalaxy_Webb_960.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>The Colors of Saturn from Cassini</h4>
-        <time>2024-06-23</time>
-        <p>What creates Saturn's colors?  The featured picture of Saturn only slightly exaggerates what a human would see if hovering close to the giant ringed world.   The image was taken in 2005 by the robot Cassini spacecraft that orbited Saturn from 2004 to 2017.  Here Saturn's majestic rings appear directly only as a curved line, appearing brown, in part from its infrared glow.  The rings best show their complex structure in the dark shadows they create across the upper part of the planet.   The northern hemisphere of Saturn can appear partly blue for the same reason that Earth's skies can appear blue -- molecules in the cloudless portions of both planet's atmospheres are better at scattering blue light than red.  When looking deep into Saturn's clouds, however, the natural gold hue of Saturn's clouds becomes dominant.   It is not known why southern Saturn does not show the same blue hue -- one hypothesis holds that clouds are higher there.   It is also not known why some of Saturn's clouds are colored gold.</p>
+        <h4>JADES-GS-z14-0: A New Farthest Object</h4>
+        <time>2024-06-24</time>
+        <p>What if we could see back to the beginning of the universe?  We could see galaxies forming.  But what did galaxies look like back then?  These questions took a step forward recently with the release of the analysis of a James Webb Space Telescope (JWST) image that included the most distant object yet discovered.  Most galaxies formed at about 3 billion years after the Big Bang, but some formed earlier. Pictured in the inset box is JADES-GS-z14-0, a faint smudge of a galaxy that formed only 300 million years after the universe started.  In technical terms, this galaxy lies at the record redshift of z=14.32, and so existed when the universe was only one fiftieth of the its present age.  Practically all of the objects in the featured photograph are galaxies.</p>
         <strong><em></em></strong>
     </div>
 </div>
