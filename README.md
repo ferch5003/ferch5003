@@ -57,19 +57,18 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2406/Doodad_PughSung_1080.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2406/Doodad_PughSung_1080.jpg" width="400" height="500" alt="
-Martin Pugh &  
-Rocco Sung
-">
-    </a>
+    <video src="https://www.youtube.com/embed/fisAZYNwDgk?rel=0" width="400" height="500"></video>
     <div>
-        <h4>The Dark Doodad Nebula</h4>
-        <time>2024-06-25</time>
-        <p>What is that strange brown ribbon on the sky?  When observing the star cluster NGC 4372, observers frequently take note of an unusual dark streak nearby running about three degrees in length. The streak, actually a long molecular cloud, has become known as the Dark Doodad Nebula.  (Doodad is slang for a thingy or a whatchamacallit.)  Pictured here, the Dark Doodad Nebula sweeps across the center of a rich and colorful starfield.  Its dark color comes from a high concentration of interstellar dust that preferentially scatters visible light.  The globular star cluster NGC 4372 is visible as the fuzzy white spot on the far left, while the bright blue star gamma Muscae is seen to the cluster's upper right. The Dark Doodad Nebula can be found with strong binoculars toward the southern constellation of the Fly (Musca).</p>
+        <h4>Timelapse: Aurora, SAR, and the Milky Way</h4>
+        <time>2024-06-26</time>
+        <p>What's happening in the sky this unusual night? Most striking in the featured 4.5-hour 360-degree panoramic video, perhaps, is the pink and purple aurora. That's because this night, encompassing May 11, was famous for its auroral skies around the world. As the night progresses, auroral bands shimmer, the central band of our Milky Way Galaxy rises, and stars shift as the Earth rotates beneath them.  Captured here simultaneously is a rare red band running above the aurora: a SAR arc, seen to change only slightly. The flashing below the horizon is caused by passing cars, while the moving spots in the sky are satellites and airplanes.  The featured video was captured from Xinjiang, China with four separate cameras.</p>
         <strong><em>
-Martin Pugh &  
-Rocco Sung
+Jeff Dai
+(TWAN); 
+Music 
+(License): 
+Suite bergamasque by 
+Claude Debussy
 </em></strong>
     </div>
 </div>
