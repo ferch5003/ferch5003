@@ -57,11 +57,13 @@
 ### Do you know...
 
 <div>
-    <video src="https://www.youtube.com/embed/1R5QqhPq1Ik?rel=0" width="400" height="500"></video>
+    <a href="https://apod.nasa.gov/apod/image/2407/TimeSpiral_Budassi_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2407/TimeSpiral_Budassi_960.jpg" width="400" height="500" alt="">
+    </a>
     <div>
-        <h4>Earthrise: A Video Reconstruction</h4>
-        <time>2024-06-30</time>
-        <p>About 12 seconds into this video, something unusual happens. The Earth begins to rise.  Never seen by humans before, the rise of the Earth over the limb of the Moon occurred about 55.5 years ago and surprised and amazed the crew of Apollo 8. The crew immediately scrambled to take still images of the stunning vista caused by Apollo 8's orbit around the Moon. The featured video is a modern reconstruction of the event as it would have looked were it recorded with a modern movie camera. The colorful orb of our Earth stood out as a familiar icon rising above a distant and unfamiliar moonscape, the whole scene the conceptual reverse of a more familiar moonrise as seen from Earth. To many, the scene also spoke about the unity of humanity: that big blue marble -- that's us -- we all live there. The two-minute video is not time-lapse -- this is the real speed of the Earth rising through the windows of Apollo 8. Seven months and three missions later, Apollo 11 astronauts would not only circle Earth's moon, but land on it.   NASA Administrator Remembers Earthrise Photographer William Anders</p>
+        <h4>Time Spiral</h4>
+        <time>2024-07-01</time>
+        <p>What's happened since the universe started? The time spiral shown here features a few notable highlights. At the spiral's center is the Big Bang, the place where time, as we know it, began about 13.8 billion years ago. Within a few billion years atoms formed, then stars formed from atoms, galaxies formed from stars and gas, our Sun formed, soon followed by our Earth, about 4.6 billion years ago.  Life on Earth begins about 3.8 billion years ago, followed by cells, then photosynthesis within a billion years.  About 1.7 billion years ago, multicellular life on Earth began to flourish.  Fish began to swim about 500 million years ago, and mammals because walking on land about 200 million years ago. Humans first appeared only about 6 million years ago, and made the first cities only about 10,000 years ago.  The time spiral illustrated stops there, but human spaceflight might be added, which started only 75 years ago, and useful artificial intelligence began to take hold within only the past few years.   Explore Your Universe: Random APOD Generator</p>
         <strong><em></em></strong>
     </div>
 </div>
