@@ -57,13 +57,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2407/DeepM83ThousandRubyGalaxy1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2407/DeepM83ThousandRubyGalaxy1024.jpg" width="400" height="500" alt="Michael Sidonio">
+    <a href="https://apod.nasa.gov/apod/image/2407/TrifidrecortesRGB1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2407/TrifidrecortesRGB1024.jpg" width="400" height="500" alt="Jesús Carmona Guillén">
     </a>
     <div>
-        <h4>M83: Star Streams and a Thousand Rubies</h4>
-        <time>2024-07-03</time>
-        <p>Big, bright, and beautiful, spiral galaxy M83 lies a mere twelve million light-years away, near the southeastern tip of the very long constellation Hydra. About 40,000 light-years across, M83 is known as the Southern Pinwheel for its pronounced spiral arms. But the wealth of reddish star forming regions found near the edges of the arms' thick dust lanes, also suggest another popular moniker for M83, the Thousand-Ruby Galaxy. This new deep telescopic digital image also records the bright galaxy's faint, extended halo. Arcing toward the bottom of the cosmic frame lies a stellar tidal stream, debris drawn from massive M83 by the gravitational disruption of a smaller, merging satellite galaxy. Astronomers David Malin and Brian Hadley found the elusive star stream in the mid 1990s by enhancing photographic plates.</p>
-        <strong><em>Michael Sidonio</em></strong>
+        <h4>A Beautiful Trifid</h4>
+        <time>2024-07-04</time>
+        <p>The beautiful Trifid Nebula is a cosmic study in contrasts. Also known as M20, it lies about 5,000 light-years away toward the nebula rich constellation Sagittarius. A star forming region in the plane of our galaxy, the Trifid does illustrate three different types of astronomical nebulae; red emission nebulae dominated by light from hydrogen atoms, blue reflection nebulae produced by dust reflecting starlight, and dark nebulae where dense dust clouds appear in silhouette. But the red emission region, roughly separated into three parts by obscuring dust lanes, is what lends the Trifid its popular name. Pillars and jets sculpted by newborn stars, above and right of the emission nebula's center, appear in famous Hubble Space Telescope close-up images of the region. The Trifid Nebula is about 40 light-years across. Too faint to be seen by the unaided eye, it almost covers the area of a full moon on planet Earth's sky.</p>
+        <strong><em>Jesús Carmona Guillén</em></strong>
     </div>
 </div>
