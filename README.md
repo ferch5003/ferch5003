@@ -57,13 +57,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2407/NGC7789_difusco1024c.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2407/NGC7789_difusco1024c.jpg" width="400" height="500" alt="Massimo Di Fusco">
+    <a href="https://apod.nasa.gov/apod/image/2407/IridescentClouds_Strand_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2407/IridescentClouds_Strand_960.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>NGC 7789: Caroline's Rose</h4>
-        <time>2024-07-06</time>
-        <p>Found among the rich starfields of the Milky Way, star cluster NGC 7789 lies about 8,000 light-years away toward the constellation Cassiopeia. A late 18th century deep sky discovery of astronomer Caroline Lucretia Herschel, the cluster is also known as Caroline's Rose. Its visual appearance in small telescopes, created by the cluster's complex of stars and voids, is suggestive of nested rose petals. Now estimated to be 1.6 billion years young, the galactic or open cluster of stars also shows its age. All the stars in the cluster were likely born at the same time, but the brighter and more massive ones have more rapidly exhausted the hydrogen fuel in their cores. These have evolved from main sequence stars like the Sun into the many red giant stars shown with a yellowish cast in this color composite. Using measured color and brightness, astronomers can model the mass and hence the age of the cluster stars just starting to "turn off" the main sequence and become red giants. Over 50 light-years across, Caroline's Rose spans about half a degree (the angular size of the Moon) near the center of the sharp telescopic image.</p>
-        <strong><em>Massimo Di Fusco</em></strong>
+        <h4>Iridescent Clouds over Sweden</h4>
+        <time>2024-07-07</time>
+        <p>Why are these clouds multi-colored?  A relatively rare phenomenon in clouds known as iridescence can bring up unusual colors vividly -- or even a whole spectrum of colors simultaneously. These polar stratospheric clouds also, known as nacreous and mother-of-pearl clouds,  are formed of small water droplets of nearly uniform size. When the Sun is in the right position and, typically, hidden from direct view, these thin clouds can be seen significantly diffracting sunlight in a nearly coherent manner, with different colors being deflected by different amounts. Therefore, different colors will come to the observer from slightly different directions. Many clouds start with uniform regions that could show iridescence but quickly become too thick, too mixed, or too angularly far from the Sun to exhibit striking colors. The featured image and an accompanying video were taken late in 2019 over Ostersund, Sweden.</p>
+        <strong><em></em></strong>
     </div>
 </div>
