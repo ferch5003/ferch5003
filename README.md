@@ -57,13 +57,19 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2407/IridescentClouds_Strand_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2407/IridescentClouds_Strand_960.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2407/ExoplanetZoo_Vargic_1080.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2407/ExoplanetZoo_Vargic_1080.jpg" width="400" height="500" alt="
+Martin Vargic,
+ Halcyon Maps 
+">
     </a>
     <div>
-        <h4>Iridescent Clouds over Sweden</h4>
-        <time>2024-07-07</time>
-        <p>Why are these clouds multi-colored?  A relatively rare phenomenon in clouds known as iridescence can bring up unusual colors vividly -- or even a whole spectrum of colors simultaneously. These polar stratospheric clouds also, known as nacreous and mother-of-pearl clouds,  are formed of small water droplets of nearly uniform size. When the Sun is in the right position and, typically, hidden from direct view, these thin clouds can be seen significantly diffracting sunlight in a nearly coherent manner, with different colors being deflected by different amounts. Therefore, different colors will come to the observer from slightly different directions. Many clouds start with uniform regions that could show iridescence but quickly become too thick, too mixed, or too angularly far from the Sun to exhibit striking colors. The featured image and an accompanying video were taken late in 2019 over Ostersund, Sweden.</p>
-        <strong><em></em></strong>
+        <h4>Exoplanet Zoo: Other Stars</h4>
+        <time>2024-07-08</time>
+        <p>Do other stars have planets like our Sun? Surely they do, and evidence includes slight star wobbles created by the gravity of orbiting exoplanets and slight star dimmings caused by orbiting planets moving in front. In all, there have now been over 5,500 exoplanets discovered, including thousands by NASA's space-based Kepler and TESS missions, and over 100 by ESO's ground-based HARPS instrument.  Featured here is an illustrated guess as to what some of these exoplanets might look like. Neptune-type planets occupy the middle and are colored blue because of blue-scattering atmospheric methane they might contain. On the sides of the illustration, Jupiter-type planets are shown, colored tan and red from the scatterings of atmospheric gases that likely include small amounts of carbon.  Interspersed are many Earth-type rocky planets of many colors. As more exoplanets are discovered and investigated, humanity is developing a better understanding of how common Earth-like planets are, and how common life might be in the universe.</p>
+        <strong><em>
+Martin Vargic,
+ Halcyon Maps 
+</em></strong>
     </div>
 </div>
