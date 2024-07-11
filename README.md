@@ -57,13 +57,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2407/sagittariusTri1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2407/sagittariusTri1024.jpg" width="400" height="500" alt="Andy Ermolli">
+    <a href="https://apod.nasa.gov/apod/image/2407/NGC5139_Stein_a1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2407/NGC5139_Stein_a1024.jpg" width="400" height="500" alt="Juergen Stein">
     </a>
     <div>
-        <h4>A Sagittarius Triplet</h4>
-        <time>2024-07-10</time>
-        <p>These three bright nebulae are often featured on telescopic tours of the constellation Sagittarius and the crowded starfields of the central Milky Way. In fact, 18th century cosmic tourist Charles Messier cataloged two of them; M8, the large nebula above center, and colorful M20 below and left in the frame. The third emission region includes NGC 6559, right of M8 and separated from the larger nebula by a dark dust lane. All three are stellar nurseries about five thousand light-years or so distant. Over a hundred light-years across the expansive M8 is also known as the Lagoon Nebula. M20's popular moniker is the Trifid. Glowing hydrogen gas creates the dominant red color of the emission nebulae. But for striking contrast, blue hues in the Trifid are due to dust reflected starlight. The broad interstellar skyscape spans almost 4 degrees or 8 full moons on the sky.</p>
-        <strong><em>Andy Ermolli</em></strong>
+        <h4>Globular Cluster Omega Centauri</h4>
+        <time>2024-07-11</time>
+        <p>Globular star cluster Omega Centauri packs about 10 million stars much older than the Sun into a volume some 150 light-years in diameter. Also known as NGC 5139, at a distance of 15,000 light-years it's the largest and brightest of 200 or so known globular clusters that roam the halo of our Milky Way galaxy. Though most star clusters consist of stars with the same age and composition, the enigmatic Omega Cen exhibits the presence of different stellar populations with a spread of ages and chemical abundances. In fact, Omega Cen may be the remnant core of a small galaxy merging with the Milky Way. With a yellowish hue, Omega Centauri's red giant stars are easy to pick out in this sharp telescopic view. A two-decade-long exploration of the dense star cluster with the Hubble Space Telescope has revealed evidence for a massive black hole near the center of Omega Centauri.</p>
+        <strong><em>Juergen Stein</em></strong>
     </div>
 </div>
