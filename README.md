@@ -57,11 +57,17 @@
 ### Do you know...
 
 <div>
-    <video src="https://www.youtube.com/embed/hQFEHH5E69s?rel=0" width="400" height="500"></video>
+    <a href="https://apod.nasa.gov/apod/image/2407/UluruMilkyWay_Inwood_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2407/UluruMilkyWay_Inwood_960.jpg" width="400" height="500" alt="
+Max Inwood
+">
+    </a>
     <div>
-        <h4>Sun Dance</h4>
-        <time>2024-07-28</time>
-        <p>Sometimes, the surface of our Sun seems to dance. In the middle of 2012, for example, NASA's Sun-orbiting Solar Dynamic Observatory spacecraft imaged an impressive prominence that seemed to perform a running dive roll like an acrobatic dancer.  The dramatic explosion was captured in ultraviolet light in the featured time-lapse video covering about three hours. A looping magnetic field directed the flow of hot plasma on the Sun. The scale of the   dancing prominence is huge -- the entire Earth would easily fit under the flowing   arch of hot gas.  A quiescent prominence typically lasts about a month and may erupt in a Coronal Mass Ejection (CME), expelling hot gas into the Solar System.  The energy mechanism that creates a solar prominence is still a topic of research.  Like in 2012, this year the Sun's surface is again quite active and features many filaments and prominences.</p>
-        <strong><em></em></strong>
+        <h4>Milky Way over Uluru</h4>
+        <time>2024-07-29</time>
+        <p>What's happening above Uluru?  A United Nations World Heritage Site, Uluru  is an extraordinary 350-meter high mountain in central Australia that rises sharply from nearly flat surroundings. Composed of sandstone, Uluru has slowly formed over the past 300 million years as softer rock eroded away.  The Uluru region has been a home to humans for over 22,000 years. Recorded  last month, the starry sky above Uluru includes the central band of our Milky Way galaxy, complete with complex dark filaments of dust, bright red emission nebulas, and billions of stars.</p>
+        <strong><em>
+Max Inwood
+</em></strong>
     </div>
 </div>
