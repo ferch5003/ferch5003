@@ -57,13 +57,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2408/2024_07_28_Olbers_Kunka_Kunetice_1024px.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2408/2024_07_28_Olbers_Kunka_Kunetice_1024px.jpg" width="400" height="500" alt="Petr Horálek">
+    <a href="https://apod.nasa.gov/apod/image/2408/2024MaUrM45_1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2408/2024MaUrM45_1024.jpg" width="400" height="500" alt="Tunc Tezel">
     </a>
     <div>
-        <h4>Comet Olbers over Kunetice Castle</h4>
-        <time>2024-08-01</time>
-        <p>A visitor to the inner solar system every 70 years or so Comet 13P/Olbers reached its most recent perihelion, or closest approach to the Sun, on June 30 2024. Now on a return voyage to the distant Oort cloud the Halley-type comet is recorded here sweeping through northern summer night skies over historic Kunetice Castle, Czech Republic. Along with a broad dust tail, and brighter coma, this comet's long ion tail buffeted by storms and winds from the Sun, is revealed in the composite of tracked exposures for comet and sky, and fixed exposures for foreground landscape recorded on July 28. The comet is about 16 light-minutes beyond the castle and seen against faint background stars below the northern constellation Ursa Major. The hilltop castle dates to the 15th century, while Heinrich Olbers discovered the comet in 1815. Captured here low in northwestern skies just after sunset Comet Olbers, for now, offers skywatchers on planet Earth rewarding telescopic and binocular views. Comet 13P/Olbers next perihelion passage will be in 2094.</p>
-        <strong><em>Petr Horálek</em></strong>
+        <h4>Mars Passing By</h4>
+        <time>2024-08-02</time>
+        <p>As Mars wanders through Earth's night, it passes about 5 degrees south of the Pleiades star cluster in this composite astrophoto. The skyview was constructed from a series of images captured over a run of 16 consecutive clear nights beginning on July 12. Mars' march across the field of view begins at the far right, the planet's ruddy hue. showing a nice contrast with the blue Pleiades stars. Moving much faster across the sky against the distant stars, the fourth planet from the Sun easily passes seventh planet Uranus, also moving across this field of view. Red planet Mars and the ice giant world were in close conjunction, about 1/2 degree apart, on July 16. Continuing its rapid eastward trek, Mars has now left the sister stars and outer planet behind though, passing north of red giant star Aldebaran. Mars will come within about 1/3 degree of Jupiter in planet Earth's sky on August 14.</p>
+        <strong><em>Tunc Tezel</em></strong>
     </div>
 </div>
