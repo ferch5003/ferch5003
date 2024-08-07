@@ -57,17 +57,21 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2408/StormCloud_Rowe_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2408/StormCloud_Rowe_960.jpg" width="400" height="500" alt="
-Laura Rowe (Used with permission) 
+    <a href="https://apod.nasa.gov/apod/image/2408/DolomitesSky_Lioce_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2408/DolomitesSky_Lioce_960.jpg" width="400" height="500" alt="
+Donato Lioce; 
+Text: Natalia Lewandowska 
+(SUNY Oswego)
 ">
     </a>
     <div>
-        <h4>Storm Cloud Over Texas</h4>
-        <time>2024-08-06</time>
-        <p>What makes this storm cloud so colorful?  First, the cloud itself is composed of millions of tiny droplets of water and ice.  Its bottom is almost completely flat -- but this isn't unusual.  Bottom flatness in clouds is generally caused by air temperature dropping as you go up, and that above a specific height, water-saturated air condenses out water droplets.  The shape of the cloud middle is caused by a water-droplet-laden column of air being blown upward.  Most unusual, though, are the orange and yellow colors.  Both colors are caused by the cloud's water drops reflecting sunlight. The orange color in the cloud's middle and bottom sections are reflections of a nearly red sunset.  In contrast, the yellow color of the cloud's top results from reflection of light from a not-yet-setting Sun, where some -- but less -- blue light is being scattered away. Appearing to float above the plains in Texas, the featured impressive image of a dynamic cumulonimbus cloud was captured in 2021 while investigating a tornado.</p>
+        <h4>Milky Way Behind Three Merlons</h4>
+        <time>2024-08-07</time>
+        <p>To some, they look like battlements, here protecting us against the center of the Milky Way. The Three Merlons, also called the Three Peaks of Lavaredo, stand tall today because they are made of dense dolomite rock which has better resisted erosion than surrounding softer rock. They formed about 250 million years ago and so are comparable in age with one of the great extinctions of life on Earth. A leading hypothesis is that this great extinction was triggered by an asteroid about 10-km across, larger in size than Mount Everest, impacting the Earth. Humans have gazed up at the stars in the Milky Way and beyond for centuries, making these battlefield-like formations, based in the Sexten Dolomites, a popular place for current and ancient astronomers.</p>
         <strong><em>
-Laura Rowe (Used with permission) 
+Donato Lioce; 
+Text: Natalia Lewandowska 
+(SUNY Oswego)
 </em></strong>
     </div>
 </div>
