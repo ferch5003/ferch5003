@@ -57,13 +57,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2408/perseid_iss_4256_1024c.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2408/perseid_iss_4256_1024c.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2408/M20OriginalLRGBHaO3S2_1024x735.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2408/M20OriginalLRGBHaO3S2_1024x735.jpg" width="400" height="500" alt="Robert Edelmaier and Gabriele Gegenbauer">
     </a>
     <div>
-        <h4>A Perseid Below</h4>
-        <time>2024-08-09</time>
-        <p>Denizens of planet Earth typically watch meteor showers by looking up. But this remarkable view, captured on August 13, 2011 by astronaut Ron Garan, caught a Perseid meteor by looking down. From Garan's perspective on board the International Space Station orbiting at an altitude of about 380 kilometers, the Perseid meteors streak below, swept up dust from comet Swift-Tuttle. The vaporizing comet dust grains are traveling at about 60 kilometers per second through the denser atmosphere around 100 kilometers above Earth's surface. In this case, the foreshortened meteor flash is near frame center, below the curving limb of the Earth and a layer of greenish airglow, just below bright star Arcturus. Want to look up at a meteor shower?  You're in luck, as the 2024 Perseid meteor shower is active now and predicted to peak near August 12. With interfering bright moonlight absent, this year you'll likely see many Perseid meteors under clear, dark skies after midnight.</p>
-        <strong><em></em></strong>
+        <h4>The Light, Dark, and Dusty Trifid</h4>
+        <time>2024-08-10</time>
+        <p>Messier 20, popularly known as the Trifid Nebula, lies about 5,000 light-years away toward the nebula rich constellation Sagittarius. A star forming region in the plane of our galaxy, the Trifid does illustrate three different types of astronomical nebulae; red emission nebulae dominated by light from hydrogen atoms, blue reflection nebulae produced by dust reflecting starlight, and dark nebulae where dense dust clouds appear in silhouette. The reddish emission region, roughly separated into three parts by obscuring dust lanes, is what lends the Trifid its popular name. The cosmic cloud complex is over 40 light-years across and would cover the area of a full moon on planet Earth's sky. But the Trifid Nebula is too faint to be seen by the unaided eye. Over 75 hours of image data captured under dark night skies was used to create this stunning telescopic view.  Watch: The Perseid Meteor Shower</p>
+        <strong><em>Robert Edelmaier and Gabriele Gegenbauer</em></strong>
     </div>
 </div>
