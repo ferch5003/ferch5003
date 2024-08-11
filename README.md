@@ -57,13 +57,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2408/M20OriginalLRGBHaO3S2_1024x735.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2408/M20OriginalLRGBHaO3S2_1024x735.jpg" width="400" height="500" alt="Robert Edelmaier and Gabriele Gegenbauer">
+    <a href="https://www.meteorshowers.org/view/perseids">
+        <img align="left" src="https://www.meteorshowers.org/view/perseids" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>The Light, Dark, and Dusty Trifid</h4>
-        <time>2024-08-10</time>
-        <p>Messier 20, popularly known as the Trifid Nebula, lies about 5,000 light-years away toward the nebula rich constellation Sagittarius. A star forming region in the plane of our galaxy, the Trifid does illustrate three different types of astronomical nebulae; red emission nebulae dominated by light from hydrogen atoms, blue reflection nebulae produced by dust reflecting starlight, and dark nebulae where dense dust clouds appear in silhouette. The reddish emission region, roughly separated into three parts by obscuring dust lanes, is what lends the Trifid its popular name. The cosmic cloud complex is over 40 light-years across and would cover the area of a full moon on planet Earth's sky. But the Trifid Nebula is too faint to be seen by the unaided eye. Over 75 hours of image data captured under dark night skies was used to create this stunning telescopic view.  Watch: The Perseid Meteor Shower</p>
-        <strong><em>Robert Edelmaier and Gabriele Gegenbauer</em></strong>
+        <h4>Animation: Perseid Meteor Shower</h4>
+        <time>2024-08-11</time>
+        <p>Where do Perseid meteors come from? Mostly small bits of stony grit, Perseid meteoroids were once expelled from Comet Swift-Tuttle and continue to follow this comet's orbit as they slowly disperse.  The featured animation depicts the entire meteoroid stream as it orbits our Sun.  When the Earth nears this stream, as it does every year, the Perseid Meteor Shower occurs.  Highlighted as bright in the animation, comet debris this size is usually so dim it is practically undetectable.  Only a small fraction of this debris will enter the Earth's atmosphere, heat up and disintegrate brightly.  Tonight and the next few nights promise some of the better skies to view the Perseid shower as well as other active showers because the first quarter moon will be absent from the sky from midnight onward.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)</p>
+        <strong><em></em></strong>
     </div>
 </div>
