@@ -57,11 +57,17 @@
 ### Do you know...
 
 <div>
-    <video src="https://www.youtube.com/embed/PBL1RBj-P1g?rel=0" width="400" height="500"></video>
+    <a href="https://apod.nasa.gov/apod/image/2408/Cocoon_Ventura_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2408/Cocoon_Ventura_960.jpg" width="400" height="500" alt="
+Luis Romero Ventura
+">
+    </a>
     <div>
-        <h4>A Solar Prominence Eruption from SDO</h4>
-        <time>2024-08-18</time>
-        <p>One of the most spectacular solar sights is an erupting prominence. In 2011, NASA's Sun-orbiting Solar Dynamic Observatory spacecraft imaged an impressively large prominence erupting from the surface. The dramatic explosion was captured in ultraviolet light in the featured time lapse video covering 90 minutes, where a new frame was taken every 24 seconds.  The scale of the prominence is huge -- the entire Earth would easily fit under the flowing  curtain of hot gas.  A solar prominence is channeled and sometimes held above the Sun's surface by the Sun's magnetic field. A quiescent prominence typically lasts about a month and may erupt in a Coronal Mass Ejection (CME) expelling hot gas into the Solar System.  The energy mechanism that creates a solar prominence is a continuing topic of research.  Our Sun is again near solar maximum and so very active, featuring numerous erupting prominences and CMEs, one of which resulted in picturesque auroras just over the past week.</p>
-        <strong><em></em></strong>
+        <h4>IC 5146: The Cocoon Nebula</h4>
+        <time>2024-08-19</time>
+        <p>Inside the Cocoon Nebula is a newly developing cluster of stars. Cataloged as IC 5146, the beautiful nebula is nearly 15 light-years wide. Soaring high in northern summer night skies, it's located some 4,000 light years away toward the constellation of the Swan (Cygnus).  Like other star forming regions, it stands out in red, glowing, hydrogen gas excited by young, hot stars, and dust-reflected starlight at the edge of an otherwise invisible molecular cloud.  In fact, the bright star found near the center of this nebula is likely only a few hundred thousand years old, powering the nebular glow as it clears out a cavity in the molecular cloud's star forming dust and gas. A 48-hour long integration resulted in this exceptionally deep color view tracing tantalizing features within and surrounding the dusty stellar nursery.</p>
+        <strong><em>
+Luis Romero Ventura
+</em></strong>
     </div>
 </div>
