@@ -57,17 +57,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2408/Cocoon_Ventura_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2408/Cocoon_Ventura_960.jpg" width="400" height="500" alt="
-Luis Romero Ventura
-">
+    <a href="https://apod.nasa.gov/apod/image/2408/SupermoonPoseidon_Maragos_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2408/SupermoonPoseidon_Maragos_960.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>IC 5146: The Cocoon Nebula</h4>
-        <time>2024-08-19</time>
-        <p>Inside the Cocoon Nebula is a newly developing cluster of stars. Cataloged as IC 5146, the beautiful nebula is nearly 15 light-years wide. Soaring high in northern summer night skies, it's located some 4,000 light years away toward the constellation of the Swan (Cygnus).  Like other star forming regions, it stands out in red, glowing, hydrogen gas excited by young, hot stars, and dust-reflected starlight at the edge of an otherwise invisible molecular cloud.  In fact, the bright star found near the center of this nebula is likely only a few hundred thousand years old, powering the nebular glow as it clears out a cavity in the molecular cloud's star forming dust and gas. A 48-hour long integration resulted in this exceptionally deep color view tracing tantalizing features within and surrounding the dusty stellar nursery.</p>
-        <strong><em>
-Luis Romero Ventura
-</em></strong>
+        <h4>Supermoon Beyond the Temple of Poseidon</h4>
+        <time>2024-08-20</time>
+        <p>A supermoon occurred yesterday. And tonight's moon should also look impressive.  Supermoons appear slightly larger and brighter than most full moons because they reach their full phase when slightly nearer to the Earth -- closer than 90 percent of all full moons.  This supermoon was also a blue moon given the definition that it is the third of four full moons occurring during a single season.  Blue moons are not usually blue, and a different definition holds that a blue moon is the second full moon that occurs during a single month.  The featured image captured the blue supermoon right near its peak size yesterday as it was rising beyond the Temple of Poseidon in Greece. This supermoon is particularly unusual in that it is the first of four successive supermoons, the next three occurring in September, October, and November.</p>
+        <strong><em></em></strong>
     </div>
 </div>
