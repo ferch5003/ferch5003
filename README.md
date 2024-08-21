@@ -57,13 +57,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2408/SupermoonPoseidon_Maragos_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2408/SupermoonPoseidon_Maragos_960.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2408/12YearMap_Fermi_1080.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2408/12YearMap_Fermi_1080.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Supermoon Beyond the Temple of Poseidon</h4>
-        <time>2024-08-20</time>
-        <p>A supermoon occurred yesterday. And tonight's moon should also look impressive.  Supermoons appear slightly larger and brighter than most full moons because they reach their full phase when slightly nearer to the Earth -- closer than 90 percent of all full moons.  This supermoon was also a blue moon given the definition that it is the third of four full moons occurring during a single season.  Blue moons are not usually blue, and a different definition holds that a blue moon is the second full moon that occurs during a single month.  The featured image captured the blue supermoon right near its peak size yesterday as it was rising beyond the Temple of Poseidon in Greece. This supermoon is particularly unusual in that it is the first of four successive supermoons, the next three occurring in September, October, and November.</p>
+        <h4>Fermi's 12-year All-Sky Gamma-ray Map</h4>
+        <time>2024-08-21</time>
+        <p>Forget X-ray vision — imagine what you could see with gamma-ray vision!  The featured all-sky map shows what the universe looks like to NASA's Fermi Gamma-ray Space Telescope.  Fermi sees light with energies about a billion times what the human eye can see, and the map combines 12 years of Fermi observations.  The colors represent the brightness of the gamma-ray sources, with brighter sources appearing lighter in color.  The prominent stripe across the middle is the central plane of our Milky Way galaxy.  Most of the red and yellow dots scattered above and below the Milky Way’s plane are very distant galaxies, while most of those within the plane are nearby pulsars.  The blue background that fills the image is the diffuse glow of gamma-rays from distant sources that are too dim to be detected individually.  Some gamma-ray sources remain unidentified and topics of research — currently no one knows what they are.</p>
         <strong><em></em></strong>
     </div>
 </div>
