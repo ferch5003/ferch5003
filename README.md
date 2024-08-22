@@ -57,13 +57,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2408/12YearMap_Fermi_1080.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2408/12YearMap_Fermi_1080.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2408/DarkTowerCDK700-Selby1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2408/DarkTowerCDK700-Selby1024.jpg" width="400" height="500" alt="Mike Selby">
     </a>
     <div>
-        <h4>Fermi's 12-year All-Sky Gamma-ray Map</h4>
-        <time>2024-08-21</time>
-        <p>Forget X-ray vision — imagine what you could see with gamma-ray vision!  The featured all-sky map shows what the universe looks like to NASA's Fermi Gamma-ray Space Telescope.  Fermi sees light with energies about a billion times what the human eye can see, and the map combines 12 years of Fermi observations.  The colors represent the brightness of the gamma-ray sources, with brighter sources appearing lighter in color.  The prominent stripe across the middle is the central plane of our Milky Way galaxy.  Most of the red and yellow dots scattered above and below the Milky Way’s plane are very distant galaxies, while most of those within the plane are nearby pulsars.  The blue background that fills the image is the diffuse glow of gamma-rays from distant sources that are too dim to be detected individually.  Some gamma-ray sources remain unidentified and topics of research — currently no one knows what they are.</p>
-        <strong><em></em></strong>
+        <h4>The Dark Tower in Scorpius</h4>
+        <time>2024-08-22</time>
+        <p>In silhouette against a crowded star field along the tail of the arachnological constellation Scorpius, this dusty cosmic cloud evokes for some the image of an ominous dark tower. In fact, monstrous clumps of dust and molecular gas collapsing to form stars may well lurk within the dark nebula, a structure that spans almost 40 light-years across this gorgeous telescopic portrait. A cometary globule, the swept-back cloud is shaped by intense ultraviolet radiation from the OB association of very hot stars in NGC 6231, off the upper right corner of the scene. That energetic ultraviolet light also powers the globule's bordering reddish glow of hydrogen gas. Hot stars embedded in the dust can be seen as bluish reflection nebulae. This dark tower and associated nebulae are about 5,000 light-years away.   Growing Gallery: Moon Eclipses Saturn in August 2024</p>
+        <strong><em>Mike Selby</em></strong>
     </div>
 </div>
