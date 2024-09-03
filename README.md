@@ -57,17 +57,19 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2409/SunTriangle_Vanoni_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2409/SunTriangle_Vanoni_960.jpg" width="400" height="500" alt="
-Andrea Vanoni
+    <a href="https://apod.nasa.gov/apod/image/2409/MoonPleiades_Dyer_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2409/MoonPleiades_Dyer_960.jpg" width="400" height="500" alt="
+Alan Dyer, 
+TWAN
 ">
     </a>
     <div>
-        <h4>A Triangular Prominence Hovers Over the Sun</h4>
-        <time>2024-09-02</time>
-        <p>Why is there a triangle hovering over the Sun?  Although the shape is unusual, the type of structure is not: it is part of an evolving solar prominence.  Looping magnetic fields on the Sun channel the flow of energetic particles, sometimes holding glowing gaseous structures aloft for months.  A prominence glows brightly because it contains particularly hot, dense, or opaque solar plasma. The surprising triangular structure occurred last week. Larger than our Earth, the iconic prominence was imaged by several solar photographers and documented by NASA's Solar Dynamic Observatory to form and violently dissipate in about a day. The featured image was captured in a color of red light emitted strongly by hydrogen.  Below, solar fibrils carpet the Sun's chromosphere, while the background sky is so faint in comparison that no stars are visible.  Our Sun's surface has been quite active this year.</p>
+        <h4>Quarter Moon and Sister Stars</h4>
+        <time>2024-09-03</time>
+        <p>Nine days ago, two quite different sky icons were imaged rising together. Specifically, Earth's Moon shared the eastern sky with the sister stars of the Pleiades cluster, as viewed from Alberta, Canada.  Astronomical images of the well-known Pleiades often show the star cluster's alluring blue reflection nebulas, but here they are washed-out by the orange moonrise sky. The half-lit Moon, known as a quarter moon, is overexposed, although the outline of the dim lunar night side can be seen by illuminating earthshine, light first reflected from the Earth. The featured image is a composite of eight successive exposures with brightnesses adjusted to match what the human eye would see.  The Moon passes nearly -- or directly -- in front of the Pleaides once a month.</p>
         <strong><em>
-Andrea Vanoni
+Alan Dyer, 
+TWAN
 </em></strong>
     </div>
 </div>
