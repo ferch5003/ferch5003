@@ -57,13 +57,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2409/NGC247-Hag-Ben1024.JPG">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2409/NGC247-Hag-Ben1024.JPG" width="400" height="500" alt="Eric Benson">
+    <a href="https://apod.nasa.gov/apod/image/2409/NeptuneTriton_webb1059.png">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2409/NeptuneTriton_webb1059.png" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>NGC 247 and Friends</h4>
-        <time>2024-09-05</time>
-        <p>About 70,000 light-years across, NGC 247 is a spiral galaxy smaller than our Milky Way. Measured to be only 11 million light-years distant it is nearby though. Tilted nearly edge-on as seen from our perspective, it dominates this telescopic field of view toward the southern constellation Cetus. The pronounced void on one side of the galaxy's disk recalls for some its popular name, the Needle's Eye galaxy. Many background galaxies are visible in this sharp galaxy portrait, including the remarkable string of four galaxies just below and left of NGC 247 known as Burbidge's Chain. Burbidge's Chain galaxies are about 300 million light-years distant. NGC 247 itself is part of the Sculptor Group of galaxies along with shiny spiral NGC 253.</p>
-        <strong><em>Eric Benson</em></strong>
+        <h4>Ringed Ice Giant Neptune</h4>
+        <time>2024-09-06</time>
+        <p>Ringed ice giant Neptune lies near the center of this sharp near-infrared image from the James Webb Space Telescope. The dim and distant world is the farthest planet from the Sun, about 30 times farther away than planet Earth. But in the stunning Webb view, the planet's dark and ghostly appearance is due to atmospheric methane that absorbs infrared light. High altitude clouds that reach above most of Neptune's absorbing methane easily stand out in the image though. Coated with frozen nitrogen, Neptune's largest moon Triton is brighter than Neptune in reflected sunlight, seen at the upper left sporting the Webb telescope's characteristic diffraction spikes. Including Triton, seven of Neptune's 14 known moons can be identified in the field of view. Neptune's faint rings are striking in this space-based planetary portrait. Details of the complex ring system are seen here for the first time since Neptune was visited by the Voyager 2 spacecraft in August 1989.</p>
+        <strong><em></em></strong>
     </div>
 </div>
