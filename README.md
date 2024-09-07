@@ -57,13 +57,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2409/NeptuneTriton_webb1059.png">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2409/NeptuneTriton_webb1059.png" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2409/PIA11826_c.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2409/PIA11826_c.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Ringed Ice Giant Neptune</h4>
-        <time>2024-09-06</time>
-        <p>Ringed ice giant Neptune lies near the center of this sharp near-infrared image from the James Webb Space Telescope. The dim and distant world is the farthest planet from the Sun, about 30 times farther away than planet Earth. But in the stunning Webb view, the planet's dark and ghostly appearance is due to atmospheric methane that absorbs infrared light. High altitude clouds that reach above most of Neptune's absorbing methane easily stand out in the image though. Coated with frozen nitrogen, Neptune's largest moon Triton is brighter than Neptune in reflected sunlight, seen at the upper left sporting the Webb telescope's characteristic diffraction spikes. Including Triton, seven of Neptune's 14 known moons can be identified in the field of view. Neptune's faint rings are striking in this space-based planetary portrait. Details of the complex ring system are seen here for the first time since Neptune was visited by the Voyager 2 spacecraft in August 1989.</p>
+        <h4>Small Moon Deimos</h4>
+        <time>2024-09-07</time>
+        <p>Mars has two tiny moons, Phobos and Deimos, named for the figures in Greek mythology Fear and Panic. Detailed surface views of smaller moon Deimos are shown in both these panels. The images were taken in 2009, by the HiRISE camera on board the Mars Reconnaissance Orbiter spacecraft, NASA's long-lived interplanetary internet satellite. The outermost of the two Martian moons, Deimos is one of the smallest known moons in the Solar System, measuring only about 15 kilometers across.  Both Martian moons were discovered in 1877 by Asaph Hall, an American astronomer working at the US Naval Observatory in Washington D.C. But their existence was postulated around 1610 by Johannes Kepler, the astronomer who derived the laws of planetary motion. In this case, Kepler's prediction was not based on scientific principles, but his writings and ideas were so influential that the two Martian moons are discussed in works of fiction such as Jonathan Swift's Gulliver's Travels, written in 1726, over 150 years before their discovery.</p>
         <strong><em></em></strong>
     </div>
 </div>
