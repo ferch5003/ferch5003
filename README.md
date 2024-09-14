@@ -57,13 +57,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2409/iss071e564695_1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2409/iss071e564695_1024.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2409/Moonalisa_Example1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2409/Moonalisa_Example1024.jpg" width="400" height="500" alt="Gianni Sarcone">
     </a>
     <div>
-        <h4>Aurora Australis and the International Space Station</h4>
-        <time>2024-09-13</time>
-        <p>This snapshot from the International Space Station was taken on August 11 while orbiting about 430 kilometers above the Indian Ocean, Southern Hemisphere, planet Earth. The spectacular view looks south and east, down toward the planet's horizon and through red and green curtains of aurora australis. The auroral glow is caused by emission from excited oxygen atoms in the extremely rarefied upper atmosphere still present at the level of the orbiting outpost. Green emission from atomic oxygen dominates this scene at altitudes of 100 to 250 kilometers, while red emission from atomic oxygen can extend as high as 500 kilometers altitude. Beyond the glow of these southern lights, this view from low Earth orbit reveals the starry sky from a southern hemisphere perspective. Stars in Orion's belt and the Orion Nebula are near the Earth's limb just left of center. Sirius, alpha star of Canis Major and brightest star in planet Earth's night is above center along the right edge of the southern orbital skyscape.  Looking Up: International Observe the Moon Night</p>
-        <strong><em></em></strong>
+        <h4>The Moona Lisa</h4>
+        <time>2024-09-14</time>
+        <p>Only natural colors of the Moon in planet Earth's sky appear in this creative visual presentation. Arranged as pixels in a framed image, the lunar disks were photographed at different times. Their varying hues are ultimately due to reflected sunlight affected by changing atmospheric conditions and the alignment geometry of Moon, Earth, and Sun. Here, the darkest lunar disks are the colors of earthshine. A description of earthshine, in terms of sunlight reflected by Earth's oceans illuminating the Moon's dark surface, was written over 500 years ago by Leonardo da Vinci.  But stand farther back from your screen or just shift your gaze to the smaller versions of the image. You might also see one of da Vinci's most famous works of art.  Tonight: International Observe the Moon Night</p>
+        <strong><em>Gianni Sarcone</em></strong>
     </div>
 </div>
