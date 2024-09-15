@@ -57,13 +57,17 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2409/Moonalisa_Example1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2409/Moonalisa_Example1024.jpg" width="400" height="500" alt="Gianni Sarcone">
+    <a href="https://apod.nasa.gov/apod/image/2409/ManInMoon_Caxete_1080.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2409/ManInMoon_Caxete_1080.jpg" width="400" height="500" alt="
+Dani Caxete
+">
     </a>
     <div>
-        <h4>The Moona Lisa</h4>
-        <time>2024-09-14</time>
-        <p>Only natural colors of the Moon in planet Earth's sky appear in this creative visual presentation. Arranged as pixels in a framed image, the lunar disks were photographed at different times. Their varying hues are ultimately due to reflected sunlight affected by changing atmospheric conditions and the alignment geometry of Moon, Earth, and Sun. Here, the darkest lunar disks are the colors of earthshine. A description of earthshine, in terms of sunlight reflected by Earth's oceans illuminating the Moon's dark surface, was written over 500 years ago by Leonardo da Vinci.  But stand farther back from your screen or just shift your gaze to the smaller versions of the image. You might also see one of da Vinci's most famous works of art.  Tonight: International Observe the Moon Night</p>
-        <strong><em>Gianni Sarcone</em></strong>
+        <h4>Find the Man in the Moon</h4>
+        <time>2024-09-15</time>
+        <p>Have you ever seen the Man in the Moon? This common question plays on the ability of humans to see pareidolia -- imagining familiar icons where they don't actually exist. The textured surface of Earth's full Moon is home to numerous identifications of iconic objects, not only in modern western culture but in world folklore throughout history. Examples, typically dependent on the Moon's perceived orientation, include the Woman in the Moon and the Rabbit in the Moon. One facial outline commonly identified as the Man in the Moon starts by imagining the two dark circular areas -- lunar maria -- here just above the Moon's center, to be the eyes.  Surprisingly, there actually is a man in this Moon image -- a close look will reveal a real person -- with a telescope -- silhouetted against the Moon. This well-planned image was taken in 2016 in Cadalso de los Vidrios in Madrid, Spain.   Observe the Moon Night: NASA Coverage</p>
+        <strong><em>
+Dani Caxete
+</em></strong>
     </div>
 </div>
