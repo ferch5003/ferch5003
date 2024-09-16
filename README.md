@@ -57,17 +57,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2409/ManInMoon_Caxete_1080.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2409/ManInMoon_Caxete_1080.jpg" width="400" height="500" alt="
-Dani Caxete
-">
+    <a href="https://apod.nasa.gov/apod/image/2409/MercuryCaloris_BepiColombo_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2409/MercuryCaloris_BepiColombo_960.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Find the Man in the Moon</h4>
-        <time>2024-09-15</time>
-        <p>Have you ever seen the Man in the Moon? This common question plays on the ability of humans to see pareidolia -- imagining familiar icons where they don't actually exist. The textured surface of Earth's full Moon is home to numerous identifications of iconic objects, not only in modern western culture but in world folklore throughout history. Examples, typically dependent on the Moon's perceived orientation, include the Woman in the Moon and the Rabbit in the Moon. One facial outline commonly identified as the Man in the Moon starts by imagining the two dark circular areas -- lunar maria -- here just above the Moon's center, to be the eyes.  Surprisingly, there actually is a man in this Moon image -- a close look will reveal a real person -- with a telescope -- silhouetted against the Moon. This well-planned image was taken in 2016 in Cadalso de los Vidrios in Madrid, Spain.   Observe the Moon Night: NASA Coverage</p>
-        <strong><em>
-Dani Caxete
-</em></strong>
+        <h4>Mercury's Vivaldi Crater from BepiColombo</h4>
+        <time>2024-09-16</time>
+        <p>Why does this large crater on Mercury have two rings and a smooth floor?  No one is sure.  The unusual feature called Vivaldi Crater spans 215 kilometers and was imaged again in great detail by ESA's and JAXA's robotic BepiColombo spacecraft on a flyby earlier this month. A large circular feature on a rocky planet or moon is usually caused by either an impact by a small asteroid or a comet fragment, or a volcanic eruption. In the case of Vivaldi, it is possible that both occurred -- a heavy strike that caused a smooth internal lava flow.  Double-ringed craters are rare, and the cause of the inner rings remains a topic of research.  The speed-slowing gravity-assisted flyby of Mercury by BepiColombo was in preparation for the spacecraft entering orbit around the Solar System's innermost planet in 2026.</p>
+        <strong><em></em></strong>
     </div>
 </div>
