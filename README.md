@@ -57,17 +57,21 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2409/HeartMelotte_McInnis_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2409/HeartMelotte_McInnis_960.jpg" width="400" height="500" alt="
-Richard McInnis
+    <a href="https://apod.nasa.gov/apod/image/2409/Mermaid_Corke_1080.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2409/Mermaid_Corke_1080.jpg" width="400" height="500" alt="
+Neil Corke; 
+Text: Natalia Lewandowska 
+(SUNY Oswego)
 ">
     </a>
     <div>
-        <h4>Melotte 15 in the Heart Nebula</h4>
-        <time>2024-09-17</time>
-        <p>Cosmic clouds form fantastic shapes in the central regions of emission nebula IC 1805. The clouds are sculpted by stellar winds and radiation from massive hot stars in the nebula's newborn star cluster, Melotte 15. About 1.5 million years young, the cluster stars are scattered in this colorful skyscape, along with dark dust clouds in silhouette against glowing atomic gas. A composite of narrowband and broadband telescopic images, the view spans about 15 light-years and includes emission from ionized hydrogen, sulfur, and oxygen atoms mapped to green, red, and blue hues in the popular Hubble Palette. Wider field images reveal that IC 1805's simpler, overall outline suggests its popular name - the Heart Nebula. IC 1805 is located about 7,500 light years away toward the boastful constellation Cassiopeia.</p>
+        <h4>The Mermaid Nebula Supernova Remnant</h4>
+        <time>2024-09-18</time>
+        <p>New stars are born from the remnants of dead stars. The gaseous remnant of the gravitational collapse and subsequent death of a very massive star in our Milky Way created the G296.5+10.0 supernova remnant, of which the featured Mermaid Nebula is part. Also known as the Betta Fish Nebula, the Mermaid Nebula makes up part of an unusual subclass of supernova remnants that are two-sided and nearly circular. Originally discovered in X-rays, the filamentary nebula is a frequently studied source also in radio and gamma-ray light.  The blue color visible here originates from doubly ionized oxygen (OIII), while the deep red is emitted by hydrogen gas. The nebula's mermaid-like shape has proven to be useful for measurements of the interstellar magnetic field.</p>
         <strong><em>
-Richard McInnis
+Neil Corke; 
+Text: Natalia Lewandowska 
+(SUNY Oswego)
 </em></strong>
     </div>
 </div>
