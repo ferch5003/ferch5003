@@ -57,13 +57,17 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2409/RayosCrepusculares_1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2409/RayosCrepusculares_1024.jpg" width="400" height="500" alt="Emili Vilamala">
+    <a href="https://apod.nasa.gov/apod/image/2409/Chicagohenge_Artese_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2409/Chicagohenge_Artese_960.jpg" width="400" height="500" alt="
+Anthony Artese
+">
     </a>
     <div>
-        <h4>Sunrise Shadows in the Sky</h4>
-        <time>2024-09-21</time>
-        <p>The defining astronomical moment of this September's equinox is at 12:44 UTC on September 22, when the Sun crosses the celestial equator moving south in its yearly journey through planet Earth's sky. That marks the beginning of fall for our fair planet in the northern hemisphere and spring in the southern hemisphere, when day and night are nearly equal around the globe.  Of course, if you celebrate the astronomical change of seasons by watching a sunrise you can also look for crepuscular rays. Outlined by shadows cast by clouds, crepuscular rays can have a dramatic appearance in the twilight sky during any sunrise (or sunset). Due to perspective, the parallel cloud shadows will seem to point back to the rising Sun and a place due east on your horizon on the equinox date. But in this spectacular sunrise skyscape captured in early June, the parallel shadows and crepuscular rays appear to converge toward an eastern horizon's more northerly sunrise.  The well-composed photo places the rising Sun just behind the bell tower of a church in the town of Vic, province of Barcelona, Catalonia, Spain.</p>
-        <strong><em>Emili Vilamala</em></strong>
+        <h4>Chicagohenge: Equinox in an Aligned City</h4>
+        <time>2024-09-22</time>
+        <p>Chicago, in a way, is like a modern Stonehenge. The way is east to west, and the time is today.  Today, and every equinox, the Sun will set exactly to the west, everywhere on Earth. Therefore, today in Chicago, the Sun will set directly down the long equatorially-aligned grid of streets and buildings, an event dubbed #chicagohenge.  Featured here is a Chicago Henge picture taken during the  equinox in mid-September of 2017 looking along part of Upper Wacker Drive.  Many cities, though, have streets or other features that are well-aligned to Earth's spin axis. Therefore, quite possibly, your  favorite street may also run east - west. Tonight at sunset, with a quick glance, you can actually find out.</p>
+        <strong><em>
+Anthony Artese
+</em></strong>
     </div>
 </div>
