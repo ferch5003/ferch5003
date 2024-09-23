@@ -57,17 +57,19 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2409/Chicagohenge_Artese_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2409/Chicagohenge_Artese_960.jpg" width="400" height="500" alt="
-Anthony Artese
+    <a href="https://apod.nasa.gov/apod/image/2409/Comet23A3_Valente_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2409/Comet23A3_Valente_960.jpg" width="400" height="500" alt="
+Brian Valente
+& Greg Stein
 ">
     </a>
     <div>
-        <h4>Chicagohenge: Equinox in an Aligned City</h4>
-        <time>2024-09-22</time>
-        <p>Chicago, in a way, is like a modern Stonehenge. The way is east to west, and the time is today.  Today, and every equinox, the Sun will set exactly to the west, everywhere on Earth. Therefore, today in Chicago, the Sun will set directly down the long equatorially-aligned grid of streets and buildings, an event dubbed #chicagohenge.  Featured here is a Chicago Henge picture taken during the  equinox in mid-September of 2017 looking along part of Upper Wacker Drive.  Many cities, though, have streets or other features that are well-aligned to Earth's spin axis. Therefore, quite possibly, your  favorite street may also run east - west. Tonight at sunset, with a quick glance, you can actually find out.</p>
+        <h4>Comet Tsuchinshan-ATLAS Approaches</h4>
+        <time>2024-09-23</time>
+        <p>What will happen as this already bright comet approaches?  Optimistic predictions have Comet C/2023 A3 (Tsuchinshan–ATLAS) briefly becoming easily visible to the unaided eye -- although the future brightness of comets are notoriously hard to predict, and this comet may even break up in warming sunlight. What is certain is that the comet is now unexpectedly bright and is on track to pass its closest to the Sun (0.39 AU) later this week and closest to the Earth (0.47 AU) early next month.  The featured image was taken in late May as Comet Tsuchinshan–ATLAS, discovered only last year, passed nearly in front of two distant galaxies.  The comet can now be found with binoculars in the early morning sky rising just before the Sun, while over the next few weeks it will brighten as it moves to the early evening sky.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)</p>
         <strong><em>
-Anthony Artese
+Brian Valente
+& Greg Stein
 </em></strong>
     </div>
 </div>
