@@ -57,19 +57,19 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2409/Comet23A3_Valente_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2409/Comet23A3_Valente_960.jpg" width="400" height="500" alt="
-Brian Valente
-& Greg Stein
+    <a href="https://apod.nasa.gov/apod/image/2409/Baboon_ZhangYu_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2409/Baboon_ZhangYu_960.jpg" width="400" height="500" alt="
+Alpha Zhang & 
+Ting Yu
 ">
     </a>
     <div>
-        <h4>Comet Tsuchinshan-ATLAS Approaches</h4>
-        <time>2024-09-23</time>
-        <p>What will happen as this already bright comet approaches?  Optimistic predictions have Comet C/2023 A3 (Tsuchinshan–ATLAS) briefly becoming easily visible to the unaided eye -- although the future brightness of comets are notoriously hard to predict, and this comet may even break up in warming sunlight. What is certain is that the comet is now unexpectedly bright and is on track to pass its closest to the Sun (0.39 AU) later this week and closest to the Earth (0.47 AU) early next month.  The featured image was taken in late May as Comet Tsuchinshan–ATLAS, discovered only last year, passed nearly in front of two distant galaxies.  The comet can now be found with binoculars in the early morning sky rising just before the Sun, while over the next few weeks it will brighten as it moves to the early evening sky.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)</p>
+        <h4>NGC 6727: The Rampaging Baboon Nebula</h4>
+        <time>2024-09-24</time>
+        <p>This dusty region is forming stars. Part of a sprawling molecular cloud complex that resembles, to some, a rampaging baboon, the region is a relatively close by 500 light-years away toward the constellation Corona Australis. That's about one third the distance of the more famous stellar nursery known as the Orion Nebula.  Mixed with bright nebulosities, the brown dust clouds effectively block light from more distant background stars in the Milky Way and obscure from view embedded stars still in the process of formation.  The eyes of the dust creature in the featured image are actually blue reflection nebulas cataloged as NGC 6726, 6727, 6729, and IC 4812, while the red mouth glows with light emitted by hydrogen gas.  Just to the upper left of the baboon's head is NGC 6723, a whole globular cluster of stars nearly 30,000 light years in the distance.    Explore Your Universe: Random APOD Generator</p>
         <strong><em>
-Brian Valente
-& Greg Stein
+Alpha Zhang & 
+Ting Yu
 </em></strong>
     </div>
 </div>
