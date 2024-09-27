@@ -57,13 +57,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2409/M13IFN_1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2409/M13IFN_1024.jpg" width="400" height="500" alt="Jan Beckmann, Julian Zoller, Lukas Eisert, Wolfgang Hummel">
+    <a href="https://apod.nasa.gov/apod/image/2409/SSSGreatestHits1024.png">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2409/SSSGreatestHits1024.png" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>The Great Globular Cluster in Hercules</h4>
-        <time>2024-09-26</time>
-        <p>In 1716, English astronomer Edmond Halley noted, "This is but a little Patch, but it shows itself to the naked Eye, when the Sky is serene and the Moon absent." Of course, M13 is now less modestly recognized as the Great Globular Cluster in Hercules, one of the brightest globular star clusters in the northern sky. Sharp telescopic views like this one reveal the spectacular cluster's hundreds of thousands of stars. At a distance of 25,000 light-years, the cluster stars crowd into a region 150 light-years in diameter. Approaching the cluster core, upwards of 100 stars could be contained in a cube just 3 light-years on a side. For comparison, the closest star to the Sun is over 4 light-years away. The deep, wide-field image also reveals distant background galaxies including NGC 6207 at the upper left, and faint, foreground Milky Way dust clouds known to some as integrated flux nebulae.</p>
-        <strong><em>Jan Beckmann, Julian Zoller, Lukas Eisert, Wolfgang Hummel</em></strong>
+        <h4>Stellar Streams in the Local Universe</h4>
+        <time>2024-09-27</time>
+        <p>The twenty galaxies arrayed in these panels are part of an ambitious astronomical survey of tidal stellar streams. Each panel presents a composite view; a deep, inverted image taken from publicly available imaging surveys of a field that surrounds a nearby massive galaxy image. The inverted images reveal faint cosmic structures, star streams hundreds of thousands of light-years across, that result from the gravitational disruption and eventual merger of satellite galaxies in the local universe. Such surveys of mergers and gravitational tidal interactions between massive galaxies and their dwarf satellites are crucial guides for current models of galaxy formation and cosmology. Of course, the detection of stellar streams in the neighboring Andromeda Galaxy and our own Milky Way also offers spectacular evidence for ongoing satellite galaxy disruption within our more local galaxy group.</p>
+        <strong><em></em></strong>
     </div>
 </div>
