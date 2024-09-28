@@ -57,13 +57,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2409/SSSGreatestHits1024.png">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2409/SSSGreatestHits1024.png" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2409/Galileo_L13_DSC_9929.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2409/Galileo_L13_DSC_9929.jpg" width="400" height="500" alt="Ben Cooper">
     </a>
     <div>
-        <h4>Stellar Streams in the Local Universe</h4>
-        <time>2024-09-27</time>
-        <p>The twenty galaxies arrayed in these panels are part of an ambitious astronomical survey of tidal stellar streams. Each panel presents a composite view; a deep, inverted image taken from publicly available imaging surveys of a field that surrounds a nearby massive galaxy image. The inverted images reveal faint cosmic structures, star streams hundreds of thousands of light-years across, that result from the gravitational disruption and eventual merger of satellite galaxies in the local universe. Such surveys of mergers and gravitational tidal interactions between massive galaxies and their dwarf satellites are crucial guides for current models of galaxy formation and cosmology. Of course, the detection of stellar streams in the neighboring Andromeda Galaxy and our own Milky Way also offers spectacular evidence for ongoing satellite galaxy disruption within our more local galaxy group.</p>
-        <strong><em></em></strong>
+        <h4>Rocket Eclipse at Sunset</h4>
+        <time>2024-09-28</time>
+        <p>Shockwaves ripple across the glare as a launch eclipses the setting Sun in this exciting close-up. Captured on September 17, the roaring Falcon 9 rocket carried European Galileo L13 navigation satellites to medium Earth orbit after a lift-off from Cape Canaveral on Florida's space coast.  The Falcon 9 booster returned safely to Earth about 8.5 minutes later, notching the 22nd launch and landing for the reusable workhorse launch vehicle. But where did it land? Just Read the Instructions.</p>
+        <strong><em>Ben Cooper</em></strong>
     </div>
 </div>
