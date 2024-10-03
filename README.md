@@ -57,21 +57,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2410/LMC_Nowak_1080.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2410/LMC_Nowak_1080.jpg" width="400" height="500" alt="
-Ireneusz Nowak;  
-Text: Natalia Lewandowska 
-(SUNY Oswego)
-">
+    <a href="https://apod.nasa.gov/apod/image/2410/earliestsolareclipse1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2410/earliestsolareclipse1024.jpg" width="400" height="500" alt="Wang Letian">
     </a>
     <div>
-        <h4>The Large Magellanic Cloud Galaxy</h4>
-        <time>2024-10-02</time>
-        <p>It is the largest satellite galaxy of our home Milky Way Galaxy. If you live in the south, the Large Magellanic Cloud (LMC) is quite noticeable, spanning about 10 degrees across the night sky, which is 20 times larger than the full moon towards the southern constellation of the dolphinfish (Dorado). Being only about 160,000 light years away, many details of the LMC's structure can be seen, such as its central bar and its single spiral arm. The LMC harbors numerous stellar nurseries where new stars are being born, which appear in pink in the featured image. It is home to the Tarantula Nebula, the currently most active star forming region in the entire Local Group, a small collection of nearby galaxies dominated by the massive Andromeda and Milky Way galaxies. Studies of the LMC and the Small Magellanic Cloud (SMC) by Henrietta Swan Leavitt led to the discovery of the period-luminosity relationship of Cepheid variable stars that are used to measure distances across the nearby universe.   Survey: Color Blindness and Astronomical Images</p>
-        <strong><em>
-Ireneusz Nowak;  
-Text: Natalia Lewandowska 
-(SUNY Oswego)
-</em></strong>
+        <h4>Eclipse at Sunrise</h4>
+        <time>2024-10-03</time>
+        <p>The second solar eclipse of 2024 began in the Pacific. On October 2nd the Moon's shadow swept from west to east, with an annular eclipse visible along a narrow antumbral shadow path tracking mostly over ocean, crossing land near the southern tip of South America, and ending in the southern Atlantic. The dramatic total annular eclipse phase is known to some as a ring of fire. Still, a partial eclipse of the Sun was experienced over a wide region. Captured at one of its earliest moments, October's eclipsed Sun is seen just above the clouds near sunrise in this snapshot. The partially eclipsed solar disk is close to the maximum eclipse as seen from Mauna Kea Observatory Visitor Center, Island of Hawaii, planet Earth.</p>
+        <strong><em>Wang Letian</em></strong>
     </div>
 </div>
