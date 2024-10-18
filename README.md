@@ -57,13 +57,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2410/EuropaComet_cooper3.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2410/EuropaComet_cooper3.jpg" width="400" height="500" alt="Ben Cooper">
+    <a href="https://apod.nasa.gov/apod/image/2410/a3_20241014_s1200.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2410/a3_20241014_s1200.jpg" width="400" height="500" alt="Adam Block">
     </a>
     <div>
-        <h4>The Clipper and the Comet</h4>
-        <time>2024-10-17</time>
-        <p>NASA's Europa Clipper is now headed toward an ocean world beyond Earth. The large spacecraft is tucked into the payload fairing atop the Falcon Heavy rocket in this photo, taken at Kennedy Space Center the day before the mission's successful October 14 launch. Europa Clipper's interplanetary voyage will first take it to Mars, then back to Earth, and then on to Jupiter on gravity assist trajectories that will allow it to enter orbit around Jupiter in April 2030. Once orbiting Jupiter, the spacecraft will fly past Europa 49 times, exploring a Jovian moon with a global subsurface ocean that may have conditions to support life. Posing in the background next to the floodlit rocket is Comet Tsuchinsan-ATLAS, about a day after the comet's closest approach to Earth. A current darling of evening skies, the naked-eye comet is a vistor from the distant Oort cloud  Growing Gallery: Comet Tsuchinshan-ATLAS in 2024</p>
-        <strong><em>Ben Cooper</em></strong>
+        <h4>Most of Comet Tsuchinshan-ATLAS</h4>
+        <time>2024-10-18</time>
+        <p>On October 14 it was hard to capture a full view of Comet C/2023 A3 Tsuchinshan-ATLAS. Taken after the comet's closest approach to our fair planet, this evening skyview almost does though. With two telephoto frames combined, the image stretches about 26 degrees across the sky from top to bottom, looking west from Gates Pass, Tucson, Arizona. Comet watchers that night could even identify globular star cluster M5 and the faint apparition of periodic comet 13P Olbers near the long the path of Tsuchinshan-ATLAS's whitish dust tail above the bright comet's coma. Due to perspective as the Earth is crossing the comet's orbital plane, Tsuchinshan-ATLAS also has a pronounced antitail. The antitail is composed of dust previously released and fanning out away from the Sun along the comet's orbit, visible as a needle-like extension below the bright coma toward the rugged western horizon.   Growing Gallery: Comet Tsuchinshan-ATLAS in 2024</p>
+        <strong><em>Adam Block</em></strong>
     </div>
 </div>
