@@ -57,13 +57,25 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2410/C2023A3-in-the-past-6-days_1100.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2410/C2023A3-in-the-past-6-days_1100.jpg" width="400" height="500" alt="Xingyang Cai">
+    <a href="https://apod.nasa.gov/apod/image/2410/DarkMatter_KipacAmnh_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2410/DarkMatter_KipacAmnh_960.jpg" width="400" height="500" alt="
+Tom Abel & 
+Ralf Kaehler 
+(KIPAC, 
+SLAC), 
+AMNH
+">
     </a>
     <div>
-        <h4>Comet Tsuchinshan-ATLAS Flys Away</h4>
-        <time>2024-10-19</time>
-        <p>These six panels follow daily apparitions of comet C/2023 A3 Tsuchinshan-ATLAS as it moved away from our fair planet during the past week. The images were taken with the same camera and lens at the indicated dates and locations from California, planet Earth. At far right on October 12 the visitor from the distant Oort cloud was near its closest approach, some 70 million kilometers (about 4 light-minutes) away. Its bright coma and long dust tail were close on the sky to the setting Sun but still easy to spot against a bright western horizon. Over the following days, the outbound comet steadily climbs above the ecliptic and north into the darker western evening sky, but begins to fade from view. Crossing the Earth's orbital plane around October 14, Tsuchinshan-ATLAS exhibits a noticeable antitail extended toward the western horizon. Higher in the evening sky at sunset by October 17 (far left) the comet has faded and reached a distance of around 77 million kilometers from planet Earth. Hopefully you enjoyed some of Tsuchinshan-ATLAS's bid to become the best comet of 2024. This comet's initial orbital period estimates were a mere 80,000 years, but in fact it may never return to the inner Solar System.   Growing Gallery: Comet Tsuchinshan-ATLAS in 2024</p>
-        <strong><em>Xingyang Cai</em></strong>
+        <h4>Dark Matter in a Simulated Universe</h4>
+        <time>2024-10-20</time>
+        <p>Is our universe haunted?  It might look that way on this dark matter map.  The gravity of unseen dark matter is the leading explanation for why galaxies rotate so fast, why galaxies orbit clusters so fast, why gravitational lenses so strongly deflect light, and why visible matter is distributed as it is both in the local universe and on the cosmic microwave background.  The featured image from the American Museum of Natural History's Hayden Planetarium Space Show Dark Universe highlights one example of how pervasive dark matter might haunt our universe.  In this frame from a detailed computer simulation, complex filaments of dark matter, shown in black, are strewn about the universe like spider webs, while the relatively rare clumps of familiar baryonic matter are colored orange. These simulations are good statistical matches to astronomical observations.  In what is perhaps a scarier turn of events, dark matter -- although quite strange and in an unknown form -- is no longer thought to be the strangest source of gravity in the universe. That honor now falls to dark energy, a more uniform source of repulsive gravity that seems to now dominate the expansion of the entire universe.    Explore Your Universe: Random APOD Generator</p>
+        <strong><em>
+Tom Abel & 
+Ralf Kaehler 
+(KIPAC, 
+SLAC), 
+AMNH
+</em></strong>
     </div>
 </div>
