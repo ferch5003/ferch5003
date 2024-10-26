@@ -57,13 +57,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2410/NGC6752_DiFusco1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2410/NGC6752_DiFusco1024.jpg" width="400" height="500" alt="Massimo Di Fusco">
+    <a href="https://apod.nasa.gov/apod/image/2410/IC63_1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2410/IC63_1024.jpg" width="400" height="500" alt="Christophe Vergnes">
     </a>
     <div>
-        <h4>Globular Star Cluster NGC 6752</h4>
-        <time>2024-10-25</time>
-        <p>Some 13,000 light-years away toward the southern constellation Pavo, the globular star cluster NGC 6752 roams the halo of our Milky Way galaxy. Over 10 billion years old, NGC 6752 follows clusters Omega Centauri, 47 Tucanae, and Messier 22 as the fourth brightest globular in planet Earth's night sky. It holds over 100 thousand stars in a sphere about 100 light-years in diameter. Telescopic explorations of NGC 6752 have found that a remarkable fraction of the stars near the cluster's core, are multiple star systems. They also reveal the presence of blue straggle stars, stars which appear to be too young and massive to exist in a cluster whose stars are all expected to be at least twice as old as the Sun. The blue stragglers are thought to be formed by star mergers and collisions in the dense stellar environment at the cluster's core. This sharp color composite also features the cluster's ancient red giant stars in yellowish hues. (Note: The bright, spiky blue star about 8 o'clock from the cluster center is a foreground star along the line-of-sight to NGC 6752)</p>
-        <strong><em>Massimo Di Fusco</em></strong>
+        <h4>Phantoms in Cassiopeia</h4>
+        <time>2024-10-26</time>
+        <p>These brightly outlined flowing shapes look ghostly on a cosmic scale. A telescopic view toward the constellation Cassiopeia, the colorful skyscape features the swept-back, comet-shaped clouds IC 59 (left) and IC 63. About 600 light-years distant, the clouds aren't actually ghosts. They are slowly disappearing though, under the influence of energetic radiation from hot, luminous star gamma Cas. Gamma Cas is physically located only 3 to 4 light-years from the nebulae and lies just above the right edge of the frame. Slightly closer to gamma Cas, IC 63 is dominated by red H-alpha light emitted as hydrogen atoms ionized by the hot star's ultraviolet radiation recombine with electrons. Farther from the star, IC 59 shows less H-alpha emission but more of the characteristic blue tint of dust reflected star light. The field of view spans over 1 degree or 10 light-years at the estimated distance of the interstellar apparitions.</p>
+        <strong><em>Christophe Vergnes</em></strong>
     </div>
 </div>
