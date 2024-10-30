@@ -57,13 +57,17 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2410/NGC602_Webb_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2410/NGC602_Webb_960.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2410/BubbleRed_Leader_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2410/BubbleRed_Leader_960.jpg" width="400" height="500" alt="
+Chad Leader
+">
     </a>
     <div>
-        <h4>NGC 602: Stars Versus Pillars from Webb</h4>
-        <time>2024-10-29</time>
-        <p>The stars are destroying the pillars. More specifically, some of the newly formed stars in the image center are emitting light so energetic that is evaporating the gas and dust in the surrounding pillars. Simultaneously, the pillars themselves are still trying to form new stars. The whole setting is the star cluster NGC 602, and this new vista was taken by the Webb Space Telescope in multiple infrared colors. In comparison, a roll-over image shows the same star cluster in visible light, taken previously by the Hubble Space Telescope. NGC 602 is located near the perimeter of the Small Magellanic Cloud (SMC), a small satellite galaxy of our Milky Way galaxy.  At the estimated distance of the SMC, the featured picture spans about 200 light-years. A tantalizing assortment of background galaxies are also visible -- mostly around the edges -- that are at least hundreds of millions of light-years beyond.</p>
-        <strong><em></em></strong>
+        <h4>NGC 7635: The Bubble Nebula</h4>
+        <time>2024-10-30</time>
+        <p>What created this huge space bubble? Blown by the wind from a star, this tantalizing, head-like apparition is cataloged as NGC 7635, but known simply as the Bubble Nebula. The featured striking view utilizes a long exposure to reveal the intricate details of this cosmic bubble and its environment. Although it looks delicate, the 10 light-year diameter bubble offers evidence of violent processes at work. Seen here above and right of the Bubble's center, a bright hot star is embedded in the nebula's reflecting dust. A fierce stellar wind and intense radiation from the star, which likely has a mass 10 to 20 times that of the Sun, has blasted out the structure of glowing gas against denser material in a surrounding molecular cloud. The intriguing Bubble Nebula lies a mere 11,000 light-years away toward the boastful constellation Cassiopeia.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)</p>
+        <strong><em>
+Chad Leader
+</em></strong>
     </div>
 </div>
