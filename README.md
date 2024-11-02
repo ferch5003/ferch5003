@@ -57,13 +57,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2411/NGC6744_V2_8_sm1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2411/NGC6744_V2_8_sm1024.jpg" width="400" height="500" alt="John Hayes">
+    <a href="https://apod.nasa.gov/apod/image/2411/LastRingPortrait_Cassini_1080.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2411/LastRingPortrait_Cassini_1080.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Spiral Galaxy NGC 6744</h4>
-        <time>2024-11-01</time>
-        <p>Big, beautiful spiral galaxy NGC 6744 is nearly 175,000 light-years across, larger than our own Milky Way. It lies some 30 million light-years distant in the southern constellation Pavo but appears as only a faint smudge in the eyepiece of a small telescope. We see the disk of the nearby island universe tilted towards our line of sight in this remarkably deep and detailed galaxy portrait, a telescopic image that spans an area about the angular size of a full moon. In it, the giant galaxy's elongated yellowish core is dominated by the light from old, cool stars. Beyond the core, grand spiral arms are filled with young blue star clusters and speckled with pinkish star forming regions. An extended arm sweeps past smaller satellite galaxy NGC 6744A at the upper left. NGC 6744's galactic companion is reminiscent of the Milky Way's satellite galaxy the Large Magellanic Cloud.</p>
-        <strong><em>John Hayes</em></strong>
+        <h4>Saturn at Night</h4>
+        <time>2024-11-02</time>
+        <p>Saturn is bright in Earth's night skies. Telescopic views of the outer gas giant planet and its beautiful rings often make it a star at star parties. But this stunning view of Saturn's rings and night side just isn't possible from telescopes in the vicinity of planet Earth. Peering out from the inner Solar System they can only bring Saturn's day side into view. In fact, this image of Saturn's slender sunlit crescent with night's shadow cast across its broad and complex ring system was captured by the Cassini spacecraft. A robot spacecraft from planet Earth, Cassini called Saturn orbit home for 13 years before it was directed to dive into the atmosphere of the gas giant on September 15, 2017. This magnificent mosaic is composed of frames recorded by Cassini's wide-angle camera only two days before its grand final plunge. Saturn's night will not be seen again until another spaceship from Earth calls.</p>
+        <strong><em></em></strong>
     </div>
 </div>
