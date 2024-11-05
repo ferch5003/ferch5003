@@ -57,17 +57,17 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2411/Orion_Lorand_1992.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2411/Orion_Lorand_1992.jpg" width="400" height="500" alt="
-Fényes Lóránd
+    <a href="https://apod.nasa.gov/apod/image/2411/IslandMoai_Dury_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2411/IslandMoai_Dury_960.jpg" width="400" height="500" alt="
+Josh Dury
 ">
     </a>
     <div>
-        <h4>M42: The Great Nebula in Orion</h4>
-        <time>2024-11-04</time>
-        <p>The Great Nebula in Orion, an immense, nearby starbirth region, is probably the most famous of all astronomical nebulas.  Here, glowing gas surrounds hot young stars at the edge of an immense interstellar molecular cloud only 1500 light-years away.  In the featured deep image in assigned colors highlighted by emission in oxygen and hydrogen, wisps and sheets of dust and gas are particularly evident.  The Great Nebula in Orion can be found with the unaided eye near the easily identifiable belt of three stars in the popular constellation Orion.  In addition to housing a bright open cluster of stars known as the Trapezium, the Orion Nebula contains many stellar nurseries.   These nurseries contain much hydrogen gas, hot young stars, proplyds, and stellar jets spewing material at high speeds.  Also known as M42, the Orion Nebula spans about 40 light years and is located in the same spiral arm of our Galaxy as the Sun.</p>
+        <h4>Milky Way over Easter Island</h4>
+        <time>2024-11-05</time>
+        <p>Why were the statues on Easter Island built?  No one is sure.  What is sure is that over 900 large stone statues called moais exist there.  The Rapa Nui (Easter Island) moais stand, on average, over twice as tall as a person and have over 200 times as much mass.  It is thought that the unusual statues were created about 600 years ago in the images of local leaders of a vibrant and ancient civilization.  Rapa Nui has been declared by UNESCO to a World Heritage Site. Pictured here, some of the stone giants were imaged last month under the central band of our Milky Way galaxy.  Previously unknown moais are still being discovered.    Alternative Multi-APOD Front Page: MyUniverseHub.com</p>
         <strong><em>
-Fényes Lóránd
+Josh Dury
 </em></strong>
     </div>
 </div>
