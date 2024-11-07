@@ -57,17 +57,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2411/CometA3Dolomites_Masi_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2411/CometA3Dolomites_Masi_960.jpg" width="400" height="500" alt="
-Alessandra Masi
-">
+    <a href="https://apod.nasa.gov/apod/image/2411/NGC474_S1_Crop1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2411/NGC474_S1_Crop1024.jpg" width="400" height="500" alt="George Williams">
     </a>
     <div>
-        <h4>Comet Tsuchinshan-Atlas over the Dolomites</h4>
-        <time>2024-11-06</time>
-        <p>Comet Tsuchinshan-Atlas is now headed back to the outer Solar System.  The massive dusty snowball put on quite a show during its trip near the Sun, resulting in many impressive pictures from planet Earth during October.  The featured image was taken in mid-October and shows a defining visual feature of the comet -- its impressive anti-tail. The image captures Comet C/2023 A3 (Tsuchinshan–ATLAS) with impressively long dust and ion tails pointing up and away from the Sun, while the strong anti-tail -- composed of more massive dust particles -- trails the comet and points down and (nearly) toward the recently-set Sun. In the foreground is village of Tai di Cadore, Italy, with the tremendous Dolomite Mountains in the background.  Another comet, C/2024 S1 (ATLAS), once a candidate to rival Comet Tsuchinshan-Atlas in brightness, broke up last week during its close approach to our Sun.    Growing Gallery: Comet Tsuchinshan-ATLAS in 2024</p>
-        <strong><em>
-Alessandra Masi
-</em></strong>
+        <h4>Shell Galaxies in Pisces</h4>
+        <time>2024-11-07</time>
+        <p>This spectacular intergalactic skyscape features Arp 227, a curious system of galaxies from the 1966 Atlas of Peculiar Galaxies. Some 100 million light-years distant within the boundaries of the constellation Pisces, Arp 227 consists of the two galaxies prominent above and left of center, the shell galaxy NGC 474 and its blue, spiral-armed neighbor NGC 470. The readily apparent shells and star streams of NGC 474 are likely tidal features originating from the accretion of another smaller galaxy during close gravitational encounters that began over a billion years ago. The large galaxy on the bottom righthand side of the deep image, NGC 467, appears to be surrounded by faint shells and streams too, evidence of another merging galaxy system. Intriguing background galaxies are scattered around the field that also includes spiky foreground stars. Of course, those stars lie well within our own Milky Way Galaxy. The telescopic field of view spans 25 arc minutes or just under 1/2 degree on the sky.</p>
+        <strong><em>George Williams</em></strong>
     </div>
 </div>
