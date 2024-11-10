@@ -57,13 +57,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2411/neptunetriton_voyager_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2411/neptunetriton_voyager_960.jpg" width="400" height="500" alt="Voyager">
+    <a href="https://apod.nasa.gov/apod/image/2411/marsglobe_viking_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2411/marsglobe_viking_960.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Neptune at Night</h4>
-        <time>2024-11-09</time>
-        <p>Ice giant Neptune is faint in Earth's night sky. Some 30 times farther from the Sun than our fair planet, telescopes are needed to catch a glimpse of the dim and distant world. This dramatic view of Neptune's night just isn't possible for telescopes in the vicinity of planet Earth though. Peering out from the inner Solar System they can only bring Neptune's day side into view.  In fact this night side image with Neptune's slender crescent next to the crescent of its large moon Triton was captured by Voyager 2. Launched from planet Earth in 1977 the Voyager 2 spacecraft made a close fly by of the Solar System's outermost planet in 1989, looking back on Neptune as the robotic spacecraft continued its voyage to interstellar space.</p>
-        <strong><em>Voyager</em></strong>
+        <h4>Valles Marineris: The Grand Canyon of Mars</h4>
+        <time>2024-11-10</time>
+        <p>The largest canyon in the Solar System cuts a wide swath across the face of Mars.  Named Valles Marineris, the grand valley extends over 3,000 kilometers long, spans as much as 600 kilometers across, and delves as much as 8 kilometers deep.  By comparison, the Earth's Grand Canyon in Arizona, USA is 800 kilometers long, 30 kilometers across, and 1.8 kilometers deep.  The origin of the Valles Marineris remains unknown, although a leading hypothesis holds that it started as a crack billions of years ago as the planet cooled.  Several geologic processes have been identified in the canyon.  The featured mosaic was  created from over 100 images of Mars taken by Viking Orbiters in the 1970s.</p>
+        <strong><em></em></strong>
     </div>
 </div>
