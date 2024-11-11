@@ -57,13 +57,17 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2411/marsglobe_viking_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2411/marsglobe_viking_960.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2411/CometDarkTail_Falls_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2411/CometDarkTail_Falls_960.jpg" width="400" height="500" alt="
+Bray Falls
+">
     </a>
     <div>
-        <h4>Valles Marineris: The Grand Canyon of Mars</h4>
-        <time>2024-11-10</time>
-        <p>The largest canyon in the Solar System cuts a wide swath across the face of Mars.  Named Valles Marineris, the grand valley extends over 3,000 kilometers long, spans as much as 600 kilometers across, and delves as much as 8 kilometers deep.  By comparison, the Earth's Grand Canyon in Arizona, USA is 800 kilometers long, 30 kilometers across, and 1.8 kilometers deep.  The origin of the Valles Marineris remains unknown, although a leading hypothesis holds that it started as a crack billions of years ago as the planet cooled.  Several geologic processes have been identified in the canyon.  The featured mosaic was  created from over 100 images of Mars taken by Viking Orbiters in the 1970s.</p>
-        <strong><em></em></strong>
+        <h4>The Unusual Tails of Comet Tsuchinshan-Atlas</h4>
+        <time>2024-11-11</time>
+        <p>What created an unusual dark streak in Comet Tsuchinshan-Atlas's tail? Some images of the bright comet during mid-October not only caught its impressively long tail and its thin anti-tail, but a rather unexpected feature: a dark streak in the long tail. The reason for the dark streak is currently unclear and a topic of some debate.  Possible reasons include a plume of dark dust, different parts of the bright tail being unusually superposed, and a shadow of a dense part of the coma on smaller dust particles. The streak is visible in the featured image taken on October 14 from Texas, USA. To help future analyses, if you have taken a good image of the comet that clearly shows this dark streak, please send it in to APOD. Comet Tsuchinshan–ATLAS has now faded considerably and is returning to the outer Solar System.   Gallery: Comet Tsuchinshan-ATLAS in 2024</p>
+        <strong><em>
+Bray Falls
+</em></strong>
     </div>
 </div>
