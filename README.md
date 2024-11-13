@@ -57,17 +57,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2411/Ngc6888Hoo_Aro_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2411/Ngc6888Hoo_Aro_960.jpg" width="400" height="500" alt="
-Team ARO
-">
+    <a href="https://apod.nasa.gov/apod/image/2411/JWSTMIRI_ngc1365_1024.png">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2411/JWSTMIRI_ngc1365_1024.png" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>NGC 6888: The Crescent Nebula</h4>
-        <time>2024-11-12</time>
-        <p>How was the Crescent Nebula created?  Looking like an emerging space cocoon, the Crescent Nebula, visible in the center of the featured image, was created by the brightest star in its center.  A leading progenitor hypothesis has the Crescent Nebula beginning to form about 250,000 years ago.  At that time, the massive central star had evolved to become a Wolf-Rayet star (WR 136), shedding its outer envelope in a strong stellar wind, ejecting the equivalent of our Sun's mass every 10,000 years.  This wind impacted surrounding gas left over from a previous phase, compacting it into a series of complex shells, and lighting it up.  The Crescent Nebula, also known as NGC 6888, lies about 4,700 light-years away in the constellation of Cygnus.  Star WR 136 will probably undergo a supernova explosion sometime in the next million years.   Jigsaw Challenge: Astronomy Puzzle of the Day</p>
-        <strong><em>
-Team ARO
-</em></strong>
+        <h4>Barred Spiral Galaxy NGC 1365 from Webb</h4>
+        <time>2024-11-13</time>
+        <p>A mere 56 million light-years distant toward the southern constellation Fornax, NGC 1365 is an enormous barred spiral galaxy about 200,000 light-years in diameter. That's twice the size of our own barred spiral Milky Way. This sharp image from the James Webb Space Telescope's Mid-Infrared Instrument (MIRI) reveals stunning details of this magnificent spiral in infrared light. Webb's field of view stretches about 60,000 light-years across NGC 1365, exploring the galaxy's core and bright newborn star clusters. The intricate network of dusty filaments and bubbles is created by young stars along spiral arms winding from the galaxy's central bar. Astronomers suspect the gravity field of NGC 1365's bar plays a crucial role in the galaxy's evolution, funneling gas and dust into a star-forming maelstrom and ultimately feeding material into the active galaxy's central, supermassive black hole.</p>
+        <strong><em></em></strong>
     </div>
 </div>
