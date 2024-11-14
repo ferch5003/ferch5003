@@ -57,13 +57,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2411/JWSTMIRI_ngc1365_1024.png">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2411/JWSTMIRI_ngc1365_1024.png" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2411/IC348_B3_1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2411/IC348_B3_1024.jpg" width="400" height="500" alt="Ashraf Abu Sara">
     </a>
     <div>
-        <h4>Barred Spiral Galaxy NGC 1365 from Webb</h4>
-        <time>2024-11-13</time>
-        <p>A mere 56 million light-years distant toward the southern constellation Fornax, NGC 1365 is an enormous barred spiral galaxy about 200,000 light-years in diameter. That's twice the size of our own barred spiral Milky Way. This sharp image from the James Webb Space Telescope's Mid-Infrared Instrument (MIRI) reveals stunning details of this magnificent spiral in infrared light. Webb's field of view stretches about 60,000 light-years across NGC 1365, exploring the galaxy's core and bright newborn star clusters. The intricate network of dusty filaments and bubbles is created by young stars along spiral arms winding from the galaxy's central bar. Astronomers suspect the gravity field of NGC 1365's bar plays a crucial role in the galaxy's evolution, funneling gas and dust into a star-forming maelstrom and ultimately feeding material into the active galaxy's central, supermassive black hole.</p>
-        <strong><em></em></strong>
+        <h4>IC 348 and Barnard 3</h4>
+        <time>2024-11-14</time>
+        <p>A great nebulous region near bright star omicron Persei offers this study in cosmic contrasts.  Captured in the telescopic frame the colorful complex of dust, gas, and stars spans about 3 degrees on the sky along the edge of the Perseus molecular cloud some 1000 light-years away. Surrounded by a bluish halo of dust reflected starlight, omicron Persei itself is just left of center. Immediately below it lies the intriguing young star cluster IC 348 recently explored by the James Webb Space Telescope. In silhouette against the diffuse reddish glow of hydrogen gas, dark and obscuring interstellar dust cloud Barnard 3 is at upper right. Of course the cosmic dust also tends to hide newly formed stars and young stellar objects or protostars from prying optical telescopes. At the Perseus molecular cloud's estimated distance, this field of view would span about 50 light-years.</p>
+        <strong><em>Ashraf Abu Sara</em></strong>
     </div>
 </div>
