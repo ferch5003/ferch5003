@@ -57,17 +57,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2411/BokMan_Loro_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2411/BokMan_Loro_960.jpg" width="400" height="500" alt="
-Malcolm Loro
-">
+    <a href="https://apod.nasa.gov/apod/image/2411/ParallelClouds_Beletsky_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2411/ParallelClouds_Beletsky_960.jpg" width="400" height="500" alt="Yuri Beletsky">
     </a>
     <div>
-        <h4>Stars and Dust in the Pacman Nebula</h4>
-        <time>2024-11-18</time>
-        <p>Stars can create huge and intricate dust sculptures from the dense and dark molecular clouds from which they are born.  The tools the stars use to carve their detailed works are high energy light and fast stellar winds.  The heat they generate evaporates the dark molecular dust as well as causing ambient hydrogen gas to disperse and glow.   Pictured here, a new open cluster of stars designated IC 1590 is nearing completion around the intricate interstellar dust structures in the emission nebula  NGC 281, dubbed the Pac-man Nebula because of its overall shape.  The dust cloud just above center is classified as a  Bok Globule as it may gravitationally collapse and form a star -- or stars. The Pacman Nebula lies about 10,000 light years away toward the constellation of Cassiopeia.</p>
-        <strong><em>
-Malcolm Loro
-</em></strong>
+        <h4>Undulatus Clouds over Las Campanas Observatory</h4>
+        <time>2024-11-19</time>
+        <p>What's happening with these clouds?  While it may seem that these long and thin clouds are pointing toward the top of a hill, and that maybe a world-famous observatory is located there, only part of that is true. In terms of clouds, the formation is a chance superposition of impressively periodic undulating air currents in Earth's lower atmosphere. Undulatus, a type of Asperitas cloud, form at the peaks where the air is cool enough to cause the condensation of opaque water droplets.  The wide-angle nature of the panorama creates the illusion that the clouds converge over the hill.  In terms of land, there really is a world-famous observatory at the top of that peak: the Carnegie Science's Las Campanas Observatory in the Atacama Desert of Chile.  The two telescope domes visible are the 6.5-meter Magellan Telescopes.  The featured coincidental vista was a surprise but was captured by the phone of a quick-thinking photographer in late September.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)</p>
+        <strong><em>Yuri Beletsky</em></strong>
     </div>
 </div>
