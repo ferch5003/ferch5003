@@ -57,13 +57,17 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2412/CosmicLatte_jhu_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2412/CosmicLatte_jhu_960.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2412/Ngc300_Stern_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2412/Ngc300_Stern_960.jpg" width="400" height="500" alt="
+Daniel Stern
+">
     </a>
     <div>
-        <h4>Cosmic Latte: The Average Color of the Universe</h4>
-        <time>2024-12-01</time>
-        <p>What color is the universe?  More precisely, if the entire sky were smeared out, what color would the final mix be?  This whimsical question came up when trying to determine what stars are commonplace in nearby galaxies. The answer, depicted here, is a conditionally perceived shade of beige. In computer parlance: #FFF8E7.  To determine this, astronomers computationally averaged the light emitted by one of the larger samples of galaxies analyzed: the 200,000 galaxies of the 2dF Galaxy Redshift Survey.  The resulting cosmic spectrum has some emission in all parts of the electromagnetic spectrum, but a single perceived composite color.  This color has become much less blue over the past 10 billion years, indicating that redder stars are becoming more prevalent.  In a contest to better name the color, notable entries included skyvory, univeige, and the winner: cosmic latte.</p>
-        <strong><em></em></strong>
+        <h4>NGC 300: A Galaxy of Stars</h4>
+        <time>2024-12-02</time>
+        <p>This galaxy is unusual for how many stars it seems that you can see. Stars are so abundantly evident in this deep exposure of the spiral galaxy NGC 300 because so many of these stars are bright blue and grouped into resolvable bright star clusters.  Additionally, NGC 300 is so clear because it is one of the closest spiral galaxies to Earth, as light takes only about 6 million years to get here.  Of course, galaxies are composed of many more faint stars than bright, and even more of a galaxy's mass is attributed to unseen dark matter.  NGC 300 spans nearly the same amount of sky as the full moon and is visible with a small telescope toward the southern constellation of the Sculptor. The featured image was captured in October from Rio Hurtado, Chile and is a composite of over 20 hours of exposure.</p>
+        <strong><em>
+Daniel Stern
+</em></strong>
     </div>
 </div>
