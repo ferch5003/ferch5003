@@ -57,13 +57,13 @@
 ### Do you know...
 
 <div>
-    <video src="https://www.youtube.com/embed/7QB_MOemCqs?rel=0" width="400" height="500"></video>
+    <a href="https://apod.nasa.gov/apod/image/2412/2023-11-17-1617_1632-Jupiter_Stereo1200.png">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2412/2023-11-17-1617_1632-Jupiter_Stereo1200.png" width="400" height="500" alt="Marco Lorenzi">
+    </a>
     <div>
-        <h4>Driveway Analemma</h4>
-        <time>2024-12-04</time>
-        <p>Does the Sun return to the same spot on the sky every day?  No.  A more visual answer is an analemma, a composite of sky images taken at the same time and from the same place over a year.  At completion, you can see that the Sun makes a figure 8 on the sky.  The featured unusual analemma does not, however, picture the Sun directly: it was created by looking in the opposite direction. All that was required was noting where the shadow of an edge of a house was in the driveway every clear day at the same time.  Starting in March in Falcon, Colorado, USA, the photographer methodically marked the shadow's 1 pm location. In one frame you can even see the photographer himself.  Although this analemma will be completed in 2025, you can start drawing your own driveway analemma -- using no fancy equipment -- as soon as today.</p>
-        <strong><em>
-Nick Wright
-</em></strong>
+        <h4>Stereo Jupiter near Opposition</h4>
+        <time>2024-12-05</time>
+        <p>Jupiter looks sharp in these two rooftop telescope images. Both were captured last year on November 17 from Singapore, planet Earth, about two weeks after Jupiter's 2023 opposition. Climbing high in midnight skies the giant planet was a mere 33.4 light-minutes from Singapore. That's about 4 astronomical units away. Jupiter's planet girdling dark belts and light zones are visible in remarkable detail, along with the giant world's whitish oval vortices. Its signature Great Red Spot is prominent in the south. Jupiter rotates rapidly on its axis once every 10 hours. So, based on video frames taken only 15 minutes apart, these images form a stereo pair. Look at the center of the pair and cross your eyes until the separate images come together to see the 3D effect. Of course Jupiter is now not far from its 2024 opposition. Planet Earth is set to pass between the Solar System's ruling gas giant and the Sun on December 7.</p>
+        <strong><em>Marco Lorenzi</em></strong>
     </div>
 </div>
