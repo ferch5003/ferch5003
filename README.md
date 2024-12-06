@@ -57,13 +57,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2412/2023-11-17-1617_1632-Jupiter_Stereo1200.png">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2412/2023-11-17-1617_1632-Jupiter_Stereo1200.png" width="400" height="500" alt="Marco Lorenzi">
+    <a href="https://apod.nasa.gov/apod/image/2412/PurpleMountainObservatoryXuYiStationFireball1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2412/PurpleMountainObservatoryXuYiStationFireball1024.jpg" width="400" height="500" alt="Purple Mountain (Tsuchinshan)">
     </a>
     <div>
-        <h4>Stereo Jupiter near Opposition</h4>
-        <time>2024-12-05</time>
-        <p>Jupiter looks sharp in these two rooftop telescope images. Both were captured last year on November 17 from Singapore, planet Earth, about two weeks after Jupiter's 2023 opposition. Climbing high in midnight skies the giant planet was a mere 33.4 light-minutes from Singapore. That's about 4 astronomical units away. Jupiter's planet girdling dark belts and light zones are visible in remarkable detail, along with the giant world's whitish oval vortices. Its signature Great Red Spot is prominent in the south. Jupiter rotates rapidly on its axis once every 10 hours. So, based on video frames taken only 15 minutes apart, these images form a stereo pair. Look at the center of the pair and cross your eyes until the separate images come together to see the 3D effect. Of course Jupiter is now not far from its 2024 opposition. Planet Earth is set to pass between the Solar System's ruling gas giant and the Sun on December 7.</p>
-        <strong><em>Marco Lorenzi</em></strong>
+        <h4>Xuyi Station and the Fireball</h4>
+        <time>2024-12-06</time>
+        <p>Colorful and bright, this streaking fireball meteor was captured in a single exposure taken at Purple Mountain (Tsuchinshan) Observatory’s Xuyi Station in 2020, during planet Earth's annual Perseid meteor shower. The dome in the foreground houses the China Near Earth Object Survey Telescope (CNEOST), the largest multi-purpose Schmidt telescope in China. Located in Xuyi County, Jiangsu Province, the station began its operation as an extension of China's Purple Mountain Observatory in 2006. Darling of planet Earth's night skies in 2024, the bright comet designated Tsuchinshan-ATLAS (C/2023 A3) was discovered in images taken there on 2023 January 9. The discovery is jointly credited to NASA's ATLAS robotic survey telescope at Sutherland Observatory, South Africa. Other comet discoveries associated with the historic Purple Mountain Observatory and bearing the observatory's transliterated Mandarin name include periodic comets 60/P Tsuchinshan and 62/P Tsuchinshan.</p>
+        <strong><em>Purple Mountain (Tsuchinshan)</em></strong>
     </div>
 </div>
