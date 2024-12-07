@@ -57,13 +57,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2412/PurpleMountainObservatoryXuYiStationFireball1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2412/PurpleMountainObservatoryXuYiStationFireball1024.jpg" width="400" height="500" alt="Purple Mountain (Tsuchinshan)">
+    <a href="https://apod.nasa.gov/apod/image/2412/NASARocketEngineFireplaceSnap600.png">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2412/NASARocketEngineFireplaceSnap600.png" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Xuyi Station and the Fireball</h4>
-        <time>2024-12-06</time>
-        <p>Colorful and bright, this streaking fireball meteor was captured in a single exposure taken at Purple Mountain (Tsuchinshan) Observatory’s Xuyi Station in 2020, during planet Earth's annual Perseid meteor shower. The dome in the foreground houses the China Near Earth Object Survey Telescope (CNEOST), the largest multi-purpose Schmidt telescope in China. Located in Xuyi County, Jiangsu Province, the station began its operation as an extension of China's Purple Mountain Observatory in 2006. Darling of planet Earth's night skies in 2024, the bright comet designated Tsuchinshan-ATLAS (C/2023 A3) was discovered in images taken there on 2023 January 9. The discovery is jointly credited to NASA's ATLAS robotic survey telescope at Sutherland Observatory, South Africa. Other comet discoveries associated with the historic Purple Mountain Observatory and bearing the observatory's transliterated Mandarin name include periodic comets 60/P Tsuchinshan and 62/P Tsuchinshan.</p>
-        <strong><em>Purple Mountain (Tsuchinshan)</em></strong>
+        <h4>Rocket Engine Fireplace</h4>
+        <time>2024-12-07</time>
+        <p>You might not think a close up view of rocket engines producing 8.8 million pounds of thrust would be relaxing, but here it can be. In fact, you can get a warm and cozy feeling just spending a few moments watching NASA's holiday rocket engine fireplace. The video features a loop of the Space Launch System rocket's RS-25 main engines throttled up and running flanked by solid rocket boosters and framed by a stone fireplace. The accompanying audio track mixes the drastically muted sounds of the rocket engines firing with the more familiar sounds of a burning, crackling wood fire. AI elements are included in the composed video along with an image and logo from the Artemis I mission. The Artemis I uncrewed mission to the Moon and back again launched in November 2022 on a Space Launch System rocket.</p>
+        <strong><em></em></strong>
     </div>
 </div>
