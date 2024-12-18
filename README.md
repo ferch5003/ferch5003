@@ -57,19 +57,17 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2412/Heart_HorneEvans_1080.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2412/Heart_HorneEvans_1080.jpg" width="400" height="500" alt="
-Jeff Horne & 
-Drew Evans
+    <a href="https://apod.nasa.gov/apod/image/2412/NGC660_Selby_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2412/NGC660_Selby_960.jpg" width="400" height="500" alt="
+Mike Selby
 ">
     </a>
     <div>
-        <h4>Near to the Heart Nebula</h4>
-        <time>2024-12-17</time>
-        <p>What excites the Heart Nebula? First, the large emission nebula on the upper left, catalogued as IC 1805, looks somewhat like a human heart.  The nebula glows brightly in red light emitted by its most prominent element, hydrogen, but this long-exposure image was also blended with light emitted by sulfur (yellow) and oxygen (blue).  In the center of the Heart Nebula are young stars from the open star cluster Melotte 15 that are eroding away several picturesque dust pillars with their atom-exciting energetic light and winds. The Heart Nebula is located about 7,500 light years away toward the constellation of Cassiopeia.  This wide field image shows much more, though, including the Fishhead Nebula just below the Heart, a supernova remnant on the lower left, and three planetary nebulas on the image right.  Taken over 57 nights, this image is so deep, though, that it clearly shows fainter long and complex filaments.</p>
+        <h4>NGC 660: Polar Ring Galaxy</h4>
+        <time>2024-12-18</time>
+        <p>What kind of strange galaxy is this? This rare structure is known as a polar ring galaxy, and it seems to have two different rings of stars.  In this galaxy, NGC 660, one ring of bright stars, gas, and dark dust appears nearly vertical, while another similar but shorter ring runs diagonally from the upper left.  How polar ring galaxies obtain their striking appearance remains a topic of research, but a leading theory holds that it is usually the result of two galaxies with different central ring planes colliding.  NGC 660 spans about 50,000 light years and is located about 40 million light years away toward the constellation of the Fish (Pisces).  The featured image was captured recently from Observatorio El Sauce in Chile.</p>
         <strong><em>
-Jeff Horne & 
-Drew Evans
+Mike Selby
 </em></strong>
     </div>
 </div>
