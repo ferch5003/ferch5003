@@ -57,13 +57,17 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2412/LocalCloud_ibex_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2412/LocalCloud_ibex_960.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2412/AuroraTree_Zhang_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2412/AuroraTree_Zhang_960.jpg" width="400" height="500" alt="
+Jingyi Zhang
+">
     </a>
     <div>
-        <h4>The Local Fluff</h4>
-        <time>2024-12-22</time>
-        <p>The stars are not alone.  In the disk of our Milky Way Galaxy, about 10 percent of visible matter is in the form of gas called the interstellar medium (ISM).  The ISM is not uniform and shows patchiness even near our Sun.  It can be quite difficult to detect the local ISM because it is so tenuous and emits so little light.  This mostly hydrogen gas, however, absorbs some very specific colors that can be detected in the light of the nearest stars.  A working map of the local ISM within 20 light-years, based on ongoing observations and particle detections from the Earth-orbiting Interstellar Boundary Exporer satellite  (IBEX), is shown here.  These observations indicate that our Sun is moving through a Local Interstellar Cloud as this cloud flows outwards from the Scorpius-Centaurus Association star forming region.  Our Sun may exit the Local Cloud, also called the Local Fluff, during the next 10,000 years.  Much remains unknown about the local ISM, including details of its distribution, its origin, and how it affects the Sun and the Earth. Unexpectedly, IBEX spacecraft measurements indicate that the direction from which neutral interstellar particles flow through our Solar System is changing.   APOD Year in Review: Night Sky Network Presentation for 2024</p>
-        <strong><em></em></strong>
+        <h4>Christmas Tree Aurora</h4>
+        <time>2024-12-23</time>
+        <p>It was December and the sky lit up like a Christmas tree. Shimmering, the vivid green, blue, and purple auroral colors that formed the tree-like apparition were caused by high atmospheric oxygen and nitrogen reacting to a burst of incoming electrons.  Collisions caused the orbital electrons of atoms and molecules to jump into excited energy states and emit visible light when returning to their normal state. The featured image was captured in Djúpivogur, Iceland during the last month of 2023. Our Sun is currently in its most energetic phase of its 11-year cycle, with its high number of active regions and sunspots likely to last into next year. Of course, the Sun has been near solar maximum during this entire year, with its outbursts sometimes resulting in spectacular Earthly auroras.    Image Processors: Take NASA's Astrophoto Challenge</p>
+        <strong><em>
+Jingyi Zhang
+</em></strong>
     </div>
 </div>
