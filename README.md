@@ -57,11 +57,13 @@
 ### Do you know...
 
 <div>
-    <video src="https://www.youtube.com/embed/B1R3dTdcpSU?rel=0" width="400" height="500"></video>
+    <a href="https://apod.nasa.gov/apod/image/2501/CollidingGalaxies_WebbHubble_1080.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2501/CollidingGalaxies_WebbHubble_1080.jpg" width="400" height="500" alt="">
+    </a>
     <div>
-        <h4>Rocket Launch as Seen from the International Space Station</h4>
-        <time>2025-01-05</time>
-        <p>Have you ever seen a rocket launch -- from space?  A close inspection of the featured time-lapse video will reveal a rocket rising to Earth orbit as seen from the International Space Station (ISS).  The Russian Soyuz-FG rocket was launched in November 2018 from the Baikonur Cosmodrome in Kazakhstan, carrying a Progress MS-10 (also 71P) module to bring needed supplies to the ISS.  Highlights in the 90-second video (condensing about 15-minutes) include city lights and clouds visible on the Earth on the lower left, blue and gold bands of atmospheric airglow running diagonally across the center, and distant stars on the upper right that set behind the Earth. A lower stage can be seen falling back to Earth as the robotic supply ship fires its thrusters and begins to close on the ISS, a space laboratory that celebrated its 25th anniversary in 2023. Astronauts who live aboard the Earth-orbiting ISS conduct, among more practical duties, numerous science experiments that expand human knowledge and enable future commercial industry in low Earth orbit.</p>
+        <h4>Colliding Spiral Galaxies from Webb and Hubble</h4>
+        <time>2025-01-06</time>
+        <p>Billions of years from now, only one of these two galaxies will remain.  Until then, spiral galaxies NGC 2207 and IC 2163 will slowly pull each other apart, creating tides of matter, sheets of shocked gas, lanes of dark dust, bursts of star formation, and streams of cast-away stars.  The featured image in scientifically assigned colors is a composite of Hubble exposures in visible light and Webb exposures in infrared light. Astronomers predict that NGC 2207, the larger galaxy on the right, will eventually incorporate IC 2163, the smaller galaxy on the left.  In the most recent encounter that about peaked 40 million years ago, the smaller galaxy is swinging around counter-clockwise and is now slightly behind the larger galaxy.  The space between stars is so vast that when galaxies collide, the stars in them usually do not collide.   Jigsaw Challenge: Astronomy Puzzle of the Day</p>
         <strong><em></em></strong>
     </div>
 </div>
