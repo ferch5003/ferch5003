@@ -57,17 +57,19 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2501/AuroraSar_Masi_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2501/AuroraSar_Masi_960.jpg" width="400" height="500" alt="
-Alessandra Masi
+    <a href="https://apod.nasa.gov/apod/image/2501/Supernovas_Vetter_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2501/Supernovas_Vetter_960.jpg" width="400" height="500" alt="
+Stéphane Vetter
+(Nuits sacrées)
 ">
     </a>
     <div>
-        <h4>A New Year's Aurora and SAR Arc</h4>
-        <time>2025-01-07</time>
-        <p>It was a new year, and the sky was doubly red.  The new year meant that the Earth had returned to its usual place in its orbit on January 1, a place a few days before its closest approach to the Sun.  The first of the two red skyglows, on the left, was a red aurora, complete with vertical rays, caused by a blast from the Sun pushing charged particles into Earth's atmosphere.  The second red glow, most prominent on the far right, was possibly a SAR arc caused by a river of charged particles flowing across Earth's atmosphere.  Although both appear red, the slight color difference is likely due to the aurora being emitted by both oxygen and nitrogen, whereas the higher SAR arc was possibly emitted more purely by atmospheric oxygen. The featured image was taken on January 1 from near Pieve di Cadore in Italy.   Portal Universe: Random APOD Generator</p>
+        <h4>Supernova Remnants Big and Small</h4>
+        <time>2025-01-08</time>
+        <p>What happens after a star explodes?  A huge fireball of hot gas shoots out in all directions.  When this gas slams into the existing interstellar medium, it heats up so much it glows. Two different supernova remnants (SNRs) are visible in the featured image, taken at the Oukaïmeden Observatory in Morocco.  The blue soccer ball-looking nebula toward the upper left is SNR G179.0+02.6, which appears to be the smaller one.  This supernova, about 11,000 light years distant, detonated about 50,000 years ago. Although composed mostly of hydrogen gas, the blue light is emitted by a trace amount of oxygen.  The seemingly larger SNR, dominating the lower right of the frame, is the Spaghetti Nebula, cataloged as Simeis 147 and sh2-240.  This supernova, only about 3,000 light years away, exploded about 40,000 years ago. Comparatively, even though they appear different sizes, both supernova remnants are not only roughly the same age, but about the same size, too.</p>
         <strong><em>
-Alessandra Masi
+Stéphane Vetter
+(Nuits sacrées)
 </em></strong>
     </div>
 </div>
