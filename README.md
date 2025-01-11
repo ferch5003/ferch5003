@@ -57,13 +57,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2501/B209V773Tau_1024.png">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2501/B209V773Tau_1024.png" width="400" height="500" alt="Long Xin">
+    <a href="https://apod.nasa.gov/apod/image/2501/PlanetsMoonSilvestriCraterCaptionLD600v1.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2501/PlanetsMoonSilvestriCraterCaptionLD600v1.jpg" width="400" height="500" alt="Dario Giannobile">
     </a>
     <div>
-        <h4>Young Stars, Dark Nebulae</h4>
-        <time>2025-01-10</time>
-        <p>An unassuming region in the constellation Taurus holds these dark and dusty nebulae. Scattered through the scene, stars in multiple star systems are forming within their natal Taurus molecular cloud complex some 450 light-years away. Millions of years young and still going through stellar adolescence, the stars are variable in brightness and in the late phases of their gravitational collapse. Known as T-Tauri class stars they tend to be faint and take on a yellowish hue in the image. One of the brightest T-Tauri stars in Taurus, V773 (aka HD283447) is near the center of the telescopic frame that spans over 1 degree. Toward the top is the dense, dark marking on the sky cataloged as Barnard 209.</p>
-        <strong><em>Long Xin</em></strong>
+        <h4>An Evening Sky Full of Planets</h4>
+        <time>2025-01-11</time>
+        <p>Only Mercury is missing from a Solar System parade of planets in this early evening skyscape. Rising nearly opposite the Sun, bright Mars is at the far left. The other naked-eye planets Jupiter, Saturn, and Venus, can also be spotted, with the the position of too-faint Uranus and Neptune marked near the arcing trace of the ecliptic plane. On the far right and close to the western horizon after sunset is a young crescent Moon whose surface is partly illuminated by earthshine.  In the foreground of the composite panorama captured on 2 January, planet Earth is represented by Mount Etna's lower Silvestri Crater. Of course Earth's early evening skies are full of planets for the entire month of January. On 13 January, a nearly Full Moon will appear to pass in front of Mars for skywatchers in the continental U.S. and Eastern Canada.</p>
+        <strong><em>Dario Giannobile</em></strong>
     </div>
 </div>
