@@ -57,13 +57,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2501/PlanetsMoonSilvestriCraterCaptionLD600v1.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2501/PlanetsMoonSilvestriCraterCaptionLD600v1.jpg" width="400" height="500" alt="Dario Giannobile">
+    <a href="https://apod.nasa.gov/apod/image/2501/Mimas_Cassini_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2501/Mimas_Cassini_960.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>An Evening Sky Full of Planets</h4>
-        <time>2025-01-11</time>
-        <p>Only Mercury is missing from a Solar System parade of planets in this early evening skyscape. Rising nearly opposite the Sun, bright Mars is at the far left. The other naked-eye planets Jupiter, Saturn, and Venus, can also be spotted, with the the position of too-faint Uranus and Neptune marked near the arcing trace of the ecliptic plane. On the far right and close to the western horizon after sunset is a young crescent Moon whose surface is partly illuminated by earthshine.  In the foreground of the composite panorama captured on 2 January, planet Earth is represented by Mount Etna's lower Silvestri Crater. Of course Earth's early evening skies are full of planets for the entire month of January. On 13 January, a nearly Full Moon will appear to pass in front of Mars for skywatchers in the continental U.S. and Eastern Canada.</p>
-        <strong><em>Dario Giannobile</em></strong>
+        <h4>Mimas: Small Moon with a Big Crater</h4>
+        <time>2025-01-12</time>
+        <p>Whatever hit Mimas nearly destroyed it.  What remains is one of the largest impact craters on one of Saturn's smallest round moons.  Analysis indicates that a slightly larger impact would have destroyed Mimas entirely.  The huge crater, named Herschel after the 1789 discoverer of Mimas, Sir William Herschel, spans about 130 kilometers and is featured here. Mimas' low mass produces a surface gravity just strong enough to create a spherical body but weak enough to allow such relatively large surface features. Mimas is made of mostly water ice with a smattering of rock - so it is accurately described as a big dirty snowball. The featured image was taken during the closest-ever flyby of the robot spacecraft Cassini past Mimas in 2010 while in orbit around Saturn.    Interactive: Take a trek across Mimas  January 14: Zoom APOD Lecture hosted by the Amateur Astronomers of Association of New York</p>
+        <strong><em></em></strong>
     </div>
 </div>
