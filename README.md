@@ -57,19 +57,17 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2501/CometAtlas_Horalek_960_inset.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2501/CometAtlas_Horalek_960_inset.jpg" width="400" height="500" alt="
-Petr Horalek /
-Institute of Physics in Opava
+    <a href="https://apod.nasa.gov/apod/image/2501/PolarisIfn_Coverta_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2501/PolarisIfn_Coverta_960.jpg" width="400" height="500" alt="
+Davide Coverta
 ">
     </a>
     <div>
-        <h4>Comet ATLAS Before Sunrise</h4>
-        <time>2025-01-13</time>
-        <p>Comet ATLAS is really bright now, but also really close to the Sun. Outside the glow of the Sun, Comet C/2024 G3 (ATLAS) would be one of the more remarkable comet sights of recent years, reflecting about as much sunlight to Earth as Comet Tsuchinshan-ATLAS did in October, and now rivaling even planet Venus. But the giant snowball is now so close to the Sun that it can only be seen through the light of the early morning dawn or the early evening dusk. Today, Comet ATLAS is at perihelion -- its closest ever to the Sun.  Although the future brightness of comets is notoriously hard to predict, there is hope that Comet ATLAS will survive its close pass near the Sun and remain bright enough to be seen with the unaided eye over the next few days -- and possibly a good camera comet for weeks. The featured image was taken early yesterday morning near Tornaľa, Slovakia.   Tomorrow: Zoom APOD Lecture hosted by the Amateur Astronomers of Association of New York</p>
+        <h4>North Star: Polaris and Surrounding Dust</h4>
+        <time>2025-01-14</time>
+        <p>Why is Polaris called the North Star? First, Polaris is the nearest bright star toward the north spin axis of the Earth.  Therefore, as the Earth turns, stars appear to revolve around Polaris, but Polaris itself always stays in the same northerly direction -- making it the North Star.  Since no bright star is near the south spin axis of the Earth, there is currently no bright South Star.  Thousands of years ago, Earth's spin axis pointed in a slightly different direction so that Vega was the North Star.  Although Polaris is not the brightest star on the sky, it is easily located because it is nearly aligned with two stars in the cup of the Big Dipper. Polaris is near the center of the five-degree wide featured image, a digital composite of hundreds of exposures that brings out faint gas and dust of the Integrated Flux Nebula (IFN) all over the frame. The surface of Cepheid Polaris slowly pulsates, causing the famous star to change its brightness by a few percent over the course of a few days.    Today: Zoom APOD Lecture hosted by the Amateur Astronomers of Association of New York</p>
         <strong><em>
-Petr Horalek /
-Institute of Physics in Opava
+Davide Coverta
 </em></strong>
     </div>
 </div>
