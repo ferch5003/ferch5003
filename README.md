@@ -57,17 +57,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2501/MoonMars_Sultan_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2501/MoonMars_Sultan_960.jpg" width="400" height="500" alt="
-Imran Sultan
-">
+    <a href="https://apod.nasa.gov/apod/image/2501/noirlab2429a_1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2501/noirlab2429a_1024.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Wolf Moon Engulfs Mars</h4>
-        <time>2025-01-15</time>
-        <p>Does the Moon ever engulf Mars? Yes, but only in the sense that it moves in front, which happens on rare occasions.  This happened just yesterday, though, as seen from some locations in North America and western Africa.  This occultation was notable not only because the Moon was a fully lit Wolf Moon, but because Mars was near its largest and brightest, moving to opposition -- the closest to the Earth in its orbit -- only tomorrow.  The engulfing, more formally called an occultation, typically lasting about an hour. The featured image was taken from near Chicago, Illinois, USA just as Earth's largest satellite was angularly moving away from the much more distant red planet. Our  Moon occasionally moves in front of all of the Solar System's planets.  Given the temporary alignment of orbital planes, the next time our Moon eclipses Mars will be a relatively soon February 9.   Growing Gallery: Moon-Mars Occultation in January 2025</p>
-        <strong><em>
-Imran Sultan
-</em></strong>
+        <h4>M83: The Southern Pinwheel</h4>
+        <time>2025-01-16</time>
+        <p>Beautiful and bright spiral galaxy M83 lies a some twelve million light-years away, near the southeastern tip of the very long constellation Hydra. Prominent spiral arms traced by dark dust lanes and blue star clusters lend this galaxy its popular name, The Southern Pinwheel.  Still, reddish star forming regions that dot this cosmic pinwheel's spiral arms have suggested another nickname, the Thousand-Ruby Galaxy. A mere 40,000 light-years across, smaller than the Milky Way, M83 is a member of a group of galaxies that includes active galaxy Centaurus A. In fact, the core of M83 itself is bright at x-ray energies, showing a high concentration of neutron stars and black holes left from an intense burst of star formation. This sharp color image also features spiky foreground Milky Way stars and distant background galaxies. The image data was captured with the Dark Energy Camera and Blanco 4-meter telescope at Cerro Tololo Inter-American Observatory.</p>
+        <strong><em></em></strong>
     </div>
 </div>
