@@ -57,13 +57,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2501/CasA_nircam_1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2501/CasA_nircam_1024.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2501/MarsLOc_Jan13_1024c.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2501/MarsLOc_Jan13_1024c.jpg" width="400" height="500" alt="On January 13">
     </a>
     <div>
-        <h4>Supernova Remnant Cassiopeia A</h4>
-        <time>2025-01-17</time>
-        <p>Massive stars in our Milky Way Galaxy live spectacular lives.  Collapsing from vast cosmic clouds, their nuclear furnaces ignite and create heavy elements in their cores. After only a few million years for the most massive stars, the enriched material is blasted back into interstellar space where star formation can begin anew. The expanding debris cloud known as Cassiopeia A is an example of this final phase of the stellar life cycle. Light from the supernova explosion that created this remnant would have been first seen in planet Earth's sky about 350 years ago, although it took that light 11,000 years to reach us. This sharp NIRCam image from the James Webb Space Telescope shows the still hot filaments and knots in the supernova remnant. The whitish, smoke-like outer shell of the expanding blast wave is about 20 light-years across. A series of light echoes from the massive star's cataclysmic explosion are also identified in Webb's detailed images of the surrounding interstellar medium.</p>
-        <strong><em></em></strong>
+        <h4>Full Moon, Full Mars</h4>
+        <time>2025-01-18</time>
+        <p>On January 13 a Full Moon and a Full Mars were close, both bright and opposite the Sun in planet Earth's sky. In fact Mars was occulted, passing behind the Moon, when viewed from some locations in North America and northwest Africa.  As seen from Richmond, Virginia, USA, this composite image sequence follows the evening lunar occultation before, during, and after the much anticipated celestial spectacle. The telescopic time series is constructed from an exposure made every two minutes while tracking the Moon over the hours encompassing the event. As a result, the Red Planet's trajectory seems to follow a gently curved path due to the Moon's slightly different rate of apparent motion. The next lunar occultation of bright planet Mars will be on February 9 when the moon is in a waxing gibbous phase. Lunar occultations are only ever visible from a fraction of the Earth's surface, though. The February 9 occultation of Mars will be seen from parts of Russia, China, eastern Canada, Greenland and other (mostly northern) locations, but a close conjunction of a bright Moon with Mars will be more widely visible from planet Earth.   Growing Gallery: Moon-Mars Occultation in January 2025</p>
+        <strong><em>On January 13</em></strong>
     </div>
 </div>
