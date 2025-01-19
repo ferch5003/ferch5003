@@ -57,13 +57,11 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2501/MarsLOc_Jan13_1024c.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2501/MarsLOc_Jan13_1024c.jpg" width="400" height="500" alt="On January 13">
-    </a>
+    <video src="https://www.youtube.com/embed/msiLWxDayuA?rel=0" width="400" height="500"></video>
     <div>
-        <h4>Full Moon, Full Mars</h4>
-        <time>2025-01-18</time>
-        <p>On January 13 a Full Moon and a Full Mars were close, both bright and opposite the Sun in planet Earth's sky. In fact Mars was occulted, passing behind the Moon, when viewed from some locations in North America and northwest Africa.  As seen from Richmond, Virginia, USA, this composite image sequence follows the evening lunar occultation before, during, and after the much anticipated celestial spectacle. The telescopic time series is constructed from an exposure made every two minutes while tracking the Moon over the hours encompassing the event. As a result, the Red Planet's trajectory seems to follow a gently curved path due to the Moon's slightly different rate of apparent motion. The next lunar occultation of bright planet Mars will be on February 9 when the moon is in a waxing gibbous phase. Lunar occultations are only ever visible from a fraction of the Earth's surface, though. The February 9 occultation of Mars will be seen from parts of Russia, China, eastern Canada, Greenland and other (mostly northern) locations, but a close conjunction of a bright Moon with Mars will be more widely visible from planet Earth.   Growing Gallery: Moon-Mars Occultation in January 2025</p>
-        <strong><em>On January 13</em></strong>
+        <h4>Titan Touchdown: Huygens Descent Movie</h4>
+        <time>2025-01-19</time>
+        <p>What would it look like to land on Saturn's moon Titan? The European Space Agency's Huygens probe set down on the Solar System's cloudiest moon in 2005, and a time-lapse video of its descent images was created. Huygens separated from the robotic Cassini spacecraft soon after it achieved orbit around Saturn in late 2004 and began approaching Titan. For two hours after arriving, Huygens plummeted toward Titan's surface, recording at first only the shrouded moon's opaque atmosphere. The computerized truck-tire sized probe soon deployed a parachute to slow its descent, pierced the thick clouds, and began transmitting images of a strange surface far below never before seen in visible light. Landing in a dried sea and surviving for 90 minutes, Huygen's returned unique images of a strange plain of dark sandy soil strewn with smooth, bright, fist-sized rocks of ice.</p>
+        <strong><em></em></strong>
     </div>
 </div>
