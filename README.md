@@ -57,13 +57,17 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2501/CometATLAS_Danin_1080.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2501/CometATLAS_Danin_1080.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2501/NGC7000_Valianos_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2501/NGC7000_Valianos_960.jpg" width="400" height="500" alt="
+Dimitris Valianos
+">
     </a>
     <div>
-        <h4>Comet ATLAS over Brasília</h4>
-        <time>2025-01-21</time>
-        <p>What's that in the sky? Above the city, above most clouds, far in the distance: it's a comet. Pictured, the impressive tail of Comet C/2024 G3 (ATLAS) was imaged from Brasília, Brazil four days ago. Last week the evolving  comet rounded the Sun well inside the orbit of planet Mercury, going so close there was early concern that it might break up -- and recent evidence that it really did.  At one point near perihelion, Comet ATLAS was so bright that sightings were even reported during the day -- over the bright sky near the Sun -- by careful observers.  Over the past few days, Comet ATLAS has developed a long tail that has been partly visible with unaided eyes after sunset, most notably in Earth's southern hemisphere.    Growing Gallery: Comet ATLAS (G3)</p>
-        <strong><em></em></strong>
+        <h4>The North America Nebula</h4>
+        <time>2025-01-22</time>
+        <p>The North America nebula on the sky can do what the North America continent on Earth cannot -- form stars.  Specifically, in analogy to the Earth-confined continent, the bright part that appears as the east coast  is actually a hot bed of gas, dust, and newly formed stars known as the Cygnus Wall.  The featured image shows the star forming wall lit and eroded by bright young stars and partly hidden by the dark dust they have created.  The part of the North America nebula (NGC 7000) shown spans about 50 light years and lies about 1,500 light years away toward the constellation of the Swan (Cygnus).   Jigsaw Challenge: Astronomy Puzzle of the Day</p>
+        <strong><em>
+Dimitris Valianos
+</em></strong>
     </div>
 </div>
