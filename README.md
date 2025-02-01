@@ -57,13 +57,15 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2501/HubblesVariablecopy1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2501/HubblesVariablecopy1024.jpg" width="400" height="500" alt="Tommy Lease">
+    <a href="https://apod.nasa.gov/apod/image/2502/IMG_0340-Internet-2_1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2502/IMG_0340-Internet-2_1024.jpg" width="400" height="500" alt="Known as nacreous
+clouds">
     </a>
     <div>
-        <h4>The Variable Nebula NGC 2261</h4>
-        <time>2025-01-31</time>
-        <p>The interstellar cloud of dust and gas captured in this sharp telescopic snapshot is seen to change its appearance noticeably over periods as short as a few weeks. Discovered over 200 years ago and cataloged as NGC 2261, bright star R Monocerotis lies at the tip of the fan-shaped nebula. About one light-year across and 2500 light-years away, NGC 2261 was studied early last century by astronomer Edwin Hubble and the mysterious cosmic cloud is now more famous as Hubble's Variable Nebula. So what makes Hubble's nebula vary? NGC 2261 is composed of a dusty reflection nebula fanning out from the star R Monocerotis.  The leading variability explanation holds that dense knots of obscuring dust pass close to R Mon and cast moving shadows across the dust clouds in the rest of Hubble's Variable Nebula.</p>
-        <strong><em>Tommy Lease</em></strong>
+        <h4>Nacreous Clouds over Sweden</h4>
+        <time>2025-02-01</time>
+        <p>Vivid and lustrous, wafting iridescent waves of color wash across this skyscape from northern Sweden. Known as nacreous clouds or mother-of-pearl clouds, they are rare. But their unforgettable appearance was captured in this snapshot on January 12 with the Sun just below the local horizon. A type of polar stratospheric cloud, they form when unusually cold temperatures in the usually cloudless lower stratosphere form ice crystals. Still sunlit at altitudes of around 15 to 25 kilometers, the clouds diffract the sunlight even when the Sun itself is hidden from direct view.</p>
+        <strong><em>Known as nacreous
+clouds</em></strong>
     </div>
 </div>
