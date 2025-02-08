@@ -57,13 +57,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2502/Hubble_LEDA1313424_STScI-01_1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2502/Hubble_LEDA1313424_STScI-01_1024.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2502/IMG_3775M_1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2502/IMG_3775M_1024.jpg" width="400" height="500" alt="Aldo S. Kleiman">
     </a>
     <div>
-        <h4>LEDA 1313424: The Bullseye Galaxy</h4>
-        <time>2025-02-07</time>
-        <p>The giant galaxy cataloged as LEDA 1313424 is about two and a half times the size of our own Milky Way. Its remarkable appearance in this recently released Hubble Space Telescope image strongly suggests its nickname "The Bullseye Galaxy". Known as a collisional ring galaxy it has nine rings confirmed by telescopic observations, rippling from its center like waves from a pebble dropped into a pond. Of course, the pebble dropped into the Bullseye galaxy was a galaxy itself. Telescopic observations identify the blue dwarf galaxy at center-left as the likely collider, passing through the giant galaxy's center and forming concentric rings in the wake of their gravitational interaction. The Bullseye Galaxy lies some 567 million light-years away toward the constellation Pisces. At that distance, this stunning Hubble image would span about 530,000 light-years.</p>
-        <strong><em></em></strong>
+        <h4>A Conjunction of Crescents</h4>
+        <time>2025-02-08</time>
+        <p>A waxing crescent Moon and a waning crescent Venus are found at opposite corners of this twilight telephoto field of view. The close conjunction of the two brightest celestial beacons in planet Earth's western evening sky was captured on February 1 from Rosario, Argentina. On that date, the slender crescent Moon was about 3 days old. But the Moon's visible sunlit crescent will grow to a bright Full Moon by February 14. Like the Moon, Venus cycles through phases as it orbits the Sun. And while its visible sunlit crescent narrows, the inner planet's apparent size increases as it gets closer to Earth. In a Valentine from the Solar System, Venus, named for the Roman goddess of Love, will also reach its peak brightness in planet Earth's evening skies around February 14.</p>
+        <strong><em>Aldo S. Kleiman</em></strong>
     </div>
 </div>
