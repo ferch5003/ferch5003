@@ -57,17 +57,17 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2502/BirdAurora_Coulon_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2502/BirdAurora_Coulon_960.jpg" width="400" height="500" alt="
-Mickael Coulon
+    <a href="https://apod.nasa.gov/apod/image/2502/SpiderFly_Boddington_1080.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2502/SpiderFly_Boddington_1080.jpg" width="400" height="500" alt="
+Dave Boddington
 ">
     </a>
     <div>
-        <h4>Auroral Hummingbird over Norway</h4>
-        <time>2025-02-10</time>
-        <p>Is this the largest hummingbird ever?  Although it may look like a popular fluttering nectarivore, what is pictured is actually a beautifully detailed and colorful aurora, complete with rays reminiscent of feathers. This aurora was so bright that it was visible to the unaided eye during blue hour -- just after sunset when the sky appears a darkening blue.  However, the aurora only looked like a hummingbird through a sensitive camera able to pick up faint glows. As reds typically occurring higher in the Earth's atmosphere than the greens, the real 3D shape of this aurora would likely appear unfamiliar.  Auroras are created when an explosion on the Sun causes high energy particles to flow into the Earth's atmosphere and excite atoms and molecules of nitrogen and oxygen.  The featured image was captured about two weeks ago above Lyngseidt, Norway.</p>
+        <h4>The Spider and the Fly</h4>
+        <time>2025-02-11</time>
+        <p>Will the spider ever catch the fly? Not if both are large emission nebulas toward the constellation of the Charioteer (Auriga).  The spider-shaped gas cloud in the image center is actually an emission nebula labelled IC 417, while the smaller fly-shaped cloud on the left is dubbed  NGC 1931 and is both an emission nebula and a reflection nebula.  About 10,000 light-years distant, both nebulas harbor young star clusters. For scale, the more compact NGC 1931 (Fly) is about 10 light-years across. The featured deep image, captured over 20 hours during late January in Berkshire UK, also shows more diffuse and red-glowing interstellar gas and dust.   Explore Your Universe: Random APOD Generator</p>
         <strong><em>
-Mickael Coulon
+Dave Boddington
 </em></strong>
     </div>
 </div>
