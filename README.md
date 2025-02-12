@@ -57,17 +57,11 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2502/SpiderFly_Boddington_1080.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2502/SpiderFly_Boddington_1080.jpg" width="400" height="500" alt="
-Dave Boddington
-">
-    </a>
+    <video src="https://www.youtube.com/embed/ukCSRYcjSQw?rel=0" width="400" height="500"></video>
     <div>
-        <h4>The Spider and the Fly</h4>
-        <time>2025-02-11</time>
-        <p>Will the spider ever catch the fly? Not if both are large emission nebulas toward the constellation of the Charioteer (Auriga).  The spider-shaped gas cloud in the image center is actually an emission nebula labelled IC 417, while the smaller fly-shaped cloud on the left is dubbed  NGC 1931 and is both an emission nebula and a reflection nebula.  About 10,000 light-years distant, both nebulas harbor young star clusters. For scale, the more compact NGC 1931 (Fly) is about 10 light-years across. The featured deep image, captured over 20 hours during late January in Berkshire UK, also shows more diffuse and red-glowing interstellar gas and dust.   Explore Your Universe: Random APOD Generator</p>
-        <strong><em>
-Dave Boddington
-</em></strong>
+        <h4>Asteroid Bennu Holds the Building Blocks of Life</h4>
+        <time>2025-02-12</time>
+        <p>What can a space rock tell us about life on Earth?  NASA's OSIRIS-REx spacecraft made a careful approach to the near-Earth asteroid 101955 Bennu in October of 2020 to collect surface samples.  In September 2023, the robotic spaceship returned these samples to Earth.  A recent analysis has shown, surprisingly, that the samples contained 14 out of the 20 known amino acids that are the essential building blocks of life.  The presence of the amino acids re-introduces a big question: Could life have originated in space?  However, the protein building blocks themselves held another surprise -- they contained an even mixture of left-handed and right-handed amino acids -- in contrast to our Earth which only has left-handed ones.  This raises another big question: Why does life on Earth have only left-handed amino acids?  Research on this is sure to continue.</p>
+        <strong><em></em></strong>
     </div>
 </div>
