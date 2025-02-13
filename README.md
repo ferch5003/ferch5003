@@ -54,17 +54,16 @@
     </a>
 </div>
 
-### Music Status🎵
-![Music Staus](https://mut.functional-web.xyz/spotify/track-to-show)
-
 ### Do you know...
 
 <div>
-    <video src="https://www.youtube.com/embed/ukCSRYcjSQw?rel=0" width="400" height="500"></video>
+    <a href="https://apod.nasa.gov/apod/image/2502/Vdb31_Astrobin1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2502/Vdb31_Astrobin1024.jpg" width="400" height="500" alt="Roberto Marinoni">
+    </a>
     <div>
-        <h4>Asteroid Bennu Holds the Building Blocks of Life</h4>
-        <time>2025-02-12</time>
-        <p>What can a space rock tell us about life on Earth?  NASA's OSIRIS-REx spacecraft made a careful approach to the near-Earth asteroid 101955 Bennu in October of 2020 to collect surface samples.  In September 2023, the robotic spaceship returned these samples to Earth.  A recent analysis has shown, surprisingly, that the samples contained 14 out of the 20 known amino acids that are the essential building blocks of life.  The presence of the amino acids re-introduces a big question: Could life have originated in space?  However, the protein building blocks themselves held another surprise -- they contained an even mixture of left-handed and right-handed amino acids -- in contrast to our Earth which only has left-handed ones.  This raises another big question: Why does life on Earth have only left-handed amino acids?  Research on this is sure to continue.</p>
-        <strong><em></em></strong>
+        <h4>Reflections on VdB 31</h4>
+        <time>2025-02-13</time>
+        <p>Riding high in the constellation of Auriga, beautiful, blue VdB 31 is the 31st object in Sidney van den Bergh's 1966 catalog of reflection nebulae. It shares this well-composed celestial still life with dark, obscuring clouds B26, B27, and B28, recorded in Edward E. Barnard's 1919 catalog of dark markings in the sky. All are these nebulae are interstellar dust clouds. Barnard's dark nebulae block the light from background stars. For VdB 31 the dust preferentially reflects bluish starlight from embedded, hot, variable star AB Aurigae. Exploring the environs of AB Aurigae with the Hubble Space Telescope has revealed the several million year young star is itself surrounded by a flattened dusty disk with evidence for the ongoing formation of a planetary system. AB Aurigae is about 470 light-years away. At that distance this cosmic canvas would span about eight light-years.</p>
+        <strong><em>Roberto Marinoni</em></strong>
     </div>
 </div>
