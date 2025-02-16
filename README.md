@@ -60,13 +60,11 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2502/_D8A2600d_1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2502/_D8A2600d_1024.jpg" width="400" height="500" alt="planet Earth">
-    </a>
+    <video src="https://www.youtube.com/embed/OfM7VlonD5c?rel=0" width="400" height="500"></video>
     <div>
-        <h4>Parhelia at Abisko</h4>
-        <time>2025-02-15</time>
-        <p>Three suns seem to hug the horizon in this otherworldly winterscape. But the evocative scene was captured during a February 3rd snowmobile exploration of the mountainous region around Abisko National Park, northern Sweden, planet Earth. The two bright spots on either side of Earth's Sun are parhelia (singular parhelion), also known as mock suns or sun dogs. The parhelia are caused by hexagonal ice crystals suspended in the hazy atmosphere that reflect and refract sunlight. Commonly seen in winter and at high latitudes, the bright parhelia lie along the visible 22 degree ice halo of the Sun.</p>
-        <strong><em>planet Earth</em></strong>
+        <h4>Perijove 11: Passing Jupiter</h4>
+        <time>2025-02-16</time>
+        <p>Here comes Jupiter. NASA's robotic spacecraft Juno is continuing on its highly elongated orbits around our Solar System's largest planet.  The featured video is from perijove 11 in early 2018, the eleventh time Juno passed near Jupiter since it arrived in mid-2016.  This time-lapse, color-enhanced movie covers about four hours and morphs between 36 JunoCam images. The video begins with Jupiter rising as Juno approaches from the north. As Juno reaches its closest view -- from about 3,500 kilometers over Jupiter's cloud tops -- the spacecraft captures the great planet in tremendous detail. Juno passes light zones and dark belts of clouds that circle the planet, as well as numerous swirling circular storms, many of which are larger than hurricanes on Earth.  After the perijove, Jupiter recedes into the distance, then displaying the unusual clouds that appear over Jupiter's south.  To get desired science data, Juno swoops so close to Jupiter that its instruments are exposed to very high levels of radiation.</p>
+        <strong><em></em></strong>
     </div>
 </div>
