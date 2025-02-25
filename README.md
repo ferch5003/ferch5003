@@ -60,17 +60,17 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2502/LightPillarVolcano_Calio_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2502/LightPillarVolcano_Calio_960.jpg" width="400" height="500" alt="
-Davide Caliò
+    <a href="https://apod.nasa.gov/apod/image/2502/M41_Li_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2502/M41_Li_960.jpg" width="400" height="500" alt="
+Xinran Li
 ">
     </a>
     <div>
-        <h4>Light Pillar over Erupting Etna</h4>
-        <time>2025-02-24</time>
-        <p>Can a lava flow extend into the sky? No, but light from the lava flow can. One effect is something quite unusual -- a volcanic light pillar. More typically, light pillars are caused by sunlight and so appear as a bright column that extends upward above a rising or setting Sun. Alternatively, other light pillars -- some quite colorful -- have been recorded above street and house lights. This light pillar, though, was illuminated by the red light emitted by the glowing magma of an erupting volcano. The volcano is Italy's Mount Etna, and the featured image was captured with a single shot during an early morning in mid-February. Freezing temperatures above the volcano's lava flow created ice-crystals either in the air above the volcano or in condensed water vapor expelled by Mount Etna. These ice crystals -- mostly flat toward the ground but fluttering -- then reflected away light from the volcano's caldera.</p>
+        <h4>M41: The Little Beehive Star Cluster</h4>
+        <time>2025-02-25</time>
+        <p>Why are there so many bright blue stars?  Stars are usually born in clusters, and the brightest and most massive of these stars typically glow blue. Less-bright, non-blue stars like our Sun surely also exist in this M41 star cluster but are harder to see. A few bright orange-appearing red giant stars are visible. The red-light filaments are emitted by diffuse hydrogen gas, a color that was specifically filtered and enhanced in this image.  In a hundred million years or so, the bright blue stars will have exploded in supernovas and disappeared, while the slightly different trajectories of the fainter stars will cause this picturesque open cluster to disperse. Similarly, billions of years ago, our own Sun was likely born into a star cluster like M41, but it has long since drifted apart from its sister stars. The featured image was captured over four hours with Chilescope T2 in Chile.</p>
         <strong><em>
-Davide Caliò
+Xinran Li
 </em></strong>
     </div>
 </div>
