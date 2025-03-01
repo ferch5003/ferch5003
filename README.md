@@ -60,13 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2502/AthenaEarth1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2502/AthenaEarth1024.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2503/BlueGhost_lunar1067.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2503/BlueGhost_lunar1067.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Athena to the Moon</h4>
-        <time>2025-02-28</time>
-        <p>Planet Earth hangs in the background of this space age selfie. The snapshot was captured by the IM-2 Nova-C lander Athena, just after stage separation following its February 26 launch to the Moon. A tall robotic lander, Athena is scheduled to touch down on Thursday, March 6, in Mons Mouton, a plateau near the Moon’s South Pole. The intended landing site is in the central portion of one of the Artemis 3 potential landing regions. Athena carries rovers and experiments as part of NASA's Commercial Lunar Payload Services program, including a drill intended to explore beneath the lunar surface in a search for evidence of frozen water. It also carries a propulsive drone dubbed the Micro Nova Hopper. After release to the lunar surface, the autonomous drone is intended to hop into a nearby crater and send science data back to the lander.</p>
+        <h4>Blue Ghost to the Moon</h4>
+        <time>2025-03-01</time>
+        <p>With spacecraft thrusters at top center, the rugged surface of the Moon lies below the Blue Ghost lander in this space age video frame. The view of the lunar far side was captured by the Firefly Aerospace lunar lander on February 24, following a maneuver to circularize its orbit about 100 kilometers above the lunar surface. The robotic lunar lander is scheduled to touch down tomorrow, Sunday, March 2, at 3:34am Eastern Time in the Mare Crisium impact basin on the lunar near side. In support of the Artemis campaign, Blue Ghost is set to deliver science and technology experiments to the Moon, part of NASA's Commercial Lunar Payload Services program. Blue Ghost's mission on the surface is planned to operate during the lunar daylight hours at the landing site, about 14 Earth days.</p>
         <strong><em></em></strong>
     </div>
 </div>
