@@ -60,13 +60,17 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2503/BlueGhostShadow_Firefly_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2503/BlueGhostShadow_Firefly_960.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2503/QuadMoon_Minato_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2503/QuadMoon_Minato_960.jpg" width="400" height="500" alt="
+Valerio Minato
+">
     </a>
     <div>
-        <h4>Blue Ghost on the Moon</h4>
-        <time>2025-03-03</time>
-        <p>There's a new lander on the Moon. Yesterday Firefly Aerospace's Blue Ghost executed the first-ever successful commercial lunar landing. During its planned 60-day mission, Blue Ghost will deploy several NASA-commissioned scientific instruments, including PlanetVac which captures lunar dust after creating a small whirlwind of gas. Blue Ghost will also host the telescope LEXI that captures X-ray images of the Earth's magnetosphere. LEXI data should enable a better understanding of how Earth's magnetic field protects the Earth from the Sun's wind and flares.  Pictured, the shadow of the Blue Ghost lander is visible on the cratered lunar surface, while the glowing orb of the planet Earth hovers just over the horizon. Goals for future robotic Blue Ghost landers include supporting lunar astronauts in NASA's Artemis program, with Artemis III currently scheduled to land humans back on the Moon in 2027.</p>
-        <strong><em></em></strong>
+        <h4>A Quadruple Alignment over Italy</h4>
+        <time>2025-03-04</time>
+        <p>Why does this Moon look so unusual?  A key reason is its vivid red color. The color is caused by the deflection of blue light by Earth's atmosphere -- the same reason that the daytime sky appears blue.  The Moon also appears unusually distorted.  Its strange structuring is an optical effect arising from layers in the Earth's atmosphere that refract light differently due to sudden differences in temperature or pressure.  A third reason the Moon looks so unusual is that there is, by chance, an airplane flying in front. The featured picturesque gibbous Moon was captured about two weeks ago above Turin, Italy. Our familiar hovering sky orb was part of an unusual quadruple alignment that included two historic ground structures: the Sacra di San Michele on the near hill and Basilica of Superga just beyond.   Your Sky Surprise: What picture did APOD feature on your friend's birthday? (post 1995)</p>
+        <strong><em>
+Valerio Minato
+</em></strong>
     </div>
 </div>
