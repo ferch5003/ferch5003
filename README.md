@@ -60,13 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2503/M94_hst1542a.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2503/M94_hst1542a.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2503/Abell7_VChander1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2503/Abell7_VChander1024.jpg" width="400" height="500" alt="Vikas Chander">
     </a>
     <div>
-        <h4>Starburst Galaxy Messier 94</h4>
-        <time>2025-03-06</time>
-        <p>Beautiful island universe Messier 94 lies a mere 15 million light-years distant in the northern constellation of the hunting dogs, Canes Venatici. A popular target for earth-based astronomers, the face-on spiral galaxy is about 30,000 light-years across, with spiral arms sweeping through the outskirts of its broad disk. But this Hubble Space Telescope field of view spans about 7,000 light-years or so across M94's central region. The sharp close-up examines the galaxy's compact, bright nucleus and prominent inner dust lanes, surrounded by a remarkable bluish ring of young, massive stars. The massive stars in the ring appear to be less than about 10 million years old, indicating the galaxy experienced a corresponding well-defined era of rapid star formation. As a result, while the small, bright nucleus is typical of the Seyfert class of active galaxies, M94 is also known as a starburst galaxy. Because M94 is relatively nearby, astronomers can explore in detail reasons for the galaxy's burst of star formation.  Today's Coverage: Moon Landing</p>
-        <strong><em></em></strong>
+        <h4>Planetary Nebula Abell 7</h4>
+        <time>2025-03-07</time>
+        <p>Very faint planetary nebula Abell 7 is about 1,800 light-years distant. It lies just south of Orion in planet Earth's skies toward the constellation Lepus, The Hare. Surrounded by Milky Way stars and near the line-of-sight to distant background galaxies its generally simple spherical shape, about 8 light-years in diameter, is revealed in this deep telescopic image. Within the cosmic cloud are beautiful and complex structures though, enhanced by the use of long exposures and narrowband filters that capture emission from hydrogen, sulfur, and oxygen atoms. Otherwise Abell 7 would be much too faint to be appreciated by eye. A planetary nebula represents a very brief final phase in stellar evolution that our own Sun will experience 5 billion years hence, as the nebula's central, once sun-like star shrugs off its outer layers. Abell 7 itself is estimated to be 20,000 years old. But its central star, seen here as a fading white dwarf, is some 10 billion years old.</p>
+        <strong><em>Vikas Chander</em></strong>
     </div>
 </div>
