@@ -60,13 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2503/Abell7_VChander1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2503/Abell7_VChander1024.jpg" width="400" height="500" alt="Vikas Chander">
+    <a href="https://apod.nasa.gov/apod/image/2503/iss072e574593_DonPetit1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2503/iss072e574593_DonPetit1024.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Planetary Nebula Abell 7</h4>
-        <time>2025-03-07</time>
-        <p>Very faint planetary nebula Abell 7 is about 1,800 light-years distant. It lies just south of Orion in planet Earth's skies toward the constellation Lepus, The Hare. Surrounded by Milky Way stars and near the line-of-sight to distant background galaxies its generally simple spherical shape, about 8 light-years in diameter, is revealed in this deep telescopic image. Within the cosmic cloud are beautiful and complex structures though, enhanced by the use of long exposures and narrowband filters that capture emission from hydrogen, sulfur, and oxygen atoms. Otherwise Abell 7 would be much too faint to be appreciated by eye. A planetary nebula represents a very brief final phase in stellar evolution that our own Sun will experience 5 billion years hence, as the nebula's central, once sun-like star shrugs off its outer layers. Abell 7 itself is estimated to be 20,000 years old. But its central star, seen here as a fading white dwarf, is some 10 billion years old.</p>
-        <strong><em>Vikas Chander</em></strong>
+        <h4>Galaxies in Space</h4>
+        <time>2025-03-08</time>
+        <p>The plane of our Milky Way galaxy extends beyond the limb of planet Earth in this space age exposure captured by astronaut Don Pettit. His camera, with low light and long duration settings, was pointed out the window of a Dragon crew spacecraft docked with the International Space Station on January 29. The orbital outpost was at an altitude of about 400 kilometers above the Pacific Ocean at the time. Motion blurs the Earth below, while the gorgeous view from low Earth orbit includes the Milky Way's prominent satellite galaxies, known as the Large and Small Magellanic Clouds, near the upper left in the frame. Fans of southern skies can also spot the Southern Cross. The four brightest stars of the famous southern constellation Crux are near picture center, just beyond the edge of the bright horizon and shining through Earth's orange tinted atmospheric glow.</p>
+        <strong><em></em></strong>
     </div>
 </div>
