@@ -60,13 +60,25 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2503/NGC1672B_Hubble_1080.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2503/NGC1672B_Hubble_1080.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2503/NGC772Comet_Bax_1080.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2503/NGC772Comet_Bax_1080.jpg" width="400" height="500" alt="
+Jean-François Bax & Serge Brunier,  
+OCA/C2PU; 
+Text: 
+Ogetay Kayali 
+(Michigan Tech U.)
+">
     </a>
     <div>
-        <h4>NGC 1672: Barred Spiral Galaxy from Hubble</h4>
-        <time>2025-03-11</time>
-        <p>Many spiral galaxies have bars across their centers.  Even our own Milky Way Galaxy is thought to have a modest central bar. Prominently barred spiral galaxy NGC 1672, featured here, was captured in spectacular detail in an image taken by the orbiting Hubble Space Telescope. Visible are dark filamentary dust lanes, young clusters of bright blue stars, red emission nebulas of glowing hydrogen gas, a long bright bar of stars across the center, and a bright active nucleus that likely houses a supermassive black hole.  Light takes about 60 million years to reach us from NGC 1672, which spans about 75,000 light years across. NGC 1672, which appears toward the constellation of the Dolphinfish (Dorado), has been studied to find out how a spiral bar contributes to star formation in a galaxy's central regions.</p>
-        <strong><em></em></strong>
+        <h4>NGC 772: The Fiddlehead Galaxy</h4>
+        <time>2025-03-12</time>
+        <p>Why does this galaxy look like a curly vegetable?  The Fiddlehead spiral galaxy likely gets its distorted spiral appearance from a gravitational interaction with its close-by elliptical companion NGC 770, seen just below.  Cataloged as NGC 772 and Arp 78, the Fiddlehead spans over 200,000 light years, is a nearby 100 million light years beyond the stars of our Milky Way galaxy, and is visible toward the constellation of the Ram (Aries).  But in the featured image, the Fiddlehead appears to have another companion -- one with a long and fuzzy tail: Comet 43P/Wolf-Harrington.  Though the comet appears to be aimed straight at the massive galaxy, it is actually much closer to us, residing only light minutes away -- well within our Solar System.  The comet will never reach the distant spiral galaxy, nor is it physically related to it.  By a fortunate trick of perspective, though, these two cosmic wonders briefly share the same frame taken late last year from Calern, France.</p>
+        <strong><em>
+Jean-François Bax & Serge Brunier,  
+OCA/C2PU; 
+Text: 
+Ogetay Kayali 
+(Michigan Tech U.)
+</em></strong>
     </div>
 </div>
