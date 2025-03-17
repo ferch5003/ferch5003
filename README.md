@@ -60,13 +60,19 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2503/SunVenusUv3_SdoDove_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2503/SunVenusUv3_SdoDove_960.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2503/ThorHelmet_Hopkins_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2503/ThorHelmet_Hopkins_960.jpg" width="400" height="500" alt="
+Brian Hopkins 
+(East Coast Astronomer)
+">
     </a>
     <div>
-        <h4>Venus and the Triply Ultraviolet Sun</h4>
-        <time>2025-03-16</time>
-        <p>This was a very unusual type of solar eclipse.  Typically, it is the Earth's Moon that eclipses the Sun.  In 2012, though, the planet Venus took a turn.  Like a solar eclipse by the Moon, the phase of Venus became a continually thinner crescent as Venus became increasingly better aligned with the Sun.  Eventually the alignment became perfect and the phase of Venus dropped to zero.  The dark spot of Venus crossed our parent star.  The situation could technically be labeled a Venusian annular eclipse with an extraordinarily large ring of fire.  Pictured here during the occultation, the Sun was imaged in three colors of ultraviolet light by the Earth-orbiting Solar Dynamics Observatory, with the dark region toward the right corresponding to a coronal hole. Hours later, as Venus continued in its orbit, a slight crescent phase appeared again.  The next Venusian transit across the Sun will occur in 2117.</p>
-        <strong><em></em></strong>
+        <h4>Thor's Helmet</h4>
+        <time>2025-03-17</time>
+        <p>Thor not only has his own day (Thursday), but a helmet in the heavens.  Popularly called Thor's Helmet, NGC 2359 is a hat-shaped cosmic cloud with wing-like appendages. Heroically sized even for a Norse god, Thor's Helmet is about 30 light-years across. In fact, the cosmic head-covering is more like an interstellar bubble, blown by a fast wind from the bright, massive star near the bubble's center. Known as a Wolf-Rayet star, the central star is an extremely hot giant thought to be in a brief, pre-supernova stage of evolution. NGC 2359 is located about 15,000 light-years away toward the constellation of the Great Overdog. This sharp image is a mixed cocktail of data from  narrowband filters, capturing not only natural looking stars but details of the nebula's filamentary structures. The star in the center of Thor's Helmet is expected to explode in a spectacular supernova sometime within the next few thousand years.</p>
+        <strong><em>
+Brian Hopkins 
+(East Coast Astronomer)
+</em></strong>
     </div>
 </div>
