@@ -60,13 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2503/HunterWells_submission3-3labelled1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2503/HunterWells_submission3-3labelled1024.jpg" width="400" height="500" alt="Hunter Wells">
+    <a href="https://apod.nasa.gov/apod/image/2503/image_1236LeoTrio1024.JPG">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2503/image_1236LeoTrio1024.JPG" width="400" height="500" alt="Rabeea Alkuwari">
     </a>
     <div>
-        <h4>The Solar Eclipse Analemma Project</h4>
-        <time>2025-03-20</time>
-        <p>Recorded from 2024 March 10, to 2025 March 1, this composited series of images reveals a pattern in the seasonal drift of the Sun's daily motion through planet Earth's sky. Known to some as an analemma, the figure-eight curve was captured in exposures taken on the indicated dates only at 18:38 UTC from the exact same location south of Stephenville, Texas. The Sun's position on the 2024 solstice dates of June 20 and December 21 would be at the top and bottom of the curve and correspond to the astronomical beginning of summer and winter in the north. Points that lie along the curve half-way between the solstices would mark the equinoxes. The 2024 equinox on September 22, and in 2025 the equinox on March 20 (today) are the start of northern fall and spring. And since one of the exposures was made on 2024 April 8 from the Stephenville location at 18:38:40 UTC, this analemma project also reveals the solar corona in planet Earth's sky during a total solar eclipse.</p>
-        <strong><em>Hunter Wells</em></strong>
+        <h4>The Leo Trio</h4>
+        <time>2025-03-21</time>
+        <p>This popular group leaps into the early evening sky around the March equinox and the northern hemisphere spring.  Famous as the Leo Triplet, the three magnificent galaxies found in the prominent constellation Leo gather here in one astronomical field of view. Crowd pleasers when imaged with even modest telescopes, they can be introduced individually as NGC 3628 (bottom left), M66 (middle right), and M65 (top center). All three are large spiral galaxies but tend to look dissimilar, because their galactic disks are tilted at different angles to our line of sight. NGC 3628, also known as the Hamburger Galaxy, is temptingly seen edge-on, with obscuring dust lanes cutting across its puffy galactic plane. The disks of M66 and M65 are both inclined enough to show off their spiral structure.  Gravitational interactions between galaxies in the group have left telltale signs, including the tidal tails and warped, inflated disk of NGC 3628 and the drawn out spiral arms of M66. This gorgeous view of the region spans over 1 degree (two full moons) on the sky. Captured with a telescope from Sawda Natheel, Qatar, planet Earth, the frame covers over half a million light-years at the Leo Trio's estimated 30 million light-year distance.</p>
+        <strong><em>Rabeea Alkuwari</em></strong>
     </div>
 </div>
