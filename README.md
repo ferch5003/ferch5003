@@ -60,13 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2503/image_1236LeoTrio1024.JPG">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2503/image_1236LeoTrio1024.JPG" width="400" height="500" alt="Rabeea Alkuwari">
+    <a href="https://apod.nasa.gov/apod/image/2503/pia24493-2-1041.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2503/pia24493-2-1041.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>The Leo Trio</h4>
-        <time>2025-03-21</time>
-        <p>This popular group leaps into the early evening sky around the March equinox and the northern hemisphere spring.  Famous as the Leo Triplet, the three magnificent galaxies found in the prominent constellation Leo gather here in one astronomical field of view. Crowd pleasers when imaged with even modest telescopes, they can be introduced individually as NGC 3628 (bottom left), M66 (middle right), and M65 (top center). All three are large spiral galaxies but tend to look dissimilar, because their galactic disks are tilted at different angles to our line of sight. NGC 3628, also known as the Hamburger Galaxy, is temptingly seen edge-on, with obscuring dust lanes cutting across its puffy galactic plane. The disks of M66 and M65 are both inclined enough to show off their spiral structure.  Gravitational interactions between galaxies in the group have left telltale signs, including the tidal tails and warped, inflated disk of NGC 3628 and the drawn out spiral arms of M66. This gorgeous view of the region spans over 1 degree (two full moons) on the sky. Captured with a telescope from Sawda Natheel, Qatar, planet Earth, the frame covers over half a million light-years at the Leo Trio's estimated 30 million light-year distance.</p>
-        <strong><em>Rabeea Alkuwari</em></strong>
+        <h4>SuperCam Target on Ma'az</h4>
+        <time>2025-03-22</time>
+        <p>What's the sound of one laser zapping? There's no need to consult a Zen master to find out, just listen to the first acoustic recording of laser shots on Mars. On Mars Rover Perseverance mission sol 12 (March 2, 2021) the SuperCam instrument atop the rover's mast zapped a rock dubbed Ma'az 30 times from a range of about 3.1 meters. Its microphone recorded the soft staccato popping sounds of the rapid series of SuperCam laser zaps. Shockwaves created in the thin Martian atmosphere as bits of rock are vaporized by the laser shots make the popping sounds, sounds that offer clues to the physical structure of the target. This SuperCam close-up of the Ma'az target region is 6 centimeters (2.3 inches) across. Ma'az means Mars in the Navajo language.</p>
+        <strong><em></em></strong>
     </div>
 </div>
