@@ -60,17 +60,19 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2503/LunarEclipseColors_Jin_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2503/LunarEclipseColors_Jin_960.jpg" width="400" height="500" alt="
-Zixiong Jin
+    <a href="https://apod.nasa.gov/apod/image/2503/Pacman_Montilla_1080.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2503/Pacman_Montilla_1080.jpg" width="400" height="500" alt="
+Juan Montilla 
+(AAE)
 ">
     </a>
     <div>
-        <h4>A Blue Banded Blood Moon</h4>
-        <time>2025-03-25</time>
-        <p>What causes a blue band to cross the Moon during a lunar eclipse? The blue band is real but usually quite hard to see. The featured HDR image of last week's lunar eclipse, however -- taken from Norman, Oklahoma (USA) -- has been digitally processed to exaggerate  the colors.  The gray color on the upper right of the top lunar image is the Moon's natural color, directly illuminated by sunlight. The lower parts of the Moon on all three images are not directly lit by the Sun since it is being eclipsed -- it is in the Earth's shadow. It is faintly lit, though, by sunlight that has passed deep through Earth's atmosphere. This part of the Moon is red -- and called a blood Moon -- for the same reason that Earth's sunsets are red: because air scatters away more blue light than red. The unusual purple-blue band visible on the upper right of the top and middle images is different -- its color is augmented by sunlight that has passed high through Earth's atmosphere, where red light is better absorbed by ozone than blue.   Celestial Surprise: What picture did APOD feature on your birthday? (post 1995)</p>
+        <h4>Star Formation in the Pacman Nebula</h4>
+        <time>2025-03-26</time>
+        <p>You'd think the Pacman Nebula would be eating stars, but actually it is forming them. Within the nebula, a cluster's young, massive stars are powering the pervasive nebular glow. The eye-catching shapes looming in the featured portrait of NGC 281 are sculpted dusty columns and dense Bok globules seen in silhouette, eroded by intense, energetic winds and radiation from the hot cluster stars. If they survive long enough, the dusty structures could also be sites of future star formation. Playfully called the Pacman Nebula because of its overall shape, NGC 281 is about 10,000 light-years away in the constellation Cassiopeia. This sharp composite image was made through narrow-band filters in Spain in mid 2024. It combines emissions from the nebula's hydrogen and oxygen atoms to synthesize red, green, and blue colors. The scene spans well over 80 light-years at the estimated distance of NGC 281.</p>
         <strong><em>
-Zixiong Jin
+Juan Montilla 
+(AAE)
 </em></strong>
     </div>
 </div>
