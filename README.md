@@ -60,13 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2503/291_lorand_fenyes_m81_kicsi1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2503/291_lorand_fenyes_m81_kicsi1024.jpg" width="400" height="500" alt="Lorand Fenyes">
+    <a href="https://apod.nasa.gov/apod/image/2503/AS17-137-20979_1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2503/AS17-137-20979_1024.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Messier 81</h4>
-        <time>2025-03-27</time>
-        <p>One of the brightest galaxies in planet Earth's sky is similar in size to our Milky Way Galaxy: big, beautiful Messier 81. Also known as NGC 3031 or Bode's galaxy for its 18th century discoverer, this grand spiral can be found toward the northern constellation of Ursa Major, the Great Bear. The sharp, detailed telescopic view reveals M81's bright yellow nucleus, blue spiral arms, pinkish starforming regions, and sweeping cosmic dust lanes. But some dust lanes actually run through the galactic disk (left of center), contrary to other prominent spiral features. The errant dust lanes may be the lingering result of a close encounter between M81 and the nearby galaxy M82 lurking outside of this frame. Scrutiny of variable stars in M81 has yielded a well-determined distance for an external galaxy -- 11.8 million light-years.</p>
-        <strong><em>Lorand Fenyes</em></strong>
+        <h4>Lunar Dust and Duct Tape</h4>
+        <time>2025-03-28</time>
+        <p>Why is the Moon so dusty? On Earth, rocks are weathered by wind and water, creating soil and sand. On the Moon, eons of constant micrometeorite bombardment have blasted away at the rocky surface creating a layer of powdery lunar soil or regolith.  For the Apollo astronauts and their equipment, the pervasive, fine, gritty dust was definitely a problem. On the lunar surface in December 1972, Apollo 17 astronauts Harrison Schmitt and Eugene Cernan needed to repair one of their rover's fenders in an effort to keep the rooster tails of dust away from themselves and their gear. This picture reveals the wheel and fender of their dust covered rover along with the ingenious application of spare maps, clamps, and a grey strip of "duct tape".   Northern Hemisphere Alert : March 29 Partial Solar Eclipse</p>
+        <strong><em></em></strong>
     </div>
 </div>
