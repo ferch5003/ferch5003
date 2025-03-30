@@ -60,13 +60,17 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2503/N00172886_92_beltramini.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2503/N00172886_92_beltramini.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2504/PartialSolar_Gorecka_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2504/PartialSolar_Gorecka_960.jpg" width="400" height="500" alt="
+Wioleta Gorecka
+">
     </a>
     <div>
-        <h4>Stereo Helene</h4>
-        <time>2025-03-29</time>
-        <p>Get out your red/blue glasses and float next to Helene, small, icy moon of Saturn. Appropriately named, Helene is a Trojan moon, so called because it orbits at a Lagrange point. A Lagrange point is a gravitationally stable position near two massive bodies, in this case Saturn and larger moon Dione. In fact, irregularly shaped ( about 36 by 32 by 30 kilometers) Helene orbits at Dione's leading Lagrange point while brotherly ice moon Polydeuces follows at Dione's trailing Lagrange point. The sharp stereo anaglyph was constructed from two Cassini images captured during a close flyby in 2011. It shows part of the Saturn-facing hemisphere of Helene mottled with craters and gully-like features.</p>
-        <strong><em></em></strong>
+        <h4>A Partial Solar Eclipse over Iceland</h4>
+        <time>2025-03-30</time>
+        <p>What if the Sun and Moon rose together? That happened yesterday over some northern parts of planet Earth as a partial solar eclipse occurred shortly after sunrise. Regions that experienced the Moon blocking part of the Sun included northeastern parts of North America and northwestern parts of Europe, Asia, and Africa.  The featured image was captured yesterday over the Grábrók volcanic crater in Iceland where much of the Sun became momentarily hidden behind the Moon. The image was taken through a cloudy sky but so well planned that the photographer's friend appeared to be pulling the Sun out from behind the Moon. No part of the Earth experienced a total solar eclipse this time. In the distant past, some of humanity was so surprised when an eclipse occurred that ongoing battles suddenly stopped.  Today, eclipses are not a surprise and are predicted with an accuracy of seconds.   Growing Gallery: Partial Solar Eclipse of 2025 March</p>
+        <strong><em>
+Wioleta Gorecka
+</em></strong>
     </div>
 </div>
