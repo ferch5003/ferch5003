@@ -60,17 +60,11 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2504/PartialSolar_Gorecka_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2504/PartialSolar_Gorecka_960.jpg" width="400" height="500" alt="
-Wioleta Gorecka
-">
-    </a>
+    <video src="https://www.youtube.com/embed/YW1yQt3K_YY" width="400" height="500"></video>
     <div>
-        <h4>A Partial Solar Eclipse over Iceland</h4>
-        <time>2025-03-30</time>
-        <p>What if the Sun and Moon rose together? That happened yesterday over some northern parts of planet Earth as a partial solar eclipse occurred shortly after sunrise. Regions that experienced the Moon blocking part of the Sun included northeastern parts of North America and northwestern parts of Europe, Asia, and Africa.  The featured image was captured yesterday over the Grábrók volcanic crater in Iceland where much of the Sun became momentarily hidden behind the Moon. The image was taken through a cloudy sky but so well planned that the photographer's friend appeared to be pulling the Sun out from behind the Moon. No part of the Earth experienced a total solar eclipse this time. In the distant past, some of humanity was so surprised when an eclipse occurred that ongoing battles suddenly stopped.  Today, eclipses are not a surprise and are predicted with an accuracy of seconds.   Growing Gallery: Partial Solar Eclipse of 2025 March</p>
-        <strong><em>
-Wioleta Gorecka
-</em></strong>
+        <h4>Parker: The Solar System from Near the Sun</h4>
+        <time>2025-03-31</time>
+        <p>If you watch long enough, a comet will appear.  Before then, you will see our Solar System from inside the orbit of Mercury as recorded by NASA's Parker Solar Probe looping around the Sun. The video captures coronal streamers into the solar wind, a small Coronal Mass Ejection, and planets including, in order of appearance, Mercury, Venus, Saturn, Earth, Mars, and Jupiter. Between the emergence of Earth and Mars, Comet Tempel 1 appears with a distinctive tail.  The continuous fleeting streaks are high energy particles from the Sun impacting Parker's sideways looking camera.  The featured time-lapse video was taken last year during Encounter 21, Parker's 21st close approach to the Sun.  Studying data and images from Parker are delivering a better understanding of the dynamic Sun's effects on Earth's space weather as well as humanity's power grids, spacecraft, and space-faring astronauts.   Growing Gallery: Partial Solar Eclipse of 2025 March</p>
+        <strong><em></em></strong>
     </div>
 </div>
