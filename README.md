@@ -60,16 +60,13 @@
 ### Do you know...
 
 <div>
-    <video src="https://www.youtube.com/embed/oTkbHJsqCZM?rel=0" width="400" height="500"></video>
+    <a href="https://apod.nasa.gov/apod/image/2503/JupiterRing_WebbSchmidt_1080.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2503/JupiterRing_WebbSchmidt_1080.jpg" width="400" height="500" alt="">
+    </a>
     <div>
-        <h4>A Double Sunrise from a Partial Eclipse</h4>
-        <time>2025-04-01</time>
-        <p>Can the Sun appear to rise twice at the same time? This was just the case a few days ago from Les Escoumins, Quebec, Canada as our Solar System's bright central orb rose just as it was being partially eclipsed by the Moon. The featured video shows this unusual double-sunrise in real time and being reflected by the St. Lawrence River. Soon after the initial two spots of light appear over distant clouds, what appears to be bright horns become visible -- which are really just parts of the Sun not being eclipsed. Soon, the entire eclipsed Sun is visible above the horizon.  In all, this broken sunrise took less than two minutes during a partial eclipse that lasted many times longer.   Although the Moon circles the Earth once a month (moon-th), it does not always eclipse the Sun because its tilted orbit usually takes it above or below.    Gallery: Partial Solar Eclipse of 2025 March</p>
-        <strong><em>
-Jason Kurth;
-Music: 
-House of the Rising Sun 
-(Sebastia McQueen via SoundCloud)
-</em></strong>
+        <h4>Jupiter and Ring in Infrared from Webb</h4>
+        <time>2025-04-02</time>
+        <p>Why does Jupiter have rings?  Jupiter's main ring was discovered in 1979 by NASA's passing Voyager 1 spacecraft, but its origin was then a mystery.  Data from NASA's Galileo spacecraft that orbited Jupiter from 1995 to 2003, however, confirmed the hypothesis that this ring was created by meteoroid impacts on small nearby moons.  As a small meteoroid strikes tiny Metis, for example, it will bore into the moon, vaporize, and explode dirt and dust off into a Jovian orbit. The featured image of Jupiter in infrared light by the James Webb Space Telescope shows not only Jupiter and its clouds, but this ring as well. Jupiter's Great Red Spot (GRS) -- in comparatively light color on the right, Jupiter's large moon Europa -- in the center of diffraction spikes on the left, and Europa's shadow -- next to the GRS -- are also visible. Several features in the image are not yet well understood, including the seemingly separated cloud layer on Jupiter's right limb.    Celestial Surprise: What picture did APOD feature on your birthday? (post 1995)</p>
+        <strong><em></em></strong>
     </div>
 </div>
