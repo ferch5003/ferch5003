@@ -60,13 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2504/GHR5997Luna1giornofirmapicc1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2504/GHR5997Luna1giornofirmapicc1024.jpg" width="400" height="500" alt="Giorgia Hofer">
+    <a href="https://apod.nasa.gov/apod/image/2504/ARP316_1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2504/ARP316_1024.jpg" width="400" height="500" alt="Jiang Wu">
     </a>
     <div>
-        <h4>The Da Vinci Glow</h4>
-        <time>2025-04-03</time>
-        <p>A 26 hour old Moon poses behind the craggy outline of the Italian Dolomites in this twilight mountain and skyscape. The one second long exposure was captured near moonset on March 30. And while only a a sliver of its sunlit surface is visible, most of the Moon's disk can be seen by earthshine as light reflected from a bright planet Earth illuminates the lunar nearside. Also known as the Moon's ashen glow, a description of earthshine in terms of sunlight reflected by Earth's oceans illuminating the Moon's dark surface was written over 500 years ago by Leonardo da Vinci. Of course earthshine is just the most familiar example of planetshine, the faint illumination of the dark portion of a moon by light reflected from its planet.</p>
-        <strong><em>Giorgia Hofer</em></strong>
+        <h4>Hickson 44 in Leo</h4>
+        <time>2025-04-04</time>
+        <p>Scanning the skies for galaxies, Canadian astronomer Paul Hickson and colleagues identified some 100 compact groups of galaxies, now appropriately called Hickson Compact Groups. The four prominent galaxies seen in this intriguing telescopic skyscape are one such group, Hickson 44. The galaxy group is about 100 million light-years distant, far beyond the spiky foreground Milky Way stars, toward the constellation Leo. The two spiral galaxies in the center of the image are edge-on NGC 3190 with its distinctive, warped dust lanes, and S-shaped NGC 3187. Along with the bright elliptical, NGC 3193 (above and left) they are also known as Arp 316. The spiral toward the lower right corner is NGC 3185, the 4th member of the Hickson group. Like other galaxies in Hickson groups, these show signs of distortion and enhanced star formation, evidence of a gravitational tug of war that will eventually result in galaxy mergers on a cosmic timescale. The merger process is now understood to be a normal part of the evolution of galaxies, including our own Milky Way. For scale, NGC 3190 is about 75,000 light-years across at the estimated distance of Hickson 44.</p>
+        <strong><em>Jiang Wu</em></strong>
     </div>
 </div>
