@@ -60,13 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2504/NDGargoylesEclipse_kulik.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2504/NDGargoylesEclipse_kulik.jpg" width="400" height="500" alt="Bertrand Kulik">
+    <a href="https://apod.nasa.gov/apod/image/2504/AldrinSeismometer_Apollo11_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2504/AldrinSeismometer_Apollo11_960.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>The Gargoyles' Eclipse</h4>
-        <time>2025-04-05</time>
-        <p>In dramatic silhouette against a cloudy daytime sky over Paris, France, gargoyles cast their monstrous gaze outward from the west facade of Notre Dame Cathedral.  Taken on March 29, this telephoto snapshot also captures the dramatic silhouette of a New Moon against the bright solar disk in a partial solar eclipse. Happening high in Parisian skies, the partial eclipse was close to its maximum phase of about 23 percent. Occurring near the end of the first eclipse season of 2025, this partial solar eclipse followed the total eclipse of the Full Moon on March 13/14. The upcoming second eclipse season of 2025 will see a total lunar eclipse on September 7/8 and partial solar eclipse on September 21. The partial solar eclipse will be seen only from locations in planet Earth's southern hemisphere.</p>
-        <strong><em>Bertrand Kulik</em></strong>
+        <h4>Moonquakes Surprisingly Common</h4>
+        <time>2025-04-06</time>
+        <p>Why are there so many moonquakes?   Analyses of seismometers left on the moon during the Apollo moon landings reveal a surprising number of moonquakes occurring within 100 kilometers of the surface.   In fact, 62 moonquakes were detected in data recorded between 1972 and 1977.   Many of these moonquakes are not only strong enough to move furniture in a lunar apartment, but the stiff rock of the moon continues to vibrate for many minutes, significantly longer than the softer rock earthquakes on Earth.   The cause of the moonquakes remains unknown, but a leading hypothesis include tidal gravity from -- and relative heating by -- our Earth. Regardless of the source, future moon dwellings need to be built to withstand the frequent shakings.   Pictured here, Apollo 11 astronaut Buzz Aldrin stands beside a recently deployed lunar seismometer, looking back toward the lunar landing module.    Explore Your Universe: Random APOD Generator</p>
+        <strong><em></em></strong>
     </div>
 </div>
