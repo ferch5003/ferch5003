@@ -60,13 +60,25 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2504/PIA21983JupiterLundh1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2504/PIA21983JupiterLundh1024.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2504/M42_SpitzerCzernetz_1080.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2504/M42_SpitzerCzernetz_1080.jpg" width="400" height="500" alt="
+Infrared: NASA, 
+Spitzer Space Telescope;
+Visible: 
+Oliver Czernetz, 
+Siding Spring Obs.
+">
     </a>
     <div>
-        <h4>Painting with Jupiter</h4>
-        <time>2025-04-19</time>
-        <p>In digital brush strokes, Jupiter's signature atmospheric bands and vortices were used to form this interplanetary post-impressionist work of art. The creative image from citizen scientist Rick Lundh uses data from the Juno spacecraft's JunoCam. To paint on the digital canvas, a JunoCam image with contrasting light and dark tones was chosen for processing and an oil-painting software filter applied. The image data was captured during perijove 10. That was Juno's December 16, 2017 close encounter with the solar system's ruling gas giant. At the time the spacecraft was cruising about 13,000 kilometers above northern Jovian cloud tops. Now in an extended mission, Juno has explored Jupiter and its moons since entering orbit around Jupiter in July of 2016.</p>
-        <strong><em></em></strong>
+        <h4>The Orion Nebula in Visible and Infrared</h4>
+        <time>2025-04-20</time>
+        <p>The Great Nebula in Orion is a colorful place.  Visible to the unaided eye, it appears as a small fuzzy patch in the constellation of Orion.  Long exposure, multi-wavelength images like this, however, show the Orion Nebula to be a busy neighborhood of young stars, hot gas, and dark dust.  This digital composite features not only three colors of visible light but four colors of infrared light taken by NASA's orbiting Spitzer Space Telescope as well.  The power behind much of the Orion Nebula (M42) is the Trapezium - four of the brightest stars in the nebula.  Many of the filamentary structures visible are actually shock waves - fronts where fast moving material encounters slow moving gas.  The Orion Nebula spans about 40 light years and is located about 1500 light years away in the same spiral arm of our Galaxy as the Sun.</p>
+        <strong><em>
+Infrared: NASA, 
+Spitzer Space Telescope;
+Visible: 
+Oliver Czernetz, 
+Siding Spring Obs.
+</em></strong>
     </div>
 </div>
