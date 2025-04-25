@@ -60,13 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2504/NGC_6164_r4_1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2504/NGC_6164_r4_1024.jpg" width="400" height="500" alt="Daniel Stern">
+    <a href="https://apod.nasa.gov/apod/image/2504/final_0798443319_dec.png">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2504/final_0798443319_dec.png" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>NGC 6164: A Dragon's Egg</h4>
-        <time>2025-04-24</time>
-        <p>Beautiful emission nebula NGC 6164 was created by a rare, hot, luminous O-type star, some 40 times as massive as the Sun. Seen at the center of the cosmic cloud, the star is a mere 3 to 4 million years old. In another three to four million years the massive star will end its life in a supernova explosion. Spanning around 4 light-years, the nebula itself has a bipolar symmetry. That makes it similar in appearance to more common and familiar planetary nebulae - the gaseous shrouds surrounding dying sun-like stars. Also like many planetary nebulae, NGC 6164 has been found to have an extensive, faint halo, revealed in this deep image of the region. Expanding into the surrounding interstellar medium, the material in the halo is likely from an earlier active phase of the O star. This gorgeous telescopic view is a composite of extensive narrow-band image data, highlighting glowing atomic hydrogen gas in red and oxygen in greenish hues, with broad-band data for the surrounding starfield. Also known as the Dragon's Egg nebula, NGC 6164 is 4,200 light-years away in the right-angled southern constellation of Norma.</p>
-        <strong><em>Daniel Stern</em></strong>
+        <h4>Asteroid Donaldjohanson</h4>
+        <time>2025-04-25</time>
+        <p>Main belt asteroid 52246 Donaldjohanson is about 8 kilometers long and 3.5 kilometers across. On April 20, this sharp close-up of the asteroid was captured at a distance of about 1100 kilometers by the Lucy spacecraft's long range camera during its second asteroid encounter. Named after American paleoanthropologist Donald Johanson, discoverer of the Lucy hominid fossil, the elongated asteroid was likely formed about 150 million years ago from a gentle collision of two smaller bodies creating its characteristic contact binary shape. Launched in October of 2021, the Lucy spacecraft will continue its travels through the main asteroid belt in 2025, but is on its way to explore Jupiter's swarm of Trojan asteroids. Lucy is expected to encounter its first Trojan asteroid target, 3548 Eurybates, in August 2027.</p>
+        <strong><em></em></strong>
     </div>
 </div>
