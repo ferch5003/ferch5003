@@ -60,13 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2505/mars10_st_path_big.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2505/mars10_st_path_big.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2505/Venus_Venera14_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2505/Venus_Venera14_960.jpg" width="400" height="500" alt="Donald Mitchell">
     </a>
     <div>
-        <h4>Yogi and Friends in 3D</h4>
-        <time>2025-05-10</time>
-        <p>This picture from July 1997 shows a ramp from the Pathfinder lander, the Sojourner robot rover, deflated landing airbags, a couch, Barnacle Bill and Yogi Rock appear together in this 3D stereo view of the surface of Mars. Barnacle Bill is the rock just left of the house cat-sized, solar-paneled Sojourner. Yogi is the big friendly-looking boulder at top right. The "couch" is the angular rock shape visible near center on the horizon. Look at the image with red/blue glasses (or just hold a piece of clear red plastic over your left eye and blue or green over your right) to get the dramatic 3D perspective. The stereo view was recorded by the remarkable Imager for Mars Pathfinder (IMP) camera. The IMP had two optical paths for stereo imaging and ranging and was equipped with an array of color filters for spectral analysis.  Operating as the first astronomical observatory on Mars, the IMP also recorded images of the Sun and Deimos, the smallest of Mars' two tiny moons.</p>
-        <strong><em></em></strong>
+        <h4>The Surface of Venus from Venera 14</h4>
+        <time>2025-05-11</time>
+        <p>If you could stand on Venus -- what would you see?  Pictured is the view from Venera 14, a robotic Soviet lander which parachuted and air-braked down through the thick Venusian atmosphere in March of 1982. The desolate landscape it saw included flat rocks, vast empty terrain, and a featureless sky above Phoebe Regio near Venus' equator. On the lower left is the spacecraft's penetrometer used to make scientific measurements, while the light piece on the right is part of an ejected lens-cap.  Enduring temperatures near 450 degrees Celsius and pressures 75 times that on Earth, the hardened Venera spacecraft lasted only about an hour. Although data from Venera 14 was beamed across the inner Solar System over 40 years ago, digital processing and merging of Venera's unusual images continues even today.  Recent analyses of infrared measurements taken by ESA's orbiting Venus Express spacecraft indicate that active volcanoes may currently exist on Venus.    Jigsaw Fun: Astronomy Puzzle of the Day</p>
+        <strong><em>Donald Mitchell</em></strong>
     </div>
 </div>
