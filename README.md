@@ -60,13 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2505/MilkyWaySide_Gaia_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2505/MilkyWaySide_Gaia_960.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2505/MilkyWayTop_Gaia_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2505/MilkyWayTop_Gaia_960.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Gaia Reconstructs a Side View of our Galaxy</h4>
-        <time>2025-05-12</time>
-        <p>What does our Milky Way Galaxy look like from the side? Because we are on the inside, humanity can’t get an actual picture. Recently, however, just such a map has been made using location data for over a billion stars from ESA’s Gaia mission. The resulting featured illustration shows that just like many other spiral galaxies, our Milky Way has a very thin central disk. Our Sun and all the stars we see at night are in this disk. Although hypothesized before, perhaps more surprising is that the disk appears curved at the outer edges. The colors of our Galaxy's warped central band derive mostly from dark dust, bright blue stars, and red emission nebulas. Although data analysis is ongoing, Gaia was deactivated in March after a successful mission.   Explore Your Universe: Random APOD Generator</p>
+        <h4>Gaia Reconstructs a Top View of our Galaxy</h4>
+        <time>2025-05-13</time>
+        <p>What does our Milky Way Galaxy look like from the top? Because we are on the inside, humanity can’t get an actual picture. Recently, however, just such a map has been made using location data for over a billion stars from ESA’s Gaia mission. The resulting featured illustration shows that just like many other spiral galaxies, our Milky Way has distinct spiral arms.  Our Sun and most of the bright stars we see at night are in just one arm: Orion. Gaia data bolsters previous indications that our Milky Way has more than two spiral arms. Our Galaxy's center sports a prominent bar.  The colors of our Galaxy's thin disk derive mostly from dark dust, bright blue stars, and red emission nebula. Although data analysis is ongoing, Gaia was deactivated in March after a succession mission.   Jigsaw Challenge: Astronomy Puzzle of the Day</p>
         <strong><em></em></strong>
     </div>
 </div>
