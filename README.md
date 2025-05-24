@@ -60,13 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2505/NGC6366_1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2505/NGC6366_1024.jpg" width="400" height="500" alt="Massimo Di Fusco">
+    <a href="https://apod.nasa.gov/apod/image/2505/PIA26556_1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2505/PIA26556_1024.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>NGC 6366 vs 47 Ophiuchi</h4>
-        <time>2025-05-23</time>
-        <p>Most globular star clusters roam the halo of our Milky Way galaxy, but globular cluster NGC 6366 lies close to the galactic plane. About 12,000 light-years away toward the constellation Ophiuchus, the cluster's starlight is dimmed and reddened by the Milky Way's interstellar dust when viewed from planet Earth. As a result, the stars of NGC 6366 look almost golden in this telescopic scene, especially when seen next to relatively bright, bluish, and nearby star 47 Ophiuchi. Compared to the hundred thousand stars or so gravitationally bound in distant NGC 6366, 47 Oph itself is a binary star system  a mere 100 light-years away. Still, the co-orbiting stars of 47 Oph are too close together to be individually distinguished in the image.</p>
-        <strong><em>Massimo Di Fusco</em></strong>
+        <h4>Deimos Before Sunrise</h4>
+        <time>2025-05-24</time>
+        <p>Deimos takes 30 hours and 18 minutes to complete one orbit around the Red Planet. That's a little more than one Martian day or sol which is about 24 hours and 40 minutes long, so Deimos drifts westward across the Martian sky. About 15 kilometers across at its widest, the smallest of Mars' two moons is bright though. In fact Deimos is the brightest celestial object in this Martian skyscape captured before sunrise by Perseverance on March 1, the 1,433rd sol of the Mars rover's mission. The image is a composed of 16 exposures recorded by one of the rover's navigation cameras. The individual exposures were combined into a single image for an enhanced low light view. Regulus and Algeiba, bright stars in the constellation Leo, are also visible in the dark Martian predawn sky.</p>
+        <strong><em></em></strong>
     </div>
 </div>
