@@ -60,13 +60,17 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2505/NGC2256_Webb_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2505/NGC2256_Webb_960.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2505/RhoZeta_Nowak_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2505/RhoZeta_Nowak_960.jpg" width="400" height="500" alt="
+Ireneusz Nowak
+">
     </a>
     <div>
-        <h4>Spiral Galaxy NGC 2566 from Webb</h4>
-        <time>2025-05-26</time>
-        <p>What’s happening in the center of spiral galaxy NGC 2566? First, the eight rays that appear to be coming out of the center in the featured infrared image are not real — they are diffraction spikes caused by the mechanical structure of the Webb space telescope itself. The center of NGC 2566 is bright but not considered unusual, which means that it likely contains a supermassive black hole, although currently not very active. At only 76 million light years away, the light we see from NGC 2566 today left when dinosaurs roamed the Earth. The picturesque galaxy is close enough so that Earthly telescopes, including Webb and Hubble, can resolve the turbulent clouds of gas and dust where stars can form and so allows study of stellar evolution. NGC 2566, similar in size to our Milky Way Galaxy, is notable for its bright central bar and its prominent outer spiral arms.</p>
-        <strong><em></em></strong>
+        <h4>Zeta and Rho Ophiuchi with Milky Way</h4>
+        <time>2025-05-27</time>
+        <p>Behold one of the most photogenic regions of the night sky, captured impressively.  Featured, the band of our Milky Way Galaxy runs diagonally along the bottom-left corner, while the colorful Rho Ophiuchi cloud complex is visible just right of center and the large red circular Zeta Ophiuchi Nebula appears near the top.  In general, red emanates from nebulas glowing in the light of excited hydrogen gas, while blue marks interstellar dust preferentially reflecting the light of bright young stars.  Thick dust usually appears dark brown.  Many iconic objects of the night sky appear, including (can you find them?) the bright star Antares, the globular star cluster M4, and the Blue Horsehead nebula. This wide field composite, taken over 17 hours, was captured from South Africa last June.    Explore Your Universe: Random APOD Generator</p>
+        <strong><em>
+Ireneusz Nowak
+</em></strong>
     </div>
 </div>
