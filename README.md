@@ -60,17 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2505/RhoZeta_Nowak_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2505/RhoZeta_Nowak_960.jpg" width="400" height="500" alt="
-Ireneusz Nowak
-">
+    <a href="https://apod.nasa.gov/apod/image/2505/hs-2015-42-a-largeHH241024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2505/hs-2015-42-a-largeHH241024.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Zeta and Rho Ophiuchi with Milky Way</h4>
-        <time>2025-05-27</time>
-        <p>Behold one of the most photogenic regions of the night sky, captured impressively.  Featured, the band of our Milky Way Galaxy runs diagonally along the bottom-left corner, while the colorful Rho Ophiuchi cloud complex is visible just right of center and the large red circular Zeta Ophiuchi Nebula appears near the top.  In general, red emanates from nebulas glowing in the light of excited hydrogen gas, while blue marks interstellar dust preferentially reflecting the light of bright young stars.  Thick dust usually appears dark brown.  Many iconic objects of the night sky appear, including (can you find them?) the bright star Antares, the globular star cluster M4, and the Blue Horsehead nebula. This wide field composite, taken over 17 hours, was captured from South Africa last June.    Explore Your Universe: Random APOD Generator</p>
-        <strong><em>
-Ireneusz Nowak
-</em></strong>
+        <h4>Herbig-Haro 24</h4>
+        <time>2025-05-28</time>
+        <p>This might look like a double-bladed lightsaber, but these two cosmic jets actually beam outward from a newborn star in a galaxy near you. Constructed from Hubble Space Telescope image data, the stunning scene spans about half a light-year across Herbig-Haro 24 (HH 24), some 1,300 light-years or 400 parsecs away in the stellar nurseries of the Orion B molecular cloud complex. Hidden from direct view, HH 24's central protostar is surrounded by cold dust and gas flattened into a rotating accretion disk. As material from the disk falls toward the young stellar object, it heats up. Opposing jets are blasted out along the system's rotation axis. Cutting through the region's interstellar matter, the narrow, energetic jets produce a series of glowing shock fronts along their path.</p>
+        <strong><em></em></strong>
     </div>
 </div>
