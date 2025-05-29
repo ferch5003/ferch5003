@@ -60,13 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2505/hs-2015-42-a-largeHH241024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2505/hs-2015-42-a-largeHH241024.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2505/sexa_gemsbock_cdk_pub1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2505/sexa_gemsbock_cdk_pub1024.jpg" width="400" height="500" alt="Franz Hofmann">
     </a>
     <div>
-        <h4>Herbig-Haro 24</h4>
-        <time>2025-05-28</time>
-        <p>This might look like a double-bladed lightsaber, but these two cosmic jets actually beam outward from a newborn star in a galaxy near you. Constructed from Hubble Space Telescope image data, the stunning scene spans about half a light-year across Herbig-Haro 24 (HH 24), some 1,300 light-years or 400 parsecs away in the stellar nurseries of the Orion B molecular cloud complex. Hidden from direct view, HH 24's central protostar is surrounded by cold dust and gas flattened into a rotating accretion disk. As material from the disk falls toward the young stellar object, it heats up. Opposing jets are blasted out along the system's rotation axis. Cutting through the region's interstellar matter, the narrow, energetic jets produce a series of glowing shock fronts along their path.</p>
-        <strong><em></em></strong>
+        <h4>Irregular Dwarf Galaxy Sextans A</h4>
+        <time>2025-05-29</time>
+        <p>Grand spiral galaxies often seem to get all the attention, flaunting young, bright, blue star clusters and pinkish star forming regions along graceful, symmetric spiral arms. But small galaxies form stars too, like irregular dwarf galaxy Sextans A. Its young star clusters and star forming regions are gathered into a gumdrop-shaped region a mere 5,000 light-years across. Seen toward the navigational constellation Sextans, the small galaxy lies some 4.5 million light-years distant. That puts it near the outskirts of the local group of galaxies, that includes the large, massive spirals Andromeda and our own Milky Way. Brighter Milky Way foreground stars appear spiky and yellowish in this colorful telescopic view of Sextans A.</p>
+        <strong><em>Franz Hofmann</em></strong>
     </div>
 </div>
