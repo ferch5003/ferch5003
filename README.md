@@ -55,7 +55,7 @@
 </div>
 
 ### Music Status🎵
-![Music Staus](https://mut.functional-web.xyz/spotify/track-to-show)
+![Music Staus](https://mut.mfd-web.online/spotify/track-to-show)
 
 ### Do you know...
 
