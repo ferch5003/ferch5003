@@ -60,13 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2506/NGC3521-1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2506/NGC3521-1024.jpg" width="400" height="500" alt="Vikas Chander">
+    <a href="https://apod.nasa.gov/apod/image/2506/MajorLunarStandstillAPOD_1200.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2506/MajorLunarStandstillAPOD_1200.jpg" width="400" height="500" alt="Luca Vanzella">
     </a>
     <div>
-        <h4>NGC 3521: Galaxy in a Bubble</h4>
-        <time>2025-06-19</time>
-        <p>Gorgeous spiral galaxy NGC 3521 is a mere 35 million light-years away, toward the northern springtime constellation Leo. Relatively bright in planet Earth's sky, NGC 3521 is easily visible in small telescopes but often overlooked by amateur imagers in favor of other Leo spiral galaxies, like M66 and M65. It's hard to overlook in this colorful cosmic portrait though. Spanning some 50,000 light-years the galaxy sports characteristic patchy, irregular spiral arms laced with dust, pink star forming regions, and clusters of young, blue stars. The deep image also finds NGC 3521 embedded in fainter, gigantic, bubble-like shells. The shells are likely tidal debris, streams of stars torn from satellite galaxies that have undergone mergers with NGC 3521 in the distant past.</p>
-        <strong><em>Vikas Chander</em></strong>
+        <h4>Major Lunar Standstill 2024-2025</h4>
+        <time>2025-06-20</time>
+        <p>dmonton, Alberta, Canada, planet Earth lies on the horizon. in this stack of panoramic composite images. In a monthly time series arranged vertically top to bottom the ambitious photographic project follows the annual north-south swing of sunrise points, from June solstice to December solstice and back again. It also follows the corresponding, but definitely harder to track, Full Moon rise. Of course, the north-south swing of moonrise runs opposite sunrise along the horizon. But these rising Full Moons also span a wider range on the horizon than the sunrises. That's because the well-planned project (as shown in this video) covers the period June 2024 to June 2025, centered on a major lunar standstill. Major lunar standstills represent extremes in the north-south range of moonrise driven by the 18.6 year precession period of the lunar orbit.</p>
+        <strong><em>Luca Vanzella</em></strong>
     </div>
 </div>
