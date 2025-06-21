@@ -60,13 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2506/MajorLunarStandstillAPOD_1200.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2506/MajorLunarStandstillAPOD_1200.jpg" width="400" height="500" alt="Luca Vanzella">
+    <a href="https://apod.nasa.gov/apod/image/2506/AnalemmaEarthMars1200.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2506/AnalemmaEarthMars1200.jpg" width="400" height="500" alt="Tunc Tezel">
     </a>
     <div>
-        <h4>Major Lunar Standstill 2024-2025</h4>
-        <time>2025-06-20</time>
-        <p>dmonton, Alberta, Canada, planet Earth lies on the horizon. in this stack of panoramic composite images. In a monthly time series arranged vertically top to bottom the ambitious photographic project follows the annual north-south swing of sunrise points, from June solstice to December solstice and back again. It also follows the corresponding, but definitely harder to track, Full Moon rise. Of course, the north-south swing of moonrise runs opposite sunrise along the horizon. But these rising Full Moons also span a wider range on the horizon than the sunrises. That's because the well-planned project (as shown in this video) covers the period June 2024 to June 2025, centered on a major lunar standstill. Major lunar standstills represent extremes in the north-south range of moonrise driven by the 18.6 year precession period of the lunar orbit.</p>
-        <strong><em>Luca Vanzella</em></strong>
+        <h4>Two Worlds, Two Analemmas</h4>
+        <time>2025-06-21</time>
+        <p>Sure, that figure-8 shaped curve you get when you mark the position of the Sun in Earth's sky at the same time each day over one year is called an analemma. On the left, Earth's figure-8 analemma was traced by combining wide-angle digital images recorded during the year from December 2011 through December 2012. But the shape of an analemma depends on the eccentricity of a planet's orbit and the tilt of its axis of rotation, so analemma curves can look different for different worlds. Take Mars for example. The Red Planet's axial tilt is similar to Earth's, but its orbit around the same sun is more eccentric (less circular) than Earth's orbit. As seen from the Martian surface, the analemma traced in the right hand panel is shaped more like a tear drop. The Mars rover Opportunity captured the images used over the Martian year corresponding to Earth dates July 2006 to June 2008. Of course, each world's solstice dates still lie at the top and bottom of their different analemma curves. The last Mars northern summer solstice was May 29, 2025. Our fair planet's 2025 northern summer solstice is at June 21, 2:42 UTC.</p>
+        <strong><em>Tunc Tezel</em></strong>
     </div>
 </div>
