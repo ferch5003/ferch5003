@@ -60,13 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2506/AnalemmaEarthMars1200.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2506/AnalemmaEarthMars1200.jpg" width="400" height="500" alt="Tunc Tezel">
+    <a href="https://apod.nasa.gov/apod/image/2506/berrybowl_opportunity_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2506/berrybowl_opportunity_960.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Two Worlds, Two Analemmas</h4>
-        <time>2025-06-21</time>
-        <p>Sure, that figure-8 shaped curve you get when you mark the position of the Sun in Earth's sky at the same time each day over one year is called an analemma. On the left, Earth's figure-8 analemma was traced by combining wide-angle digital images recorded during the year from December 2011 through December 2012. But the shape of an analemma depends on the eccentricity of a planet's orbit and the tilt of its axis of rotation, so analemma curves can look different for different worlds. Take Mars for example. The Red Planet's axial tilt is similar to Earth's, but its orbit around the same sun is more eccentric (less circular) than Earth's orbit. As seen from the Martian surface, the analemma traced in the right hand panel is shaped more like a tear drop. The Mars rover Opportunity captured the images used over the Martian year corresponding to Earth dates July 2006 to June 2008. Of course, each world's solstice dates still lie at the top and bottom of their different analemma curves. The last Mars northern summer solstice was May 29, 2025. Our fair planet's 2025 northern summer solstice is at June 21, 2:42 UTC.</p>
-        <strong><em>Tunc Tezel</em></strong>
+        <h4>A Berry Bowl of Martian Spherules</h4>
+        <time>2025-06-22</time>
+        <p>How were these unusual Martian spherules created?  Thousands of unusual gray spherules made of iron and rock and dubbed blueberries were found embedded in and surrounding rocks near the landing site of the robot Opportunity rover on Mars in 2004.  To help investigate their origin, Opportunity found a surface dubbed the Berry Bowl with an indentation that was rich in the Martian orbs.  The Berry Bowl is pictured here, imaged during rover's 48th Martian day.  The average size of a Martian blueberry rock is only about 4 millimeters across.  By analyzing a circular patch in the rock surface to the left of the densest patch of spherules, Opportunity obtained data showing that the underlying rock has a much different composition than the hematite rich blueberries.  This information contributes to the growing consensus that these small, strange, gray orbs were slowly deposited from a bath of dirty water.   APOD Turns 30!: Free Public Lecture in Cork, Ireland on Tuesday, June 24 at 7 pm</p>
+        <strong><em></em></strong>
     </div>
 </div>
