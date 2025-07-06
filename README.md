@@ -60,13 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2507/Ou4_difusco1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2507/Ou4_difusco1024.jpg" width="400" height="500" alt="Massimo Di Fusco">
+    <a href="https://apod.nasa.gov/apod/image/2507/MarsNorthPole_MarsExpress_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2507/MarsNorthPole_MarsExpress_960.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Ou4: The Giant Squid Nebula</h4>
-        <time>2025-07-05</time>
-        <p>Difficult to capture, this mysterious, squid-shaped interstellar cloud spans nearly three full moons in planet Earth's sky. Discovered in 2011 by French astro-imager Nicolas Outters, the Squid Nebula's bipolar shape is distinguished here by the telltale blue emission from doubly ionized oxygen atoms. Though apparently surrounded by the reddish hydrogen emission region Sh2-129, the true distance and nature of the Squid Nebula have been difficult to determine. Still, one investigation suggests Ou4 really does lie within Sh2-129 some 2,300 light-years away. Consistent with that scenario, the cosmic squid would represent a spectacular outflow of material driven by a triple system of hot, massive stars, cataloged as HR8119, seen near the center of the nebula. If so, this truly giant squid nebula would physically be over 50 light-years across.</p>
-        <strong><em>Massimo Di Fusco</em></strong>
+        <h4>The Spiral North Pole of Mars</h4>
+        <time>2025-07-06</time>
+        <p>Why is there a spiral around the North Pole of Mars?  Each winter this pole develops a new outer layer about one meter thick composed of carbon dioxide frozen out of the thin Martian atmosphere.  This fresh layer is deposited on a water-ice layer that exists year round.  Strong winds blow down from above the cap's center and swirl due to the spin of the red planet -- contributing to Planum Boreum's spiral structure.  The featured image is a perspective mosaic generated in 2017 from numerous images taken by ESA's Mars Express and elevations extracted from the laser altimeter aboard NASA's Mars Global Surveyor mission.</p>
+        <strong><em></em></strong>
     </div>
 </div>
