@@ -60,13 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2507/Trifid1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2507/Trifid1024.jpg" width="400" height="500" alt="Alessandro Cipolat Bares">
+    <a href="https://apod.nasa.gov/apod/image/2507/LDN1251gualco1024.JPG">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2507/LDN1251gualco1024.JPG" width="400" height="500" alt="Cristiano Gualco">
     </a>
     <div>
-        <h4>A Beautiful Trifid</h4>
-        <time>2025-07-09</time>
-        <p>The beautiful Trifid Nebula is a cosmic study in contrasts. Also known as M20, it lies about 5,000 light-years away toward the nebula rich constellation Sagittarius. A star forming region in the plane of our galaxy, the Trifid does illustrate three different types of astronomical nebulae; red emission nebulae dominated by light from hydrogen atoms, blue reflection nebulae produced by dust reflecting starlight, and dark nebulae where dense dust clouds appear in silhouette. But, the red emission region roughly separated into three parts by obscuring dust lanes is what lends the Trifid its popular name. Pillars and jets sculpted by newborn stars, above and right of the emission nebula's center, appear in famous Hubble Space Telescope close-up images of the region. The Trifid Nebula is about 40 light-years across. Too faint to be seen by the unaided eye, in this deep telescopic view it almost covers the area of a full moon on planet Earth's sky.</p>
-        <strong><em>Alessandro Cipolat Bares</em></strong>
+        <h4>Lynds Dark Nebula 1251</h4>
+        <time>2025-07-10</time>
+        <p>Stars are forming in Lynds Dark Nebula (LDN) 1251. About 1,000 light-years away and drifting above the plane of our Milky Way galaxy, LDN 1251 is also less appetizingly known as "The Rotten Fish Nebula." The dusty molecular cloud is part of a complex of dark nebulae mapped toward the Cepheus flare region. Across the spectrum, astronomical explorations of the obscuring interstellar clouds reveal energetic shocks and outflows associated with newborn stars, including the telltale reddish glow from scattered Herbig-Haro objects hiding in the image. Distant background galaxies also lurk in the scene, almost buried behind the dusty expanse. This alluring telescopic frame spans almost three full moons on the sky. That corresponds to over 25 light-years at the estimated distance of LDN 1251.</p>
+        <strong><em>Cristiano Gualco</em></strong>
     </div>
 </div>
