@@ -60,13 +60,17 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2507/ant_hubble_1072.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2507/ant_hubble_1072.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2507/Ngc2685_Thrun_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2507/Ngc2685_Thrun_960.jpg" width="400" height="500" alt="
+Stefan Thrun
+">
     </a>
     <div>
-        <h4>Planetary Nebula Mz3: The Ant Nebula</h4>
-        <time>2025-07-13</time>
-        <p>Why isn't this ant a big sphere?  Planetary nebula Mz3 is being cast off by a star similar to our Sun that is, surely, round.  Why then would the gas that is streaming away create an ant-shaped nebula that is distinctly not round?  Clues might include the high 1000-kilometer per second speed of the expelled gas, the light-year long length of the structure, and the magnetism of the star featured here at the nebula's center.  One possible answer is that Mz3 is hiding a second, dimmer star that orbits close in to the bright star.  A competing hypothesis holds that the central star's own spin and magnetic field are channeling the gas.  Since the central star appears to be so similar to our own Sun, astronomers hope that increased understanding of the history of this giant space ant can provide useful insight into the likely future of our own Sun and Earth.   Explore Your Universe: Random APOD Generator</p>
-        <strong><em></em></strong>
+        <h4>NGC 2685: The Helix Galaxy</h4>
+        <time>2025-07-14</time>
+        <p>What is going on with this galaxy? NGC 2685 is a confirmed polar ring galaxy - a rare type of galaxy with stars, gas and dust orbiting in rings perpendicular to the plane of a flat galactic disk. The bizarre configuration could be caused by the chance capture of material from another galaxy by a disk galaxy, with the captured debris strung out in a rotating ring. Still, observed properties of NGC 2685 suggest that the rotating helix structure is remarkably old and stable. In this sharp view of the peculiar system also known as Arp 336 or the Helix galaxy, the strange, perpendicular rings are easy to trace as they pass in front of the galactic disk, along with other disturbed outer structures. NGC 2685 is about 50,000 light-years across and 40 million light-years away in the constellation of the Great Bear (Ursa Major).   Piece it All Together: Astronomy Puzzle of the Day</p>
+        <strong><em>
+Stefan Thrun
+</em></strong>
     </div>
 </div>
