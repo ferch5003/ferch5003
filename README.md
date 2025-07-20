@@ -60,13 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2507/M6_1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2507/M6_1024.jpg" width="400" height="500" alt="Xinran Li">
+    <a href="https://apod.nasa.gov/apod/image/2507/lroc_wac_nearside800.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2507/lroc_wac_nearside800.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Messier 6</h4>
-        <time>2025-07-19</time>
-        <p>The sixth object in Charles Messier's famous catalog of things which are not comets, Messier 6 is a galactic or open star cluster. A gathering of 100 stars or so, all around 100 million years young, M6 lies some 1,600 light-years away toward the central Milky Way in the constellation Scorpius. Also cataloged as NGC 6405, the pretty star cluster's outline suggests its popular moniker, the Butterfly Cluster. Surrounded by diffuse reddish emission from the region's hydrogen gas the cluster's mostly hot and therefore blue stars are near the center of this colorful cosmic snapshot. But the brightest cluster member is a cool K-type giant star. Designated BM Scorpii it shines with a yellow-orange hue, seen near the end of one of the butterfly's antennae. This telescopic field of view spans nearly 2 Full Moons on the sky. That's 25 light-years at the estimated distance of Messier 6.</p>
-        <strong><em>Xinran Li</em></strong>
+        <h4>Lunar Nearside</h4>
+        <time>2025-07-20</time>
+        <p>About 1,300 images from the Lunar Reconnaissance Orbiter spacecraft's wide angle camera were used to compose this spectacular view of a familiar face - the lunar nearside. But why is there a lunar nearside? The Moon rotates on its axis and orbits the Earth at the same rate, about once every 28 days. Tidally locked in this configuration, the synchronous rotation always keeps one side, the nearside, facing Earth. As a result, featured in remarkable detail in the full resolution mosaic, the smooth, dark, lunar maria (actually lava-flooded impact basins), and rugged highlands, are well-known to earthbound skygazers. To find your favorite mare or large crater, just follow this link or slide your cursor over the picture. The LRO images used to construct the mosaic were recorded over a two week period in December 2010.</p>
+        <strong><em></em></strong>
     </div>
 </div>
