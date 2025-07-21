@@ -60,13 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2507/lroc_wac_nearside800.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2507/lroc_wac_nearside800.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2507/CatsPaw_Webb_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2507/CatsPaw_Webb_960.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Lunar Nearside</h4>
-        <time>2025-07-20</time>
-        <p>About 1,300 images from the Lunar Reconnaissance Orbiter spacecraft's wide angle camera were used to compose this spectacular view of a familiar face - the lunar nearside. But why is there a lunar nearside? The Moon rotates on its axis and orbits the Earth at the same rate, about once every 28 days. Tidally locked in this configuration, the synchronous rotation always keeps one side, the nearside, facing Earth. As a result, featured in remarkable detail in the full resolution mosaic, the smooth, dark, lunar maria (actually lava-flooded impact basins), and rugged highlands, are well-known to earthbound skygazers. To find your favorite mare or large crater, just follow this link or slide your cursor over the picture. The LRO images used to construct the mosaic were recorded over a two week period in December 2010.</p>
+        <h4>Cat's Paw Nebula from Webb Space Telescope</h4>
+        <time>2025-07-21</time>
+        <p>Nebulas are perhaps as famous for being identified with familiar shapes as perhaps cats are for getting into trouble.  Still, no known cat could have created the vast Cat's Paw Nebula visible toward the constellation of the Scorpion  (Scorpius).  At 5,700 light years distant, Cat's Paw is an emission nebula within a larger molecular cloud.  Alternatively known as the Bear Claw Nebula and cataloged as NGC 6334, stars nearly ten times the mass of our Sun have been born there in only the past few million years. Pictured here is a recently released image of the Cat's Paw taken in infrared light by the James Webb Space Telescope.  This newly detailed view into the nebula helps provide insight for how turbulent molecular clouds turn gas into stars.    Explore Your Universe: Random APOD Generator</p>
         <strong><em></em></strong>
     </div>
 </div>
