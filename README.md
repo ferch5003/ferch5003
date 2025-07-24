@@ -60,17 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2507/MeteorMilkyWay_Rice_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2507/MeteorMilkyWay_Rice_960.jpg" width="400" height="500" alt="
-Jason Rice
-">
+    <a href="https://apod.nasa.gov/apod/image/2507/SaturnJuly18_2025TitanShadowTransit1024.png">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2507/SaturnJuly18_2025TitanShadowTransit1024.png" width="400" height="500" alt="Every 15 years or so">
     </a>
     <div>
-        <h4>Fireball over Cape San Blas</h4>
-        <time>2025-07-23</time>
-        <p>Have you ever seen a fireball?  In astronomy, a fireball is a very bright meteor -- one at least as bright as Venus and possibly brighter than even a full Moon. Fireballs are rare -- if you see one you are likely to remember it for your whole life.  Physically, a fireball is a small rock that originated from an asteroid or comet that typically leaves a fading smoke trail of gas and dust as it shoots through the Earth's atmosphere.  It is unlikely that any single large ground strike occurred -- much of the rock likely vaporized as it broke up into many small pieces. The featured picture was captured last week from a deadwood beach in Cape San Blas, Florida, USA.   Piece it Back Together: Astronomy Puzzle of the Day</p>
-        <strong><em>
-Jason Rice
-</em></strong>
+        <h4>Titan Shadow Transit</h4>
+        <time>2025-07-24</time>
+        <p>very 15 years or so, Saturn's rings are tilted edge-on to our line of sight. As the bright, beautiful ring system grows narrower and fainter it becomes increasingly difficult to see for denizens of planet Earth. But it does provide the opportunity to watch transits of Saturn's moons and their dark shadows across the ringed gas giant's still bright disk. Of course Saturn's largest moon Titan is the easiest to spot in transit. In this telescopic snapshot from July 18, Titan itself is at the upper left, casting a round dark shadow on Saturn's banded cloudtops above the narrow rings. In fact Titan's transit season is in full swing now with shadow transits every 16 days corresponding to the moon's orbital period. Its final shadow transit will be on October 6, though Titan's pale disk will continue to cross in front of Saturn as seen from telescopes on planet Earth every 16 days through January 25, 2026.</p>
+        <strong><em>Every 15 years or so</em></strong>
     </div>
 </div>
