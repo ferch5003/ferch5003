@@ -60,13 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2507/oc_ls_2025_1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2507/oc_ls_2025_1024.jpg" width="400" height="500" alt="Leo Shatz">
+    <a href="https://apod.nasa.gov/apod/image/2507/LightningVolcano_Montufar_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2507/LightningVolcano_Montufar_960.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Globular Cluster Omega Centauri</h4>
-        <time>2025-07-26</time>
-        <p>Globular star cluster Omega Centauri packs about 10 million stars much older than the Sun into a volume some 150 light-years in diameter. Also known as NGC 5139, at a distance of 15,000 light-years it's the largest and brightest of 200 or so known globular clusters that roam the halo of our Milky Way galaxy. Though most star clusters consist of stars with the same age and composition, the enigmatic Omega Cen exhibits the presence of different stellar populations with a spread of ages and chemical abundances. In fact, Omega Cen may be the remnant core of a small galaxy merging with the Milky Way. With a yellowish hue, Omega Centauri's red giant stars are easy to pick out in this sharp telescopic view.  A two-decade-long exploration of the dense star cluster with the Hubble Space Telescope has revealed evidence for a massive black hole near the center of Omega Centauri.</p>
-        <strong><em>Leo Shatz</em></strong>
+        <h4>Lightning over the Volcano of Water</h4>
+        <time>2025-07-27</time>
+        <p>Have you ever watched a lightning storm in awe?  You're not alone. Details of what causes lightning are still being researched, but it is known that inside some clouds, internal updrafts cause collisions between ice and snow that slowly separate charges between cloud tops and bottoms. The rapid electrical discharges that are lightning soon result.  Lightning usually takes a jagged course, rapidly heating a thin column of air to about three times the surface temperature of the Sun.  The resulting shock wave starts supersonically and decays into the loud sound known as thunder.  On average, around the world, about 6,000 lightning bolts occur between clouds and the Earth every minute. Pictured in July 2019 in a two-image composite, lightning stems from communication antennas near the top of Volcán de Agua (Volcano of Water) in Guatemala.  Sky Surprise: What picture did APOD feature on your birthday? (post 1995)</p>
+        <strong><em></em></strong>
     </div>
 </div>
