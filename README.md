@@ -60,13 +60,17 @@
 ### Do you know...
 
 <div>
-    <a href="">
-        <img align="left" src="" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2507/Helix_GC_1080.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2507/Helix_GC_1080.jpg" width="400" height="500" alt="
+George Chatzifrantzis
+">
     </a>
     <div>
-        <h4>Collision at Asteroid Dimorphos</h4>
-        <time>2025-07-28</time>
-        <p>Why was this collision so strange? In 2022, to develop Earth-saving technology, NASA deliberately crashed the DART spacecraft into the asteroid moonlet Dimorphos. The hope was that this collision would alter the trajectory of Dimorphos around its parent asteroid Didymos and so demonstrate that similar collisions could, in theory, save the Earth from being hit by (other) hazardous asteroids.  But analyses of new results show that the effects of the collision are different than expected -- and we are trying to understand why.  Featured here is the time lapse video taken by the ejected LICIACube camera LUKE showing about 250 seconds of the expanding debris field of Dimorphos after the collision, with un-impacted Didymos passing in the foreground.  In 2026, Europe's Hera mission will reach the asteroids and release three spacecraft to better study the matter.</p>
-        <strong><em></em></strong>
+        <h4>A Helix Nebula Deep Field</h4>
+        <time>2025-07-29</time>
+        <p>Is the Helix Nebula looking at you? No, not in any biological sense, but it does look quite like an eye. The Helix Nebula is so named because it also appears that you are looking down the axis of a helix. In actuality, it is now understood to have a surprisingly complex geometry, including radial filaments and extended outer loops.  The Helix Nebula (aka NGC 7293) is one of brightest and closest examples of a planetary nebula, a gas cloud created at the end of the life of a Sun-like star. The remnant central stellar core, destined to become a white dwarf star, glows in light so energetic it causes the previously expelled gas to fluoresce. The featured picture, taken in red, green, and blue but highlighted by light emitted primarily by hydrogen was created from 12 hours of exposure through a personal telescope located in Greece.  A close-up of the inner edge of the Helix Nebula shows complex gas knots the origin of which are  still being researched.    Portal Universe: Random APOD Generator</p>
+        <strong><em>
+George Chatzifrantzis
+</em></strong>
     </div>
 </div>
