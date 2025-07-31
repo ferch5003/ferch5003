@@ -60,17 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2507/SunLoops_Vanoni_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2507/SunLoops_Vanoni_960.jpg" width="400" height="500" alt="
-Andrea Vanoni
-">
+    <a href="https://apod.nasa.gov/apod/image/2507/2025rbsAnnotated1024.png">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2507/2025rbsAnnotated1024.png" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Coronal Loops on the Sun</h4>
-        <time>2025-07-30</time>
-        <p>Our Sun frequently erupts in loops.  Hot solar plasma jumps off the Sun's surface into prominences, with the most common type of prominence being a simple loop.  The loop shape originates from the Sun's magnetic field, which is traced by spiraling electrons and protons.  Many loops into the Sun's lower corona are large enough to envelop the Earth and are stable enough to last days.  They commonly occur near active regions that also include dark sunspots.  The featured panel shows four loops, each of which was captured near the Sun's edge during 2024 and 2025. The images were taken by a personal telescope in Mantova, Italy and in a very specific color of light emitted primarily by hydrogen. Some solar prominences suddenly break open and eject particles into the Solar System, setting up a space weather sequence that can affect the skies and wires of Earth.    Jigsaw Universe: Astronomy Puzzle of the Day</p>
-        <strong><em>
-Andrea Vanoni
-</em></strong>
+        <h4>Supernova 2025rbs in NGC 7331</h4>
+        <time>2025-07-31</time>
+        <p>A long time ago in a galaxy 50 million light-years away, a star exploded. Light from that supernova was first detected by telescopes on planet Earth on July 14th though, and the extragalactic transient is now known to astronomers as supernova 2025rbs. Presently the brightest supernova in planet Earth's sky, 2025rbs is a Type Ia supernova, likely caused by the thermonuclear detonation of a white dwarf star that accreted material from a companion in a binary star system.  Type Ia supernovae are used as standard candles to establish the distance scale of the universe. The host galaxy of 2025rbs is NGC 7331. Itself a bright spiral galaxy in the northern constellation Pegasus, NGC 7331 is often touted as an analog to our own Milky Way.</p>
+        <strong><em></em></strong>
     </div>
 </div>
