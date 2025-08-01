@@ -60,13 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2507/2025rbsAnnotated1024.png">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2507/2025rbsAnnotated1024.png" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2508/BokGlobule_1_1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2508/BokGlobule_1_1024.jpg" width="400" height="500" alt="Peter Bresseler">
     </a>
     <div>
-        <h4>Supernova 2025rbs in NGC 7331</h4>
-        <time>2025-07-31</time>
-        <p>A long time ago in a galaxy 50 million light-years away, a star exploded. Light from that supernova was first detected by telescopes on planet Earth on July 14th though, and the extragalactic transient is now known to astronomers as supernova 2025rbs. Presently the brightest supernova in planet Earth's sky, 2025rbs is a Type Ia supernova, likely caused by the thermonuclear detonation of a white dwarf star that accreted material from a companion in a binary star system.  Type Ia supernovae are used as standard candles to establish the distance scale of the universe. The host galaxy of 2025rbs is NGC 7331. Itself a bright spiral galaxy in the northern constellation Pegasus, NGC 7331 is often touted as an analog to our own Milky Way.</p>
-        <strong><em></em></strong>
+        <h4>Small Dark Nebula</h4>
+        <time>2025-08-01</time>
+        <p>A small, dark, nebula looks isolated near the center of this telescopic close-up. The wedge-shaped cosmic cloudlet lies within a relatively crowded region of space though. About 7,000 light-years distant and filled with glowing gas and an embedded cluster of young stars, the region is known as M16 or the Eagle Nebula. Hubble's iconic images of the Eagle Nebula include the famous star-forming Pillars of Creation, towering structures of interstellar gas and dust 4 to 5 light-years long. But this small dark nebula, known to some as a Bok globule, is a fraction of a light-year across. The Bok globule stands out in silhouette against the expansive background of M16's diffuse glow. Found scattered within emission nebulae and star clusters, Bok globules are small interstellar clouds of cold molecular gas and obscuring dust that also form stars within their dense, collapsing cores.</p>
+        <strong><em>Peter Bresseler</em></strong>
     </div>
 </div>
