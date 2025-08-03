@@ -60,13 +60,17 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2508/DeltaAqrFireflies1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2508/DeltaAqrFireflies1024.jpg" width="400" height="500" alt="Daniel Korona">
+    <a href="https://apod.nasa.gov/apod/image/2508/MeteorBoom_vanderHoeven_750.gif">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2508/MeteorBoom_vanderHoeven_750.gif" width="400" height="500" alt="
+Andre van der Hoeven
+">
     </a>
     <div>
-        <h4>Fireflies, Meteors, and Milky Way</h4>
-        <time>2025-08-02</time>
-        <p>Taken on July 29 and July 30, a registered and stacked series of exposures creates this dreamlike view of a northern summer night. Multiple firefly flashes streak across the foreground as the luminous Milky Way arcs above the horizon in the Sierra de Órganos national park of central Mexico, The collection of bright streaks aligned across the sky toward the upper left in the timelapse image are Delta Aquariid meteors. Currently active, the annual Delta Aquarid meteor shower shares August nights though, overlapping with the better-known Perseid meteor shower. This year that makes post-midnight, mostly moonless skies in early August very popular with late night skygazers. How can you tell a Delta Aquariid from a Perseid meteor?  The streaks of Perseid meteors can be traced back to an apparent radiant in the constellation Perseus. Delta Aquariids appear to emerge from the more southerly constellation Aquarius, beyond the top left of this frame. Of course, the bioluminescent flashes of fireflies are common too on these northern summer nights. But how can you tell a firefly from a meteor? Just try to catch one.</p>
-        <strong><em>Daniel Korona</em></strong>
+        <h4>Milky Way and Exploding Meteor</h4>
+        <time>2025-08-03</time>
+        <p>In about a week the Perseid Meteor Shower will reach its maximum.  Grains of icy rock will streak across the sky as they evaporate during entry into Earth's atmosphere.  These grains were shed from Comet Swift-Tuttle.  The Perseids result from the annual crossing of the Earth through Comet Swift-Tuttle's orbit, and are typically the most active meteor shower of the year.  Although it is hard to predict the level of activity in any meteor shower, in a clear dark sky an observer might see a meteor a minute.  This year's Perseids peak just a few days after  full moon, and so some faint meteors will be lost to the lunar skyglow.  Meteor showers in general are best seen from a relaxing position, away from lights.  Featured here is a meteor caught exploding during the 2015 Perseids above Austria next to the central band of our Milky Way Galaxy.</p>
+        <strong><em>
+Andre van der Hoeven
+</em></strong>
     </div>
 </div>
