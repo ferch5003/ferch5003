@@ -60,13 +60,19 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2508/Ngc6072_webb_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2508/Ngc6072_webb_960.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2508/MeteorM31_hemmerich_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2508/MeteorM31_hemmerich_960.jpg" width="400" height="500" alt="
+Fritz
+Helmut Hemmerich
+">
     </a>
     <div>
-        <h4>NGC 6072: A Complex Planetary Nebula from Webb</h4>
-        <time>2025-08-05</time>
-        <p>Why is this nebula so complex? The Webb Space Telescope has imaged a nebula in great detail that is thought to have emerged from a Sun-like star. NGC 6072 has been resolved into one of the more unusual and complex examples of planetary nebula. The featured image is in infrared light with the red color highlighting cool hydrogen gas. Study of previous images of NGC 6072 indicated several likely outflows and two disks inside the jumbled gas, while the new Webb image resolves new features likely including one disk's edge protruding on the central left.  A leading origin hypothesis holds that the nebula's complexity is caused or enhanced by multiple outbursts from a star in a multi-star system near the center.</p>
-        <strong><em></em></strong>
+        <h4>Meteor before Galaxy</h4>
+        <time>2025-08-06</time>
+        <p>What's that green streak in front of the Andromeda galaxy? A meteor. While photographing the Andromeda galaxy in 2016, near the peak of the Perseid Meteor Shower, a small pebble from deep space crossed right in front of our Milky Way Galaxy's far-distant companion. The small meteor took only a fraction of a second to pass through this 10-degree field.  The meteor flared several times while braking violently upon entering Earth's atmosphere.  The green color was created, at least in part, by the meteor's gas glowing as it vaporized. Although the exposure was timed to catch a Perseid meteor, the orientation of the imaged streak seems a better match to a meteor from the Southern Delta Aquariids, a meteor shower that peaked a few weeks earlier.  Not coincidentally, the Perseid Meteor Shower peaks next week, although this year the meteors will have to outshine a sky brightened by a nearly full moon.</p>
+        <strong><em>
+Fritz
+Helmut Hemmerich
+</em></strong>
     </div>
 </div>
