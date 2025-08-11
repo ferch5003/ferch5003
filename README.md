@@ -60,19 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2508/ZodiacalRoad_Merzlyakov_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2508/ZodiacalRoad_Merzlyakov_960.jpg" width="400" height="500" alt="
-Ruslan Merzlyakov  
-(astrorms)
-">
+    <a href="">
+        <img align="left" src="" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Zodiacal Road</h4>
-        <time>2025-08-10</time>
-        <p>What's that strange light down the road? Dust orbiting the Sun. At certain times of the year, a band of sun-reflecting dust from the inner Solar System appears prominently just after sunset -- or just before sunrise -- and is called zodiacal light.  Although the origin of this dust is still being researched, a leading hypothesis holds that zodiacal dust originates mostly from faint Jupiter-family comets and slowly spirals into the Sun. Recent analysis of dust emitted by Comet 67P, visited by ESA's robotic Rosetta spacecraft, bolsters this hypothesis.  Pictured when climbing a road up to Teide National Park in the Canary Islands of Spain, a bright triangle of zodiacal light appeared in the distance soon after sunset. Captured on June 21, 2019, the scene includes bright Regulus, the alpha star of the constellation Leo, standing above center toward the left. The Beehive Star Cluster (M44) can be spotted below center, closer to the horizon and also immersed in the zodiacal glow.</p>
-        <strong><em>
-Ruslan Merzlyakov  
-(astrorms)
-</em></strong>
+        <h4>Closest Ever Images Near the Sun</h4>
+        <time>2025-08-11</time>
+        <p>verybody sees the Sun.  Nobody's been there.  Starting in 2018, though, NASA launched the robotic Parker Solar Probe (PSP) to investigate regions near to the Sun for the first time.  The featured time-lapse video shows the view looking sideways from behind PSP's Sun shield in December during the closest approach of any human-made spacecraft to the Sun, looping down to only about five solar diameters above the Sun's hot surface.  The PSP's Wide Field Imager for Solar Probe (WISPR) cameras took these images over seven hours, but they are digitally compressed here into about 5 seconds.  The solar corona, including colliding coronal mass ejections (CMEs), is visible here in unprecedented detail, with stars passing far in the background.  The Sun is not only Earth's dominant energy source, but its variable solar wind also compresses Earth's atmosphere, triggers auroras, affects power grids, and can even damage orbiting communication satellites.</p>
+        <strong><em></em></strong>
     </div>
 </div>
