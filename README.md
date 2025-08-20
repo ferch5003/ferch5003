@@ -60,13 +60,17 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2508/NGC6872_block1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2508/NGC6872_block1024.jpg" width="400" height="500" alt="Adam Block">
+    <a href="https://apod.nasa.gov/apod/image/2508/PerseidsDurdleDoor_Dury_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2508/PerseidsDurdleDoor_Dury_960.jpg" width="400" height="500" alt="
+Josh Dury
+">
     </a>
     <div>
-        <h4>Giant Galaxies in Pavo</h4>
-        <time>2025-08-19</time>
-        <p>Over 500,000 light years across, NGC 6872 (bottom left) is a truly enormous barred spiral galaxy. At least 5 times the size of our own large Milky Way, NGC 6872 is the largest known spiral galaxy. About 200 million light-years distant toward the southern constellation Pavo, the Peacock, the appearance of this giant galaxy's stretched out spiral arms suggest the wings of a giant bird. So its popular moniker is the Condor galaxy. Lined with massive young, bluish star clusters and star-forming regions, the extended and distorted spiral arms are due to NGC 6872's past gravitational interactions with the nearby smaller galaxy IC 4970, visible here below the giant spiral galaxy's core. Other members of the southern Pavo galaxy group are scattered through this magnificent galaxy group portrait, with the dominant giant elliptical galaxy, NGC 6876, above and right of the soaring Condor galaxy.</p>
-        <strong><em>Adam Block</em></strong>
+        <h4>Perseid Meteors from Durdle Door</h4>
+        <time>2025-08-20</time>
+        <p>What are those curved arcs in the sky? Meteors -- specifically, meteors from this year's Perseid meteor shower.  Over the past few weeks, after the sky darkened, many images of Perseid meteors were captured separately and merged into a single frame, taken earlier.  Although the meteors all traveled on straight paths, these paths appear slightly curved by the wide-angle lens of the capturing camera.  The meteor streaks can all be traced back to a single point on the sky called the radiant, here just off the top of the frame in the constellation of Perseus. The same camera took a deep image of the background sky that brought up the central band of our Milky Way galaxy running nearly vertically through the featured image's center. The limestone arch in the foreground in Dorset, England is known as Durdle Door, a name thought to survive from a thousand years ago.</p>
+        <strong><em>
+Josh Dury
+</em></strong>
     </div>
 </div>
