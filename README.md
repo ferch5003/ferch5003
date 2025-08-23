@@ -60,13 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2508/M57_LRGB_1K.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2508/M57_LRGB_1K.jpg" width="400" height="500" alt="Kent Biggs">
+    <a href="https://apod.nasa.gov/apod/image/2508/1000212902_bellelli1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2508/1000212902_bellelli1024.jpg" width="400" height="500" alt="How big is planet Earth's Moon">
     </a>
     <div>
-        <h4>A Tale of Two Nebulae</h4>
-        <time>2025-08-22</time>
-        <p>This colorful telescopic view towards the musical northern constellation Lyra reveals the faint outer halos and brighter central ring-shaped region of M57, popularly known as the Ring Nebula. To modern astronomers M57 is a well-known planetary nebula. With a central ring about one light-year across, M57 is definitely not a planet though, but the gaseous shroud of one of the Milky Way's dying sun-like stars. Roughly the same apparent size as M57, the fainter and more often overlooked barred spiral galaxy at the left is IC 1296. In fact, over 100 years ago IC 1296 would have been known as a spiral nebula. By chance the pair are in the same field of view, and while they appear to have similar sizes they are actually very far apart. At a distance of a mere 2,000 light-years M57 is well within our own Milky Way galaxy. Extragalactic IC 1296 (aka PGC62532) is more like 200,000,000 light-years distant. That's about 100,000 times farther away than M57 but since they appear roughly similar in size, former spiral nebula IC 1296 must also be about 100,000 times larger than planetary nebula M57. Look closely at the sharp 21st century astroimage to spot even more distant background galaxies scattered through the frame.</p>
-        <strong><em>Kent Biggs</em></strong>
+        <h4>Fishing for the Moon</h4>
+        <time>2025-08-23</time>
+        <p>How big is planet Earth's Moon? Compared to other moons of the Solar System, it's number 5 on the largest to smallest ranked list, following Jupiter's moon Ganymede, Saturn's moon Titan, and Jovian moons Callisto and Io. Continuing the list, the Moon comes before Jupiter's Europa and Neptune's Triton. It's also larger than dwarf planets Pluto and Eris. With a diameter of 3,475 kilometers the Moon is about 1/4 the size of Earth though, and that does make it the largest moon when compared to the size of its parent Solar System planet. Of course in this serene, twilight sea and skyscape, August's rising Full Moon still appears small enough to be caught in the nets of an ancient fishing rig. The telephoto snapshot was taken along the Italian Costa dei Trabocchi, on the Adriatic Sea.</p>
+        <strong><em>How big is planet Earth's Moon</em></strong>
     </div>
 </div>
