@@ -60,13 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2508/1000212902_bellelli1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2508/1000212902_bellelli1024.jpg" width="400" height="500" alt="How big is planet Earth's Moon">
+    <a href="https://apod.nasa.gov/apod/image/2508/Crab_HubbleChandraSpitzer_1080.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2508/Crab_HubbleChandraSpitzer_1080.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Fishing for the Moon</h4>
-        <time>2025-08-23</time>
-        <p>How big is planet Earth's Moon? Compared to other moons of the Solar System, it's number 5 on the largest to smallest ranked list, following Jupiter's moon Ganymede, Saturn's moon Titan, and Jovian moons Callisto and Io. Continuing the list, the Moon comes before Jupiter's Europa and Neptune's Triton. It's also larger than dwarf planets Pluto and Eris. With a diameter of 3,475 kilometers the Moon is about 1/4 the size of Earth though, and that does make it the largest moon when compared to the size of its parent Solar System planet. Of course in this serene, twilight sea and skyscape, August's rising Full Moon still appears small enough to be caught in the nets of an ancient fishing rig. The telephoto snapshot was taken along the Italian Costa dei Trabocchi, on the Adriatic Sea.</p>
-        <strong><em>How big is planet Earth's Moon</em></strong>
+        <h4>The Spinning Pulsar of the Crab Nebula</h4>
+        <time>2025-08-24</time>
+        <p>At the core of the Crab Nebula lies a city-sized, magnetized neutron star spinning 30 times a second. Known as the Crab Pulsar, it is the bright spot in the center of the gaseous swirl at the nebula's core. About twelve light-years across, the spectacular picture frames the glowing gas, cavities and swirling filaments near the Crab Nebula's center.  The featured picture combines visible light from the Hubble Space Telescope in purple, X-ray light from the Chandra X-ray Observatory in blue, and infrared light from the Spitzer Space Telescope in red.  Like a cosmic dynamo, the Crab pulsar powers the emission from the nebula, driving a shock wave through surrounding material and accelerating the spiraling electrons. With more mass than the Sun and the density of an atomic nucleus,the spinning pulsar is the collapsed core of a massive star that exploded. The outer parts of the Crab Nebula are the expanding remnants of the star's component gases. The supernova explosion was witnessed on planet Earth in the year 1054.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)</p>
+        <strong><em></em></strong>
     </div>
 </div>
