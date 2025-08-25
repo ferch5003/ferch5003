@@ -60,13 +60,19 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2508/Crab_HubbleChandraSpitzer_1080.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2508/Crab_HubbleChandraSpitzer_1080.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2508/MeteorPleiades_Alqasimi_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2508/MeteorPleiades_Alqasimi_960.jpg" width="400" height="500" alt="
+Yousif Alqasimi &  
+Essa Al Jasmi
+">
     </a>
     <div>
-        <h4>The Spinning Pulsar of the Crab Nebula</h4>
-        <time>2025-08-24</time>
-        <p>At the core of the Crab Nebula lies a city-sized, magnetized neutron star spinning 30 times a second. Known as the Crab Pulsar, it is the bright spot in the center of the gaseous swirl at the nebula's core. About twelve light-years across, the spectacular picture frames the glowing gas, cavities and swirling filaments near the Crab Nebula's center.  The featured picture combines visible light from the Hubble Space Telescope in purple, X-ray light from the Chandra X-ray Observatory in blue, and infrared light from the Spitzer Space Telescope in red.  Like a cosmic dynamo, the Crab pulsar powers the emission from the nebula, driving a shock wave through surrounding material and accelerating the spiraling electrons. With more mass than the Sun and the density of an atomic nucleus,the spinning pulsar is the collapsed core of a massive star that exploded. The outer parts of the Crab Nebula are the expanding remnants of the star's component gases. The supernova explosion was witnessed on planet Earth in the year 1054.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)</p>
-        <strong><em></em></strong>
+        <h4>The Meteor and the Star Cluster</h4>
+        <time>2025-08-25</time>
+        <p>Sometimes even the sky surprises you.  To see more stars and faint nebulosity in the Pleiades star cluster (M45), long exposures are made.  Many times, less interesting items appear on the exposures that were not intended -- but later edited out. These include stuck pixels, cosmic ray hits, frames with bright clouds or Earth's Moon, airplane trails, lens flares, faint satellite trails, and even insect trails.  Sometimes, though, something really interesting is caught by chance. That was just the case a few weeks ago in al-Ula, Saudi Arabia when a bright meteor streaked across during an hour-long exposure of the Pleiades. Along with the famous bright blue stars, less famous and less bright blue stars, and blue-reflecting dust surrounding the star cluster, the fast rock fragment created a distinctive green glow, likely due to vaporized metals.    Jigsaw Universe: Astronomy Puzzle of the Day</p>
+        <strong><em>
+Yousif Alqasimi &  
+Essa Al Jasmi
+</em></strong>
     </div>
 </div>
