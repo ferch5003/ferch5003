@@ -60,17 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2509/OrionHorseHead_Stern_1080.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2509/OrionHorseHead_Stern_1080.jpg" width="400" height="500" alt="
-Daniel Stern
-">
+    <a href="https://apod.nasa.gov/apod/image/2508/CirX1_English_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2508/CirX1_English_960.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>The Horsehead and Flame Nebulas</h4>
-        <time>2025-09-02</time>
-        <p>The Horsehead Nebula is one of the most famous nebulae on the sky.  It is visible as the dark indentation to the orange emission nebula at the far right of the featured picture.  The horse-head feature is dark because it is really an opaque dust cloud that lies in front of the bright emission nebula. Like clouds in Earth's atmosphere, this cosmic cloud has assumed a recognizable shape by chance.  After many thousands of years, the internal motions of the cloud will surely alter its appearance.  The emission nebula's orange color is caused by electrons recombining with protons to form hydrogen atoms.  Toward the lower left of the image is the Flame Nebula, an orange-tinged nebula that also contains intricate filaments of dark dust.</p>
-        <strong><em>
-Daniel Stern
-</em></strong>
+        <h4>Cir X-1: Jets in the Africa Nebula</h4>
+        <time>2025-09-03</time>
+        <p>How soon do jets form when a supernova gives birth to a neutron star?  The Africa Nebula provides clues.  This supernova remnant surrounds Circinus X-1, an X-ray emitting neutron star and the companion star it orbits.  The image, from the ThunderKAT collaboration on the MeerKAT radio telescope situated in South Africa, shows the bright core-and-lobe structure of Cir X-1’s currently active jets inside the nebula.  A mere 4600 years old, Cir X-1 could be the "Little Sister" of microquasar SS 433*.  However, the newly discovered bubble exiting from a ring-like hole in the upper right of the nebula, along with a ring to the bottom left, demonstrate that other jets previously existed.  Computer simulations indicate those jets formed within 100 years of the explosion and lasted up to 1000 years.  Surprisingly, to create the observed bubble, the jets need to be more powerful than young neutron stars were previously thought to produce.   Open Science: Browse 3,700+ codes in the Astrophysics Source Code Library</p>
+        <strong><em></em></strong>
     </div>
 </div>
