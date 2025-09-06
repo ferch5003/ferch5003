@@ -60,13 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2509/crtastro_0352_1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2509/crtastro_0352_1024.jpg" width="400" height="500" alt="Carlos Taylor">
+    <a href="https://apod.nasa.gov/apod/image/2509/MangiabarcheTramonto1060.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2509/MangiabarcheTramonto1060.jpg" width="400" height="500" alt="When the sun sets on September 7">
     </a>
     <div>
-        <h4>47 Tucanae: Globular Star Cluster</h4>
-        <time>2025-09-05</time>
-        <p>Also known as NGC 104, 47 Tucanae is a jewel of the southern sky. Not a star but a dense cluster of stars, it roams the halo of our Milky Way Galaxy along with some 200 other globular star clusters. The second brightest globular cluster (after Omega Centauri) as seen from planet Earth, 47 Tuc lies about 13,000 light-years away. It can be spotted with the naked eye close on the sky to the Small Magellanic Cloud in the constellation of the Toucan. The dense cluster is made up of hundreds of thousands of stars in a volume only about 120 light-years across. Red giant stars on the outskirts of the cluster are easy to pick out as yellowish stars in this sharp telescopic portrait. Tightly packed globular star cluster 47 Tuc is also home to a star with the closest known orbit around a black hole.</p>
-        <strong><em>Carlos Taylor</em></strong>
+        <h4>Sardinia Sunset</h4>
+        <time>2025-09-06</time>
+        <p>When the sun sets on September 7, the Full Moon will rise. And on that date denizens around much of our fair planet, including parts of Antarctica, Australia, Asia, Europe, and Africa can witness a total lunar eclipse, with the Moon completely immersed in Earth's shadow. As the bright Full Moon first enters Earth's shadow it will darken, finally taking on a reddish hue during the total eclipse phase. In fact, the color of the Moon during a total lunar eclipse is due to reddened light from sunrises and sunsets around planet Earth. The reddened sunlight is scattered by a dense atmosphere into the planet's otherwise dark central shadow. When the sun set on August 22, this telephoto snapshot of red skies, blue sea, and the Mangiabarche Lighthouse was captured from Sant'Antioco, Sardinia, Italy.</p>
+        <strong><em>When the sun sets on September 7</em></strong>
     </div>
 </div>
