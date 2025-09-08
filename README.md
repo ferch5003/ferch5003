@@ -60,13 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2509/WaterlessEarth2_woodshole_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2509/WaterlessEarth2_woodshole_960.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2509/IrasDisk_Webb_1080.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2509/IrasDisk_Webb_1080.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>All the Water on Planet Earth</h4>
-        <time>2025-09-07</time>
-        <p>How much of planet Earth is made of water? Very little, actually. Although oceans of water cover about 70 percent of Earth's surface, these oceans are shallow compared to the Earth's radius. The featured illustration shows what would happen if all of the water on or near the surface of the Earth were bunched up into a ball. The radius of this ball would be only about 700 kilometers, less than half the radius of the Earth's Moon, but slightly larger than Saturn's moon Rhea which, like many moons in our outer Solar System, is mostly water ice. The next smallest ball depicts all of Earth's liquid fresh water, while the tiniest ball shows the volume of all of Earth's fresh-water lakes and rivers. How any of this water came to be on the Earth and whether any significant amount is trapped far beneath Earth's surface remain topics of research.</p>
+        <h4>IRAS 04302: Butterfly Disk Planet Formation</h4>
+        <time>2025-09-08</time>
+        <p>This butterfly can hatch planets. The nebula fanning out from the star IRAS 04302+2247 may look like the wings of a butterfly, while the vertical brown stripe down the center may look like the butterfly's body -- but together they indicate an active planet-forming system. The featured picture was captured recently in infrared light by the Webb Space Telescope. Pictured, the vertical disk is thick with the gas and dust from which planets form. The disk shades visible and (most) infrared light from the central star, allowing a good view of the surrounding dust that reflects out light. In the next few million years, the dust disk will likely fragment into rings through the gravity of newly hatched planets.  And a billion years from now, the remaining gas and dust will likely dissipate, leaving mainly the planets -- like in our Solar System.    Explore the Universe: Random APOD Generator</p>
         <strong><em></em></strong>
     </div>
 </div>
