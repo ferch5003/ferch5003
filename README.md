@@ -60,27 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2509/SagNebs_DeWinter_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2509/SagNebs_DeWinter_960.jpg" width="400" height="500" alt="
-J. De Winter,
-C. Humbert, 
-C. Robert & 
-V. Sabet;
-Text: Ogetay Kayali 
-(MTU) 
-">
+    <a href="https://apod.nasa.gov/apod/image/2509/C2025R2_1066.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2509/C2025R2_1066.jpg" width="400" height="500" alt="Team Ciel Austral">
     </a>
     <div>
-        <h4>Nebulas and Clusters in Sagittarius</h4>
-        <time>2025-09-17</time>
-        <p>Can you spot famous celestial objects in this image?  18th-century astronomer Charles Messier cataloged only two of them: the bright Lagoon Nebula (M8) at the bottom, and the colorful Trifid Nebula (M20) at the upper right.  The one on the left that resembles a cat's paw is NGC 6559, and it is much fainter than the other two.  Even harder to spot are the thin blue filaments on the left, from supernova remnant (SNR G007.5-01.7).  Their glow comes from small amounts of glowing oxygen atoms that are so faint that it took over 17 hours of exposure with just one blue color to bring up. Framing this scene of stellar birth and death are two star clusters: the open cluster M21 just above Trifid, and the globular cluster NGC 6544 at lower left.</p>
-        <strong><em>
-J. De Winter,
-C. Humbert, 
-C. Robert & 
-V. Sabet;
-Text: Ogetay Kayali 
-(MTU) 
-</em></strong>
+        <h4>Comet C/2025 R2 (SWAN)</h4>
+        <time>2025-09-18</time>
+        <p>A new visitor from the outer Solar System, comet C/2025 R2 (SWAN) also known as SWAN25B was only discovered late last week, on September 11. That's just day before the comet reached perihelion, its closest approach to the Sun. First spotted by Vladimir Bezugly in images from the SWAN instrument on the sun-staring SOHO spacecraft, the comet was surprisingly bright but understandably difficult to see against the Sun's glare. Still close to the Sun on the sky, the greenish coma and tail of C/2025 R2 (SWAN) are captured in this telescopic snapshot from September 17. Spica, alpha star of the constellation Virgo, shines just beyond the upper left edge of the frame while the comet is about 6.5 light-minutes from planet Earth. Near the western horizon after sunset and slightly easier to see in binoculars from the southern hemisphere, this comet SWAN will pass near Zubenelgenubi, alpha star of Libra, on October 2.  C/2025 R2 (SWAN) is scheduled to make its closest approach to our fair planet around October 20.</p>
+        <strong><em>Team Ciel Austral</em></strong>
     </div>
 </div>
