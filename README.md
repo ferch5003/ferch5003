@@ -60,13 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2509/20250919_Moon_Venus_logoC1052.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2509/20250919_Moon_Venus_logoC1052.jpg" width="400" height="500" alt="Luca Bartek">
+    <a href="https://apod.nasa.gov/apod/image/2509/SunsetMonths_Vanzella_1080.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2509/SunsetMonths_Vanzella_1080.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Gibbous vs Crescent</h4>
-        <time>2025-09-20</time>
-        <p>rly risers around planet Earth have enjoyed a shining crescent Moon near brilliant Venus, close to the eastern horizon in recent morning twilight skies. And yesterday, on September 19, skygazers watching from some locations in Earth's northern hemisphere were also able to witness Venus, in the inner planet's waxing gibbous phase, pass behind the Moon's waning crescent. In fact, this telescopic snapshot was taken moments before that occultation of gibbous Venus by the crescent Moon began. The close-up view of the beautiful celestial alignment records Venus approaching part of the Moon's sunlit edge in clear daytime skies from the Swiss Alps. Tomorrow, the Sun will pass behind a New Moon. But to witness that partial solar eclipse on September 21, skygazers will need to watch from locations in planet Earth's southern hemisphere.</p>
-        <strong><em>Luca Bartek</em></strong>
+        <h4>Equinox Sunset</h4>
+        <time>2025-09-21</time>
+        <p>Does the Sun set in the same direction every day? No, the direction of sunset depends on the time of the year. Although the Sun always sets approximately toward the west, on an equinox like today the Sun sets directly toward the west. After tomorrow's September equinox, the Sun will set increasingly toward the southwest, reaching its maximum displacement at the December solstice.  Before today's September equinox, the Sun had set toward the northwest, reaching its maximum displacement at the June solstice. The featured time-lapse image shows seven bands of the Sun setting one day each month from 2019 December through 2020 June.  These image sequences were taken from Alberta, Canada -- well north of the Earth's equator -- and feature the city of Edmonton in the foreground.  The middle band shows the Sun setting during the last equinox -- in March.  From this location, the Sun will set along this same equinox band again tomorrow.</p>
+        <strong><em></em></strong>
     </div>
 </div>
