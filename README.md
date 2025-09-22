@@ -60,13 +60,17 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2509/SunsetMonths_Vanzella_1080.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2509/SunsetMonths_Vanzella_1080.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2509/Saturn6Years_Sultan_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2509/Saturn6Years_Sultan_960.jpg" width="400" height="500" alt="
+Imran Sultan
+">
     </a>
     <div>
-        <h4>Equinox Sunset</h4>
-        <time>2025-09-21</time>
-        <p>Does the Sun set in the same direction every day? No, the direction of sunset depends on the time of the year. Although the Sun always sets approximately toward the west, on an equinox like today the Sun sets directly toward the west. After tomorrow's September equinox, the Sun will set increasingly toward the southwest, reaching its maximum displacement at the December solstice.  Before today's September equinox, the Sun had set toward the northwest, reaching its maximum displacement at the June solstice. The featured time-lapse image shows seven bands of the Sun setting one day each month from 2019 December through 2020 June.  These image sequences were taken from Alberta, Canada -- well north of the Earth's equator -- and feature the city of Edmonton in the foreground.  The middle band shows the Sun setting during the last equinox -- in March.  From this location, the Sun will set along this same equinox band again tomorrow.</p>
-        <strong><em></em></strong>
+        <h4>Equinox at Saturn</h4>
+        <time>2025-09-22</time>
+        <p>On Saturn, the rings tell you the season.  On Earth, today marks an equinox, the time when the Earth's equator tilts directly toward the Sun.  Since Saturn's grand rings orbit along the planet's equator, these rings appear most prominent -- from the direction of the Sun -- when the spin axis of Saturn points toward the Sun.  Conversely, when Saturn's spin axis points to the side, an equinox occurs, and the edge-on rings are hard to see from not only the Sun -- but Earth.  In the featured montage, images of Saturn between the years of 2020 and 2025 have been superposed to show the giant planet passing, with this year's equinox, from summer in the north to summer in the south.  Yesterday, Saturn was coincidently about as close as it gets to planet Earth, and so this month the ringed giant's orb is relatively bright and visible throughout the night.</p>
+        <strong><em>
+Imran Sultan
+</em></strong>
     </div>
 </div>
