@@ -60,17 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2509/Saturn6Years_Sultan_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2509/Saturn6Years_Sultan_960.jpg" width="400" height="500" alt="
-Imran Sultan
-">
+    <a href="https://apod.nasa.gov/apod/image/2509/Ngc6357_Webb_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2509/Ngc6357_Webb_960.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Equinox at Saturn</h4>
-        <time>2025-09-22</time>
-        <p>On Saturn, the rings tell you the season.  On Earth, today marks an equinox, the time when the Earth's equator tilts directly toward the Sun.  Since Saturn's grand rings orbit along the planet's equator, these rings appear most prominent -- from the direction of the Sun -- when the spin axis of Saturn points toward the Sun.  Conversely, when Saturn's spin axis points to the side, an equinox occurs, and the edge-on rings are hard to see from not only the Sun -- but Earth.  In the featured montage, images of Saturn between the years of 2020 and 2025 have been superposed to show the giant planet passing, with this year's equinox, from summer in the north to summer in the south.  Yesterday, Saturn was coincidently about as close as it gets to planet Earth, and so this month the ringed giant's orb is relatively bright and visible throughout the night.</p>
-        <strong><em>
-Imran Sultan
-</em></strong>
+        <h4>NGC 6357: Cathedral to Massive Stars</h4>
+        <time>2025-09-23</time>
+        <p>How massive can a normal star be?  Estimates made from distance, brightness and standard solar models had given one star in the open cluster Pismis 24 over  200 times the mass of our Sun, making it one of the most massive stars known.  This star is the brightest object located in the central cavity near the bottom center of the featured image taken with the Webb Space Telescope in infrared light.  For comparison, a rollover image from the Hubble Space Telescope  is also featured in visible light. Close inspection of the images,  however, has shown that Pismis 24-1 derives its brilliant luminosity not from a single star but from three at least.  Component stars would still remain near 100 solar masses, making them among the more massive stars currently on record.  Toward the bottom of the image, stars are still forming in the associated emission nebula NGC 6357. Appearing perhaps like a Gothic cathedral, energetic stars near the center appear to be breaking out and illuminating a spectacular cocoon.   Teachers & Students: Ideas for Utilizing APOD in the Classroom</p>
+        <strong><em></em></strong>
     </div>
 </div>
