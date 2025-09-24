@@ -60,13 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2509/Ngc6357_Webb_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2509/Ngc6357_Webb_960.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2509/ArtGw250114_Simonnet_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2509/ArtGw250114_Simonnet_960.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>NGC 6357: Cathedral to Massive Stars</h4>
-        <time>2025-09-23</time>
-        <p>How massive can a normal star be?  Estimates made from distance, brightness and standard solar models had given one star in the open cluster Pismis 24 over  200 times the mass of our Sun, making it one of the most massive stars known.  This star is the brightest object located in the central cavity near the bottom center of the featured image taken with the Webb Space Telescope in infrared light.  For comparison, a rollover image from the Hubble Space Telescope  is also featured in visible light. Close inspection of the images,  however, has shown that Pismis 24-1 derives its brilliant luminosity not from a single star but from three at least.  Component stars would still remain near 100 solar masses, making them among the more massive stars currently on record.  Toward the bottom of the image, stars are still forming in the associated emission nebula NGC 6357. Appearing perhaps like a Gothic cathedral, energetic stars near the center appear to be breaking out and illuminating a spectacular cocoon.   Teachers & Students: Ideas for Utilizing APOD in the Classroom</p>
+        <h4>GW250114: Rotating Black Holes Collide</h4>
+        <time>2025-09-24</time>
+        <p>It was the strongest gravitational wave signal yet measured -- what did it show?  GW250114 was detected by both arms of the Laser Interferometer Gravitational-wave Observatory (LIGO) in Washington and Louisiana USA earlier this year.  Analysis showed that the event was created when two black holes, each of mass around 33 times the mass of the Sun, coalesced into one larger black hole with a mass of around 63 solar masses.  Even though the event happened about a billion light years away, the signal was so strong that the spin of all black holes, as well as initial ringing of the final black hole, was deduced with exceptional accuracy. Furthermore, it was confirmed better than before, as previously predicted, that the total event horizon area of the combined black hole was greater than those of the merging black holes. Featured, an artist's illustration depicts an imaginative and conceptual view from near one of the black holes before collision.</p>
         <strong><em></em></strong>
     </div>
 </div>
