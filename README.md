@@ -60,13 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2509/ArtGw250114_Simonnet_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2509/ArtGw250114_Simonnet_960.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2509/DSC05293-mark700.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2509/DSC05293-mark700.jpg" width="400" height="500" alt="Jin Wang">
     </a>
     <div>
-        <h4>GW250114: Rotating Black Holes Collide</h4>
-        <time>2025-09-24</time>
-        <p>It was the strongest gravitational wave signal yet measured -- what did it show?  GW250114 was detected by both arms of the Laser Interferometer Gravitational-wave Observatory (LIGO) in Washington and Louisiana USA earlier this year.  Analysis showed that the event was created when two black holes, each of mass around 33 times the mass of the Sun, coalesced into one larger black hole with a mass of around 63 solar masses.  Even though the event happened about a billion light years away, the signal was so strong that the spin of all black holes, as well as initial ringing of the final black hole, was deduced with exceptional accuracy. Furthermore, it was confirmed better than before, as previously predicted, that the total event horizon area of the combined black hole was greater than those of the merging black holes. Featured, an artist's illustration depicts an imaginative and conceptual view from near one of the black holes before collision.</p>
-        <strong><em></em></strong>
+        <h4>Saturn Opposite the Sun</h4>
+        <time>2025-09-25</time>
+        <p>This year Saturn was at opposition on September 21, opposite the Sun in planet Earth's sky. At its closest to Earth, Saturn was also at its brightest of the year, rising as the Sun set and shining above the horizon all night long among the fainter stars of the constellation Pisces. In this snapshot from the Qinghai Lenghu Observatory, Tibetan Plateau, southwestern China, the outer planet is immersed in a faint, diffuse oval of light known as the gegenschein or counter glow. The diffuse gegenschein is produced by sunlight backscattered by interplanetary dust along the Solar System's ecliptic plane, opposite the Sun in planet Earth's sky. Like a giant eye, on this dark night Saturn and gegenschein seem to stare down on the observatory's telescope domes seen against a colorful background of airglow along the horizon.</p>
+        <strong><em>Jin Wang</em></strong>
     </div>
 </div>
