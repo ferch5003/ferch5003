@@ -60,13 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2509/C2025_R2_Swan_20250921s1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2509/C2025_R2_Swan_20250921s1024.jpg" width="400" height="500" alt="Adam Block">
+    <a href="https://apod.nasa.gov/apod/image/2509/IMAP-IG2-001_1024.JPG">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2509/IMAP-IG2-001_1024.JPG" width="400" height="500" alt="Pascal Fouquet">
     </a>
     <div>
-        <h4>A SWAN, an ATLAS, and Mars</h4>
-        <time>2025-09-26</time>
-        <p>A new visitor to the inner Solar System, comet C/2025 R2 (SWAN) sports a long ion tail extending diagonally across this almost 7 degree wide telescopic field of view recorded on September 21. A fainter fellow comet also making its inner Solar System debut, C/2025 K1 (ATLAS), can be spotted above and left of SWAN's greenish coma, just visible against the background sea of stars in the constellation Virgo. Both new comets were only discovered in 2025 and are joined in this celestial frame by ruddy planet Mars (bottom), a more familiar wanderer in planet Earth's night skies. The comets may appear to be in a race, nearly neck and neck in their voyage through the inner Solar System and around the Sun. But this comet SWAN has already reached its perihelion or closest approach to the Sun on September 12 and is now outbound along its orbit. This comet ATLAS is still inbound though, and will make its perihelion passage on October 8.</p>
-        <strong><em>Adam Block</em></strong>
+        <h4>A Rocket in the Sun</h4>
+        <time>2025-09-27</time>
+        <p>On the morning of September 24 a rocket crosses the bright solar disk in this long range telescopic snapshot captured from Orlando, Florida. That's about 50 miles north of its Kennedy Space Center launch site. This rocket carried three new space weather missions to space. Signals have now been successfully acquired from all three - NASA's Interstellar Mapping and Acceleration Probe, NASA’s Carruthers Geocorona Observatory, and the National Oceanic and Atmospheric Administration (NOAA) Space Weather Follow-On Lagrange 1 (SWFO-L1) - as they begin their journey to L1, an Earth-Sun lagrange point. L1 is about 1.5 million kilometers in the sunward direction from planet Earth. Appropriately, major space weather influencers, aka dark sunspots in active regions across the Sun, are posing with the transiting rocket. In fact, large active region AR4225 is just right of the rocket's nose.</p>
+        <strong><em>Pascal Fouquet</em></strong>
     </div>
 </div>
