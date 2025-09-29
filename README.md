@@ -60,13 +60,19 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2509/LeopardSpots_Perseverance_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2509/LeopardSpots_Perseverance_960.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2509/TwoComets_Perrot_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2509/TwoComets_Perrot_960.jpg" width="400" height="500" alt="
+Luc Perrot
+(TWAN)
+">
     </a>
     <div>
-        <h4>Leopard Spots on Martian Rocks</h4>
-        <time>2025-09-28</time>
-        <p>What is creating these unusual spots? Light-colored spots on Martian rocks, each surrounded by a dark border, were discovered last year by NASA's Perseverance Rover currently exploring Mars.  Dubbed leopard spots because of their seemingly similarity to markings on famous Earth-bound predators, these curious patterns are being studied with the possibility they were created by ancient Martian life.  The pictured spots measure only millimeters across and were discovered on a larger rock named Cheyava Falls.  The exciting but unproven speculation is that long ago, microbes generated energy with chemical reactions that turned rock from red to white while leaving a dark biosignature ring, like some similarly appearing spots on Earth rocks. Although other non-biological explanations have not been ruled out,  speculation focusing on this potential biological origin is causing much intrigue.</p>
-        <strong><em></em></strong>
+        <h4>Two Camera Comets in One Sky</h4>
+        <time>2025-09-29</time>
+        <p>It may look like these comets are racing, but they are not. Comets C/2025 K1 ATLAS (left) and C/2025 R2 SWAN (right) appeared near each other by chance last week in the featured image taken from France's Reunion Island in the southern Indian Ocean.  Fainter Comet ATLAS is approaching our Sun and will reach its closest approach in early October when it is also expected to be its brightest -- although still only likely visible with long exposures on a camera.  The brighter comet, nicknamed SWAN25B, is now headed away from our Sun, although its closest approach to Earth is expected in mid-October, when optimistic estimates have it becoming bright enough to see with the unaided eye.  Each comet has a greenish coma of expelled gas and an ion tail pointing away from the Sun.    Growing Gallery: Comet SWAN25B</p>
+        <strong><em>
+Luc Perrot
+(TWAN)
+</em></strong>
     </div>
 </div>
