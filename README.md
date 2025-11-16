@@ -60,13 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2511/M31AB_1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2511/M31AB_1024.jpg" width="400" height="500" alt="Piotr Czerski">
+    <a href="https://apod.nasa.gov/apod/image/2511/saturnplane_cassini_1004.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2511/saturnplane_cassini_1004.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Andromeda and Friends</h4>
-        <time>2025-11-15</time>
-        <p>This magnificent extragalactic skyscape looks toward the Andromeda Galaxy, the closest large spiral galaxy to the Milky Way. It also accomplishes a Messier catalog trifecta by including Andromeda, cataloged as Messier 31 (M31), along with Messier 32 (M32), and Messier 110 (M110) in the same telescopic field of view.  In this frame, M32 is just left of the Andromeda Galaxy's bright core with M110 below and to the right. M32 and M110 are both elliptical galaxies themselves and satellites of the larger spiral Andromeda. By combining 60 hours of broadband and narrowband image data, the deep telescopic view also reveals tantalizing details of dust lanes, young star clusters, and star-forming regions along Andromeda's spiral arms, and faint, foreground clouds of glowing hydrogen gas. For now, Andromeda and friends are some 2.5 million light-years from our own large spiral Milky Way.</p>
-        <strong><em>Piotr Czerski</em></strong>
+        <h4>Crossing Saturn's Ring Plane</h4>
+        <time>2025-11-16</time>
+        <p>If this is Saturn, where are the rings?  When Saturn's "appendages" disappeared in 1612, Galileo did not understand why.   Later that century, it became understood that Saturn's unusual protrusions were rings and that when the Earth crosses the ring plane, the edge-on rings will appear to disappear.  This is because Saturn's rings are confined to a plane many times thinner, in proportion, than a razor blade.  In modern times, the robotic Cassini spacecraft that orbited Saturn frequently crossed Saturn's ring plane during its mission to Saturn, from 2004 to 2017.  A series of plane crossing images from 2005 February was dug out of the vast online Cassini raw image archive by interested Spanish amateur Fernando Garcia Navarro.  Pictured here, digitally cropped and set in representative colors, is the striking result.  Saturn's thin ring plane appears in blue, bands and clouds in Saturn's upper atmosphere appear in gold. Details of Saturn's rings can be seen in high dark shadows.  The moons Dione and Enceladus appear as bumps in the rings.</p>
+        <strong><em></em></strong>
     </div>
 </div>
