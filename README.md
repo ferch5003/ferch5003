@@ -60,13 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2511/saturnplane_cassini_1004.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2511/saturnplane_cassini_1004.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2511/LemmonTail_Fernandez_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2511/LemmonTail_Fernandez_960.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Crossing Saturn's Ring Plane</h4>
-        <time>2025-11-16</time>
-        <p>If this is Saturn, where are the rings?  When Saturn's "appendages" disappeared in 1612, Galileo did not understand why.   Later that century, it became understood that Saturn's unusual protrusions were rings and that when the Earth crosses the ring plane, the edge-on rings will appear to disappear.  This is because Saturn's rings are confined to a plane many times thinner, in proportion, than a razor blade.  In modern times, the robotic Cassini spacecraft that orbited Saturn frequently crossed Saturn's ring plane during its mission to Saturn, from 2004 to 2017.  A series of plane crossing images from 2005 February was dug out of the vast online Cassini raw image archive by interested Spanish amateur Fernando Garcia Navarro.  Pictured here, digitally cropped and set in representative colors, is the striking result.  Saturn's thin ring plane appears in blue, bands and clouds in Saturn's upper atmosphere appear in gold. Details of Saturn's rings can be seen in high dark shadows.  The moons Dione and Enceladus appear as bumps in the rings.</p>
+        <h4>Comet Lemmon's Wandering Tail</h4>
+        <time>2025-11-17</time>
+        <p>What has happened to Comet Lemmon's tail? The answer is blowing in the wind — the wind from the Sun in this case. This continuous outflow of charged particles from the Sun has been quite variable of late, as the Sun emits bursts of energy, CMEs, that push out and deflect charged particles emitted by the comet itself. The result is a blue hued ion tail for Comet C/2025 A6 (Lemmon) that is not only impressively intricate but takes some unusual turns. This long-duration composite image taken from Alfacar, Spain last month captured this inner Solar System ionic tumult. Comet Lemmon is now fading as it heads out away from the Earth and Sun and back into the outer Solar System.</p>
         <strong><em></em></strong>
     </div>
 </div>
