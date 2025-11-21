@@ -60,13 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2511/NebularSymphonyOrionsBelt1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2511/NebularSymphonyOrionsBelt1024.jpg" width="400" height="500" alt="Aygen Erkaslan">
+    <a href="https://apod.nasa.gov/apod/image/2511/3I_251114_1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2511/3I_251114_1024.jpg" width="400" height="500" alt="Rolando Ligustri">
     </a>
     <div>
-        <h4>Alnitak, Alnilam, Mintaka</h4>
-        <time>2025-11-20</time>
-        <p>Alnitak, Alnilam, and Mintaka are the bright bluish stars from east to west (upper right to lower left) along the diagonal in this cosmic vista. Otherwise known as the Belt of Orion, these three blue supergiant stars are hotter and much more massive than the Sun. They lie from 700 to 2,000 light-years away, born of Orion's well-studied interstellar clouds. In fact, clouds of gas and dust adrift in this region have some surprisingly familiar shapes, including the dark Horsehead Nebula and Flame Nebula near Alnitak at the upper right. The famous Orion Nebula itself is off the right edge of this colorful starfield. The telescopic frame spans almost 4 degrees on the sky.</p>
-        <strong><em>Aygen Erkaslan</em></strong>
+        <h4>3I/ATLAS: A View from Planet Earth</h4>
+        <time>2025-11-21</time>
+        <p>Now outbound after its perihelion or closest approach to the Sun on October 29, Comet 3I/ATLAS is only the third known interstellar object to pass through our fair Solar System. Its greenish coma and faint tails are seen against a background of stars in the constellation Virgo in this view from planet Earth, recorded with a small telescope on November 14. But this interstellar interloper is the subject of an on-going, unprecedented Solar System-wide observing campaign involving spacecraft and space telescopes from Earth orbit to the surface of Mars and beyond. And while the comet from another star-system has recently grown brighter, you'll still need a telescope if you want to see 3I/ATLAS from planet Earth. It's now above the horizon in November morning skies and will make its closest approach to Earth, a comfortable 270 million kilometers distant, around December 19.</p>
+        <strong><em>Rolando Ligustri</em></strong>
     </div>
 </div>
