@@ -60,13 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2511/SATURN2025-11-20-1130.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2511/SATURN2025-11-20-1130.jpg" width="400" height="500" alt="Christopher Go">
+    <a href="https://apod.nasa.gov/apod/image/2511/ObsUni_WikipediaPablo_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2511/ObsUni_WikipediaPablo_960.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Dione and Rhea Ring Transit</h4>
-        <time>2025-11-22</time>
-        <p>Seen to the left of Saturn's banded planetary disk, small icy moons Dione and Rhea are caught passing in front of the gas giant's extensive ring system in this sharp telescopic snapshot. The remarkable image was recorded on November 20, when Saturn's rings were nearly edge-on when viewed from planet Earth. In fact, every 13 to 16 years the view from planet Earth aligns with Saturn's ring plane to produce a series of ring plane crossings. During a ring plane crossing, the interplanetary edge-on perspective makes the thin but otherwise bright rings seem to disappear. By November 23rd Saturn's rings will have reached a minimum angle for now, at their narrowest for viewing from planet Earth, but then start to widen again. Of course, Dione and Rhea orbit Saturn near the ring plane once every 2.7 and 4.5 days respectively, while the next series of Saturn ring plane crossings as seen from Earth will begin again in 2038.</p>
-        <strong><em>Christopher Go</em></strong>
+        <h4>The Observable Universe</h4>
+        <time>2025-11-23</time>
+        <p>How far can you see? Everything you can see, and everything you could possibly see, right now, assuming your eyes could detect all types of radiations around you -- is the observable universe.  In light, the farthest we can see comes from the cosmic microwave background, a time 13.8 billion years ago when the universe was opaque like thick fog. Some neutrinos and gravitational waves that surround us come from even farther out, but humanity does not yet have the technology to detect them. The featured image illustrates the observable universe on an increasingly compact scale, with the Earth and Sun at the center surrounded by our Solar System, nearby stars, nearby galaxies, distant galaxies, filaments of early matter, and the cosmic microwave background. Cosmologists typically assume that our observable universe is just the nearby part of a greater entity known as "the universe" where the same physics applies.  However, there are several lines of popular but speculative reasoning that assert that even our universe is part of a greater multiverse where either different physical constants occur, different physical laws apply, higher dimensions operate, or slightly different-by-chance versions of our standard universe exist.   Explore the Observable Universe: Random APOD Generator</p>
+        <strong><em></em></strong>
     </div>
 </div>
