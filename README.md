@@ -60,13 +60,19 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2511/ApepStars_webb_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2511/ApepStars_webb_960.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2511/MilkyLemmon_Zixuan_1080.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2511/MilkyLemmon_Zixuan_1080.jpg" width="400" height="500" alt="
+Lin Zixuan 
+(Tsinghua U.)
+">
     </a>
     <div>
-        <h4>Apep: Unusual Dust Shells from Webb</h4>
-        <time>2025-11-24</time>
-        <p>What created this unusual space sculpture? Stars. This unusual system of swirls and shells, known as Apep, was observed in unprecedented detail by NASA’s James Webb Space Telescope in infrared light in 2024. Observations indicate that the unusual shape originates from two massive Wolf-Rayet stars orbiting each other every 190 years with each close passes causing a new shell of dust and gas to be expelled. Holes in these shells are thought to be caused by a third orbiting star. This stellar dust dance will likely continue for hundreds of thousands of years, possibly ending only when one of the massive stars runs out of internal nuclear fuel and explodes in a supernova punctuated by a burst of gamma-rays.   Build your own star system: Astronomy Puzzle of the Day</p>
-        <strong><em></em></strong>
+        <h4>Comet Lemmon and the Milky Way</h4>
+        <time>2025-11-25</time>
+        <p>What did Comet Lemmon look like when it was at its best? One example is pictured here, featuring three celestial spectacles all at different distances. The closest spectacle is the snowcapped Meili Mountains, part of the Himalayas in China.  The middle marvel is Comet Lemmon near its picturesque best early this month, showing not only a white dust tail trailing off to the right but its blue solar wind-distorted ion tail trailing off to the left.  Far in the distance on the left is the magnificent central plane of our Milky Way Galaxy, featuring dark dust, red nebula, and including billions of Sun-like stars. Comet C/2025 A6 (Lemmon) is already fading as it heads back into the outer Solar System, while the Himalayan mountains will gradually erode over the next billion years. The Milky Way Galaxy, though, will live on -- forming new mountains and comets -- for many billions of years into the future.</p>
+        <strong><em>
+Lin Zixuan 
+(Tsinghua U.)
+</em></strong>
     </div>
 </div>
