@@ -60,19 +60,17 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2511/MilkyLemmon_Zixuan_1080.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2511/MilkyLemmon_Zixuan_1080.jpg" width="400" height="500" alt="
-Lin Zixuan 
-(Tsinghua U.)
+    <a href="https://apod.nasa.gov/apod/image/2511/M15Deep_AIP_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2511/M15Deep_AIP_960.jpg" width="400" height="500" alt="
+Alvaro Ibanez Perez
 ">
     </a>
     <div>
-        <h4>Comet Lemmon and the Milky Way</h4>
-        <time>2025-11-25</time>
-        <p>What did Comet Lemmon look like when it was at its best? One example is pictured here, featuring three celestial spectacles all at different distances. The closest spectacle is the snowcapped Meili Mountains, part of the Himalayas in China.  The middle marvel is Comet Lemmon near its picturesque best early this month, showing not only a white dust tail trailing off to the right but its blue solar wind-distorted ion tail trailing off to the left.  Far in the distance on the left is the magnificent central plane of our Milky Way Galaxy, featuring dark dust, red nebula, and including billions of Sun-like stars. Comet C/2025 A6 (Lemmon) is already fading as it heads back into the outer Solar System, while the Himalayan mountains will gradually erode over the next billion years. The Milky Way Galaxy, though, will live on -- forming new mountains and comets -- for many billions of years into the future.</p>
+        <h4>Globular Cluster M15 Deep Field</h4>
+        <time>2025-11-26</time>
+        <p>Stars, like bees, swarm around the center of bright globular cluster M15.  The central ball of over 100,000 stars is a relic from the early years of our Galaxy, and continues to orbit the Milky Way's center.  M15, one of about 150 globular clusters remaining, is noted for being easily visible with only binoculars, having at its center one of the densest concentrations of stars known, and containing a high abundance of variable stars and pulsars.  The featured image of M15 was taken by combining very long exposures -- 122 hours in all -- and so brings up faint wisps of gas and dust in front of the giant ball of stars. M15 lies about 35,000 light years away toward the constellation of the Winged Horse (Pegasus).    Almost Hyperspace: Random APOD Generator</p>
         <strong><em>
-Lin Zixuan 
-(Tsinghua U.)
+Alvaro Ibanez Perez
 </em></strong>
     </div>
 </div>
