@@ -60,13 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2511/GHR1127sbarbaralunapicc1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2511/GHR1127sbarbaralunapicc1024.jpg" width="400" height="500" alt="Giorgia Hofer">
+    <a href="https://apod.nasa.gov/apod/image/2511/Titan_Huygens_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2511/Titan_Huygens_960.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Moon Games</h4>
-        <time>2025-11-29</time>
-        <p>This is not a screen from a video game. Nestled below the tree-line, the small mountain church does look like it might be hiding from Moon though. In the well-composed telephoto snapshot, taken on November 23, the church walls are partly reflecting light from terrestrial flood lights. Of course, the Moon is reflecting light from the Sun. At any given time the Sun illuminates fully half of the Moon's surface, also known as the lunar dayside, but on that night only a sliver of its sunlit surface was visible. About three days after New Moon, the Moon was in a waxing crescent phase. The single exposure was captured shortly after sunset in skies near Danta di Cadore, northern Italy, planet Earth.</p>
-        <strong><em>Giorgia Hofer</em></strong>
+        <h4>The Surface of Titan from Huygens</h4>
+        <time>2025-11-30</time>
+        <p>If you could stand on Titan -- what would you see? The featured color view from Titan gazes across an unfamiliar and distant landscape on Saturn's largest moon.  The scene was recorded by ESA's Huygens probe in 2005 after a 2.5-hour descent through a thick atmosphere of nitrogen laced with methane.  Bathed in an eerie orange light at ground level, rocks strewn about the scene could well be composed of water and hydrocarbons frozen solid at an inhospitable temperature of negative 179 degrees C.  The large light-toned rock below and left of center is only about 15 centimeters across and lies 85 centimeters away.  The saucer-shaped spacecraft is believed to have penetrated about 15 centimeters into a place on Titan's surface that had the consistency of wet sand or clay.  Huygen's batteries enabled the probe to take and transmit data for more than 90 minutes after landing.  Titan's bizarre chemical environment may bear similarities to planet Earth's before life evolved.</p>
+        <strong><em></em></strong>
     </div>
 </div>
