@@ -60,13 +60,19 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2511/Titan_Huygens_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2511/Titan_Huygens_960.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2512/Comet3I_SabetWinter_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2512/Comet3I_SabetWinter_960.jpg" width="400" height="500" alt="
+Victor Sabet & 
+Julien De Winter
+">
     </a>
     <div>
-        <h4>The Surface of Titan from Huygens</h4>
-        <time>2025-11-30</time>
-        <p>If you could stand on Titan -- what would you see? The featured color view from Titan gazes across an unfamiliar and distant landscape on Saturn's largest moon.  The scene was recorded by ESA's Huygens probe in 2005 after a 2.5-hour descent through a thick atmosphere of nitrogen laced with methane.  Bathed in an eerie orange light at ground level, rocks strewn about the scene could well be composed of water and hydrocarbons frozen solid at an inhospitable temperature of negative 179 degrees C.  The large light-toned rock below and left of center is only about 15 centimeters across and lies 85 centimeters away.  The saucer-shaped spacecraft is believed to have penetrated about 15 centimeters into a place on Titan's surface that had the consistency of wet sand or clay.  Huygen's batteries enabled the probe to take and transmit data for more than 90 minutes after landing.  Titan's bizarre chemical environment may bear similarities to planet Earth's before life evolved.</p>
-        <strong><em></em></strong>
+        <h4>3I ATLAS: Tails of an Interstellar Comet</h4>
+        <time>2025-12-01</time>
+        <p>How typical is our Solar System?  Studying 3I/ATLAS, a comet just passing through, is providing clues.  Confirmed previous interstellar visitors include an asteroid, a comet, a meteor, and a gas wind dominated by hydrogen and helium. Comet 3I/ATLAS appears relatively normal when compared to Solar System comets, therefore providing more evidence that our Solar System is a somewhat typical star system.  For example, Comet 3I/ATLAS has a broadly similar chemical composition and ejected dust. The featured image was captured last week from Texas and shows a green coma, a wandering blue-tinted ion tail likely deflected by our Sun's wind, and a slight anti-tail, all typical cometary attributes.  The comet, visible with a telescope, passed its closest to the Sun in late October and will pass its closest to the Earth in mid-December, after which it will return to interstellar space and never return.    Explore the Universe: Random APOD Generator</p>
+        <strong><em>
+Victor Sabet & 
+Julien De Winter
+</em></strong>
     </div>
 </div>
