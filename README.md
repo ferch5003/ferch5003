@@ -60,13 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2512/M77_Hubble_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2512/M77_Hubble_960.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2512/BlackHoleViz_Schnittman_1080.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2512/BlackHoleViz_Schnittman_1080.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>M77: Spiral Galaxy with an Active Center</h4>
-        <time>2025-12-02</time>
-        <p>What's happening in the center of nearby spiral galaxy M77? The face-on galaxy lies a mere 47 million light-years away toward the constellation of the Sea Monster (Cetus).  At that estimated distance, this gorgeous island universe is about 100 thousand light-years across.  Also known as NGC 1068, its compact and very bright core is well studied by astronomers exploring the mysteries of supermassive black holes in active Seyfert galaxies.  M77's active core glows bright at x-ray, ultraviolet, visible, infrared, and radio wavelengths.  The featured sharp image of M77 was taken by the Hubble Space Telescope. The image shows details of the spiral's winding spiral arms as traced by obscuring red dust clouds and blue star clusters, all circling the galaxy's bright white luminous center.   Free APOD Lecture in Phoenix: Wednesday, December 10 at 7 pm</p>
+        <h4>Visualization: Near a Black Hole and Disk</h4>
+        <time>2025-12-03</time>
+        <p>What would it look like to plunge into a monster black hole?  This image from a supercomputer visualization shows the entire sky as seen from a simulated camera plunging toward a 4-million-solar-mass black hole, similar to the one at the center of our galaxy.  The camera lies about 16 million kilometers from the black hole’s event horizon and is moving inward at 62% the speed of light.  Thanks to gravity’s funhouse effects, the starry band of the Milky Way appears both as a compact loop at the top of this view and as a secondary image stretching across the bottom.  Move the cursor over the image for additional explanations.  Visualizations like this allow astronomers to explore black holes in ways not otherwise possible.</p>
         <strong><em></em></strong>
     </div>
 </div>
