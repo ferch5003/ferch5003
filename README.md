@@ -60,13 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2512/moonshorty_apollo17_1080.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2512/moonshorty_apollo17_1080.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2512/sunspectrum_mpso_1080.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2512/sunspectrum_mpso_1080.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Apollo 17 at Shorty Crater</h4>
-        <time>2025-12-06</time>
-        <p>Fifty three years ago, in December of 1972, Apollo 17 astronauts Eugene Cernan and Harrison Schmitt spent about 75 hours on the Moon exploring the Taurus-Littrow valley, while colleague Ronald Evans orbited overhead. This snapshot from another world was taken by Cernan as he and Schmitt roamed the lunar valley's floor. The image shows Schmitt next to the lunar rover parked at the southeast rim of Shorty Crater.  That location is near the spot where geologist Schmitt discovered orange lunar soil. The Apollo 17 crew returned with 110 kilograms of rock and soil samples, more than was returned from any of the other lunar landing sites. And for now, Cernan and Schmitt are the last to walk on the Moon.</p>
+        <h4>The Sun and Its Missing Colors</h4>
+        <time>2025-12-07</time>
+        <p>It is still not known why the Sun's light is missing some colors.  Here are all the visible colors of the Sun, produced by passing the Sun's light through a prism-like device.  The spectrum was created at the McMath-Pierce Solar Observatory and shows, first off, that although our white-appearing Sun emits light of nearly every color, it appears brightest in yellow-green light.  The dark patches in the featured spectrum arise from gas at or above the Sun's surface absorbing sunlight emitted below.  Since different types of gas absorb different colors of light, it is possible to determine what gasses compose the Sun.  Helium, for example, was first discovered in 1868 on a solar spectrum and only later found here on Earth.  Today, the majority of spectral absorption lines have been identified - but not all.   Free APOD Lecture in Phoenix: Wednesday, December 10 at 7 pm</p>
         <strong><em></em></strong>
     </div>
 </div>
