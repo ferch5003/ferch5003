@@ -60,13 +60,11 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2512/sunspectrum_mpso_1080.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2512/sunspectrum_mpso_1080.jpg" width="400" height="500" alt="">
-    </a>
+    <video src="https://www.youtube.com/embed/FG0fTKAqZ5g?rel=0" width="400" height="500"></video>
     <div>
-        <h4>The Sun and Its Missing Colors</h4>
-        <time>2025-12-07</time>
-        <p>It is still not known why the Sun's light is missing some colors.  Here are all the visible colors of the Sun, produced by passing the Sun's light through a prism-like device.  The spectrum was created at the McMath-Pierce Solar Observatory and shows, first off, that although our white-appearing Sun emits light of nearly every color, it appears brightest in yellow-green light.  The dark patches in the featured spectrum arise from gas at or above the Sun's surface absorbing sunlight emitted below.  Since different types of gas absorb different colors of light, it is possible to determine what gasses compose the Sun.  Helium, for example, was first discovered in 1868 on a solar spectrum and only later found here on Earth.  Today, the majority of spectral absorption lines have been identified - but not all.   Free APOD Lecture in Phoenix: Wednesday, December 10 at 7 pm</p>
+        <h4>Flying Over the Earth at Night</h4>
+        <time>2025-12-08</time>
+        <p>Many wonders are visible when flying over the Earth at night.  Such visual spectacles occur every day for astronauts in low Earth orbit, but the featured video captured several from the International Space Station (ISS) in 2011 and set them to rousing music.  Passing below are white clouds, orange city lights, lightning flashes in thunderstorms, and dark blue seas.  On the horizon is the golden haze of Earth's thin atmosphere, frequently decorated by dancing auroras as the video progresses.  The green parts of auroras typically remain below the space station, but the station flies right through the red and purple auroral peaks.  Solar panels of the ISS are seen around the frame edges.  The ominous wave of approaching brightness at the end of each sequence is just the dawn of the sunlit half of Earth, a dawn that occurs every 90 minutes.   Free APOD Lecture in Phoenix: This Wednesday (December 10) at 7 pm</p>
         <strong><em></em></strong>
     </div>
 </div>
