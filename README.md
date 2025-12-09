@@ -60,11 +60,17 @@
 ### Do you know...
 
 <div>
-    <video src="https://www.youtube.com/embed/FG0fTKAqZ5g?rel=0" width="400" height="500"></video>
+    <a href="https://apod.nasa.gov/apod/image/2512/Soul_Bugin_1080.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2512/Soul_Bugin_1080.jpg" width="400" height="500" alt="
+Nicola Bugin
+">
+    </a>
     <div>
-        <h4>Flying Over the Earth at Night</h4>
-        <time>2025-12-08</time>
-        <p>Many wonders are visible when flying over the Earth at night.  Such visual spectacles occur every day for astronauts in low Earth orbit, but the featured video captured several from the International Space Station (ISS) in 2011 and set them to rousing music.  Passing below are white clouds, orange city lights, lightning flashes in thunderstorms, and dark blue seas.  On the horizon is the golden haze of Earth's thin atmosphere, frequently decorated by dancing auroras as the video progresses.  The green parts of auroras typically remain below the space station, but the station flies right through the red and purple auroral peaks.  Solar panels of the ISS are seen around the frame edges.  The ominous wave of approaching brightness at the end of each sequence is just the dawn of the sunlit half of Earth, a dawn that occurs every 90 minutes.   Free APOD Lecture in Phoenix: This Wednesday (December 10) at 7 pm</p>
-        <strong><em></em></strong>
+        <h4>The Heart of the Soul Nebula</h4>
+        <time>2025-12-09</time>
+        <p>This cosmic close-up looks deep inside the Soul Nebula. The dark and brooding dust clouds outlined by bright ridges of glowing gas are cataloged as IC 1871. About 25 light-years across, the telescopic field of view spans only a small part of the much larger Heart and Soul nebulae. At an estimated distance of 6,500 light-years, the star-forming complex lies within the Perseus spiral arm of the Milky Way, seen in planet Earth's skies toward the constellation of the Queen of Aethiopia (Cassiopeia). An example of triggered star formation, the dense star-forming clouds of IC 1871 are themselves sculpted by the intense winds and radiation of the region's massive young stars. This color image adopts a palette made popular in Hubble images of star-forming regions.</p>
+        <strong><em>
+Nicola Bugin
+</em></strong>
     </div>
 </div>
