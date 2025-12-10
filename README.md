@@ -60,17 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2512/Soul_Bugin_1080.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2512/Soul_Bugin_1080.jpg" width="400" height="500" alt="
-Nicola Bugin
-">
+    <a href="https://apod.nasa.gov/apod/image/2512/IC434NM900.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2512/IC434NM900.jpg" width="400" height="500" alt="George Chatzifrantzis">
     </a>
     <div>
-        <h4>The Heart of the Soul Nebula</h4>
-        <time>2025-12-09</time>
-        <p>This cosmic close-up looks deep inside the Soul Nebula. The dark and brooding dust clouds outlined by bright ridges of glowing gas are cataloged as IC 1871. About 25 light-years across, the telescopic field of view spans only a small part of the much larger Heart and Soul nebulae. At an estimated distance of 6,500 light-years, the star-forming complex lies within the Perseus spiral arm of the Milky Way, seen in planet Earth's skies toward the constellation of the Queen of Aethiopia (Cassiopeia). An example of triggered star formation, the dense star-forming clouds of IC 1871 are themselves sculpted by the intense winds and radiation of the region's massive young stars. This color image adopts a palette made popular in Hubble images of star-forming regions.</p>
-        <strong><em>
-Nicola Bugin
-</em></strong>
+        <h4>The Horsehead Nebula</h4>
+        <time>2025-12-10</time>
+        <p>Sculpted by stellar winds and radiation, this dusty interstellar molecular cloud has by chance has assumed an immediately recognizable shape. Fittingly known as The Horsehead Nebula, it lies some 1,500 light-years distant, embedded in the vast Orion cloud complex. About five light-years "tall," the dark cloud is cataloged as Barnard 33, first identified on a photographic plate taken in the late 19th century.  B33 is visible primarily because its obscuring dust is silhouetted against the glow of emission nebula IC 434.  Hubble space telescope images from the early 21st century find young stars forming within B33. Of course, the magnificent interstellar cloud will slowly shift its apparent shape over the next few million years. But for now the Horsehead Nebula is a rewarding though difficult object to view with small telescopes from planet Earth.</p>
+        <strong><em>George Chatzifrantzis</em></strong>
     </div>
 </div>
