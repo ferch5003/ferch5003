@@ -60,13 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2512/IC434NM900.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2512/IC434NM900.jpg" width="400" height="500" alt="George Chatzifrantzis">
+    <a href="https://apod.nasa.gov/apod/image/2512/NGC1532_1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2512/NGC1532_1024.jpg" width="400" height="500" alt="Vikas Chander">
     </a>
     <div>
-        <h4>The Horsehead Nebula</h4>
-        <time>2025-12-10</time>
-        <p>Sculpted by stellar winds and radiation, this dusty interstellar molecular cloud has by chance has assumed an immediately recognizable shape. Fittingly known as The Horsehead Nebula, it lies some 1,500 light-years distant, embedded in the vast Orion cloud complex. About five light-years "tall," the dark cloud is cataloged as Barnard 33, first identified on a photographic plate taken in the late 19th century.  B33 is visible primarily because its obscuring dust is silhouetted against the glow of emission nebula IC 434.  Hubble space telescope images from the early 21st century find young stars forming within B33. Of course, the magnificent interstellar cloud will slowly shift its apparent shape over the next few million years. But for now the Horsehead Nebula is a rewarding though difficult object to view with small telescopes from planet Earth.</p>
-        <strong><em>George Chatzifrantzis</em></strong>
+        <h4>Galaxies in the River</h4>
+        <time>2025-12-11</time>
+        <p>Large galaxies grow by eating small ones. Even our own galaxy engages in a sort of galactic cannibalism, absorbing small galaxies that are too close and are captured by the Milky Way's gravity. In fact, the practice is common in the universe and illustrated by this striking pair of interacting galaxies from the banks of the southern constellation Eridanus, The River. Located over 50 million light years away, the large, distorted spiral NGC 1532 is seen locked in a gravitational struggle with dwarf galaxy NGC 1531, a struggle the smaller galaxy will eventually lose. Seen nearly edge-on, in this sharp image spiral NGC 1532 spans about 100,000 light-years. The NGC 1532/1531 pair is thought to be similar to the well-studied system of face-on spiral and small companion known as M51.</p>
+        <strong><em>Vikas Chander</em></strong>
     </div>
 </div>
