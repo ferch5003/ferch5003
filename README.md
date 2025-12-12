@@ -60,13 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2512/NGC1532_1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2512/NGC1532_1024.jpg" width="400" height="500" alt="Vikas Chander">
+    <a href="https://apod.nasa.gov/apod/image/2512/Firefox-Lehtonen-Dennis1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2512/Firefox-Lehtonen-Dennis1024.jpg" width="400" height="500" alt="Dennis Lehtonen">
     </a>
     <div>
-        <h4>Galaxies in the River</h4>
-        <time>2025-12-11</time>
-        <p>Large galaxies grow by eating small ones. Even our own galaxy engages in a sort of galactic cannibalism, absorbing small galaxies that are too close and are captured by the Milky Way's gravity. In fact, the practice is common in the universe and illustrated by this striking pair of interacting galaxies from the banks of the southern constellation Eridanus, The River. Located over 50 million light years away, the large, distorted spiral NGC 1532 is seen locked in a gravitational struggle with dwarf galaxy NGC 1531, a struggle the smaller galaxy will eventually lose. Seen nearly edge-on, in this sharp image spiral NGC 1532 spans about 100,000 light-years. The NGC 1532/1531 pair is thought to be similar to the well-studied system of face-on spiral and small companion known as M51.</p>
-        <strong><em>Vikas Chander</em></strong>
+        <h4>Northern Fox Fires</h4>
+        <time>2025-12-12</time>
+        <p>In a Finnish myth, when an arctic fox runs so fast that its bushy tail brushes the mountains, flaming sparks are cast into the heavens creating the northern lights. In fact the Finnish word "revontulet", a name for the aurora borealis or northern lights, can be translated as fire fox. So that evocative myth took on a special significance for the photographer of this northern night skyscape from Finnish Lapland near Kilpisjarvi Lake. The snowy scene is illuminated by moonlight. Saana, an iconic fell or mountain of Lapland, rises at the right in the background. But as the beautiful nothern lights danced overhead, the wild fire fox in the foreground enthusiastically ran around the photographer and his equipment, making it difficult to capture in this lucky single shot.</p>
+        <strong><em>Dennis Lehtonen</em></strong>
     </div>
 </div>
