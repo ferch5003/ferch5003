@@ -60,13 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2512/Firefox-Lehtonen-Dennis1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2512/Firefox-Lehtonen-Dennis1024.jpg" width="400" height="500" alt="Dennis Lehtonen">
+    <a href="https://apod.nasa.gov/apod/image/2512/art001e002132_apod1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2512/art001e002132_apod1024.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Northern Fox Fires</h4>
-        <time>2025-12-12</time>
-        <p>In a Finnish myth, when an arctic fox runs so fast that its bushy tail brushes the mountains, flaming sparks are cast into the heavens creating the northern lights. In fact the Finnish word "revontulet", a name for the aurora borealis or northern lights, can be translated as fire fox. So that evocative myth took on a special significance for the photographer of this northern night skyscape from Finnish Lapland near Kilpisjarvi Lake. The snowy scene is illuminated by moonlight. Saana, an iconic fell or mountain of Lapland, rises at the right in the background. But as the beautiful nothern lights danced overhead, the wild fire fox in the foreground enthusiastically ran around the photographer and his equipment, making it difficult to capture in this lucky single shot.</p>
-        <strong><em>Dennis Lehtonen</em></strong>
+        <h4>Orion and the Ocean of Storms</h4>
+        <time>2025-12-13</time>
+        <p>On December 5, 2022, a camera on board the uncrewed Orion spacecraft captured this view as Orion approached its return powered flyby of the Moon.  Beyond one of Orion's extended solar arrays lies dark, smooth, terrain along the western edge of the Oceanus Procellarum. Prominent on the lunar nearside Oceanus Procellarum, the Ocean of Storms, is the largest of the Moon's lava-flooded maria. The lunar terminator, the shadow line between lunar night and day, runs along the left of this frame. The 41 kilometer diameter crater Marius is top center, with ray crater Kepler peeking in at the edge, just right of the solar array wing. Kepler's bright rays extend to the north and west, reaching the dark-floored Marius. By December 11, 2022 the Orion spacecraft had returned to its home world. The historic Artemis 1 mission ended with Orion's successful splashdown in planet Earth's water-flooded Pacific Ocean.  Watch: The Geminid Meteor Shower</p>
+        <strong><em></em></strong>
     </div>
 </div>
