@@ -60,13 +60,11 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2512/art001e002132_apod1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2512/art001e002132_apod1024.jpg" width="400" height="500" alt="">
-    </a>
+    <video src="https://www.youtube.com/embed/CC7OJ7gFLvE?rel=0" width="400" height="500"></video>
     <div>
-        <h4>Orion and the Ocean of Storms</h4>
-        <time>2025-12-13</time>
-        <p>On December 5, 2022, a camera on board the uncrewed Orion spacecraft captured this view as Orion approached its return powered flyby of the Moon.  Beyond one of Orion's extended solar arrays lies dark, smooth, terrain along the western edge of the Oceanus Procellarum. Prominent on the lunar nearside Oceanus Procellarum, the Ocean of Storms, is the largest of the Moon's lava-flooded maria. The lunar terminator, the shadow line between lunar night and day, runs along the left of this frame. The 41 kilometer diameter crater Marius is top center, with ray crater Kepler peeking in at the edge, just right of the solar array wing. Kepler's bright rays extend to the north and west, reaching the dark-floored Marius. By December 11, 2022 the Orion spacecraft had returned to its home world. The historic Artemis 1 mission ended with Orion's successful splashdown in planet Earth's water-flooded Pacific Ocean.  Watch: The Geminid Meteor Shower</p>
+        <h4>Juno Flyby of Ganymede and Jupiter</h4>
+        <time>2025-12-14</time>
+        <p>What would it be like to fly over the largest moon in the Solar System? In 2021, the robotic Juno spacecraft flew past Jupiter's huge moon Ganymede and took images that have been digitally constructed into a detailed flyby. As the featured video begins, Juno swoops over the two-toned surface of the 2,000-km wide moon, revealing an icy alien landscape filled with grooves and craters. The grooves are likely caused by shifting surface plates, while the craters are caused by violent impacts. Continuing on in its orbit, Juno then performed its 34th close pass over Jupiter's clouds. The digitally-constructed video shows numerous swirling clouds in the north, colorful planet-circling zones and bands across the middle -- featuring several white-oval clouds from the String of Pearls, and finally more swirling clouds in the south.</p>
         <strong><em></em></strong>
     </div>
 </div>
