@@ -60,11 +60,17 @@
 ### Do you know...
 
 <div>
-    <video src="https://www.youtube.com/embed/CC7OJ7gFLvE?rel=0" width="400" height="500"></video>
+    <a href="https://apod.nasa.gov/apod/image/2512/GeminidWinter_Slovinsky_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2512/GeminidWinter_Slovinsky_960.jpg" width="400" height="500" alt="
+Tomáš Slovinský
+">
+    </a>
     <div>
-        <h4>Juno Flyby of Ganymede and Jupiter</h4>
-        <time>2025-12-14</time>
-        <p>What would it be like to fly over the largest moon in the Solar System? In 2021, the robotic Juno spacecraft flew past Jupiter's huge moon Ganymede and took images that have been digitally constructed into a detailed flyby. As the featured video begins, Juno swoops over the two-toned surface of the 2,000-km wide moon, revealing an icy alien landscape filled with grooves and craters. The grooves are likely caused by shifting surface plates, while the craters are caused by violent impacts. Continuing on in its orbit, Juno then performed its 34th close pass over Jupiter's clouds. The digitally-constructed video shows numerous swirling clouds in the north, colorful planet-circling zones and bands across the middle -- featuring several white-oval clouds from the String of Pearls, and finally more swirling clouds in the south.</p>
-        <strong><em></em></strong>
+        <h4>Gemini Meteors over Snow Capped Mountains</h4>
+        <time>2025-12-15</time>
+        <p>Where are all of these meteors coming from?  In terms of direction on the sky, the pointed answer is the constellation of Gemini.  That is why the major meteor shower in December is known as the Geminids -- because shower meteors all appear to come from a radiant toward Gemini. Three dimensionally, however, sand-sized debris expelled from the unusual asteroid 3200 Phaethon follows a well-defined orbit about our Sun, and the part of the orbit that approaches Earth is superposed in front of the constellation of Gemini. Therefore, when Earth crosses this orbit, the radiant point of falling debris appears in Gemini. Featured here is a composite of many images taken over the past few days through dark skies from Slovakia and capturing the snow-covered peaks of the Belianske Tatra mountains Numerous  bright meteor streaks from the Geminids meteor shower are visible.  Orion is visible above the horizon, while the bright star nearest the radiant is Castor.    APOD Review: RJN's Night Sky Network Lecture</p>
+        <strong><em>
+Tomáš Slovinský
+</em></strong>
     </div>
 </div>
