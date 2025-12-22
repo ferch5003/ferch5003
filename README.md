@@ -60,13 +60,19 @@
 ### Do you know...
 
 <div>
-    <a href="">
-        <img align="left" src="" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2512/StonehengeSolstice_Dury_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2512/StonehengeSolstice_Dury_960.jpg" width="400" height="500" alt="
+English Heritage, 
+Josh Dury
+">
     </a>
     <div>
-        <h4>Solstice on a Spinning Earth</h4>
-        <time>2025-12-21</time>
-        <p>Can you tell that today is a solstice by the tilt of the Earth?  Yes. At a solstice, the Earth's terminator -- the dividing line between night and day -- is tilted the most.  The featured time-lapse video demonstrates this by displaying an entire year on planet Earth in twelve seconds. From geosynchronous orbit, the Meteosat 9 satellite recorded infrared images of the Earth every day at the same local time.  The video started at the September 2010 equinox with the terminator line being vertical: an equinox. As the Earth revolved around the Sun, the terminator was seen to tilt in a way that provides less daily sunlight to the northern hemisphere, causing winter in the north. At the most tilt, winter solstice occurred in the north, and summer solstice in the south.  As the year progressed, the March 2011 equinox arrived halfway through the video, followed by the terminator tilting the other way, causing winter in the southern hemisphere -- and summer in the north. The captured year ends again with the September equinox, concluding another of the billions of trips the Earth has taken -- and will take -- around the Sun.    APOD Review: RJN's Night Sky Network Lecture</p>
-        <strong><em></em></strong>
+        <h4>Sunset Solstice over Stonehenge</h4>
+        <time>2025-12-22</time>
+        <p>Yesterday the Sun reached its southernmost point in planet Earth's sky.  Called a solstice, many cultures mark yesterday's date as a change of seasons -- from autumn to winter in Earth's Northern Hemisphere and from spring to summer in Earth's Southern Hemisphere.  The featured image was taken just before the longest night of the 2025 northern year at Stonehenge in United Kingdom. There, through stones precisely placed 4,500 years ago, a 4.5 billion year old large glowing orb is seen setting. Even given the precession of the Earth's rotational axis over the millennia, the Sun continues to set over Stonehenge in an astronomically significant way.</p>
+        <strong><em>
+English Heritage, 
+Josh Dury
+</em></strong>
     </div>
 </div>
