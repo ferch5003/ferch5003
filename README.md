@@ -60,19 +60,17 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2512/StonehengeSolstice_Dury_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2512/StonehengeSolstice_Dury_960.jpg" width="400" height="500" alt="
-English Heritage, 
-Josh Dury
+    <a href="https://apod.nasa.gov/apod/image/2512/SpriteElf_binotto_1080.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2512/SpriteElf_binotto_1080.jpg" width="400" height="500" alt="
+Valter Binotto
 ">
     </a>
     <div>
-        <h4>Sunset Solstice over Stonehenge</h4>
-        <time>2025-12-22</time>
-        <p>Yesterday the Sun reached its southernmost point in planet Earth's sky.  Called a solstice, many cultures mark yesterday's date as a change of seasons -- from autumn to winter in Earth's Northern Hemisphere and from spring to summer in Earth's Southern Hemisphere.  The featured image was taken just before the longest night of the 2025 northern year at Stonehenge in United Kingdom. There, through stones precisely placed 4,500 years ago, a 4.5 billion year old large glowing orb is seen setting. Even given the precession of the Earth's rotational axis over the millennia, the Sun continues to set over Stonehenge in an astronomically significant way.</p>
+        <h4>Red Sprites and Circular Elves Lightning over Italy</h4>
+        <time>2025-12-23</time>
+        <p>What's happening in the sky? Lightning.  The most commonly seen type of lightning involves flashes of bright white light between clouds.  Over the past 50 years, though, other types of upper-atmospheric lightning have been confirmed, including tentacled red sprites and ringed ELVES.  Although both last only a small fraction of a second, sprites are brighter and easier to photograph than their more common electrical-discharge cousins.  ELVES are rapidly expanding rings that are thought to be created when an electromagnetic pulse shoots upward from charged clouds and impacts the ionosphere, causing nitrogen molecules to glow.  Capturing either form of lightning takes patience and experience -- capturing them both together, since they usually occur separately, is rare.  The featured image is a frame from a video recorded from Possagno, Italy late last month above a distant thunderstorm over the Adriatic Sea.</p>
         <strong><em>
-English Heritage, 
-Josh Dury
+Valter Binotto
 </em></strong>
     </div>
 </div>
