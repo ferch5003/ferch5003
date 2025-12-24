@@ -60,17 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2512/SpriteElf_binotto_1080.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2512/SpriteElf_binotto_1080.jpg" width="400" height="500" alt="
-Valter Binotto
-">
+    <a href="https://apod.nasa.gov/apod/image/2512/Lrd_Webb_1080.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2512/Lrd_Webb_1080.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Red Sprites and Circular Elves Lightning over Italy</h4>
-        <time>2025-12-23</time>
-        <p>What's happening in the sky? Lightning.  The most commonly seen type of lightning involves flashes of bright white light between clouds.  Over the past 50 years, though, other types of upper-atmospheric lightning have been confirmed, including tentacled red sprites and ringed ELVES.  Although both last only a small fraction of a second, sprites are brighter and easier to photograph than their more common electrical-discharge cousins.  ELVES are rapidly expanding rings that are thought to be created when an electromagnetic pulse shoots upward from charged clouds and impacts the ionosphere, causing nitrogen molecules to glow.  Capturing either form of lightning takes patience and experience -- capturing them both together, since they usually occur separately, is rare.  The featured image is a frame from a video recorded from Possagno, Italy late last month above a distant thunderstorm over the Adriatic Sea.</p>
-        <strong><em>
-Valter Binotto
-</em></strong>
+        <h4>Mystery: Little Red Dots in the Early Universe</h4>
+        <time>2025-12-24</time>
+        <p>What are these little red dots (LRDs)? Nobody knows. Discovered only last year, hundreds of LRDs have now been found by the James Webb Space Telescope in the early universe. Although extremely faint, LRDs are now frequently identified in deep observations made for other purposes. A wide-ranging debate is raging about what LRDs may be and what importance they may have.  Possible origin hypotheses include accreting supermassive black holes inside clouds of gas and dust, bursts of star formation in young dust-reddened galaxies, and dark matter powered gas clouds.  The highlighted images show six nearly featureless LRDs listed under the JWST program that found them, and z, a distance indicator called cosmological redshift.  Additionally, searches are underway in our nearby universe to try to find whatever previous LRDs might have become today.</p>
+        <strong><em></em></strong>
     </div>
 </div>
