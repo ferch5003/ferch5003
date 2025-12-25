@@ -60,13 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2512/Lrd_Webb_1080.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2512/Lrd_Webb_1080.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2512/IMG_7311_800.jpeg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2512/IMG_7311_800.jpeg" width="400" height="500" alt="Michael Kalika">
     </a>
     <div>
-        <h4>Mystery: Little Red Dots in the Early Universe</h4>
-        <time>2025-12-24</time>
-        <p>What are these little red dots (LRDs)? Nobody knows. Discovered only last year, hundreds of LRDs have now been found by the James Webb Space Telescope in the early universe. Although extremely faint, LRDs are now frequently identified in deep observations made for other purposes. A wide-ranging debate is raging about what LRDs may be and what importance they may have.  Possible origin hypotheses include accreting supermassive black holes inside clouds of gas and dust, bursts of star formation in young dust-reddened galaxies, and dark matter powered gas clouds.  The highlighted images show six nearly featureless LRDs listed under the JWST program that found them, and z, a distance indicator called cosmological redshift.  Additionally, searches are underway in our nearby universe to try to find whatever previous LRDs might have become today.</p>
-        <strong><em></em></strong>
+        <h4>Unicorn, Fox Fur and Christmas Tree</h4>
+        <time>2025-12-25</time>
+        <p>A star forming region cataloged as NGC 2264, this beautiful but complex arrangement of interstellar gas and dust is about 2,700 light-years distant in the faint but fanciful constellation Monoceros, the Unicorn. Seen toward the celestial equator and near the plane of our Milky Way galaxy, the seasonal skyscape mixes reddish emission nebulae excited by energetic light from newborn stars with dark interstellar dust clouds. Where the otherwise obscuring dust clouds lie close to the hot, young stars, they also reflect starlight, forming blue reflection nebulae. In fact, bright variable star S Monocerotis is immersed in a blue-tinted haze near center. Arrayed with a simple triangular outline above S Monocerotis, the stars of NGC 2264 are popularly known as the Christmas Tree star cluster. Carved by energetic starlight, the Cone Nebula sits upside down at the apex of this cosmic Christmas tree while the dusty, convoluted pelt of glowing gas and dust under the tree is called the Fox Fur Nebula. This rich telescopic frame spans about 1.5 degrees or 3 full moons on the sky top to bottom, covering nearly 80 light-years at the distance of NGC 2264.</p>
+        <strong><em>Michael Kalika</em></strong>
     </div>
 </div>
