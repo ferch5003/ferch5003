@@ -60,13 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2512/AS17-149-22859-2v2SmlWmk1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2512/AS17-149-22859-2v2SmlWmk1024.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2512/NGC1898_Hubble_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2512/NGC1898_Hubble_960.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Apollo 17's Moonship</h4>
-        <time>2025-12-27</time>
-        <p>Awkward and angular looking, Apollo 17's lunar module Challenger was designed for flight in the near vacuum of space.  Digitally enhanced and reprocessed, this picture taken from Apollo 17's command module America shows Challenger's ascent stage in lunar orbit. Small reaction control thrusters are at the sides of the moonship with the bell of the ascent rocket engine underneath. The hatch that allowed access to the lunar surface is seen at the front, with a round radar antenna at the top. Mission commander Gene Cernan is clearly visible through the triangular window. This spaceship performed gracefully, landing on the Moon and returning the Apollo astronauts to the orbiting command module in December of 1972. So where is Challenger now?  While its descent stage remains at the Apollo 17 landing site in the Taurus-Littrow valley, the ascent stage pictured was intentionally crashed nearby after being jettisoned from the command module prior to the astronauts' return to planet Earth.</p>
+        <h4>NGC 1898: Globular Cluster in the Large Magellanic Cloud</h4>
+        <time>2025-12-28</time>
+        <p>Jewels don't shine this bright -- only stars do. And almost every spot in this jewel-box of an image from the Hubble Space Telescope is a star. Now, some stars are more red than our Sun, and some more blue -- but all of them are much farther away.  Although it takes light about 8 minutes to reach Earth from the Sun, NGC 1898 is so far away that it takes light about 160,000 years to get here. This huge ball of stars, NGC 1898, is called a globular cluster and resides in the central bar of the Large Magellanic Cloud (LMC) -- a satellite galaxy of our Milky Way Galaxy. The featured multi-colored image includes light from the infrared to the ultraviolet and was taken to help determine if the stars of NGC 1898 all formed at the same time or at different times. There are increasing indications that most globular clusters formed stars in stages, and that, in particular, stars from NGC 1898 formed shortly after ancient encounters with the Small Magellanic Cloud (SMC) and our Milky Way Galaxy.   Space Telescopes Live: Where are Hubble and Webb looking right now?</p>
         <strong><em></em></strong>
     </div>
 </div>
