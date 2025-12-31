@@ -60,17 +60,17 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2512/ArtificialComet_Chao_1080.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2512/ArtificialComet_Chao_1080.jpg" width="400" height="500" alt="
-Wang Chao
+    <a href="https://apod.nasa.gov/apod/image/2512/WaterfallNeb_Selby_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2512/WaterfallNeb_Selby_960.jpg" width="400" height="500" alt="
+Mike Selby
 ">
     </a>
     <div>
-        <h4>An Artificial Comet</h4>
-        <time>2025-12-30</time>
-        <p>Yes, but can your comet tail do this? No, and what you are seeing is not the tail of a comet. The picture features a cleverly overlayed time-lapse sequence of a group of satellites orbiting Earth together in June. Specifically, these are Starlink communications satellites in low Earth orbit reflecting back sunlight before sunrise to Inner Mongolia, China. Although the satellites appear to the human eye as points, the 20-second-long camera exposures caused them to appear as short streaks. Currently there are over 9000 Starlinks in orbit, with more being launched nearly every week.  Other satellite constellations are also being planned.   Explore the Universe: Random APOD Generator</p>
+        <h4>HH-222: The Waterfall Nebula</h4>
+        <time>2025-12-31</time>
+        <p>What created the Waterfall Nebula?  The origin is still being researched.  The structure, officially designated Herbig-Haro 222, appears in the region of NGC 1999 in the Great Orion Molecular Cloud complex. The elongated gaseous stream stretches about ten light years but appears similar to a long waterfall on Earth.  Recent observations indicate that HH-222 is likely a gigantic gaseous bow shock, similar to a wave of water caused by a fast-moving ship. The origin of this shock wave is thought to be a jet outflow from the multiple star system V380 Orionis off the lower left of the frame.  Therefore, gas does not flow along the waterfall, but rather the entire structure moves toward the upper right.  The Waterfall Nebula lies about 1,500 light years away toward the constellation of Orion.  The featured image was captured earlier this month from El Sauce Observatory in Chile.   Jigsaw Nebula: Astronomy Puzzle of the Day</p>
         <strong><em>
-Wang Chao
+Mike Selby
 </em></strong>
     </div>
 </div>
