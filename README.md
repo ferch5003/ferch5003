@@ -60,17 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2512/WaterfallNeb_Selby_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2512/WaterfallNeb_Selby_960.jpg" width="400" height="500" alt="
-Mike Selby
-">
+    <a href="https://apod.nasa.gov/apod/image/2601/AuroraFireworksstormRoiLevi1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2601/AuroraFireworksstormRoiLevi1024.jpg" width="400" height="500" alt="Roi Levi">
     </a>
     <div>
-        <h4>HH-222: The Waterfall Nebula</h4>
-        <time>2025-12-31</time>
-        <p>What created the Waterfall Nebula?  The origin is still being researched.  The structure, officially designated Herbig-Haro 222, appears in the region of NGC 1999 in the Great Orion Molecular Cloud complex. The elongated gaseous stream stretches about ten light years but appears similar to a long waterfall on Earth.  Recent observations indicate that HH-222 is likely a gigantic gaseous bow shock, similar to a wave of water caused by a fast-moving ship. The origin of this shock wave is thought to be a jet outflow from the multiple star system V380 Orionis off the lower left of the frame.  Therefore, gas does not flow along the waterfall, but rather the entire structure moves toward the upper right.  The Waterfall Nebula lies about 1,500 light years away toward the constellation of Orion.  The featured image was captured earlier this month from El Sauce Observatory in Chile.   Jigsaw Nebula: Astronomy Puzzle of the Day</p>
-        <strong><em>
-Mike Selby
-</em></strong>
+        <h4>Auroral Corona</h4>
+        <time>2026-01-01</time>
+        <p>Cycle 25 solar maximum made 2025 a great year for aurora borealis (or aurora australis) on planet Earth. And the high level of solar activity should extend into 2026. So, while you're celebrating the arrival of the new year, check out this spectacular auroral display that erupted in starry night skies over Kirkjufell, Iceland. The awesome auroral corona, energetic curtains of light streaming from directly overhead, was witnessed during a strong geomagnetic storm triggered by intense solar activity near the March 2025 equinox. This northland and skyscape captures the evocative display in a 21 frame panoramic mosaic.</p>
+        <strong><em>Roi Levi</em></strong>
     </div>
 </div>
