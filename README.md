@@ -60,13 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2601/AuroraFireworksstormRoiLevi1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2601/AuroraFireworksstormRoiLevi1024.jpg" width="400" height="500" alt="Roi Levi">
+    <a href="https://apod.nasa.gov/apod/image/2601/NanosailD2_reprocessed1a1024.png">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2601/NanosailD2_reprocessed1a1024.png" width="400" height="500" alt="Ralf Vandebergh">
     </a>
     <div>
-        <h4>Auroral Corona</h4>
-        <time>2026-01-01</time>
-        <p>Cycle 25 solar maximum made 2025 a great year for aurora borealis (or aurora australis) on planet Earth. And the high level of solar activity should extend into 2026. So, while you're celebrating the arrival of the new year, check out this spectacular auroral display that erupted in starry night skies over Kirkjufell, Iceland. The awesome auroral corona, energetic curtains of light streaming from directly overhead, was witnessed during a strong geomagnetic storm triggered by intense solar activity near the March 2025 equinox. This northland and skyscape captures the evocative display in a 21 frame panoramic mosaic.</p>
-        <strong><em>Roi Levi</em></strong>
+        <h4>NanoSail-D2</h4>
+        <time>2026-01-02</time>
+        <p>In 2011, on January 20, NASA's NanoSail-D2 unfurled a very thin and very reflective 10 square meter sail becoming the first solar sail spacecraft in low Earth orbit. Often considered the stuff of science fiction, sailing through space was suggested 400 years ago by astronomer Johannes Kepler, who had observed comet tails blown by the solar wind. But modern solar sail spacecraft designs, like NanoSail-D2, Japan's interplanetary spacecraft IKAROS, or the Planetary Society's Lightsail A, rely on the small but continuous pressure from sunlight itself for thrust. Glinting in the sunlight as it circled planet Earth, NanoSail-D2's solar sail was periodically bright and visible to the eye. These remarkably detailed images were captured by manually tracking the orbiting solar sail spacecraft with a small telescope.</p>
+        <strong><em>Ralf Vandebergh</em></strong>
     </div>
 </div>
