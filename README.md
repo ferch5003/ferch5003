@@ -60,13 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2601/NanosailD2_reprocessed1a1024.png">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2601/NanosailD2_reprocessed1a1024.png" width="400" height="500" alt="Ralf Vandebergh">
+    <a href="https://apod.nasa.gov/apod/image/2601/moonwalk1c1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2601/moonwalk1c1024.jpg" width="400" height="500" alt="Jeff Dai">
     </a>
     <div>
-        <h4>NanoSail-D2</h4>
-        <time>2026-01-02</time>
-        <p>In 2011, on January 20, NASA's NanoSail-D2 unfurled a very thin and very reflective 10 square meter sail becoming the first solar sail spacecraft in low Earth orbit. Often considered the stuff of science fiction, sailing through space was suggested 400 years ago by astronomer Johannes Kepler, who had observed comet tails blown by the solar wind. But modern solar sail spacecraft designs, like NanoSail-D2, Japan's interplanetary spacecraft IKAROS, or the Planetary Society's Lightsail A, rely on the small but continuous pressure from sunlight itself for thrust. Glinting in the sunlight as it circled planet Earth, NanoSail-D2's solar sail was periodically bright and visible to the eye. These remarkably detailed images were captured by manually tracking the orbiting solar sail spacecraft with a small telescope.</p>
-        <strong><em>Ralf Vandebergh</em></strong>
+        <h4>Full Moonlight</h4>
+        <time>2026-01-03</time>
+        <p>The Full Moon is the brightest lunar phase, and tonight you can stand in the light of the first Full Moon of 2026. In fact, the Moon's full phase occurs on January 3 at 10:03 UTC, while only about 7 hours later planet Earth reaches its 2026 perihelion, the closest point in its elliptical orbit around the Sun, at 17:16 UTC. January's Full Moon was also not far from its own perigee, or closest approach to planet Earth. For this lunation the Moon's perigee was on January 1 at 21:44 UTC. You can also spot planet Jupiter, near its brightest for 2026 and close on the sky to the Full Moon tonight. But while you're out skygazing don't forget to look for rare, bright fireballs from the Quadrantid meteor shower.</p>
+        <strong><em>Jeff Dai</em></strong>
     </div>
 </div>
