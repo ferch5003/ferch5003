@@ -60,13 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2601/moonwalk1c1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2601/moonwalk1c1024.jpg" width="400" height="500" alt="Jeff Dai">
+    <a href="">
+        <img align="left" src="" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Full Moonlight</h4>
-        <time>2026-01-03</time>
-        <p>The Full Moon is the brightest lunar phase, and tonight you can stand in the light of the first Full Moon of 2026. In fact, the Moon's full phase occurs on January 3 at 10:03 UTC, while only about 7 hours later planet Earth reaches its 2026 perihelion, the closest point in its elliptical orbit around the Sun, at 17:16 UTC. January's Full Moon was also not far from its own perigee, or closest approach to planet Earth. For this lunation the Moon's perigee was on January 1 at 21:44 UTC. You can also spot planet Jupiter, near its brightest for 2026 and close on the sky to the Full Moon tonight. But while you're out skygazing don't forget to look for rare, bright fireballs from the Quadrantid meteor shower.</p>
-        <strong><em>Jeff Dai</em></strong>
+        <h4>A Solar Eruption from SDO</h4>
+        <time>2026-01-13</time>
+        <p>What just leapt from the Sun?  A towering structure of solar plasma suddenly rose from the Sun's surface and unfurled into space -- a structure so large that many Earths would easily fit within it-- marking the onset of a dramatic Coronal Mass Ejection (CME).  The event was captured in striking detail in late 2024 by NASA's Solar Dynamics Observatory (SDO), whose continuous monitoring improves space weather forecasts and helps humanity better understand how solar activity affects satellites, GPS, radio communications, and power grids on Earth.  The featured video blends three extreme-ultraviolet views from SDO’s Atmospheric Imaging Assembly (AIA), revealing how plasma at different temperatures surged upward as the eruption unfolded.  Here, red highlights cooler, denser material lifted from the Sun’s lower atmosphere, while yellow traces hotter, million-degree coronal loops stretching outward as magnetic fields open.  After the main outburst, the Sun’s magnetic fields quickly reorganize.</p>
+        <strong><em></em></strong>
     </div>
 </div>
