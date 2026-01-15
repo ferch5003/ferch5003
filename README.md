@@ -60,17 +60,13 @@
 ### Do you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2601/M51_Sleeman_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2601/M51_Sleeman_960.jpg" width="400" height="500" alt="
-Michael Sleeman
-">
+    <a href="https://apod.nasa.gov/apod/image/2601/2025-12-29-1656_Plato_Lmorr1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2601/2025-12-29-1656_Plato_Lmorr1024.jpg" width="400" height="500" alt="Luigi Morrone">
     </a>
     <div>
-        <h4>M51: The Whirlpool Galaxy</h4>
-        <time>2026-01-14</time>
-        <p>The Whirlpool Galaxy is a classic spiral galaxy. At only 30 million light years distant and fully 60 thousand light years across, M51, also known as NGC 5194, is one of the brightest and most picturesque galaxies on the sky.  The featured deep image is a digital combination of images taken in different colors over 58 hours with a telescope from Lijiang, China. Anyone with a good pair of binoculars, however, can see this Whirlpool toward the constellation of the Hunting Dogs (Canes Venatici). M51 is a spiral galaxy of type Sc and is the dominant member of a whole group of galaxies.  Astronomers speculate that M51's spiral structure is primarily due to its gravitational interaction with the smaller galaxy just above it.</p>
-        <strong><em>
-Michael Sleeman
-</em></strong>
+        <h4>Plato and the Lunar Alps</h4>
+        <time>2026-01-15</time>
+        <p>The dark-floored, 95 kilometer wide crater Plato and sunlit peaks of the lunar Alps (Montes Alpes) are highlighted in this this sharp telescopic snapshot of the Moon's surface. While the Alps of planet Earth were uplifted over millions of years as continental plates slowly collided, the lunar Alps were likely formed by a sudden collision that created the giant impact basin known as the Mare Imbrium or Sea of Rains. The mare's generally smooth, lava-flooded floor is seen below the bordering mountain range. The prominent straight feature cutting through the mountains is the lunar Alpine Valley (Vallis Alpes). Joining the Mare Imbrium and northern Mare Frigoris (Sea of Cold) the valley extends toward the upper right, about 160 kilometers long and up to 10 kilometers wide. Of course, the large, bright lunar alpine mountain below and right of Plato crater is named Mont Blanc. Lacking an atmosphere, not to mention snow, the lunar Alps are probably not an ideal location for a winter vacation. Still, a 150 pound skier would weigh a mere 25 pounds on the Moon.</p>
+        <strong><em>Luigi Morrone</em></strong>
     </div>
 </div>
