@@ -57,7 +57,7 @@
 ### Music Status🎵
 ![Music Staus](https://mut.mfd-web.online/spotify/track-to-show)
 
-### Do you know...
+### Did you know...
 
 <div>
     <a href="https://apod.nasa.gov/apod/image/2601/2025-12-29-1656_Plato_Lmorr1024.jpg">
