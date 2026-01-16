@@ -60,13 +60,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2601/2025-12-29-1656_Plato_Lmorr1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2601/2025-12-29-1656_Plato_Lmorr1024.jpg" width="400" height="500" alt="Luigi Morrone">
+    <a href="https://apod.nasa.gov/apod/image/2601/NGC7023_Falk1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2601/NGC7023_Falk1024.jpg" width="400" height="500" alt="Justus Falk">
     </a>
     <div>
-        <h4>Plato and the Lunar Alps</h4>
-        <time>2026-01-15</time>
-        <p>The dark-floored, 95 kilometer wide crater Plato and sunlit peaks of the lunar Alps (Montes Alpes) are highlighted in this this sharp telescopic snapshot of the Moon's surface. While the Alps of planet Earth were uplifted over millions of years as continental plates slowly collided, the lunar Alps were likely formed by a sudden collision that created the giant impact basin known as the Mare Imbrium or Sea of Rains. The mare's generally smooth, lava-flooded floor is seen below the bordering mountain range. The prominent straight feature cutting through the mountains is the lunar Alpine Valley (Vallis Alpes). Joining the Mare Imbrium and northern Mare Frigoris (Sea of Cold) the valley extends toward the upper right, about 160 kilometers long and up to 10 kilometers wide. Of course, the large, bright lunar alpine mountain below and right of Plato crater is named Mont Blanc. Lacking an atmosphere, not to mention snow, the lunar Alps are probably not an ideal location for a winter vacation. Still, a 150 pound skier would weigh a mere 25 pounds on the Moon.</p>
-        <strong><em>Luigi Morrone</em></strong>
+        <h4>NGC 7023: The Iris Nebula</h4>
+        <time>2026-01-16</time>
+        <p>These cosmic clouds have blossomed 1,300 light-years away in the fertile starfields of the constellation Cepheus. Called the Iris Nebula, NGC 7023 is not the only nebula to evoke the imagery of flowers. Still, this deep telescopic image shows off the Iris Nebula's range of colors and symmetries embedded in surrounding fields of interstellar dust. Within the Iris itself, dusty nebular material surrounds a hot, young star. The dominant color of the brighter reflection nebula is blue, characteristic of dust grains reflecting starlight. Central filaments of the reflection nebula glow with a faint reddish photoluminescence as some dust grains effectively convert the star's invisible ultraviolet radiation to visible red light. Infrared observations indicate that this nebula contains complex carbon molecules known as PAHs. The dusty blue petals of the Iris Nebula span about six light-years.</p>
+        <strong><em>Justus Falk</em></strong>
     </div>
 </div>
