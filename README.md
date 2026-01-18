@@ -60,13 +60,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2601/a14pan9335-43emj_900.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2601/a14pan9335-43emj_900.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2601/Jupiter2_WebbSchmidt_1080_annotated.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2601/Jupiter2_WebbSchmidt_1080_annotated.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Apollo 14: A View from Antares</h4>
-        <time>2026-01-17</time>
-        <p>Apollo 14's Lunar Module Antares landed on the Moon on February 5, 1971. Toward the end of the stay astronaut Ed Mitchell snapped a series of photos of the lunar surface while looking out a window, assembled into this detailed mosaic by Apollo Lunar Surface Journal editor Eric Jones. The view looks across the Fra Mauro highlands to the northwest of the landing site after the Apollo 14 astronauts had completed their second and final walk on the Moon. Prominent in the foreground is their Modular Equipment Transporter, a two-wheeled, rickshaw-like device used to carry tools and samples. Near the horizon at top center is a 1.5 meter wide boulder dubbed Turtle rock. In the shallow crater below Turtle rock is the long white handle of a sampling instrument, thrown there javelin-style by Mitchell. Mitchell's fellow moonwalker and first American in space, Alan Shepard, also used a makeshift six iron to hit two golf balls. One of Shepard's golf balls is just visible as a white spot below Mitchell's javelin.</p>
+        <h4>Jupiter from the Webb Space Telescope</h4>
+        <time>2026-01-18</time>
+        <p>This infrared view of Jupiter by Webb is illuminating. High-resolution infrared images of Jupiter from the  James Webb Space Telescope (Webb) reveal, for example, differences between high-floating bright clouds -- including the Great Red Spot -- and low-lying dark clouds. Also clearly visible in the featured Webb image are Jupiter's dust ring, bright auroras at the poles, and Jupiter's moons Amalthea and Adrastea. The footprint of large volcanic moon Io's magnetic funneling of charged particles onto Jupiter is also visible in the southern aurora. Some objects are so bright that light noticeably diffracts around Webb's optics creating streaks.  Webb, which orbits the Sun near the Earth, has a mirror over six meters across making it the largest astronomical telescope ever launched -- with over six times more light-collecting area than Hubble.</p>
         <strong><em></em></strong>
     </div>
 </div>
