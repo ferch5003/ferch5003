@@ -60,13 +60,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2601/JWSTMIRI_ngc1365_1024.png">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2601/JWSTMIRI_ngc1365_1024.png" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2601/ldn1622fellows1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2601/ldn1622fellows1024.jpg" width="400" height="500" alt="Chris Fellows">
     </a>
     <div>
-        <h4>Barred Spiral Galaxy NGC 1365 from Webb</h4>
-        <time>2026-01-21</time>
-        <p>A mere 56 million light-years distant toward the southern constellation Fornax, NGC 1365 is an enormous barred spiral galaxy about 200,000 light-years in diameter. That's twice the size of our own barred spiral Milky Way. This sharp image from the James Webb Space Telescope's Mid-Infrared Instrument (MIRI) reveals stunning details of this magnificent spiral in infrared light. Webb's field of view stretches about 60,000 light-years across NGC 1365, exploring the galaxy's core and bright newborn star clusters. The intricate network of dusty filaments and bubbles is created by young stars along spiral arms winding from the galaxy's central bar. Astronomers suspect the gravitational field of NGC 1365's bar plays a crucial role in the galaxy's evolution, funneling gas and dust into a star-forming maelstrom and ultimately feeding material into the active galaxy's central, supermassive black hole.</p>
-        <strong><em></em></strong>
+        <h4>LDN 1622: Dark Nebula in Orion</h4>
+        <time>2026-01-22</time>
+        <p>The silhouette of an intriguing dark nebula inhabits this cosmic scene. Lynds' Dark Nebula (LDN) 1622 appears against a faint background of glowing hydrogen gas only visible in long telescopic exposures of the region. In contrast, a brighter reflection nebula, vdB 62, is more easily seen just above the dusty dark nebula. LDN 1622 lies near the plane of our Milky Way Galaxy, close on the sky to Barnard's Loop, a large cloud surrounding the rich complex of emission nebulae found in the Belt and Sword of Orion. With swept-back outlines, the obscuring dust of LDN 1622 is thought to lie at a similar distance, perhaps 1,500 light-years away. At that distance, this 3 degree wide field of view would span about 100 light-years. Young stars do lie hidden within the dark expanse and have been revealed in Spitzer Space telescope infrared images. Still, the foreboding visual appearance of LDN 1622 inspires its popular name, the Boogeyman Nebula.</p>
+        <strong><em>Chris Fellows</em></strong>
     </div>
 </div>
