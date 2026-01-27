@@ -60,21 +60,21 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2601/Ngc55_Promper_1080.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2601/Ngc55_Promper_1080.jpg" width="400" height="500" alt="
-Wolfgang Promper; 
+    <a href="https://apod.nasa.gov/apod/image/2601/OrionTatras_Bubak_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2601/OrionTatras_Bubak_960.jpg" width="400" height="500" alt="
+Włodzimierz Bubak; 
 Text: Ogetay Kayali 
-(MTU)  
+(MTU) 
 ">
     </a>
     <div>
-        <h4>NGC 55: A Galaxy of Nebulas</h4>
-        <time>2026-01-26</time>
-        <p>Can you see nebulas in other galaxies?  Yes, some nebulas shine brightly enough -- if you know how to look.  Clouds of hydrogen and oxygen emit light at very specific colors, and by isolating them, astronomers and astrophotographers can reveal structures that would otherwise be too faint to notice.  This deep, 50-hour exposure highlights glowing hydrogen (red) and oxygen (blue) across galaxy NGC 55, viewed nearly edge-on.  Also known as the String of Pearls Galaxy, NGC 55 is often compared to our Milky Way's satellite galaxy the Large Magellanic Cloud (LMC), although NGC 55 lies much farther away at about 6.5 million light-years.  The resulting image uncovers a sprinkling of emission nebulas within and sometimes above the galaxy's dusty disk, offering a detailed look at distant star-forming regions.    Jigsaw Galaxy: Astronomy Puzzle of the Day</p>
+        <h4>Orion's Treasures over Snowy Mountains</h4>
+        <time>2026-01-27</time>
+        <p>Rising over a frozen valley in the Tatra Mountains, the familiar stars and nebulas of Orion dominate this wide-field nightscape.  The featured deep photo was taken in southern Poland's highest mountain range last month, where dark skies and alpine terrain combined to reveal both Earth's rugged beauty and the structure of our galaxy.  Above the snowy mountains, Orion's bright belt stars anchor a region of glowing interstellar clouds.  The Great Orion Nebula, a vast stellar nursery visible even to the unaided eye, shines near the center of the scene.  Surrounding it is the enormous arc of Barnard's Loop, a faint shell of ionized hydrogen gas spanning much of the constellation.  To the left, the round Rosette Nebula glows softly, while the grayish Witch Head Nebula hovers to the right, illuminated by nearby starlight.  Near the top, the orange supergiant Betelgeuse marks the hunter's shoulder.</p>
         <strong><em>
-Wolfgang Promper; 
+Włodzimierz Bubak; 
 Text: Ogetay Kayali 
-(MTU)  
+(MTU) 
 </em></strong>
     </div>
 </div>
