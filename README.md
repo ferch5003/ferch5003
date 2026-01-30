@@ -60,13 +60,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2601/NGC-2442-rev-1-crop-18-Jan-2026_1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2601/NGC-2442-rev-1-crop-18-Jan-2026_1024.jpg" width="400" height="500" alt="Mike Selby">
+    <a href="https://apod.nasa.gov/apod/image/2601/NGC1333_Robert_Eder1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2601/NGC1333_Robert_Eder1024.jpg" width="400" height="500" alt="Robert Eder">
     </a>
     <div>
-        <h4>NGC 2442: Galaxy in Volans</h4>
-        <time>2026-01-29</time>
-        <p>Distorted galaxy NGC 2442 can be found in the southern constellation of the flying fish, (Piscis) Volans. Located about 50 million light-years away, the galaxy's two spiral arms extending from a pronounced central bar give it a hook-shaped appearance in this deep and colorful image, with foreground stars scattered across the telescopic field of view. The image also reveals the distant galaxy's obscuring dust lanes, young blue star clusters and reddish star forming regions surrounding a core of yellowish light from an older population of stars. But the star forming regions seem more concentrated along the drawn-out (upper right) spiral arm. The distorted structure is likely the result of an ancient close encounter with a smaller galaxy that lies off top left of the frame. This telescopic field of view spans over 200,000 light-years at the estimated distance of NGC 2442.</p>
-        <strong><em>Mike Selby</em></strong>
+        <h4>NGC 1333: Stellar Nursery in Perseus</h4>
+        <time>2026-01-30</time>
+        <p>NGC 1333 is seen in visible light as a reflection nebula, dominated by bluish hues characteristic of starlight reflected by interstellar dust. A mere 1,000 light-years distant toward the heroic constellation Perseus, it lies at the edge of a large, star-forming molecular cloud. This telescopic close-up spans over two full moons on the sky or just over 15 light-years at the estimated distance of NGC 1333. It shows details of the dusty region along with telltale hints of contrasty red emission from Herbig-Haro objects, jets and shocked glowing gas emanating from recently formed stars. In fact, NGC 1333 contains hundreds of stars less than a million years old, most still hidden from optical telescopes by the pervasive stardust. The chaotic environment may be similar to one in which our own Sun formed over 4.5 billion years ago.</p>
+        <strong><em>Robert Eder</em></strong>
     </div>
 </div>
