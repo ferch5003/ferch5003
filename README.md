@@ -60,13 +60,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2602/CasA_nircam_1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2602/CasA_nircam_1024.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2602/PIA20522enceladusC.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2602/PIA20522enceladusC.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Supernova Remnant Cassiopeia A</h4>
-        <time>2026-02-06</time>
-        <p>Massive stars in our Milky Way Galaxy live spectacular lives.  Collapsing from vast cosmic clouds, their nuclear furnaces ignite and create heavy elements in their cores. After only a few million years for the most massive stars, the enriched material is blasted back into interstellar space where star formation can begin anew. The expanding debris cloud known as Cassiopeia A is an example of this final phase of the stellar life cycle. Light from the supernova explosion that created this remnant would have been first seen in planet Earth's sky about 350 years ago, although it took that light 11,000 years to reach us. This sharp NIRCam image from the James Webb Space Telescope shows the still-hot filaments and knots in the supernova remnant. The whitish, smoke-like outer shell of the expanding blast wave is about 20 light-years across. A series of light echoes from the massive star's cataclysmic explosion are also identified in Webb's detailed images of the surrounding interstellar medium.</p>
+        <h4>Crescent Enceladus</h4>
+        <time>2026-02-07</time>
+        <p>Peering from the shadows, the Saturn-facing hemisphere of tantalizing inner moon Enceladus poses in this Cassini spacecraft image. North is up in the dramatic scene captured during November 2016 as Cassini's camera was pointed in a nearly sunward direction about 130,000 kilometers from the moon's bright crescent. In fact, the distant world reflects over 90 percent of the sunlight it receives, giving its surface about the same reflectivity as fresh snow. A mere 500 kilometers in diameter, Enceladus is a surprisingly active moon. Data and images collected during Cassini's flybys have revealed water vapor and ice grains spewing from south polar geysers and evidence of an ocean of liquid water hidden beneath the moon's icy crust.</p>
         <strong><em></em></strong>
     </div>
 </div>
