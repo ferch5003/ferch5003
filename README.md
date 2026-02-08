@@ -60,13 +60,17 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2602/PIA20522enceladusC.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2602/PIA20522enceladusC.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2602/Sunspot4366_Korona_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2602/Sunspot4366_Korona_960.jpg" width="400" height="500" alt="
+Daniel Korona
+">
     </a>
     <div>
-        <h4>Crescent Enceladus</h4>
-        <time>2026-02-07</time>
-        <p>Peering from the shadows, the Saturn-facing hemisphere of tantalizing inner moon Enceladus poses in this Cassini spacecraft image. North is up in the dramatic scene captured during November 2016 as Cassini's camera was pointed in a nearly sunward direction about 130,000 kilometers from the moon's bright crescent. In fact, the distant world reflects over 90 percent of the sunlight it receives, giving its surface about the same reflectivity as fresh snow. A mere 500 kilometers in diameter, Enceladus is a surprisingly active moon. Data and images collected during Cassini's flybys have revealed water vapor and ice grains spewing from south polar geysers and evidence of an ocean of liquid water hidden beneath the moon's icy crust.</p>
-        <strong><em></em></strong>
+        <h4>Active Sunspot Region 4366 Crosses the Sun</h4>
+        <time>2026-02-08</time>
+        <p>An unusually active sunspot region is now crossing the Sun.  The region, labelled AR 4366, is much larger than the Earth and has produced several powerful solar flares over the past ten days.  In the featured image, the region is marked by large and dark sunspots toward the upper right of the Sun's disk. The image captured the Sun over a hill in Zacatecas, Mexico, 5 days ago.  AR 4366 has become a candidate for the most active solar region in this entire 11-year solar cycle.  Active solar regions are frequently associated with increased auroral activity on the Earth.  Now reaching the edge, AR 4366 will begin facing away from the Earth during the coming week. It is not known, though, if the active region will survive long enough to reappear in about two weeks' time, as the Sun rotates.</p>
+        <strong><em>
+Daniel Korona
+</em></strong>
     </div>
 </div>
