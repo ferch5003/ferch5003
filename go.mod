@@ -1,9 +1,9 @@
 module github.com/ferch5003/ferch5003
 
-go 1.22
+go 1.25
 
 require (
-	github.com/google/go-querystring v1.1.0
+	github.com/google/go-querystring v1.2.0
 	github.com/stretchr/testify v1.8.1
 )
 

@@ -7,21 +7,26 @@ import (
 )
 
 type Server struct {
-	URL string
+	URL              string
+	StatusCode       int
+	ResponseBody     string
+	ResponseBodyJSON bool
 }
 
 func NewServer() *httptest.Server {
-	return httptest.NewServer(&Server{})
+	return httptest.NewServer(&Server{
+		StatusCode:       http.StatusOK,
+		ResponseBody:     getAPODSuccessfulResponse(),
+		ResponseBodyJSON: true,
+	})
 }
 
 func (s Server) ServeHTTP(w http.ResponseWriter, rq *http.Request) {
 	if strings.Contains(rq.URL.String(), "/planetary/apod") {
 		w.Header().Set("Content-Type", "application/json")
-		w.WriteHeader(http.StatusOK)
+		w.WriteHeader(s.StatusCode)
 
-		apodResponse := getAPODSuccessfulResponse()
-
-		_, err := w.Write([]byte(apodResponse))
+		_, err := w.Write([]byte(s.ResponseBody))
 		if err != nil {
 			return
 		}

@@ -6,3 +6,12 @@
 
 # Profiles.
 profile.cov
+
+# Agents.
+AGENTS.md
+
+# OCX
+.opencode
+
+# Coverage
+coverage.*

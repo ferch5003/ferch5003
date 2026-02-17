@@ -31,7 +31,7 @@ func New(filenameIn, filenameOut string) Storage {
 func (f fileStorage) Read() (string, error) {
 	data, err := os.ReadFile(f.filenameIn)
 	if err != nil {
-		return "", nil
+		return "", err
 	}
 
 	return string(data), nil

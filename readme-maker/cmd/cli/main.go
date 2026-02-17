@@ -13,10 +13,7 @@ func main() {
 }
 
 func run() error {
-	deps, err := newDependencies()
-	if err != nil {
-		return err
-	}
+	deps := newDependencies()
 
 	mainTemplate := internal.NewTemplate()
 	mainTemplate.AddTemplates(deps.Templates)

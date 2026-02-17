@@ -1,6 +1,8 @@
 package nasa
 
 import (
+	"net/http"
+	"net/http/httptest"
 	"testing"
 
 	"github.com/ferch5003/ferch5003/readme-maker/internal/nasa/dto"
@@ -49,4 +51,70 @@ func TestClient_GetAPODErrorWrongURL(t *testing.T) {
 
 	// Then
 	require.ErrorContains(t, err, "unsupported protocol scheme")
+}
+
+func TestClient_GetAPODErrorInvalidJSON(t *testing.T) {
+	server := httptest.NewServer(&nasatest.Server{
+		StatusCode:       http.StatusOK,
+		ResponseBody:     "not valid json",
+		ResponseBodyJSON: false,
+	})
+	defer server.Close()
+
+	// Given
+	t.Setenv("NASA_BASE_URL", server.URL)
+	t.Setenv("NASA_API_KEY", "test")
+
+	apodParams := dto.APODRequestParams{}
+	nasaClient := NewClient()
+
+	// When
+	_, err := nasaClient.GetAPOD(apodParams)
+
+	// Then
+	require.ErrorContains(t, err, "invalid character")
+}
+
+func TestClient_GetAPODErrorServerError(t *testing.T) {
+	server := httptest.NewServer(&nasatest.Server{
+		StatusCode:       http.StatusInternalServerError,
+		ResponseBody:     `{"error": "internal server error"}`,
+		ResponseBodyJSON: true,
+	})
+	defer server.Close()
+
+	// Given
+	t.Setenv("NASA_BASE_URL", server.URL)
+	t.Setenv("NASA_API_KEY", "test")
+
+	apodParams := dto.APODRequestParams{}
+	nasaClient := NewClient()
+
+	// When
+	_, err := nasaClient.GetAPOD(apodParams)
+
+	// Then
+	require.ErrorContains(t, err, "HTTP error 500")
+}
+
+func TestClient_GetAPODErrorClientError(t *testing.T) {
+	server := httptest.NewServer(&nasatest.Server{
+		StatusCode:       http.StatusBadRequest,
+		ResponseBody:     `{"error": "bad request"}`,
+		ResponseBodyJSON: true,
+	})
+	defer server.Close()
+
+	// Given
+	t.Setenv("NASA_BASE_URL", server.URL)
+	t.Setenv("NASA_API_KEY", "test")
+
+	apodParams := dto.APODRequestParams{}
+	nasaClient := NewClient()
+
+	// When
+	_, err := nasaClient.GetAPOD(apodParams)
+
+	// Then
+	require.ErrorContains(t, err, "HTTP error 400")
 }
