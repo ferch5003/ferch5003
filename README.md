@@ -60,13 +60,29 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2602/WhiteDwarfShock_VLT_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2602/WhiteDwarfShock_VLT_960.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2602/Wierzchos_Chabo_1080.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2602/Wierzchos_Chabo_1080.jpg" width="400" height="500" alt="
+José J. Chambó; 
+ Text: 
+Cecilia Chirenti 
+(NASA
+GSFC, 
+UMCP, 
+CRESST II)
+">
     </a>
     <div>
-        <h4>Unexplained Shocks Around a White Dwarf Star</h4>
-        <time>2026-02-16</time>
-        <p>How is RXJ0528+2838 creating such shock waves?  A recently discovered white dwarf star, the farther left of the two largest white spots, RXJ0528+2838, was found 730 light-years away from Earth.  Most stars, when done fusing nuclei in their cores for energy, become red giant stars, the cores of which live on as faint dense white dwarfs that slowly cool down for the rest of time.  White dwarfs are so dense that the only thing that stops them from collapsing further is quantum mechanics. In about 5 billion years, our Sun will become a white dwarf, too.  The featured image, obtained with the European Southern Observatory’s Very Large Telescope, shows unexplained bow shocks around RXJ0528+2838, similar to the bow wave of water around a fast-moving ship. Astronomers don’t yet know what is powering these shocks, which have existed for at least 1,000 years.  The red, green and blue colors represent trace amounts of glowing hydrogen, nitrogen and oxygen gas.    Open Science: Browse 3,900+ codes in the Astrophysics Source Code Library</p>
-        <strong><em></em></strong>
+        <h4>Tails of Comet Wierzchoś</h4>
+        <time>2026-02-17</time>
+        <p>Some comets are regular guests of our solar neighborhood; others come by only once, never to return.  We won’t have another chance to see Comet C/2024 E1 (Wierzchoś), which is currently making its way through the inner Solar System.  The hyperbolic orbit of this comet indicates that it will likely become an interstellar traveler.  Comet Wierzchoś is today near its closest approach to the Earth, passing roughly the same distance from the Earth as is the Sun.  The featured 30-minute exposure was taken last week in Chile and shows a 5-degree long ion tail as well as three shorter dust tails.  The green hue of the coma comes from the breakdown of dicarbon molecules by sunlight, but that process does not last long enough to also tinge the tails.  On the far right lies a spiral galaxy far in the distance: NGC 300.</p>
+        <strong><em>
+José J. Chambó; 
+ Text: 
+Cecilia Chirenti 
+(NASA
+GSFC, 
+UMCP, 
+CRESST II)
+</em></strong>
     </div>
 </div>
