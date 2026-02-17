@@ -61,7 +61,9 @@
 
 <div>
 {{- if .IsVideoFormat}}
-    <video src="{{.Nasa.APOD.Url}}" width="400" height="500"></video>
+    <a href="{{.Nasa.APOD.Url}}">
+        <img align="left" src="https://img.youtube.com/vi/{{.GetYouTubeID}}/maxresdefault.jpg" width="400" height="500" alt="{{.Nasa.APOD.Title}} - Click to watch video">
+    </a>
 {{- else}}
     <a href="{{.Nasa.APOD.Url}}">
         <img align="left" src="{{.Nasa.APOD.Url}}" width="400" height="500" alt="{{.Nasa.APOD.Copyright}}">

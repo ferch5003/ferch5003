@@ -124,3 +124,58 @@ type mockTemplater struct{}
 
 func (m *mockTemplater) AddTemplates(templates []templates.Templater) {}
 func (m *mockTemplater) Parse(in string) (string, error)              { return in, nil }
+
+func TestNasaAPODValues_GetYouTubeIDWithWatchURL(t *testing.T) {
+	var values _nasaAPODValues
+	values.Nasa.APOD = dto.APODResponse{
+		Url: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+	}
+
+	result := values.GetYouTubeID()
+
+	require.Equal(t, "dQw4w9WgXcQ", result)
+}
+
+func TestNasaAPODValues_GetYouTubeIDWithShortURL(t *testing.T) {
+	var values _nasaAPODValues
+	values.Nasa.APOD = dto.APODResponse{
+		Url: "https://youtu.be/dQw4w9WgXcQ",
+	}
+
+	result := values.GetYouTubeID()
+
+	require.Equal(t, "dQw4w9WgXcQ", result)
+}
+
+func TestNasaAPODValues_GetYouTubeIDWithEmbedURL(t *testing.T) {
+	var values _nasaAPODValues
+	values.Nasa.APOD = dto.APODResponse{
+		Url: "https://www.youtube.com/embed/dQw4w9WgXcQ",
+	}
+
+	result := values.GetYouTubeID()
+
+	require.Equal(t, "dQw4w9WgXcQ", result)
+}
+
+func TestNasaAPODValues_GetYouTubeIDWithNonYouTubeURL(t *testing.T) {
+	var values _nasaAPODValues
+	values.Nasa.APOD = dto.APODResponse{
+		Url: "https://example.com/video.mp4",
+	}
+
+	result := values.GetYouTubeID()
+
+	require.Equal(t, "", result)
+}
+
+func TestNasaAPODValues_GetYouTubeIDWithEmptyURL(t *testing.T) {
+	var values _nasaAPODValues
+	values.Nasa.APOD = dto.APODResponse{
+		Url: "",
+	}
+
+	result := values.GetYouTubeID()
+
+	require.Equal(t, "", result)
+}

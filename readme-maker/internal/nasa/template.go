@@ -1,6 +1,7 @@
 package nasa
 
 import (
+	"regexp"
 	"strings"
 	"text/template"
 
@@ -23,6 +24,29 @@ func (n _nasaAPODValues) IsVideoFormat() bool {
 		}
 	}
 	return false
+}
+
+func (n _nasaAPODValues) GetYouTubeID() string {
+	url := n.Nasa.APOD.Url
+	if url == "" {
+		return ""
+	}
+
+	// Pattern for youtube.com/watch?v=VIDEO_ID
+	re := regexp.MustCompile(`(?:youtube\.com/watch\?v=|youtu\.be/)([a-zA-Z0-9_-]{11})`)
+	matches := re.FindStringSubmatch(url)
+	if len(matches) > 1 {
+		return matches[1]
+	}
+
+	// Pattern for youtube.com/embed/VIDEO_ID
+	re = regexp.MustCompile(`youtube\.com/embed/([a-zA-Z0-9_-]{11})`)
+	matches = re.FindStringSubmatch(url)
+	if len(matches) > 1 {
+		return matches[1]
+	}
+
+	return ""
 }
 
 type nasaTemplate struct {
