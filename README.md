@@ -60,13 +60,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2602/OrionBarnard_Czerski_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2602/OrionBarnard_Czerski_960.jpg" width="400" height="500" alt="Piotr Czerski">
+    <a href="https://apod.nasa.gov/apod/image/2602/IC2574Vetter1050.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2602/IC2574Vetter1050.jpg" width="400" height="500" alt="Dane Vetter">
     </a>
     <div>
-        <h4>Orion's Cradle</h4>
-        <time>2026-02-18</time>
-        <p>Cradled in red-glowing hydrogen gas, stars are being born in Orion.  These stellar nurseries lie at the edge of the giant Orion molecular cloud complex, some 1,500 light-years away.  This detailed view spans about 12 degrees across the center of the well-known constellation, with the Great Orion Nebula, the closest large star-forming region, visible toward the lower right.  The deep mosaic also includes, near the top center, the Flame Nebula and the Horsehead Nebula.  Image data acquired with a hydrogen-alpha filter adds other remarkable features to this wide-angle cosmic vista: pervasive tendrils of energized atomic hydrogen gas and portions of the surrounding Barnard's Loop. While the Orion Nebula and many stars in Orion are easy to see with the unaided eye, emission from the extensive interstellar gas is faint and much harder to record, even in telescopic views of the nebula-rich complex.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)</p>
-        <strong><em>Piotr Czerski</em></strong>
+        <h4>IC 2574: Coddington's Nebula</h4>
+        <time>2026-02-19</time>
+        <p>Grand spiral galaxies often seem to get all the glory, flaunting their young, bright, blue star clusters in beautiful, symmetric spiral arms. But small, irregular galaxies form stars too. In fact, dwarf galaxy IC 2574 shows clear evidence of intense star forming activity in its telltale reddish regions of glowing hydrogen gas. Just as in spiral galaxies, the turbulent star-forming regions in IC 2574 are churned by stellar winds and supernova explosions spewing material into the galaxy's interstellar medium and triggering further star formation. A mere 12 million light-years distant, IC 2574 is part of the M81 group of galaxies, seen toward the northern constellation Ursa Major. Also known as Coddington's Nebula, the faint but intriguing island universe is about 50,000 light-years across, discovered by American astronomer Edwin Coddington in 1898.</p>
+        <strong><em>Dane Vetter</em></strong>
     </div>
 </div>
