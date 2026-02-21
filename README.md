@@ -60,27 +60,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2602/B93_bertincourt_1080.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2602/B93_bertincourt_1080.jpg" width="400" height="500" alt="Christian Bertincourt; 
-Text:
-Keighley Rockcliffe  
-(NASA
-GSFC, 
-UMBC
-CSST, 
-CRESST II)">
+    <a href="https://apod.nasa.gov/apod/image/2602/20260219a_c1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2602/20260219a_c1024.jpg" width="400" height="500" alt="Tunc Tezel">
     </a>
     <div>
-        <h4>B93: A Dark Interstellar Ghost</h4>
-        <time>2026-02-20</time>
-        <p>"A ghost in the Milky Way…” says Christian Bertincourt, the astrophotographer behind this striking image of Barnard 93 (B93).  The 93rd entry in Barnard’s Catalogue of Dark Nebulae, B93 lies within the Small Sagittarius Star Cloud (Messier 24), where its darkness stands in stark contrast to bright stars and gas in the background.  In some ways, B93 is really like a ghost, because it contains gas and dust that was dispersed by the deaths of stars, like supernovas.  B93 appears as a dark void not because it is empty, but because its dust blocks the light emitted by more distant stars and glowing gas.  Like other dark nebulas, some gas from B93, if dense and massive enough, will eventually gravitationally condense to form new stars.  If so, then once these stars ignite, B93 will transform from a dark ghost into a brilliant cradle of newborn stars.</p>
-        <strong><em>Christian Bertincourt; 
-Text:
-Keighley Rockcliffe  
-(NASA
-GSFC, 
-UMBC
-CSST, 
-CRESST II)</em></strong>
+        <h4>Twilight with Moon and Planets</h4>
+        <time>2026-02-21</time>
+        <p>Only two days after the February New Moon's annular eclipse of the Sun, a slender lunar crescent poses above the western horizon after sunset in this wintry twilight skyscape. Its nightside faintly illuminated by earthshine, the young Moon is joined by three bright planets in the mostly clear, early evening skies above the village of Kirazli, Turkiye. Inner planet Venus appears closest to the horizon. Near the beginning of its 2026 performance as planet Earth's evening star, brilliant Venus is seen through the warm sunset glare near picture center. Straight above Venus, innermost planet Mercury is easy to spot as it stands remarkably high above the horizon even as the twilight sky is growing dark. Outer planet Saturn, most distant of the naked-eye planets, is found just left of the Moon's sunlit crescent.</p>
+        <strong><em>Tunc Tezel</em></strong>
     </div>
 </div>
