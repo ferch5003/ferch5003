@@ -60,13 +60,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2602/20260219a_c1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2602/20260219a_c1024.jpg" width="400" height="500" alt="Tunc Tezel">
+    <a href="https://apod.nasa.gov/apod/image/2602/marsshadow_opportunity_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2602/marsshadow_opportunity_960.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Twilight with Moon and Planets</h4>
-        <time>2026-02-21</time>
-        <p>Only two days after the February New Moon's annular eclipse of the Sun, a slender lunar crescent poses above the western horizon after sunset in this wintry twilight skyscape. Its nightside faintly illuminated by earthshine, the young Moon is joined by three bright planets in the mostly clear, early evening skies above the village of Kirazli, Turkiye. Inner planet Venus appears closest to the horizon. Near the beginning of its 2026 performance as planet Earth's evening star, brilliant Venus is seen through the warm sunset glare near picture center. Straight above Venus, innermost planet Mercury is easy to spot as it stands remarkably high above the horizon even as the twilight sky is growing dark. Outer planet Saturn, most distant of the naked-eye planets, is found just left of the Moon's sunlit crescent.</p>
-        <strong><em>Tunc Tezel</em></strong>
+        <h4>Shadow of a Martian Robot</h4>
+        <time>2026-02-22</time>
+        <p>What if you saw your shadow on Mars and it wasn't human?  Then you might be the Opportunity rover exploring Mars.  Opportunity explored the Red Planet from 2004 to 2018, finding evidence of ancient water, and sending breathtaking images across the inner Solar System.  Pictured here in 2004, Opportunity looks opposite the Sun into Endurance Crater and sees its own shadow.  Two wheels are visible on the lower left and right, while the floor and walls of the unusual crater are visible in the background.  Caught in a dust storm in 2018, Opportunity stopped responding, and NASA stopped trying to contact it in 2019 and declared the ground-breaking mission, originally planned for only 92 days, complete.</p>
+        <strong><em></em></strong>
     </div>
 </div>
