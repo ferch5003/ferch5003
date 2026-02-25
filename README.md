@@ -60,13 +60,19 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2602/PlanetParadeSydney_Agrawal_960_ann.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2602/PlanetParadeSydney_Agrawal_960_ann.jpg" width="400" height="500" alt="Prasun Agrawal">
+    <a href="https://apod.nasa.gov/apod/image/2602/Egg_Hubble_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2602/Egg_Hubble_960.jpg" width="400" height="500" alt="ESA/Hubble & 
+NASA, 
+B. Balick 
+(U. Washington)">
     </a>
     <div>
-        <h4>Planet Parade over Sydney Opera House</h4>
-        <time>2026-02-24</time>
-        <p>Look up this week and see a whole bunch of planets.  Just after sunset, looking west (mostly), planets Mercury, Venus, Saturn, and Jupiter will all be visible to the unaided eye simultaneously.  If you have a telescope, planets Uranus and Neptune can also be seen.  In order up from the horizon, the lineup this week will be Venus (the brightest), Mercury, Saturn, Neptune, Uranus, and Jupiter (second brightest).  It doesn't matter where on Earth you live because this early evening planet parade will be visible through clear skies all around the globe.  The planets will appear to be nearly in a line because they all orbit the Sun in nearly the same plane: the ecliptic.  The featured image shows a similar planet parade that occurred in 2022, captured over the Sydney Opera House in southern Australia.  Although visible all week, the planets will be most easily seen together this weekend.</p>
-        <strong><em>Prasun Agrawal</em></strong>
+        <h4>The Egg Nebula from the Hubble Telescope</h4>
+        <time>2026-02-25</time>
+        <p>ver wonder what it would look like to crack open the Sun?  The Egg Nebula, a dying Sun-like star, can unscramble this question.  Pictured is a combination of several visible and infrared images of the nebula (also known as RAFGL 2688 or CRL 2688) taken with the Hubble Space Telescope.  The star has shed its outer layers, and a bright, hot core (or "yolk") now illuminates the milky "egg white" shells of gas and dust surrounding the center.  The central lobes and rings are structures of gas and dust recently ejected into space, with the dust being dense enough to block our view of the stellar core.  Light beams emanate from that blocked core, escaping through holes carved in the older ejected material by newer, faster jets expelled from the star’s poles.  Astronomers are still trying to figure out what causes the disks, lobes, and jets during this short (only a few thousand years!) phase of the star’s evolution, making this an egg-cellent image to study!</p>
+        <strong><em>ESA/Hubble & 
+NASA, 
+B. Balick 
+(U. Washington)</em></strong>
     </div>
 </div>
