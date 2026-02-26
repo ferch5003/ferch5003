@@ -60,19 +60,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2602/Egg_Hubble_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2602/Egg_Hubble_960.jpg" width="400" height="500" alt="ESA/Hubble & 
-NASA, 
-B. Balick 
-(U. Washington)">
+    <a href="https://apod.nasa.gov/apod/image/2602/IC5332webb2209c_1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2602/IC5332webb2209c_1024.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>The Egg Nebula from the Hubble Telescope</h4>
-        <time>2026-02-25</time>
-        <p>ver wonder what it would look like to crack open the Sun?  The Egg Nebula, a dying Sun-like star, can unscramble this question.  Pictured is a combination of several visible and infrared images of the nebula (also known as RAFGL 2688 or CRL 2688) taken with the Hubble Space Telescope.  The star has shed its outer layers, and a bright, hot core (or "yolk") now illuminates the milky "egg white" shells of gas and dust surrounding the center.  The central lobes and rings are structures of gas and dust recently ejected into space, with the dust being dense enough to block our view of the stellar core.  Light beams emanate from that blocked core, escaping through holes carved in the older ejected material by newer, faster jets expelled from the star’s poles.  Astronomers are still trying to figure out what causes the disks, lobes, and jets during this short (only a few thousand years!) phase of the star’s evolution, making this an egg-cellent image to study!</p>
-        <strong><em>ESA/Hubble & 
-NASA, 
-B. Balick 
-(U. Washington)</em></strong>
+        <h4>Webb and Hubble: IC 5332</h4>
+        <time>2026-02-26</time>
+        <p>What does the universe look like through infrared goggles? Our eyes can only see visible light, but astronomers want to see more. Today’s APOD shows spiral galaxy IC 5332 as seen by two NASA telescopes: Webb in mid-infrared and Hubble in ultraviolet and visible light. To toggle between the two space-based views just slide your cursor over the image (or follow this link). The Hubble image highlights the spiral arms of the galaxy separated by dark regions, whereas the Webb image reveals a finer, more tangled structure. Interstellar dust scatters and absorbs light from the stars in the galaxy, causing the dark dust lanes in the Hubble image, and then emits heat in infrared light, so dust glows in this Webb image. The Mid-InfraRed Instrument on Webb needs to operate at a chilling temperature of -266ºC (or - 447ºF), otherwise it would detect infrared radiation from the telescope itself. Combining these observations, astronomers connect the “small scale” of gas and stars to the truly large scale of galactic structure and evolution.</p>
+        <strong><em></em></strong>
     </div>
 </div>
