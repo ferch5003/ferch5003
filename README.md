@@ -60,13 +60,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2602/JellyfishBeecroft_final1_1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2602/JellyfishBeecroft_final1_1024.jpg" width="400" height="500" alt="Katelyn Beecroft">
+    <a href="https://apod.nasa.gov/apod/image/2602/LunarOccultMercury_2026Feb18-Melandri_1065.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2602/LunarOccultMercury_2026Feb18-Melandri_1065.jpg" width="400" height="500" alt="Fabrizio Melandri">
     </a>
     <div>
-        <h4>Sharpless 249 and the Jellyfish Nebula</h4>
-        <time>2026-02-27</time>
-        <p>Normally faint and elusive, the Jellyfish Nebula is caught in this alluring telescopic field of view. Floating in the interstellar sea, the nebula is anchored right and left by two bright stars, Mu and Eta Geminorum, at the foot of the celestial twins. The Jellyfish Nebula itself is right of center, seen as a brighter arcing ridge of emission with dangling tentacles. In fact, this cosmic jellyfish is part of bubble-shaped supernova remnant IC 443, the expanding debris cloud from a massive star that exploded. Light from the explosion first reached planet Earth over 30,000 years ago. Like its cousin in astrophysical waters the Crab Nebula supernova remnant, the Jellyfish Nebula is known to harbor a neutron star, the ultradense remnant of the collapsed stellar core. An emission nebula cataloged as Sharpless 249 fills the field at the upper left. The Jellyfish Nebula is about 5,000 light-years away. At that distance, this image would be about 300 light-years across.</p>
-        <strong><em>Katelyn Beecroft</em></strong>
+        <h4>Lunar Occultation of Mercury</h4>
+        <time>2026-02-28</time>
+        <p>Fans of the western sky after sunset have lately enjoyed this month's remarkable array of bright planets. Witnessed from some locations, on February 18 planet Mercury even appeared to slide behind the Moon, an event known as a lunar occultation. These two snapshots, taken in early evening skies show before and after telescopic views of the rare disappearance of innermost planet behind young Moon. The top panel finds bright Mercury just visible at the northern (right) edge of the earthshine-illuminated lunar disk. In the bottom panel the bright planet has emerged in darker skies beyond the Moon's sunlit crescent. As seen south of Sallisaw, Oklahoma, planet Earth, this lunar occultation of Mercury lasted only about 3 minutes (video). But you can still check out a parade of planets tonight.  March 3: Total Lunar Eclipse</p>
+        <strong><em>Fabrizio Melandri</em></strong>
     </div>
 </div>
