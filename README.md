@@ -60,13 +60,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2603/TotalLunarEclipse2018.mp4">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2603/TotalLunarEclipse2018.mp4" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2603/DustyOrionPleiades_Fernandez_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2603/DustyOrionPleiades_Fernandez_960.jpg" width="400" height="500" alt="Ignacio Fernández">
     </a>
     <div>
-        <h4>The Moon During a Total Lunar Eclipse</h4>
-        <time>2026-03-01</time>
-        <p>How does the Moon's appearance change during a total lunar eclipse?  The featured time-lapse video was digitally processed to keep the Moon bright and centered during the 5-hour eclipse of 2018 January 31.  At first the full moon is visible because only a full moon can undergo a lunar eclipse. Stars move by in the background because the Moon orbits the Earth during the eclipse.  The circular shadow of the Earth is then seen moving across the Moon.  The light blue hue of the shadow's edge is related to why Earth's sky is blue, while the deep red hue of the shadow's center is related to why the Sun appears red when near the horizon.  Tomorrow night, people living in Eastern Asia, Australia, and much of North America may get to see a Total Blood Moon Lunar Eclipse.  Here the term blood refers to the (likely) red color of a fully eclipsed Moon.   Almost Hyperspace: Random APOD Generator</p>
-        <strong><em></em></strong>
+        <h4>The Dusty Surroundings of Orion and the Pleiades</h4>
+        <time>2026-03-02</time>
+        <p>How well do you know the night sky? OK, but how well can you identify famous sky objects in a very deep image? Either way, here is a test: see if you can find some well-known night-sky icons in a deep image filled with filaments of normally faint dust and gas.  This image contains the Pleiades star cluster, Barnard's Loop, Orion Nebula, Aldebaran, Betelgeuse, Witch Head Nebula, Eridanus Loop, and the California Nebula. To find their real locations, here is an annotated image version.  The reason this task might be difficult is similar to the reason it is initially hard to identify familiar constellations in a very dark sky: the tapestry of our night sky has an extremely deep hidden complexity.  The featured composite reveals some of this complexity in a 16 hours of sky exposure in dark skies over Granada, Spain.    Tonight: Total Lunar Eclipse</p>
+        <strong><em>Ignacio Fernández</em></strong>
     </div>
 </div>
