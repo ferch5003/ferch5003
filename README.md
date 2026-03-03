@@ -60,13 +60,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2603/DustyOrionPleiades_Fernandez_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2603/DustyOrionPleiades_Fernandez_960.jpg" width="400" height="500" alt="Ignacio Fernández">
+    <a href="https://apod.nasa.gov/apod/image/2603/FlyingNorth_MarsExpress.mp4">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2603/FlyingNorth_MarsExpress.mp4" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>The Dusty Surroundings of Orion and the Pleiades</h4>
-        <time>2026-03-02</time>
-        <p>How well do you know the night sky? OK, but how well can you identify famous sky objects in a very deep image? Either way, here is a test: see if you can find some well-known night-sky icons in a deep image filled with filaments of normally faint dust and gas.  This image contains the Pleiades star cluster, Barnard's Loop, Orion Nebula, Aldebaran, Betelgeuse, Witch Head Nebula, Eridanus Loop, and the California Nebula. To find their real locations, here is an annotated image version.  The reason this task might be difficult is similar to the reason it is initially hard to identify familiar constellations in a very dark sky: the tapestry of our night sky has an extremely deep hidden complexity.  The featured composite reveals some of this complexity in a 16 hours of sky exposure in dark skies over Granada, Spain.    Tonight: Total Lunar Eclipse</p>
-        <strong><em>Ignacio Fernández</em></strong>
+        <h4>Flying over the North Pole of Mars</h4>
+        <time>2026-03-03</time>
+        <p>If you could fly over the North Pole of Mars, what would you see?  Images from ESA’s Mars Express mission in 2019 were compiled into the featured video which shows just such a trip.  First you see below you a landscape tinted orange by rusted iron in the fine soil, with some land appearing darker due to exposed rock.  Soon the northern polar cap comes into view, mostly white because of its reflective frozen water.  Surrounding the polar cap is the North Polar Basin, a layered depression covered with dust and sand.  The frames in the featured video were captured during northern Martian Spring when the carbon-dioxide ice is evaporating, leaving the underlying water-ice in the cap. Mars Express continues to study the Martian surface and look for clues about the Red Planet's ancient climate and potential for life.</p>
+        <strong><em></em></strong>
     </div>
 </div>
