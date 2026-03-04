@@ -60,13 +60,27 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2603/FlyingNorth_MarsExpress.mp4">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2603/FlyingNorth_MarsExpress.mp4" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2603/Shapley1_Bresseler_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2603/Shapley1_Bresseler_960.jpg" width="400" height="500" alt="Peter Bresseler;
+Text:
+Keighley Rockcliffe  
+(NASA
+GSFC, 
+UMBC
+CSST, 
+CRESST II)">
     </a>
     <div>
-        <h4>Flying over the North Pole of Mars</h4>
-        <time>2026-03-03</time>
-        <p>If you could fly over the North Pole of Mars, what would you see?  Images from ESA’s Mars Express mission in 2019 were compiled into the featured video which shows just such a trip.  First you see below you a landscape tinted orange by rusted iron in the fine soil, with some land appearing darker due to exposed rock.  Soon the northern polar cap comes into view, mostly white because of its reflective frozen water.  Surrounding the polar cap is the North Polar Basin, a layered depression covered with dust and sand.  The frames in the featured video were captured during northern Martian Spring when the carbon-dioxide ice is evaporating, leaving the underlying water-ice in the cap. Mars Express continues to study the Martian surface and look for clues about the Red Planet's ancient climate and potential for life.</p>
-        <strong><em></em></strong>
+        <h4>Shapley 1: An Annular Planetary Nebula</h4>
+        <time>2026-03-04</time>
+        <p>What’s looking back at you isn’t a cosmic eye, but Shapley 1, a beautifully symmetric planetary nebula.  Shapley 1, also known as the Fine Ring Nebula or PLN 329+2.1, bejewels the southern sky constellation of the Carpenter's Square  (Norma).  The nebula is the result of a star near the mass of our Sun running out of fuel and shedding its outer layers.  Glowing oxygen from those expelled layers makes up the circular halo.  The bright central point is actually a binary: a white dwarf, the remaining stellar core after the outer layers are expelled into space, and another star, orbiting each other every 2.9 days.  Shapley 1’s annular shape is due to our top-down view of the system and provides insight into the influence of central stars on planetary nebula structures.</p>
+        <strong><em>Peter Bresseler;
+Text:
+Keighley Rockcliffe  
+(NASA
+GSFC, 
+UMBC
+CSST, 
+CRESST II)</em></strong>
     </div>
 </div>
