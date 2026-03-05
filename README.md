@@ -60,27 +60,27 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2603/Shapley1_Bresseler_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2603/Shapley1_Bresseler_960.jpg" width="400" height="500" alt="Peter Bresseler;
-Text:
-Keighley Rockcliffe  
+    <a href="https://apod.nasa.gov/apod/image/2603/EclipseSequence_Murata_1080.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2603/EclipseSequence_Murata_1080.jpg" width="400" height="500" alt="Satoru Murata;
+
+Text: 
+Keighley Rockcliffe 
 (NASA
 GSFC, 
-UMBC
-CSST, 
+UMCP, 
 CRESST II)">
     </a>
     <div>
-        <h4>Shapley 1: An Annular Planetary Nebula</h4>
-        <time>2026-03-04</time>
-        <p>What’s looking back at you isn’t a cosmic eye, but Shapley 1, a beautifully symmetric planetary nebula.  Shapley 1, also known as the Fine Ring Nebula or PLN 329+2.1, bejewels the southern sky constellation of the Carpenter's Square  (Norma).  The nebula is the result of a star near the mass of our Sun running out of fuel and shedding its outer layers.  Glowing oxygen from those expelled layers makes up the circular halo.  The bright central point is actually a binary: a white dwarf, the remaining stellar core after the outer layers are expelled into space, and another star, orbiting each other every 2.9 days.  Shapley 1’s annular shape is due to our top-down view of the system and provides insight into the influence of central stars on planetary nebula structures.</p>
-        <strong><em>Peter Bresseler;
-Text:
-Keighley Rockcliffe  
+        <h4>Total Lunar Eclipse over Tsé Bit'a'í</h4>
+        <time>2026-03-05</time>
+        <p>rlier this week, Earth’s shadow swept across the full Moon in the year’s only total lunar eclipse. This stunning sequence combines images showing the Moon’s path across the night sky.  Each lunar image captures our planet’s shadow gradually engulfing the Moon, culminating in its red glow.  Sunlight scatters and refracts as it passes through Earth’s atmosphere toward the Moon. Shorter wavelength light (blue and green) scatters more efficiently, leaving red, orange, and yellow hues to paint the lunar surface. Tsé Bit'a'í (”rock with wings”, also known as Shiprock), located in Navajo Nation, provides a powerful volcanic foreground central to this photo and to stories of Navajo origin, adventure, and heroism. As the first full moon of the lunar new year, this eclipse held significance across cultures. Visible from East Asia to North America, this eclipse united observers across great distances, a cosmic reminder that we share the same sky.</p>
+        <strong><em>Satoru Murata;
+
+Text: 
+Keighley Rockcliffe 
 (NASA
 GSFC, 
-UMBC
-CSST, 
+UMCP, 
 CRESST II)</em></strong>
     </div>
 </div>
