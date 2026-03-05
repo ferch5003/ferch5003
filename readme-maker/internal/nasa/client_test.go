@@ -15,11 +15,11 @@ func TestClient_GetAPODSuccessfulRequest(t *testing.T) {
 	defer server.Close()
 
 	// Given
-	t.Setenv("NASA_BASE_URL", server.URL)
-	t.Setenv("NASA_API_KEY", "test")
-
 	apodParams := dto.APODRequestParams{}
-	nasaClient := NewClient()
+	nasaClient := NewClient(Config{
+		BaseURL: server.URL,
+		APIKey:  "test",
+	})
 
 	// When
 	response, err := nasaClient.GetAPOD(apodParams)
@@ -37,14 +37,12 @@ func TestClient_GetAPODSuccessfulRequest(t *testing.T) {
 }
 
 func TestClient_GetAPODErrorWrongURL(t *testing.T) {
-	server := nasatest.NewServer()
-	defer server.Close()
-
 	// Given
-	t.Setenv("NASA_BASE_URL", "notexist")
-
 	apodParams := dto.APODRequestParams{}
-	nasaClient := NewClient()
+	nasaClient := NewClient(Config{
+		BaseURL: "notexist",
+		APIKey:  "test",
+	})
 
 	// When
 	_, err := nasaClient.GetAPOD(apodParams)
@@ -62,11 +60,11 @@ func TestClient_GetAPODErrorInvalidJSON(t *testing.T) {
 	defer server.Close()
 
 	// Given
-	t.Setenv("NASA_BASE_URL", server.URL)
-	t.Setenv("NASA_API_KEY", "test")
-
 	apodParams := dto.APODRequestParams{}
-	nasaClient := NewClient()
+	nasaClient := NewClient(Config{
+		BaseURL: server.URL,
+		APIKey:  "test",
+	})
 
 	// When
 	_, err := nasaClient.GetAPOD(apodParams)
@@ -84,11 +82,11 @@ func TestClient_GetAPODErrorServerError(t *testing.T) {
 	defer server.Close()
 
 	// Given
-	t.Setenv("NASA_BASE_URL", server.URL)
-	t.Setenv("NASA_API_KEY", "test")
-
 	apodParams := dto.APODRequestParams{}
-	nasaClient := NewClient()
+	nasaClient := NewClient(Config{
+		BaseURL: server.URL,
+		APIKey:  "test",
+	})
 
 	// When
 	_, err := nasaClient.GetAPOD(apodParams)
@@ -106,11 +104,11 @@ func TestClient_GetAPODErrorClientError(t *testing.T) {
 	defer server.Close()
 
 	// Given
-	t.Setenv("NASA_BASE_URL", server.URL)
-	t.Setenv("NASA_API_KEY", "test")
-
 	apodParams := dto.APODRequestParams{}
-	nasaClient := NewClient()
+	nasaClient := NewClient(Config{
+		BaseURL: server.URL,
+		APIKey:  "test",
+	})
 
 	// When
 	_, err := nasaClient.GetAPOD(apodParams)

@@ -14,10 +14,10 @@ func TestNasaTemplate_ParseSuccessful(t *testing.T) {
 	defer server.Close()
 
 	// Given
-	t.Setenv("NASA_BASE_URL", server.URL)
-	t.Setenv("NASA_API_KEY", "test")
-
-	nasaClient := NewClient()
+	nasaClient := NewClient(Config{
+		BaseURL: server.URL,
+		APIKey:  "test",
+	})
 	nasaTemplate := NewNasaTemplate(nasaClient)
 
 	template := "{{.Nasa.APOD.Title}} template for nasa"
@@ -31,13 +31,11 @@ func TestNasaTemplate_ParseSuccessful(t *testing.T) {
 }
 
 func TestNasaTemplate_ParseErrorWrongURL(t *testing.T) {
-	server := nasatest.NewServer()
-	defer server.Close()
-
 	// Given
-	t.Setenv("NASA_BASE_URL", "notexist")
-
-	nasaClient := NewClient()
+	nasaClient := NewClient(Config{
+		BaseURL: "notexist",
+		APIKey:  "test",
+	})
 	nasaTemplate := NewNasaTemplate(nasaClient)
 
 	template := "{{.Nasa.APOD.Title}} template for nasa"
@@ -84,10 +82,10 @@ func TestNasaTemplate_ParseErrorInvalidTemplate(t *testing.T) {
 	defer server.Close()
 
 	// Given
-	t.Setenv("NASA_BASE_URL", server.URL)
-	t.Setenv("NASA_API_KEY", "test")
-
-	nasaClient := NewClient()
+	nasaClient := NewClient(Config{
+		BaseURL: server.URL,
+		APIKey:  "test",
+	})
 	nasaTemplate := NewNasaTemplate(nasaClient)
 
 	template := "{{.Invalid"
@@ -101,13 +99,11 @@ func TestNasaTemplate_ParseErrorInvalidTemplate(t *testing.T) {
 }
 
 func TestNasaTemplate_ParseErrorClientError(t *testing.T) {
-	server := nasatest.NewServer()
-	defer server.Close()
-
 	// Given
-	t.Setenv("NASA_BASE_URL", "notexist")
-
-	nasaClient := NewClient()
+	nasaClient := NewClient(Config{
+		BaseURL: "notexist",
+		APIKey:  "test",
+	})
 	nasaTemplate := NewNasaTemplate(nasaClient)
 
 	template := "{{.Nasa.APOD.Title}}"
@@ -178,4 +174,85 @@ func TestNasaAPODValues_GetYouTubeIDWithEmptyURL(t *testing.T) {
 	result := values.GetYouTubeID()
 
 	require.Equal(t, "", result)
+}
+
+func TestNasaAPODValues_IsVideoFormatWithMediaTypeVideo(t *testing.T) {
+	var values _nasaAPODValues
+	values.Nasa.APOD = dto.APODResponse{
+		MediaType: "video",
+		Url:       "https://apod.nasa.gov/apod/image/2603/video.mp4",
+	}
+
+	result := values.IsVideoFormat()
+
+	require.True(t, result)
+}
+
+func TestNasaAPODValues_IsVideoFormatWithMp4Url(t *testing.T) {
+	var values _nasaAPODValues
+	values.Nasa.APOD = dto.APODResponse{
+		MediaType: "image",
+		Url:       "https://apod.nasa.gov/apod/image/2603/FlyingNorth_MarsExpress.mp4",
+	}
+
+	result := values.IsVideoFormat()
+
+	require.True(t, result)
+}
+
+func TestNasaAPODValues_IsVideoFormatWithMovUrl(t *testing.T) {
+	var values _nasaAPODValues
+	values.Nasa.APOD = dto.APODResponse{
+		MediaType: "image",
+		Url:       "https://example.com/video.mov",
+	}
+
+	result := values.IsVideoFormat()
+
+	require.True(t, result)
+}
+
+func TestNasaAPODValues_IsVideoFormatWithWebMUrl(t *testing.T) {
+	var values _nasaAPODValues
+	values.Nasa.APOD = dto.APODResponse{
+		MediaType: "image",
+		Url:       "https://example.com/video.webm",
+	}
+
+	result := values.IsVideoFormat()
+
+	require.True(t, result)
+}
+
+func TestNasaAPODValues_IsYouTubeVideo(t *testing.T) {
+	var values _nasaAPODValues
+	values.Nasa.APOD = dto.APODResponse{
+		Url: "https://youtube.com/watch?v=123",
+	}
+
+	result := values.IsYouTubeVideo()
+
+	require.True(t, result)
+}
+
+func TestNasaAPODValues_IsYouTubeVideoFalse(t *testing.T) {
+	var values _nasaAPODValues
+	values.Nasa.APOD = dto.APODResponse{
+		Url: "https://apod.nasa.gov/apod/video.mp4",
+	}
+
+	result := values.IsYouTubeVideo()
+
+	require.False(t, result)
+}
+
+func TestNasaAPODValues_IsYouTubeVideoEmptyUrl(t *testing.T) {
+	var values _nasaAPODValues
+	values.Nasa.APOD = dto.APODResponse{
+		Url: "",
+	}
+
+	result := values.IsYouTubeVideo()
+
+	require.False(t, result)
 }

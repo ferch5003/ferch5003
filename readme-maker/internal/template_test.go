@@ -14,10 +14,10 @@ func TestTemplate_ParseSuccessful(t *testing.T) {
 	defer server.Close()
 
 	// Given
-	t.Setenv("NASA_BASE_URL", server.URL)
-	t.Setenv("NASA_API_KEY", "test")
-
-	nasaClient := nasa.NewClient()
+	nasaClient := nasa.NewClient(nasa.Config{
+		BaseURL: server.URL,
+		APIKey:  "test",
+	})
 	nasaTemplate := nasa.NewNasaTemplate(nasaClient)
 
 	mainTemplate := NewTemplate()
@@ -34,13 +34,11 @@ func TestTemplate_ParseSuccessful(t *testing.T) {
 }
 
 func TestTemplate_ParseErrorWrongURL(t *testing.T) {
-	server := nasatest.NewServer()
-	defer server.Close()
-
 	// Given
-	t.Setenv("NASA_BASE_URL", "notexist")
-
-	nasaClient := nasa.NewClient()
+	nasaClient := nasa.NewClient(nasa.Config{
+		BaseURL: "notexist",
+		APIKey:  "test",
+	})
 	nasaTemplate := nasa.NewNasaTemplate(nasaClient)
 
 	mainTemplate := NewTemplate()

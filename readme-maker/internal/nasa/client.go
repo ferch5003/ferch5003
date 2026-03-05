@@ -5,7 +5,6 @@ import (
 	"fmt"
 	"io"
 	"net/http"
-	"os"
 	"time"
 
 	"github.com/ferch5003/ferch5003/readme-maker/internal/nasa/dto"
@@ -13,6 +12,12 @@ import (
 )
 
 const _planetaryPath = "planetary"
+
+// Config holds the NASA API configuration.
+type Config struct {
+	BaseURL string
+	APIKey  string
+}
 
 type Client interface {
 	// GetAPOD returns an APODResponse that the response for the /planetary/apod endpoint for NASA API.
@@ -25,10 +30,11 @@ type client struct {
 	httpClient *http.Client
 }
 
-func NewClient() Client {
+// NewClient creates a new NASA API client with the given configuration.
+func NewClient(cfg Config) Client {
 	return client{
-		baseUrl: os.Getenv("NASA_BASE_URL"),
-		apiKey:  os.Getenv("NASA_API_KEY"),
+		baseUrl: cfg.BaseURL,
+		apiKey:  cfg.APIKey,
 		httpClient: &http.Client{
 			Timeout: 30 * time.Second,
 		},

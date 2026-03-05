@@ -11,6 +11,8 @@ import (
 
 var _videoFormats = []string{"youtube"}
 
+var _directVideoExtensions = []string{".mp4", ".mov", ".webm"}
+
 type _nasaAPODValues struct {
 	Nasa struct {
 		APOD dto.APODResponse
@@ -18,12 +20,33 @@ type _nasaAPODValues struct {
 }
 
 func (n _nasaAPODValues) IsVideoFormat() bool {
+	// Check media_type from NASA API first (most reliable)
+	if n.Nasa.APOD.MediaType == "video" {
+		return true
+	}
+
+	// Fallback: check URL for known video patterns
 	for _, format := range _videoFormats {
 		if n.Nasa.APOD.Url != "" && strings.Contains(n.Nasa.APOD.Url, format) {
 			return true
 		}
 	}
+
+	// Check for direct video file extensions
+	for _, ext := range _directVideoExtensions {
+		if n.Nasa.APOD.Url != "" && strings.HasSuffix(strings.ToLower(n.Nasa.APOD.Url), ext) {
+			return true
+		}
+	}
+
 	return false
+}
+
+func (n _nasaAPODValues) IsYouTubeVideo() bool {
+	if n.Nasa.APOD.Url == "" {
+		return false
+	}
+	return strings.Contains(n.Nasa.APOD.Url, "youtube")
 }
 
 func (n _nasaAPODValues) GetYouTubeID() string {
