@@ -6,6 +6,11 @@ import (
 	"github.com/ferch5003/ferch5003/readme-maker/internal"
 )
 
+var (
+	templatePath = "./README.md.tpl"
+	readmePath   = "./README.md"
+)
+
 func main() {
 	if err := run(); err != nil {
 		log.Fatalln(err)

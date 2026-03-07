@@ -21,7 +21,7 @@ func newDependencies() dependencies {
 	envPath := filepath.Join("readme-maker", ".env")
 	_ = godotenv.Load(envPath)
 
-	fs := storage.New("./README.md.tpl", "./README.md")
+	fs := storage.New(templatePath, readmePath)
 
 	// Slice to save all the templates.
 	var templates []templates.Templater
