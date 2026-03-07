@@ -256,3 +256,69 @@ func TestNasaAPODValues_IsYouTubeVideoEmptyUrl(t *testing.T) {
 
 	require.False(t, result)
 }
+
+func TestNasaAPODValues_GetCopyrightWithNewlines(t *testing.T) {
+	var values _nasaAPODValues
+	values.Nasa.APOD = dto.APODResponse{
+		Copyright: "Satoru Murata;\nText:\nKeighley Rockcliffe\n(NASA\nGSFC,\nUMCP,\nCRESST II)",
+	}
+
+	result := values.GetCopyright()
+
+	require.Equal(t, "Satoru Murata; Text: Keighley Rockcliffe (NASA GSFC, UMCP, CRESST II)", result)
+}
+
+func TestNasaAPODValues_GetCopyrightWithMultipleSpaces(t *testing.T) {
+	var values _nasaAPODValues
+	values.Nasa.APOD = dto.APODResponse{
+		Copyright: "John    Doe    &   Jane Smith",
+	}
+
+	result := values.GetCopyright()
+
+	require.Equal(t, "John Doe & Jane Smith", result)
+}
+
+func TestNasaAPODValues_GetCopyrightWithTabs(t *testing.T) {
+	var values _nasaAPODValues
+	values.Nasa.APOD = dto.APODResponse{
+		Copyright: "John\tDoe\t&\tJane Smith",
+	}
+
+	result := values.GetCopyright()
+
+	require.Equal(t, "John Doe & Jane Smith", result)
+}
+
+func TestNasaAPODValues_GetCopyrightEmpty(t *testing.T) {
+	var values _nasaAPODValues
+	values.Nasa.APOD = dto.APODResponse{
+		Copyright: "",
+	}
+
+	result := values.GetCopyright()
+
+	require.Equal(t, "", result)
+}
+
+func TestNasaAPODValues_GetCopyrightNormal(t *testing.T) {
+	var values _nasaAPODValues
+	values.Nasa.APOD = dto.APODResponse{
+		Copyright: "Tunc Tezel",
+	}
+
+	result := values.GetCopyright()
+
+	require.Equal(t, "Tunc Tezel", result)
+}
+
+func TestNasaAPODValues_GetCopyrightWithMixedWhitespace(t *testing.T) {
+	var values _nasaAPODValues
+	values.Nasa.APOD = dto.APODResponse{
+		Copyright: "  John  \n  Doe  \t  &  \r  Jane  \n  Smith  ",
+	}
+
+	result := values.GetCopyright()
+
+	require.Equal(t, "John Doe & Jane Smith", result)
+}

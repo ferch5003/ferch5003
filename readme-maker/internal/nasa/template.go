@@ -49,6 +49,24 @@ func (n _nasaAPODValues) IsYouTubeVideo() bool {
 	return strings.Contains(n.Nasa.APOD.Url, "youtube")
 }
 
+// GetCopyright returns the copyright string cleaned for safe HTML usage.
+// It replaces newlines and multiple spaces with single spaces.
+func (n _nasaAPODValues) GetCopyright() string {
+	copyright := n.Nasa.APOD.Copyright
+	if copyright == "" {
+		return ""
+	}
+	// Replace newlines and tabs with spaces
+	copyright = strings.ReplaceAll(copyright, "\n", " ")
+	copyright = strings.ReplaceAll(copyright, "\r", " ")
+	copyright = strings.ReplaceAll(copyright, "\t", " ")
+	// Replace multiple spaces with single space
+	re := regexp.MustCompile(`\s+`)
+	copyright = re.ReplaceAllString(copyright, " ")
+	// Trim leading/trailing spaces
+	return strings.TrimSpace(copyright)
+}
+
 func (n _nasaAPODValues) GetYouTubeID() string {
 	url := n.Nasa.APOD.Url
 	if url == "" {

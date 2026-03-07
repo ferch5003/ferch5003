@@ -6,7 +6,7 @@
 
 - 💻 Backend developer (Go, Gin Gonic, Ruby, Ruby on Rails)
 - 🎨Frontend developer (JavaScript, TypeScript, Vue)
-- 🌱 I’m currently learning Design Patterns and gRPC
+- 🌱 I'm currently learning Design Patterns and gRPC
 - ⚡ Love video games, anime, music and movies!
 
 ### 👾Frameworks and languages commonly used:
@@ -66,13 +66,13 @@
     </a>
 {{- else}}
     <a href="{{.Nasa.APOD.Url}}">
-        <img align="left" src="{{.Nasa.APOD.Url}}" width="400" height="500" alt="{{.Nasa.APOD.Copyright}}">
+        <img align="left" src="{{.Nasa.APOD.Url}}" width="400" height="500" alt="{{.GetCopyright}}">
     </a>
 {{- end}}
     <div>
         <h4>{{.Nasa.APOD.Title}}</h4>
         <time>{{.Nasa.APOD.Date}}</time>
         <p>{{.Nasa.APOD.Explanation}}</p>
-        <strong><em>{{.Nasa.APOD.Copyright}}</em></strong>
+        <strong><em>{{.GetCopyright}}</em></strong>
     </div>
 </div>
