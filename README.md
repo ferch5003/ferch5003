@@ -6,7 +6,7 @@
 
 - 💻 Backend developer (Go, Gin Gonic, Ruby, Ruby on Rails)
 - 🎨Frontend developer (JavaScript, TypeScript, Vue)
-- 🌱 I’m currently learning Design Patterns and gRPC
+- 🌱 I'm currently learning Design Patterns and gRPC
 - ⚡ Love video games, anime, music and movies!
 
 ### 👾Frameworks and languages commonly used:
@@ -60,13 +60,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2603/Two_Eclipses_Horalek_Tezel_800px.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2603/Two_Eclipses_Horalek_Tezel_800px.jpg" width="400" height="500" alt="Tunc Tezel">
+    <a href="https://apod.nasa.gov/apod/image/2603/AuroraTree_Wallace_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2603/AuroraTree_Wallace_960.jpg" width="400" height="500" alt="Alyn Wallace">
     </a>
     <div>
-        <h4>Two Eclipses of Saros 133</h4>
-        <time>2026-03-07</time>
-        <p>Centered on maximum eclipse, these two total lunar eclipse sequences look almost identical. Yet the one shown on top is composed of images recorded in February 2008, while at the bottom is the recent March 2026 total eclipse of the Moon. Why are they so similar? Because these two total lunar eclipses are from the same Saros cycle. The Saros cycle was discovered historically from observations of the Moon's orbit. With a period of 18 years, 11 and 1/3 days, the cycle predicts when the Sun, Earth, and Moon all return to the same relative geometry for a lunar (or solar) eclipse. Eclipses separated by one Saros period belong to the same numbered Saros series, in this case Saros 133. So expect the next lunar eclipse in Saros 133 to be a repeat of this year's March 3 eclipse. You can watch the next Saros 133 total lunar eclipse on March 13, 2044.   Growing Gallery: Total Lunar Eclipse of March 3</p>
-        <strong><em>Tunc Tezel</em></strong>
+        <h4>The Aurora Tree</h4>
+        <time>2026-03-08</time>
+        <p>Yes, but can your tree do this?  Pictured is a visual coincidence between the dark branches of a nearby tree and bright glow of a distant aurora. The beauty of the aurora -- combined with how it seemed to mimic a tree right nearby -- mesmerized the photographer to such a degree that he momentarily forgot to take pictures. When viewed at the right angle, it seemed that this tree had aurora for leaves. Fortunately, before the aurora morphed into a different overall shape, he came to his senses and captured the awe-inspiring momentary coincidence.  Typically triggered by solar explosions, aurora are caused by high energy electrons impacting the Earth's atmosphere around 150 kilometers up.  The unusual Earth-sky collaboration was witnessed in March of 2017 in Iceland.    Sky Surprise: What picture did APOD feature on your birthday? (after 1995)</p>
+        <strong><em>Alyn Wallace</em></strong>
     </div>
 </div>
