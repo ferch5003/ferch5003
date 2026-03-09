@@ -60,13 +60,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2603/AuroraTree_Wallace_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2603/AuroraTree_Wallace_960.jpg" width="400" height="500" alt="Alyn Wallace">
+    <a href="https://apod.nasa.gov/apod/image/2603/cranium_WebbMiri2_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2603/cranium_WebbMiri2_960.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>The Aurora Tree</h4>
-        <time>2026-03-08</time>
-        <p>Yes, but can your tree do this?  Pictured is a visual coincidence between the dark branches of a nearby tree and bright glow of a distant aurora. The beauty of the aurora -- combined with how it seemed to mimic a tree right nearby -- mesmerized the photographer to such a degree that he momentarily forgot to take pictures. When viewed at the right angle, it seemed that this tree had aurora for leaves. Fortunately, before the aurora morphed into a different overall shape, he came to his senses and captured the awe-inspiring momentary coincidence.  Typically triggered by solar explosions, aurora are caused by high energy electrons impacting the Earth's atmosphere around 150 kilometers up.  The unusual Earth-sky collaboration was witnessed in March of 2017 in Iceland.    Sky Surprise: What picture did APOD feature on your birthday? (after 1995)</p>
-        <strong><em>Alyn Wallace</em></strong>
+        <h4>The Cranium Nebula from the Webb Telescope</h4>
+        <time>2026-03-09</time>
+        <p>What's going on inside the head of this nebula?  Dubbed the Exposed Cranium Nebula for its similarity to the human brain, what created the nebula remains a mystery.  One thought is that the Cranium Nebula, also known as PMR 1, is a planetary nebula surrounding a white dwarf star. In this mode, the outer atmosphere was expelled when the original Sun-like star ran out of central nuclear fuel and contracted. A competing thought is that the central star is much more massive, possibly a Wolf-Rayet star, that is ejecting gas and dust via turbulent stellar winds.  Adding to the intrigue is the dark vertical central division and the thin outer gaseous shell.  The featured image was taken by the Webb Space Telescope in mid- infrared light, while a second image, included as a rollover, is in near-infrared.  Future observations may reveal if this brainy system will quietly just fade from view or, many years from now, suddenly erupt in a powerful supernova.</p>
+        <strong><em></em></strong>
     </div>
 </div>
