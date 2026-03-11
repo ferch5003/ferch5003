@@ -60,13 +60,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2603/TeleSkyLasers_Looten_1080.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2603/TeleSkyLasers_Looten_1080.jpg" width="400" height="500" alt="Julien Looten">
+    <a href="https://apod.nasa.gov/apod/image/2603/cg4_1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2603/cg4_1024.jpg" width="400" height="500" alt="William Vrbasso">
     </a>
     <div>
-        <h4>Sky Glows over Paranal Observatory</h4>
-        <time>2026-03-10</time>
-        <p>Are lasers from giant telescopes being used to defend the Earth?  No.  Lasers shot from telescopes are now commonly used to help increase the accuracy of astronomical observations.  In some directions, Earth atmosphere-induced fluctuations in starlight can indicate how the air mass over a telescope is changing, but in other directions, no bright star exists.  In these directions, astronomers can create an artificial star with a laser.  Subsequent observations of the artificial laser guide star can reveal information so detailed about the changing blurring effects of the Earth's atmosphere that much of it can be removed by rapidly flexing a telescope's mirror.  Such adaptive optics techniques allow high-resolution ground-based observations of real stars, planets, and nebulas.  Pictured here, telescopes at Paranal Observatory in Chile study a colorful sky filled with green airglow and the Magellanic Clouds on the left, red airglow on the right, and the majestic central band of our Milky Way Galaxy arching across the center.</p>
-        <strong><em>Julien Looten</em></strong>
+        <h4>CG 4: The Globule and the Galaxy</h4>
+        <time>2026-03-11</time>
+        <p>Is this a cosmic monster ready to devour an unsuspecting galaxy? Thankfully, that is not the case. The red “monster” shown in the featured image is Cometary Globule CG 4, 1,300 light-years away in the Constellation Puppis. CG 4 is a molecular cloud, where hydrogen becomes cold enough to form molecules that can be brought together by gravity to create stars. The shape of CG 4 resembles that of a comet, but its head is 1.5 light-year in diameter and its tail is 8 light-years long; for comparison, the distance from the Earth to the sun is only 8 light-minutes. Astronomers believe that the tail of a cometary globule could have been shaped by a nearby supernova explosion or by irradiation from hot, massive stars. Indeed, CG 4 and other nearby globules point away from the Vela Supernova Remnant, at the center of the Gum Nebula. The edge-on spiral galaxy, ESO 257-19, is more than a hundred million light-years beyond CG 4, and is completely safe from the “monster”.</p>
+        <strong><em>William Vrbasso</em></strong>
     </div>
 </div>
