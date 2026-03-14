@@ -60,13 +60,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2603/Jason_Perry_Totality_Trail_Lake_Toolondo_Australia800.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2603/Jason_Perry_Totality_Trail_Lake_Toolondo_Australia800.jpg" width="400" height="500" alt="Jason Perry">
+    <a href="https://apod.nasa.gov/apod/image/2603/MIT-Pi-Planet-01-PRESS1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2603/MIT-Pi-Planet-01-PRESS1024.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Toolondo Totality Trails</h4>
-        <time>2026-03-13</time>
-        <p>In this composited night skyscape, stacked exposures trace graceful star trails above Lake Toolondo, Victoria, Australia, planet Earth. Captured while the lunar eclipse of March 3 was in progress, the exposures used were made during the hour-long total eclipse phase. So faint star trails are easily visible along with the trail of the reddened Moon in the eclipse-darkened skies above the lake and trees. Of course, the apparent motion of Moon and stars revealed in the timelapse composite reflect the Earth's daily rotation around its axis. Dramatically punctuating the Moon's trail as totality ended, a single, separate telephoto image of the totally eclipsed Moon was scaled and blended into the scene.   Growing Gallery: Total Lunar Eclipse of March 3</p>
-        <strong><em>Jason Perry</em></strong>
+        <h4>A Year for K2-315b</h4>
+        <time>2026-03-14</time>
+        <p>Want to visit a planet that has 3.14 days in a year? Then plan a trip to K2-315b, an earth-sized planet orbiting around a cool, red, M dwarf star about once every 3.14 days. The exoplanet's discovery, based on publicly available data from the planet-hunting Kepler Space Telescope's extended K2 mission, was announced in 2020. K2-315b's measured orbital period in days is nearly equal to the extremely popular irrational number Pi. That puts the exoplanet so close to its parent star that its surface is likely very warm, baking-hot in fact. And this Pi planet is over 185 light-years away. So instead of trying to arrange for an interstellar vacation to K2-315b, there may be easier and more comfortable ways for you to celebrate Pi day on planet Earth.</p>
+        <strong><em></em></strong>
     </div>
 </div>
