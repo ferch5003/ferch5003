@@ -60,13 +60,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2603/NGC1300-LRGB_1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2603/NGC1300-LRGB_1024.jpg" width="400" height="500" alt="Dietmar Hager">
+    <a href="https://apod.nasa.gov/apod/image/2603/DepartingEarth_Messenger.mp4">
+        <img align="left" src="https://img.youtube.com/vi//maxresdefault.jpg" width="400" height="500" alt="Leaving Earth - Click to watch video">
     </a>
     <div>
-        <h4>Galaxies in the River: NGC 1300 and NGC 1297</h4>
-        <time>2026-03-21</time>
-        <p>Spiral NGC 1300 and elliptical NGC 1297 are galaxies that lie on the banks of the southern constellation Eridanus (The River). At 70 million light-years distant or more, both are members of the Eridanus Galaxy Cluster. About 100,000 light-years across, at lower left in this sharp, galaxy group photo NGC 1300 is seen face-on with a prominent central bar and grand, sweeping spiral arms. Like other spiral galaxies, including our own barred spiral Milky Way Galaxy, NGC 1300 is thought to have a supermassive central black hole. A contrast in appearance and slightly more distant, NGC 1297 is the roughly spherical large elliptical galaxy near the top of the frame. With little active star formation, elliptical galaxies are composed of older populations of stars and are likely he result of multiple collisions and mergers with spirals.</p>
-        <strong><em>Dietmar Hager</em></strong>
+        <h4>Leaving Earth</h4>
+        <time>2026-03-22</time>
+        <p>What would it look like to leave planet Earth? Such an event was recorded visually in great detail by the MESSENGER spacecraft as it swung back past the Earth in 2005 on its way in toward the planet Mercury. Earth can be seen rotating in this time-lapse video, as it recedes into the distance. The sunlit half of Earth is so bright that background stars are not visible. The robotic MESSENGER spacecraft orbit around Mercury from 2011 to 2015 has conducted the first complete map of the surface. On occasion, MESSENGER peered back at its home world. MESSENGER is one of the few things created on the Earth that will never return.  At the end of its mission, MESSENGER was purposefully crashed into Mercury's surface.   Almost Hyperspace: Random APOD Generator</p>
+        <strong><em></em></strong>
     </div>
 </div>
