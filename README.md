@@ -60,14 +60,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/" target="_blank">
-        <img align="left" src="https://img.icons8.com/color/480/null/video-file.png" width="400" height="500" alt="Leaving Earth - Click to watch video">
+    <a href="https://apod.nasa.gov/apod/image/2603/LightPillarsMohe_Dai_1080.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2603/LightPillarsMohe_Dai_1080.jpg" width="400" height="500" alt="Jeff Dai (TWAN)">
     </a>
-    <!-- Video icon by Icons8: https://icons8.com/icon/video-file -->
     <div>
-        <h4>Leaving Earth</h4>
-        <time>2026-03-22</time>
-        <p>What would it look like to leave planet Earth? Such an event was recorded visually in great detail by the MESSENGER spacecraft as it swung back past the Earth in 2005 on its way in toward the planet Mercury. Earth can be seen rotating in this time-lapse video, as it recedes into the distance. The sunlit half of Earth is so bright that background stars are not visible. The robotic MESSENGER spacecraft orbit around Mercury from 2011 to 2015 has conducted the first complete map of the surface. On occasion, MESSENGER peered back at its home world. MESSENGER is one of the few things created on the Earth that will never return.  At the end of its mission, MESSENGER was purposefully crashed into Mercury's surface.   Almost Hyperspace: Random APOD Generator</p>
-        <strong><em></em></strong>
+        <h4>Light Pillars and Orion over Mohe</h4>
+        <time>2026-03-23</time>
+        <p>What's happening at the end of that street?  Pictured here are not auroras but light pillars, a phenomenon typically much closer.  In most places on Earth, a lucky viewer can see a Sun pillar, a column of light appearing to extend up from the Sun caused by flat fluttering ice-crystals reflecting sunlight from the upper atmosphere.  Usually, these ice crystals evaporate before reaching the ground.  During freezing temperatures, however, flat fluttering ice crystals may form near the ground and are sometimes known as a crystal fog.  These small ice crystals may then reflect not the Sun but ground lights.  The featured image captured not only numerous light pillars but also the iconic constellation of Orion, and was taken in Mohe, the northernmost city in China.</p>
+        <strong><em>Jeff Dai (TWAN)</em></strong>
     </div>
 </div>
