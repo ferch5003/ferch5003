@@ -67,6 +67,36 @@ func (n _nasaAPODValues) GetCopyright() string {
 	return strings.TrimSpace(copyright)
 }
 
+func (n _nasaAPODValues) GetVideoThumbnail() string {
+	if n.Nasa.APOD.ThumbnailUrl != "" {
+		return n.Nasa.APOD.ThumbnailUrl
+	}
+
+	if n.IsYouTubeVideo() {
+		ytID := n.GetYouTubeID()
+		if ytID != "" {
+			return "https://img.youtube.com/vi/" + ytID + "/maxresdefault.jpg"
+		}
+	}
+
+	return "VIDEO_NO_THUMBNAIL"
+}
+
+func (n _nasaAPODValues) HasVideoThumbnail() bool {
+	if n.Nasa.APOD.ThumbnailUrl != "" {
+		return true
+	}
+
+	if n.IsYouTubeVideo() {
+		ytID := n.GetYouTubeID()
+		if ytID != "" {
+			return true
+		}
+	}
+
+	return false
+}
+
 func (n _nasaAPODValues) GetYouTubeID() string {
 	url := n.Nasa.APOD.Url
 	if url == "" {
@@ -108,7 +138,9 @@ func (nt *nasaTemplate) AddTemplates(templates []templates.Templater) {
 func (nt *nasaTemplate) Parse(in string) (string, error) {
 	parsed := new(strings.Builder)
 
-	apodParams := dto.APODRequestParams{}
+	apodParams := dto.APODRequestParams{
+		Thumbs: true,
+	}
 	response, err := nt.client.GetAPOD(apodParams)
 	if err != nil {
 		return "", err

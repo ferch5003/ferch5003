@@ -9,4 +9,5 @@ type APODResponse struct {
 	ServiceVersion string `json:"service_version,omitempty"`
 	Title          string `json:"title,omitempty"`
 	Url            string `json:"url,omitempty"`
+	ThumbnailUrl   string `json:"thumbnail_url,omitempty"`
 }
