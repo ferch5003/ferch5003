@@ -60,9 +60,10 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2603/DepartingEarth_Messenger.mp4" target="_blank">
-        <img align="left" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNTAwIj48cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjUwMCIgZmlsbD0iIzMzMyIgc3Ryb2tlPSIjMzMzIiBzdHJva2Utd2lkdGg9IjIiLz48dGV4dCB4PSI1MCUiIHk9IjUwJSIgZG9taW5hbnQtYmFzZWxpbmU9Im1pZGRsZSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iI2ZmZiIgZm9udC1mYW1pbHk9InNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMjAiPkNsaWNrIHRvIHdhdGNoIHZpZGVvPC90ZXh0Pjwvc3ZnPg==" width="400" height="500" alt="Leaving Earth - Click to watch video">
+    <a href="https://apod.nasa.gov/apod/" target="_blank">
+        <img align="left" src="https://img.icons8.com/color/480/null/video-file.png" width="400" height="500" alt="Leaving Earth - Click to watch video">
     </a>
+    <!-- Video icon by Icons8: https://icons8.com/icon/video-file -->
     <div>
         <h4>Leaving Earth</h4>
         <time>2026-03-22</time>

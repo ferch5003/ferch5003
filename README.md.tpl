@@ -72,6 +72,7 @@
     <a href="https://apod.nasa.gov/apod/" target="_blank">
         <img align="left" src="https://img.icons8.com/color/480/null/video-file.png" width="400" height="500" alt="{{.Nasa.APOD.Title}} - Click to watch video">
     </a>
+    <!-- Video icon by Icons8: https://icons8.com/icon/video-file -->
 {{- end}}
     <div>
         <h4>{{.Nasa.APOD.Title}}</h4>
