@@ -60,13 +60,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2604/claw_bubble_800.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2604/claw_bubble_800.jpg" width="400" height="500" alt="Richard Whitehead Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)">
+    <a href="https://apod.nasa.gov/apod/image/2604/nasa_billingalls.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2604/nasa_billingalls.jpg" width="400" height="500" alt="NASA/Bill Ingalls; Text: Ogetay Kayali (MTU)">
     </a>
     <div>
-        <h4>The Claw and Bubble Nebulae</h4>
-        <time>2026-04-01</time>
-        <p>What unexpected things do you see when you look up at the night sky? Today’s image resembles an abstract painting, with large swaths of color strewn across a cosmic canvas seemingly without design. Despite the image's abstract nature, the human mind finds patterns, identifying a large claw reaching up towards a floating bubble. Embedded within these seemingly random structures are the physical laws that govern how light and matter interact. The Claw (Sh2-157) and Bubble (NGC 7635) Nebulae glow colors that are mapped to the yellow and blue shown, indicating the presence of hydrogen and oxygen ionized by the intense light emitted from stars several times the mass of the Sun. This image depicts both the chaos and structure of astronomical processes, showing that a common thread between art and science is to look for the unexpected.</p>
-        <strong><em>Richard Whitehead Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)</em></strong>
+        <h4>Liftoff! Returning to the Moon</h4>
+        <time>2026-04-02</time>
+        <p>We are one small step closer to returning to the Moon. A new chapter in human exploration began yesterday when NASA's Artemis II launched aboard the Space Launch System (SLS) from Kennedy Space Center. Carrying four astronauts, the Orion spacecraft's planned lunar flyby will be the first in over half a century. This historic test flight, echoing the legacy of Apollo while pushing beyond it, will carry its crew farther from Earth than any humans since 1972, looping around the Moon before returning home. During the approximately ten-day journey, Orion's systems--from life support to navigation--will be tested in deep space, while astronauts observe the lunar surface, including shadowed regions of the far side rarely seen with such perspective. After looping around the Moon, the astronauts will return to Earth, ending their journey with a Pacific Ocean splashdown.</p>
+        <strong><em>NASA/Bill Ingalls; Text: Ogetay Kayali (MTU)</em></strong>
     </div>
 </div>
