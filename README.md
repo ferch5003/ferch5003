@@ -60,13 +60,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2604/nasa_billingalls.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2604/nasa_billingalls.jpg" width="400" height="500" alt="NASA/Bill Ingalls; Text: Ogetay Kayali (MTU)">
+    <a href="https://apod.nasa.gov/apod/image/2604/BH_Merger_Tarantula_1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2604/BH_Merger_Tarantula_1024.jpg" width="400" height="500" alt="Carl Knox">
     </a>
     <div>
-        <h4>Liftoff! Returning to the Moon</h4>
-        <time>2026-04-02</time>
-        <p>We are one small step closer to returning to the Moon. A new chapter in human exploration began yesterday when NASA's Artemis II launched aboard the Space Launch System (SLS) from Kennedy Space Center. Carrying four astronauts, the Orion spacecraft's planned lunar flyby will be the first in over half a century. This historic test flight, echoing the legacy of Apollo while pushing beyond it, will carry its crew farther from Earth than any humans since 1972, looping around the Moon before returning home. During the approximately ten-day journey, Orion's systems--from life support to navigation--will be tested in deep space, while astronauts observe the lunar surface, including shadowed regions of the far side rarely seen with such perspective. After looping around the Moon, the astronauts will return to Earth, ending their journey with a Pacific Ocean splashdown.</p>
-        <strong><em>NASA/Bill Ingalls; Text: Ogetay Kayali (MTU)</em></strong>
+        <h4>Caught in the Web: Visualization of a Black Hole Merger in the Tarantula Nebula</h4>
+        <time>2026-04-03</time>
+        <p>How can we see what is invisible? Black holes are not easy to see in the dark cosmic night, but astronomers can find them by analyzing their gravitational effects on matter, light and spacetime. The featured image shows an illustration that combines a simulation of a black hole binary system in its final "death-dance" with an astrophotography image of the Tarantula Nebula in the background. Even though black holes don't emit light, they distort the path of light rays, acting like a gravitational lens. As a result, the nebula appears extremely distorted, forming Einstein rings and multiple images.  Tarantula Nebula lies in the Large Magellanic Cloud, a dwarf galaxy that is one of the satellite galaxies of the Milky Way, 160,000 light-years away. That is more than 1,000 times closer than any of the binary black hole mergers detected so far. We'll probably never detect a merger so close to home!</p>
+        <strong><em>Carl Knox</em></strong>
     </div>
 </div>
