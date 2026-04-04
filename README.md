@@ -60,13 +60,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2604/BH_Merger_Tarantula_1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2604/BH_Merger_Tarantula_1024.jpg" width="400" height="500" alt="Carl Knox">
+    <a href="https://apod.nasa.gov/apod/image/2604/art002e000192_1050.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2604/art002e000192_1050.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Caught in the Web: Visualization of a Black Hole Merger in the Tarantula Nebula</h4>
-        <time>2026-04-03</time>
-        <p>How can we see what is invisible? Black holes are not easy to see in the dark cosmic night, but astronomers can find them by analyzing their gravitational effects on matter, light and spacetime. The featured image shows an illustration that combines a simulation of a black hole binary system in its final "death-dance" with an astrophotography image of the Tarantula Nebula in the background. Even though black holes don't emit light, they distort the path of light rays, acting like a gravitational lens. As a result, the nebula appears extremely distorted, forming Einstein rings and multiple images.  Tarantula Nebula lies in the Large Magellanic Cloud, a dwarf galaxy that is one of the satellite galaxies of the Milky Way, 160,000 light-years away. That is more than 1,000 times closer than any of the binary black hole mergers detected so far. We'll probably never detect a merger so close to home!</p>
-        <strong><em>Carl Knox</em></strong>
+        <h4>Hello World</h4>
+        <time>2026-04-04</time>
+        <p>From pole to pole our fair planet is captured in this snapshot from space, an evocative image from a window of the Orion spacecraft Integrity. From the spacecraft's perspective the Sun is moving behind Earth's bright limb along the lower right. Africa and the Iberian peninsula are in view on the pale blue planet's surface, while aurorae crown Earth's south and north poles at top right and bottom left. Commander Reid Wiseman took the historic picture on Artemis II mission flight day 2 (April 2), after the completion of the planned translunar injection burn. That burn boosted the spacecraft out of Earth orbit, sending Integrity and crew on a trajectory that will take them around the Moon and back again. That's a journey humans last made over 50 years ago.</p>
+        <strong><em></em></strong>
     </div>
 </div>
