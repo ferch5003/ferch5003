@@ -60,13 +60,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2604/art002e000192_1050.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2604/art002e000192_1050.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2604/ngc3310_gemini_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2604/ngc3310_gemini_960.jpg" width="400" height="500" alt="AAO ITSO Office, Gemini Obs./AURA & T. A. Rector (U. Alaska Anchorage)">
     </a>
     <div>
-        <h4>Hello World</h4>
-        <time>2026-04-04</time>
-        <p>From pole to pole our fair planet is captured in this snapshot from space, an evocative image from a window of the Orion spacecraft Integrity. From the spacecraft's perspective the Sun is moving behind Earth's bright limb along the lower right. Africa and the Iberian peninsula are in view on the pale blue planet's surface, while aurorae crown Earth's south and north poles at top right and bottom left. Commander Reid Wiseman took the historic picture on Artemis II mission flight day 2 (April 2), after the completion of the planned translunar injection burn. That burn boosted the spacecraft out of Earth orbit, sending Integrity and crew on a trajectory that will take them around the Moon and back again. That's a journey humans last made over 50 years ago.</p>
-        <strong><em></em></strong>
+        <h4>NGC 3310: A Starburst Spiral Galaxy</h4>
+        <time>2026-04-05</time>
+        <p>The party is still going on in spiral galaxy NGC 3310.  Roughly 100 million years ago, NGC 3310 likely collided with a smaller galaxy causing the large spiral galaxy to light up with a tremendous burst of star formation.  The changing gravity during the collision created density waves that compressed existing clouds of gas and triggered the star-forming party.  The featured image from the Gemini North Telescope shows the galaxy in great detail, color-coded so that pink highlights gas while white and blue highlight stars.  Some of the star clusters in the galaxy are quite young, indicating that starburst galaxies may remain in star-burst mode for quite some time.  NGC 3310 spans about 50,000 light years, lies about 50 million light years away, and is visible with a small telescope towards the constellation of Great Bear Ursa Major.</p>
+        <strong><em>AAO ITSO Office, Gemini Obs./AURA & T. A. Rector (U. Alaska Anchorage)</em></strong>
     </div>
 </div>
