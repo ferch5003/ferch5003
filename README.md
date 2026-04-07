@@ -60,14 +60,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/" target="_blank">
-        <img align="left" src="https://img.icons8.com/color/480/null/video-file.png" width="400" height="500" alt="The Path of Artemis II - Click to watch video">
+    <a href="https://apod.nasa.gov/apod/image/2604/BlueHorse_Alkuwari_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2604/BlueHorse_Alkuwari_960.jpg" width="400" height="500" alt="Rabeea Alkuwari">
     </a>
-    <!-- Video icon by Icons8: https://icons8.com/icon/video-file -->
     <div>
-        <h4>The Path of Artemis II</h4>
-        <time>2026-04-06</time>
-        <p>Why doesn't Artemis II land on the Moon? The main reason is that Artemis II is primarily a test mission designed to make a future Artemis missions -- which will land humans on the Moon -- better prepared.  Similarly, NASA's Apollo 8 and Apollo 10 went right near the Moon as tests before Apollo 11 -- which landed.  As the trajectory in the featured animated video shows, Artemis II will loop around both the Earth and the Moon before returning to the Earth about 10 days after launch. The Artemis II mission will take humans outside the Earth's magnetosphere for the first time since the Apollo missions 50 years ago.  In the video, particles from the solar wind are shown as streaks, while the Earth's reacting magnetosphere is shown in flickering green.  The Earth's magnetosphere is important in deflecting powerful particles arriving from the Sun as well as creating picturesque auroras visible from the Earth's surface.    Explore the Universe: Random APOD Generator</p>
-        <strong><em></em></strong>
+        <h4>IC 4592: The Blue Horsehead Reflection Nebula</h4>
+        <time>2026-04-07</time>
+        <p>Do you see the horse's head?   What you are seeing is not the famous Horsehead nebula toward Orion, but rather a fainter nebula that only takes on a familiar form with deeper imaging.  The main part of the here-imaged molecular cloud complex is  reflection nebula IC 4592.  Reflection nebulas are made up of very fine dust that normally appears dark but can look quite blue when reflecting the visible light of energetic nearby stars.  In this case, the source of much of the reflected light is a star at the eye of the horse.  That star is part of Nu Scorpii, one of the brighter star systems toward the constellation of the Scorpion (Scorpius).   A second reflection nebula dubbed IC 4601 is visible surrounding two stars just below the image center.  The featured picture was taken from  Sawda Natheel in  Qatar.   Jigsaw Nebula: Astronomy Puzzle of the Day</p>
+        <strong><em>Rabeea Alkuwari</em></strong>
     </div>
 </div>
