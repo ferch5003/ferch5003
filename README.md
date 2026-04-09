@@ -60,13 +60,14 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2604/BlueHorse_Alkuwari_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2604/BlueHorse_Alkuwari_960.jpg" width="400" height="500" alt="Rabeea Alkuwari">
+    <a href="https://apod.nasa.gov/apod/" target="_blank">
+        <img align="left" src="https://img.icons8.com/color/480/null/video-file.png" width="400" height="500" alt="Destruction of Comet C/2026 A1 (MAPS) - Click to watch video">
     </a>
+    <!-- Video icon by Icons8: https://icons8.com/icon/video-file -->
     <div>
-        <h4>IC 4592: The Blue Horsehead Reflection Nebula</h4>
-        <time>2026-04-07</time>
-        <p>Do you see the horse's head?   What you are seeing is not the famous Horsehead nebula toward Orion, but rather a fainter nebula that only takes on a familiar form with deeper imaging.  The main part of the here-imaged molecular cloud complex is  reflection nebula IC 4592.  Reflection nebulas are made up of very fine dust that normally appears dark but can look quite blue when reflecting the visible light of energetic nearby stars.  In this case, the source of much of the reflected light is a star at the eye of the horse.  That star is part of Nu Scorpii, one of the brighter star systems toward the constellation of the Scorpion (Scorpius).   A second reflection nebula dubbed IC 4601 is visible surrounding two stars just below the image center.  The featured picture was taken from  Sawda Natheel in  Qatar.   Jigsaw Nebula: Astronomy Puzzle of the Day</p>
-        <strong><em>Rabeea Alkuwari</em></strong>
+        <h4>Destruction of Comet C/2026 A1 (MAPS)</h4>
+        <time>2026-04-09</time>
+        <p>As the crew of Artemis II travelled towards the Moon this week, Comet C/2026 A1 (MAPS) was expected to have its closest approach to the Sun on Monday. At this point, comet and Sun would be closer than half the distance separating the Earth and Moon. The comet did not survive; the featured video was made with 40 hours of data and shows the comet plunging toward the Sun, like a moth to a flame. Observing the comet so close to our bright star requires a coronagraph, an instrument that blocks the Sun and is used for studies of its corona. This composite video combines, starting from the outside, views from: the wider angle coronagraph (blue) and the narrower angle coronagraph (red), both on NASA's Solar and Heliospheric Observatory, and NASA's Solar Dynamics Observatory (black). We can see the comet approaching the sun, stretching, disappearing behind the coronagraph's occulting disk and reappearing as a cloud of debris that dissipates.</p>
+        <strong><em></em></strong>
     </div>
 </div>
