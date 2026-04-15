@@ -60,13 +60,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2604/CometR3_Hamdi_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2604/CometR3_Hamdi_960.jpg" width="400" height="500" alt="Haythem Hamdi">
+    <a href="https://apod.nasa.gov/apod/image/2604/iss_moon_transit_zoom.jpeg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2604/iss_moon_transit_zoom.jpeg" width="400" height="500" alt="Sébastien Borie Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)">
     </a>
     <div>
-        <h4>The Long Wispy Tail of Comet R3 (PanSTARRS)</h4>
-        <time>2026-04-14</time>
-        <p>Why does Comet R3 (PanSTARRS) have a wispy tail?  The newest bright member of the inner Solar System, Comet C/2025 R3 (PanSTARRS) is already extending an impressive stream of glowing gas. This tail starts from an unseen central nucleus of dirty ice that is likely a few kilometers across. The nucleus is warmed by the Sun and emits a cloud of neutral gas into a coma that glows light green. Nuclear gas ionized by energetic sunlight is pushed away from the Sun by the solar wind into an ion tail that glows light blue.  The wispy nature of the ion tail is caused by the constantly changing structure of the solar wind.  Pictured from Rhode Island, USA two days ago, Comet R3 (PanSTARRS) shows off a many-degree ion tail.  Comet R3 (PanSTARRS) is best seen before dawn from northern skies for another 10 days, after which it will be best visible from southern skies.    Growing Gallery: Comet R3 in 2026</p>
-        <strong><em>Haythem Hamdi</em></strong>
+        <h4>The ISS Transits the Moon</h4>
+        <time>2026-04-15</time>
+        <p>Nope, that is not an alien spaceship landing on the Moon! This is an image of the International Space Station (ISS) as it begins to transit in front of the Moon. The ISS is in low-Earth orbit (LEO) where it wizzes around the Earth every 90 minutes. Orbiting the Earth 16 times per day	 for 25 years, the ISS has photobombed many familiar celestial objects including Venus, Mars, Saturn, and the Sun. Thousands of experiments led by researchers from over one hundred countries have been conducted on the ISS. Growing protein crystals in low-gravity was one of the first experiments onboard the ISS and continues to contribute to new medical treatments. ISS astronauts study plant growth, water recycling, human health, and more to support the Artemis missions which will take humans farther than they’ve ever gone before. Next time you are out and about at night, try to  spot the ISS zooming across the sky!</p>
+        <strong><em>Sébastien Borie Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)</em></strong>
     </div>
 </div>
