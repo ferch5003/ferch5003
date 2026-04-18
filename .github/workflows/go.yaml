@@ -22,7 +22,11 @@ jobs:
       - run: |
           go run ./readme-maker/cmd/cli/
           git config user.name "$GIT_NAME"
-          git config user.email "GIT_EMAIL"
+          git config user.email "$GIT_EMAIL"
           git add README.md
+          if git diff --cached --quiet; then
+            echo "README unchanged today — nothing to commit."
+            exit 0
+          fi
           git commit -m "[bot]: 🤖Update README.md"
           git push origin main
