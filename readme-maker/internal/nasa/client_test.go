@@ -4,6 +4,7 @@ import (
 	"net/http"
 	"net/http/httptest"
 	"testing"
+	"time"
 
 	"github.com/ferch5003/ferch5003/readme-maker/internal/nasa/dto"
 	"github.com/ferch5003/ferch5003/readme-maker/internal/nasa/nasatest"
@@ -115,4 +116,46 @@ func TestClient_GetAPODErrorClientError(t *testing.T) {
 
 	// Then
 	require.ErrorContains(t, err, "HTTP error 400")
+}
+
+func TestClient_GetAPODRetriesOn5xxThenSucceeds(t *testing.T) {
+	// Given
+	var calls int
+	successBody := `{
+		"copyright":"test",
+		"date":"2006-01-01",
+		"explanation":"test",
+		"hdurl":"test",
+		"media_type":"test",
+		"service_version":"test",
+		"title":"test",
+		"url":"test"
+	}`
+	server := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+		calls++
+		if calls < 3 {
+			w.WriteHeader(http.StatusServiceUnavailable)
+			_, _ = w.Write([]byte("upstream connect error"))
+			return
+		}
+		w.Header().Set("Content-Type", "application/json")
+		w.WriteHeader(http.StatusOK)
+		_, _ = w.Write([]byte(successBody))
+	}))
+	defer server.Close()
+
+	nasaClient := NewClient(Config{
+		BaseURL:      server.URL,
+		APIKey:       "test",
+		MaxRetries:   3,
+		RetryBackoff: time.Millisecond,
+	})
+
+	// When
+	response, err := nasaClient.GetAPOD(dto.APODRequestParams{})
+
+	// Then
+	require.NoError(t, err)
+	require.Equal(t, 3, calls)
+	require.Equal(t, "test", response.Title)
 }
