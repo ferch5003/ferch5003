@@ -14,9 +14,8 @@ jobs:
       NASA_BASE_URL: ${{ secrets.NASA_BASE_URL }}
       NASA_API_KEY: ${{ secrets.NASA_API_KEY }}
     steps:
-      - uses: actions/checkout@v4
-      - name: Go README
-        uses: actions/setup-go@v5
+      - uses: actions/checkout@v6
+      - uses: actions/setup-go@v6
         with:
           go-version: 'stable'
       - run: |
