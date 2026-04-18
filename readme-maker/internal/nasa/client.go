@@ -15,8 +15,10 @@ const _planetaryPath = "planetary"
 
 // Config holds the NASA API configuration.
 type Config struct {
-	BaseURL string
-	APIKey  string
+	BaseURL      string
+	APIKey       string
+	MaxRetries   int           // optional, defaults to 3
+	RetryBackoff time.Duration // optional, defaults to 1s; doubles each attempt
 }
 
 type Client interface {
@@ -25,19 +27,31 @@ type Client interface {
 }
 
 type client struct {
-	baseUrl    string
-	apiKey     string
-	httpClient *http.Client
+	baseUrl      string
+	apiKey       string
+	httpClient   *http.Client
+	maxRetries   int
+	retryBackoff time.Duration
 }
 
 // NewClient creates a new NASA API client with the given configuration.
 func NewClient(cfg Config) Client {
+	maxRetries := cfg.MaxRetries
+	if maxRetries <= 0 {
+		maxRetries = 3
+	}
+	backoff := cfg.RetryBackoff
+	if backoff <= 0 {
+		backoff = time.Second
+	}
 	return client{
 		baseUrl: cfg.BaseURL,
 		apiKey:  cfg.APIKey,
 		httpClient: &http.Client{
 			Timeout: 30 * time.Second,
 		},
+		maxRetries:   maxRetries,
+		retryBackoff: backoff,
 	}
 }
 
