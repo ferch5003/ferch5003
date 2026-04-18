@@ -118,6 +118,33 @@ func TestClient_GetAPODErrorClientError(t *testing.T) {
 	require.ErrorContains(t, err, "HTTP error 400")
 }
 
+func TestClient_GetAPODFailsAfterRetriesExhausted(t *testing.T) {
+	// Given
+	var calls int
+	server := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+		calls++
+		w.WriteHeader(http.StatusServiceUnavailable)
+		_, _ = w.Write([]byte("upstream connect error"))
+	}))
+	defer server.Close()
+
+	nasaClient := NewClient(Config{
+		BaseURL:      server.URL,
+		APIKey:       "test",
+		MaxRetries:   3,
+		RetryBackoff: time.Millisecond,
+	})
+
+	// When
+	_, err := nasaClient.GetAPOD(dto.APODRequestParams{})
+
+	// Then
+	require.Error(t, err)
+	require.Equal(t, 3, calls)
+	require.ErrorContains(t, err, "after 3 attempts")
+	require.ErrorContains(t, err, "HTTP error 503")
+}
+
 func TestClient_GetAPODRetriesOn5xxThenSucceeds(t *testing.T) {
 	// Given
 	var calls int
