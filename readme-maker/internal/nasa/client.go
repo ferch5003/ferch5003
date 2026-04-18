@@ -69,8 +69,11 @@ func (c client) getWithRetry(url string) (*http.Response, error) {
 			continue
 		}
 		if resp.StatusCode >= 500 && resp.StatusCode < 600 {
-			body, _ := io.ReadAll(resp.Body)
+			body, readErr := io.ReadAll(resp.Body)
 			_ = resp.Body.Close()
+			if readErr != nil {
+				body = []byte("(unable to read body)")
+			}
 			lastErr = fmt.Errorf("HTTP error %d: %s", resp.StatusCode, string(body))
 			if attempt < c.maxRetries {
 				time.Sleep(backoff)

@@ -75,14 +75,15 @@ func TestClient_GetAPODErrorInvalidJSON(t *testing.T) {
 }
 
 func TestClient_GetAPODErrorServerError(t *testing.T) {
-	server := httptest.NewServer(&nasatest.Server{
-		StatusCode:       http.StatusInternalServerError,
-		ResponseBody:     `{"error": "internal server error"}`,
-		ResponseBodyJSON: true,
-	})
+	// Given
+	var calls int
+	server := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+		calls++
+		w.WriteHeader(http.StatusInternalServerError)
+		_, _ = w.Write([]byte(`{"error": "internal server error"}`))
+	}))
 	defer server.Close()
 
-	// Given
 	apodParams := dto.APODRequestParams{}
 	nasaClient := NewClient(Config{
 		BaseURL:      server.URL,
@@ -95,6 +96,8 @@ func TestClient_GetAPODErrorServerError(t *testing.T) {
 	_, err := nasaClient.GetAPOD(apodParams)
 
 	// Then
+	require.Error(t, err)
+	require.Equal(t, 2, calls)
 	require.ErrorContains(t, err, "HTTP error 500")
 }
 
