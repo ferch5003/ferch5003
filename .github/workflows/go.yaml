@@ -14,15 +14,18 @@ jobs:
       NASA_BASE_URL: ${{ secrets.NASA_BASE_URL }}
       NASA_API_KEY: ${{ secrets.NASA_API_KEY }}
     steps:
-      - uses: actions/checkout@v4
-      - name: Go README
-        uses: actions/setup-go@v5
+      - uses: actions/checkout@v6
+      - uses: actions/setup-go@v6
         with:
           go-version: 'stable'
       - run: |
           go run ./readme-maker/cmd/cli/
           git config user.name "$GIT_NAME"
-          git config user.email "GIT_EMAIL"
+          git config user.email "$GIT_EMAIL"
           git add README.md
+          if git diff --cached --quiet; then
+            echo "README unchanged today — nothing to commit."
+            exit 0
+          fi
           git commit -m "[bot]: 🤖Update README.md"
           git push origin main
