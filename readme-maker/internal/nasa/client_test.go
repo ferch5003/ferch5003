@@ -85,8 +85,10 @@ func TestClient_GetAPODErrorServerError(t *testing.T) {
 	// Given
 	apodParams := dto.APODRequestParams{}
 	nasaClient := NewClient(Config{
-		BaseURL: server.URL,
-		APIKey:  "test",
+		BaseURL:      server.URL,
+		APIKey:       "test",
+		MaxRetries:   2,
+		RetryBackoff: time.Millisecond,
 	})
 
 	// When
