@@ -55,6 +55,34 @@ func NewClient(cfg Config) Client {
 	}
 }
 
+func (c client) getWithRetry(url string) (*http.Response, error) {
+	var lastErr error
+	backoff := c.retryBackoff
+	for attempt := 1; attempt <= c.maxRetries; attempt++ {
+		resp, err := c.httpClient.Get(url)
+		if err != nil {
+			lastErr = err
+			if attempt < c.maxRetries {
+				time.Sleep(backoff)
+				backoff *= 2
+			}
+			continue
+		}
+		if resp.StatusCode >= 500 && resp.StatusCode < 600 {
+			body, _ := io.ReadAll(resp.Body)
+			_ = resp.Body.Close()
+			lastErr = fmt.Errorf("HTTP error %d: %s", resp.StatusCode, string(body))
+			if attempt < c.maxRetries {
+				time.Sleep(backoff)
+				backoff *= 2
+			}
+			continue
+		}
+		return resp, nil
+	}
+	return nil, fmt.Errorf("after %d attempts: %w", c.maxRetries, lastErr)
+}
+
 func (c client) GetAPOD(params dto.APODRequestParams) (dto.APODResponse, error) {
 	// Transform the values of the APODRequestParams to a query.Values in order to facilitate the pass of query params
 	// for the endpoint.
@@ -64,7 +92,7 @@ func (c client) GetAPOD(params dto.APODRequestParams) (dto.APODResponse, error) 
 	}
 
 	apodEndpoint := fmt.Sprintf("%s/%s/%s?api_key=%s&%v", c.baseUrl, _planetaryPath, "apod", c.apiKey, queryValues.Encode())
-	resp, err := c.httpClient.Get(apodEndpoint)
+	resp, err := c.getWithRetry(apodEndpoint)
 	if err != nil {
 		return dto.APODResponse{}, err
 	}
