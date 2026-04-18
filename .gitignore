@@ -16,3 +16,4 @@ CLAUDE.md
 
 # Coverage
 coverage.*
+.worktrees/
