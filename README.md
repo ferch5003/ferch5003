@@ -60,13 +60,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2604/iss_moon_transit_zoom.jpeg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2604/iss_moon_transit_zoom.jpeg" width="400" height="500" alt="Sébastien Borie Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)">
+    <a href="https://apod.nasa.gov/apod/image/2604/PanstarrsPlanetsPerrotLab1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2604/PanstarrsPlanetsPerrotLab1024.jpg" width="400" height="500" alt="Luc Perrot">
     </a>
     <div>
-        <h4>The ISS Transits the Moon</h4>
-        <time>2026-04-15</time>
-        <p>Nope, that is not an alien spaceship landing on the Moon! This is an image of the International Space Station (ISS) as it begins to transit in front of the Moon. The ISS is in low-Earth orbit (LEO) where it wizzes around the Earth every 90 minutes. Orbiting the Earth 16 times per day	 for 25 years, the ISS has photobombed many familiar celestial objects including Venus, Mars, Saturn, and the Sun. Thousands of experiments led by researchers from over one hundred countries have been conducted on the ISS. Growing protein crystals in low-gravity was one of the first experiments onboard the ISS and continues to contribute to new medical treatments. ISS astronauts study plant growth, water recycling, human health, and more to support the Artemis missions which will take humans farther than they’ve ever gone before. Next time you are out and about at night, try to  spot the ISS zooming across the sky!</p>
-        <strong><em>Sébastien Borie Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)</em></strong>
+        <h4>PanSTARRS and Planets</h4>
+        <time>2026-04-18</time>
+        <p>Near the eastern horizon before sunrise, Comet C/2025 R3 PanSTARRS is getting brighter. Readily visible in binoculars and small telescopes, the comet may be just on the verge of naked-eye visibility from dark sky sites. Though it was not quite apparent to the eye, PanSTARRS is still easy to spot in this camera image taken on April 16. In the view from a volcanic peak overlooking France's Reunion Island, planet Earth, the comet shares eastern predawn skies with naked-eye planets Mars and Mercury and fainter Neptune. Saturn is hiding behind the low cloudbank that doesn't quite hide an old crescent Moon. This is a good weekend for northern hemisphere comet watchers to try to catch PanSTARRS an hour or so before sunrise, as the comet grows brighter approaching its perihelion on April 19. On April 26 the comet makes its closest approach to our fair planet but by then will be difficult to see in the solar glare. Good views of this comet PanSTARRS in late April and early May will be from the southern hemisphere.</p>
+        <strong><em>Luc Perrot</em></strong>
     </div>
 </div>
