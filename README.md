@@ -60,13 +60,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2604/PanstarrsPlanetsPerrotLab1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2604/PanstarrsPlanetsPerrotLab1024.jpg" width="400" height="500" alt="Luc Perrot">
+    <a href="https://apod.nasa.gov/apod/image/2604/EyeOnMW_Claro_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2604/EyeOnMW_Claro_960.jpg" width="400" height="500" alt="Miguel Claro (TWAN, Dark Sky Alqueva)">
     </a>
     <div>
-        <h4>PanSTARRS and Planets</h4>
-        <time>2026-04-18</time>
-        <p>Near the eastern horizon before sunrise, Comet C/2025 R3 PanSTARRS is getting brighter. Readily visible in binoculars and small telescopes, the comet may be just on the verge of naked-eye visibility from dark sky sites. Though it was not quite apparent to the eye, PanSTARRS is still easy to spot in this camera image taken on April 16. In the view from a volcanic peak overlooking France's Reunion Island, planet Earth, the comet shares eastern predawn skies with naked-eye planets Mars and Mercury and fainter Neptune. Saturn is hiding behind the low cloudbank that doesn't quite hide an old crescent Moon. This is a good weekend for northern hemisphere comet watchers to try to catch PanSTARRS an hour or so before sunrise, as the comet grows brighter approaching its perihelion on April 19. On April 26 the comet makes its closest approach to our fair planet but by then will be difficult to see in the solar glare. Good views of this comet PanSTARRS in late April and early May will be from the southern hemisphere.</p>
-        <strong><em>Luc Perrot</em></strong>
+        <h4>Eye on the Milky Way</h4>
+        <time>2026-04-19</time>
+        <p>Have you ever had stars in your eyes? It appears that the eye on the left does, and moreover, it appears to be gazing at even more stars. The featured 27-frame mosaic was taken in 2019 from Ojas de Salar in the Atacama Desert of Chile.  The eye is actually a small lagoon captured reflecting the dark night sky as the Milky Way Galaxy arched overhead. The seemingly smooth band of the Milky Way is really composed of billions of stars, but decorated with filaments of light-absorbing dust and red-glowing nebulas. Additionally, both Jupiter (slightly left the galactic arch) and Saturn (slightly to the right) are visible.  The lights of small towns dot the unusual vertical horizon.  The rocky terrain around the lagoon appears to some more like the surface of Mars than our Earth.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)</p>
+        <strong><em>Miguel Claro (TWAN, Dark Sky Alqueva)</em></strong>
     </div>
 </div>
