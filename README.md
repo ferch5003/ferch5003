@@ -60,13 +60,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2604/EyeOnMW_Claro_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2604/EyeOnMW_Claro_960.jpg" width="400" height="500" alt="Miguel Claro (TWAN, Dark Sky Alqueva)">
+    <a href="https://apod.nasa.gov/apod/image/2604/ValleyComet_Chakrabarti_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2604/ValleyComet_Chakrabarti_960.jpg" width="400" height="500" alt="Basudeb Chakrabarti & Samit Saha">
     </a>
     <div>
-        <h4>Eye on the Milky Way</h4>
-        <time>2026-04-19</time>
-        <p>Have you ever had stars in your eyes? It appears that the eye on the left does, and moreover, it appears to be gazing at even more stars. The featured 27-frame mosaic was taken in 2019 from Ojas de Salar in the Atacama Desert of Chile.  The eye is actually a small lagoon captured reflecting the dark night sky as the Milky Way Galaxy arched overhead. The seemingly smooth band of the Milky Way is really composed of billions of stars, but decorated with filaments of light-absorbing dust and red-glowing nebulas. Additionally, both Jupiter (slightly left the galactic arch) and Saturn (slightly to the right) are visible.  The lights of small towns dot the unusual vertical horizon.  The rocky terrain around the lagoon appears to some more like the surface of Mars than our Earth.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)</p>
-        <strong><em>Miguel Claro (TWAN, Dark Sky Alqueva)</em></strong>
+        <h4>Comet R3 PanSTARRS over a Himalayan Valley</h4>
+        <time>2026-04-20</time>
+        <p>The best way to see comet R3 PanSTARRS’s long tail is with a camera. This week, the recently brightened comet appears in northern skies to the east just before dawn, but is only barely visible to the unaided eye. The many-degree ion tail captured on long duration camera exposures is not unusual for a comet - it is primarily due to the Earth's nearly sideways view of the tail as it points away from the Sun.  In the featured image taken last week, Comet C/2025 R3 (PanSTARRS) showed off its flowing tail through a valley between two peaks in the Himalayan mountains of India.   The comet passed its closest to the Sun yesterday. As it nears its closest approach to Earth next week, a bushy dust tail may become visible.  The comet is slowly moving out of northern skies and by the end of the month will be visible after sunset in southern skies as it fades and leaves our Solar System.    Growing Gallery: Comet R3 PanSTARRS in 2026</p>
+        <strong><em>Basudeb Chakrabarti & Samit Saha</em></strong>
     </div>
 </div>
