@@ -60,13 +60,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2604/ValleyComet_Chakrabarti_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2604/ValleyComet_Chakrabarti_960.jpg" width="400" height="500" alt="Basudeb Chakrabarti & Samit Saha">
+    <a href="https://apod.nasa.gov/apod/image/2604/TripleArchAlps_Fux_1080.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2604/TripleArchAlps_Fux_1080.jpg" width="400" height="500" alt="Angel Fux">
     </a>
     <div>
-        <h4>Comet R3 PanSTARRS over a Himalayan Valley</h4>
-        <time>2026-04-20</time>
-        <p>The best way to see comet R3 PanSTARRS’s long tail is with a camera. This week, the recently brightened comet appears in northern skies to the east just before dawn, but is only barely visible to the unaided eye. The many-degree ion tail captured on long duration camera exposures is not unusual for a comet - it is primarily due to the Earth's nearly sideways view of the tail as it points away from the Sun.  In the featured image taken last week, Comet C/2025 R3 (PanSTARRS) showed off its flowing tail through a valley between two peaks in the Himalayan mountains of India.   The comet passed its closest to the Sun yesterday. As it nears its closest approach to Earth next week, a bushy dust tail may become visible.  The comet is slowly moving out of northern skies and by the end of the month will be visible after sunset in southern skies as it fades and leaves our Solar System.    Growing Gallery: Comet R3 PanSTARRS in 2026</p>
-        <strong><em>Basudeb Chakrabarti & Samit Saha</em></strong>
+        <h4>Three Sky Arches over Snowy Alps</h4>
+        <time>2026-04-21</time>
+        <p>Why are there three arches across the sky instead of two? Last month, after being dropped off by a helicopter at a high mountain peak in the Alps near the Swiss Italian border, an adventurous astrophotographer expected two arches of our Milky Way galaxy to be visible during the night. These were the inner arch looking in toward the center of our galaxy on the left, visible just before sunrise, and the outer arch on the right visible just after sunset.  But there were three arches. The surprised astrophotographer soon realized that the sky was so dark that an entire arc of faint zodiacal light was also noticeable -- sunlight scattered by inner Solar System dust.  And it artfully connected the two Milky Way arches!  The next morning a helicopter picked the astrophotographer back up, and after 40 hours of processing and combining that night's images, the featured triple-arch 360-degree panorama resulted.    Jigsaw Vistas: Astronomy Puzzle of the Day</p>
+        <strong><em>Angel Fux</em></strong>
     </div>
 </div>
