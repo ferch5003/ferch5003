@@ -154,7 +154,7 @@ func (nt *nasaTemplate) Parse(in string) (string, error) {
 		return "", err
 	}
 
-	if err = tmpl.Execute(parsed, nasaAPODValues); err != nil {
+	if err = tmpl.Execute(parsed, &nasaAPODValues); err != nil {
 		return "", err
 	}
 
