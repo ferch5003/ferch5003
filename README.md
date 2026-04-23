@@ -60,13 +60,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://youtube.com/embed/MT8tg5b3b8E?si=46r2TF9THNvtq1ep">
-        <img align="left" src="https://img.youtube.com/vi/MT8tg5b3b8E/0.jpg" width="400" height="500" alt="Earthset with an iPhone - Click to watch video">
+    <a href="https://apod.nasa.gov/apod/image/2604/noirlab2610c_1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2604/noirlab2610c_1024.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Earthset with an iPhone</h4>
-        <time>2026-04-22</time>
-        <p>What does it mean for the Earth to set? Artemis II Commander Reid Wiseman gave us another spectacular view of Earth from their historic flyby of the Moon. Commander Wiseman's video, taken with an iPhone at 8x zoom, shows our entire planet gradually blocked from view by the Moon. On the Earth, the 24-hour planetary rotation causes the Sun to set below your horizon every night. However, on Artemis II the Earthset was caused not by the Moon’s rotation but by the spacecraft moving behind the Moon (at about 55 seconds in this video). Once rare, views of Earth are now taken many times a day from many spacecraft, including NASA’s SWOT (Surface Water and Ocean Topography) satellite tracking freshwater resources and USGS Landsat 8 and 9 satellites supporting water management for farmers, for example. Space agencies around our home planet now work together to provide unique and ever-improving views of our Earth.   Celebrate: Earth Day</p>
+        <h4>Large Scale Structure of the Universe</h4>
+        <time>2026-04-23</time>
+        <p>This is a map of the universe. The Dark Energy Spectroscopic Instrument (DESI) at Kitt Peak National Observatory, Arizona, has finished its five-year survey. It observed more than 47 million galaxies and quasars and created a 3D map centered on the Earth. Today's featured image shows a thin slice of these data: the black gaps indicate where our Galaxy obscures distant objects. The feathery web in the inset shows the large scale structure of the universe. Light of the most distant galaxies shown here travelled for 11 billion years to reach the Earth. Galaxies cluster throughout cosmic history under the competing influences of gravity and dark energy, responsible for the accelerated expansion of the universe. Analysis of early DESI results hinted at the possibility that dark energy, described as a cosmological constant by Albert Einstein, may not be constant after all. But we still have to wait for the analysis of the now complete dataset. The nature of dark energy is the biggest mystery of cosmology.</p>
         <strong><em></em></strong>
     </div>
 </div>
