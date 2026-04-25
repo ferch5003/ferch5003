@@ -60,13 +60,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2604/GHR3777LunaPleiadi_101400_1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2604/GHR3777LunaPleiadi_101400_1024.jpg" width="400" height="500" alt="Giorgia Hofer">
+    <a href="https://apod.nasa.gov/apod/image/2604/sequenzasunsetnebida1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2604/sequenzasunsetnebida1024.jpg" width="400" height="500" alt="Lorenzo Busilacchi">
     </a>
     <div>
-        <h4>Young Moon and Sister Stars</h4>
-        <time>2026-04-24</time>
-        <p>Sunlit arms of a crescent moon seem to embrace the faint lunar night side in this dramatic celestial scene from planet Earth. The single telephoto exposure tracking the sky was captured on the night of April 19, when a two day old Moon was near perigee in its elliptical orbit. On that date, the young Moon was also close on the sky to the lovely Pleiades Star Cluster. With the moonlight dimmed by clouds the Pleiades sister stars gather below the Moon's bright crescent, seen through a faint but colorful lunar corona. The lunar night side is illuminated by earthshine, sunlight reflected from the Earth itself. The Moon's ashen glow, also known as the "old moon in the young moon's arms", tends to be brighter in the northern hemisphere spring. And for now, the Moon's orbit takes it near the Pleiades stars each month in planet Earth's sky, though their close conjunctions are easiest to see when the Moon is near a crescent phase.</p>
-        <strong><em>Giorgia Hofer</em></strong>
+        <h4>The Persistence of Sunlight</h4>
+        <time>2026-04-25</time>
+        <p>This seaside sunset offered a surreal experience, captured in a sea and skyscape from the west coast of Sardinia, Italy, planet Earth. The Daliesque scene is a composition of sequential exposures made with a camera and long telephoto lens. The Sun is not melting, though. Its shifting and fluid appearance as it nears the horizon is caused as refraction along the line of sight changes and creates distorted images or mirages of the reddened solar disk. The changes in atmospheric refraction correspond to atmospheric layers with sharply different temperatures and densities. Another famous but fleeting effect of atmospheric refraction produced by a long sight-line to the setting (or rising) Sun is often called the green flash.</p>
+        <strong><em>Lorenzo Busilacchi</em></strong>
     </div>
 </div>
