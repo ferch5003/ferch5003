@@ -60,13 +60,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2604/MysticPillar_HubbleSchmidt_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2604/MysticPillar_HubbleSchmidt_960.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2604/CometTrails_Fehr_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2604/CometTrails_Fehr_960.jpg" width="400" height="500" alt="Uli Fehr">
     </a>
     <div>
-        <h4>Mystic Mountain Monster being Destroyed</h4>
-        <time>2026-04-26</time>
-        <p>Inside the head of this interstellar monster is a star that is slowly destroying it.  The huge monster, actually an inanimate series of pillars of gas and dust, measures light years in length.  The in-head star is not itself visible through the opaque interstellar dust but is bursting out partly by ejecting opposing beams of energetic particles called Herbig-Haro jets.  Located about 7,500 light years away in the Carina Nebula and known informally as Mystic Mountain, the appearance of these pillars is dominated by dark dust even though they are composed mostly of clear hydrogen gas.  The featured image was taken with the Hubble Space Telescope. All over these pillars, the energetic light and winds from massive newly formed stars are evaporating and dispersing the dusty stellar nurseries in which they formed.  Within a few million years, the head of this giant, as well as most of its body, will have been completely evaporated by internal and surrounding stars.</p>
-        <strong><em></em></strong>
+        <h4>Comet R3 PanSTARRS Behind Satellite Trails</h4>
+        <time>2026-04-27</time>
+        <p>Can you find the comet? Somewhere through this web of satellite trails is Comet C/2025 R3 (PanSTARRS), a bright visitor passing through the inner Solar System. Now, the orbiting satellites themselves only appear as streaks because of the long camera exposure, over 10 minutes in this case. On the contrary, to the eye, satellites appear as points that drift slowly across the night sky and shine by reflecting sunlight -- primarily just after sunset and before sunrise.  The featured image was taken just before sunrise two weeks ago from Bavaria, Germany.  Presently, Comet R3 PanSTARRS is hard to see for even another reason -- because it is so (angularly) close to the Sun. As the comet rounds the Sun, it will be best seen in coming weeks from southern hemispheree skies, although then it will be heading out to interstellar space and fading. If you haven't yet found the comet, don't despair; please take a closer look just above the image center.</p>
+        <strong><em>Uli Fehr</em></strong>
     </div>
 </div>
