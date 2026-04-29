@@ -60,13 +60,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2604/CG30Globules_Salamme_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2604/CG30Globules_Salamme_960.jpg" width="400" height="500" alt="Marcelo Salemme">
+    <a href="https://apod.nasa.gov/apod/image/2604/moon_venus_pleiades_zoom.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2604/moon_venus_pleiades_zoom.jpg" width="400" height="500" alt="Gianni Tumino Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)">
     </a>
     <div>
-        <h4>CG 30: Cometary Globules</h4>
-        <time>2026-04-28</time>
-        <p>They're like mountain peaks, but they are forming stars. Bright-rimmed, flowing shapes gather near the center of this rich starfield toward the borders of the nautical southern constellations Puppis and Vela. Composed of interstellar gas and  dust, the grouping of light-year sized cometary globules is about 1300 light-years distant. Energetic ultraviolet light from nearby hot stars has molded the globules and ionized their bright rims. The globules also stream away from the Vela supernova remnant which may have influenced their swept-back shapes. Within them, cores of cold gas and dust are likely collapsing to form low mass stars whose formation will ultimately cause the globules to disperse. In fact, cometary globule CG 30 (upper right in the group) sports a small reddish glow inside its head, a telltale sign of energetic jets from a star in the early stages of formation.</p>
-        <strong><em>Marcelo Salemme</em></strong>
+        <h4>The Moon, Venus, and the Pleiades</h4>
+        <time>2026-04-29</time>
+        <p>No, Earth did not recently acquire six more moons!  Today’s APOD is a combination of images following the Moon, Venus, and the Pleiades across a southern Sicilian sky as twilight turned to evening on April 19. From 2023 to 2029, the Pleiades' and the Moon “visit" each other once per month due to the Pleiades' location in the ecliptic plane. April 2026 saw the celestial alignment of their visit with Venus.  About six stars in the Pleiades cluster (Messier 45) are typically visible with the unaided eye. Due to the cluster’s visibility across the world, there are many myths and legends across cultures associated with the Pleiades. The Haudenosaunee people of North America, for example, say that seven boys danced so enthusiastically that they lifted off into the sky. Astronomers recently found thousands more Pleiades members, showing that after thousands of years of gazing upon this cluster, there is yet more to learn about the Pleiades.</p>
+        <strong><em>Gianni Tumino Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)</em></strong>
     </div>
 </div>
