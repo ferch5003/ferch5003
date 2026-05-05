@@ -60,14 +60,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/" target="_blank">
-        <img align="left" src="https://img.icons8.com/color/480/null/video-file.png" width="400" height="500" alt="Superplumes Inside Earth - Click to watch video">
+    <a href="https://apod.nasa.gov/apod/image/2605/OrionTeide_Rosadzinski_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2605/OrionTeide_Rosadzinski_960.jpg" width="400" height="500" alt="Marcin Rosadziński">
     </a>
-    <!-- Video icon by Icons8: https://icons8.com/icon/video-file -->
     <div>
-        <h4>Superplumes Inside Earth</h4>
-        <time>2026-05-04</time>
-        <p>Why are there huge, unusual masses inside the Earth? No one is sure.  By noting how earthquakes rumble through our planet's interior, humanity has discovered two deep structures that appear to have unusual temperatures and/or chemical compositions. One hypothesis holds that the superplumes are sunken debris left over from the Earth-shattering collision that created Earth's Moon about 4.5 billion years ago.  A competing hypothesis is that they are graveyards for old tectonic plates that slowly slid under each other over the past few billion years. No matter their origin, the superplumes are thought to affect Earth’s surface volcanism, possibly creating, for example, island chains such as Hawaii.  Also known as large low-shear-velocity provinces (LLSVPs), Earth's superplumes are visualized in the featured animation.</p>
-        <strong><em></em></strong>
+        <h4>Orion over Mount Teide</h4>
+        <time>2026-05-05</time>
+        <p>Orion is rarely seen like this.  To achieve this majestic vista, you need a camera capable of taking such long duration exposures that faint features in the night sky become revealed.  Iconic nebulas that appear include the Orion Nebula, the Flame Nebula, and Barnard's Loop. For contrast, it also helps to have a volcano on the foreground, in this case the Teide volcano on Tenerife on the Canary Islands of Spain.  But if you want your Teide volcano snow-covered, you also need good timing -- because that only happens, typically, for a few days each year.  Good timing also includes waiting for Orion to appear just behind Teide, which occurred late last year after sunset.  The featured image is the result of a series of images taken consecutively with the same camera from the same location.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)</p>
+        <strong><em>Marcin Rosadziński</em></strong>
     </div>
 </div>
