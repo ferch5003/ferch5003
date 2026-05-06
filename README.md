@@ -60,13 +60,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2605/OrionTeide_Rosadzinski_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2605/OrionTeide_Rosadzinski_960.jpg" width="400" height="500" alt="Marcin Rosadziński">
+    <a href="https://apod.nasa.gov/apod/image/2605/saturn_neptune_retrograde_1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2605/saturn_neptune_retrograde_1024.jpg" width="400" height="500" alt="Tunç Tezel (TWAN) Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)">
     </a>
     <div>
-        <h4>Orion over Mount Teide</h4>
-        <time>2026-05-05</time>
-        <p>Orion is rarely seen like this.  To achieve this majestic vista, you need a camera capable of taking such long duration exposures that faint features in the night sky become revealed.  Iconic nebulas that appear include the Orion Nebula, the Flame Nebula, and Barnard's Loop. For contrast, it also helps to have a volcano on the foreground, in this case the Teide volcano on Tenerife on the Canary Islands of Spain.  But if you want your Teide volcano snow-covered, you also need good timing -- because that only happens, typically, for a few days each year.  Good timing also includes waiting for Orion to appear just behind Teide, which occurred late last year after sunset.  The featured image is the result of a series of images taken consecutively with the same camera from the same location.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)</p>
-        <strong><em>Marcin Rosadziński</em></strong>
+        <h4>The Retrograde Dance of Saturn and Neptune</h4>
+        <time>2026-05-06</time>
+        <p>What does it mean for Saturn and Neptune to be in retrograde? Featured is a composite of images taken over 34 nights from May 2025 to February 2026 tracing Saturn (brighter, foreground) and Neptune (dimmer, background). Over that time, the two planets exhibited retrograde motion, meaning they appeared to move backward in the sky. This apparent backwards motion occurs when Earth overtakes the slower outer planets as they orbit the Sun. Imagine the Solar System is a running track. Earth "runs" faster along the inside of the track compared to the outer planets. As Earth approaches, aligns, and then "laps" the outer planets, they change position from ahead to behind from the Earth's perspective. This perspective shift is what causes the outer planets to change position in the night sky. An animation corresponding to today’s image shows Saturn and Neptune’s months-long dance across the northern night sky. Saturn stepped from the Pisces constellation into Aquarius and back again while Neptune remained in Pisces. This is the closest Saturn and Neptune have been in the sky since their last conjunction in 1989.</p>
+        <strong><em>Tunç Tezel (TWAN) Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)</em></strong>
     </div>
 </div>
