@@ -60,13 +60,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2605/CometRigel_Karuk_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2605/CometRigel_Karuk_960.jpg" width="400" height="500" alt="Jakub Kuřák & Martin Mašek (FZU of the Czech Academy of Sciences)">
+    <a href="https://apod.nasa.gov/apod/image/2605/MessierCrater3d_vantuyne1024c.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2605/MessierCrater3d_vantuyne1024c.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Comet R3 PanSTARRS Before Rigel</h4>
-        <time>2026-05-08</time>
-        <p>Which way is Comet R3 PanSTARRS going? Not towards the star at the top of the image, because that is Rigel, which, being far in the background, is unrelated to the comet. Not through the nebula in the image middle, because that is the Witch Head Nebula and it, too, is far in the distance -- but not far from Rigel.  Not into northern skies because over the past week Comet C/2025 R3 (PanSTARRS) has moved into southern skies and is now best visible in Earth's Southern Hemisphere toward the west after sunset.  Angularly, Comet R3 PanSTARRS is slowly moving toward the upper right, night by night, and will soon be in the constellation Orion. Spatially, the comet is now headed out of our Solar System but should remain visible to cameras in southern skies for about a week.  The featured image was captured last week near Cerro Paranal in Chile.   Growing Gallery: Comet R3 PanSTARRS in 2026</p>
-        <strong><em>Jakub Kuřák & Martin Mašek (FZU of the Czech Academy of Sciences)</em></strong>
+        <h4>Messier Craters in Stereo</h4>
+        <time>2026-05-09</time>
+        <p>Many bright nebulae and star clusters in planet Earth's sky are associated with the name of astronomer Charles Messier from his famous 18th century catalog. His name is also given to these two large and remarkable craters on the Moon. Standouts in the dark, smooth lunar Sea of Fertility or Mare Fecunditatis, Messier (left) and Messier A have dimensions of 15 by 8 and 16 by 11 kilometers respectively. Their elongated shapes are explained by the extremely shallow-angle trajectory followed by an impactor, moving left to right, that gouged out the craters. The shallow impact also resulted in two bright rays of material extending along the surface to the right, beyond the picture. Intended to be viewed with red/blue glasses (red for the left eye), this striking stereo picture of the crater pair was recently created from high resolution scans of two images (AS11-42-6304, AS11-42-6305) taken during the Apollo 11 mission to the Moon.</p>
+        <strong><em></em></strong>
     </div>
 </div>
