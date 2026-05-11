@@ -55,7 +55,8 @@
 </div>
 
 ### Music Status🎵
-![Music Staus](https://mut.mfd-web.online/spotify/track-to-show)
+![Spotify Status](https://mup.ferch5003.dpdns.org/spotify/player/track-to-show)
+![Apple Music Status](https://mup.ferch5003.dpdns.org/apple-music/player/track-to-show)
 
 ### Did you know...
 
