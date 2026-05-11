@@ -42,15 +42,15 @@
 ### 🏆 My GitHub Stats:
 
 <!--
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ferch5003&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferch5003&theme=tokyonight)
+![GitHub stats](https://ghstats.ferch5003.dpdns.org/api?username=ferch5003&show_icons=true&theme=tokyonight)
+![Top Langs](https://ghstats.ferch5003.dpdns.org/api/top-langs/?username=ferch5003&theme=tokyonight)
 -->
 <div style="display: block;">
-    <a href="https://github-readme-stats.vercel.app/api?username=ferch5003&show_icons=true&theme=tokyonight">
-      <img style="padding: 10px;" src="https://github-readme-stats.vercel.app/api?username=ferch5003&show_icons=true&theme=tokyonight" />
+    <a href="https://ghstats.ferch5003.dpdns.org/api?username=ferch5003&show_icons=true&theme=tokyonight">
+      <img style="padding: 10px;" src="https://ghstats.ferch5003.dpdns.org/api?username=ferch5003&show_icons=true&theme=tokyonight" />
     </a>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ferch5003&theme=tokyonight">
-      <img style="padding: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferch5003&theme=tokyonight" />
+    <a href="https://ghstats.ferch5003.dpdns.org/api/top-langs/?username=ferch5003&theme=tokyonight">
+      <img style="padding: 10px;" src="https://ghstats.ferch5003.dpdns.org/api/top-langs/?username=ferch5003&theme=tokyonight" />
     </a>
 </div>
 
