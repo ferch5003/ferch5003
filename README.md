@@ -61,13 +61,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://www.youtube.com/embed/afHfMMC-MJE?rel=0">
-        <img align="left" src="https://img.youtube.com/vi/afHfMMC-MJE/0.jpg" width="400" height="500" alt="Moon Setting Behind Teide Volcano - Click to watch video">
+    <a href="https://apod.nasa.gov/apod/image/2605/CometR3_Orion.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2605/CometR3_Orion.jpg" width="400" height="500" alt="Julien De Winter, Sascha Ebeler Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)">
     </a>
     <div>
-        <h4>Moon Setting Behind Teide Volcano</h4>
-        <time>2026-05-11</time>
-        <p>These people are not in danger. What is coming down from the left is just the Moon, far in the distance. Luna appears so large here because she is being photographed through a telescopic lens.  What is moving is mostly the Earth, whose spin causes the Moon to slowly disappear behind Mount Teide, a volcano in the Canary Islands of Spain  off the northwest coast of Africa. The people pictured are 16 kilometers away and  many are facing the camera because they are watching the Sun rise behind the photographer. It is not a coincidence that a full moon sets just when the Sun rises because the Sun is always on the opposite side of the sky from a full moon. The featured video was made in 2018 during a full Milk Moon.  The video is not time-lapse -- this was really how fast the Moon was setting.</p>
-        <strong><em>El Cielo de Canarias</em></strong>
+        <h4>The Conjunction of Comet R3 PanSTARRS and the Orion Nebula</h4>
+        <time>2026-05-12</time>
+        <p>Today’s composite image features something old, something new, something borrowed, and something blue! Comet R3 PanSTARRS, streaking across the right of the image, likely originated from the Oort Cloud, meaning it is an old Solar System relic from billions of years ago. It’s bright extended ion tail glows blue  as the gas escaping the comet’s core is ionized by sunlight. Astronomers are fascinated by comets for all sorts of reasons: comet compositions are untouched time capsules containing the building blocks of Solar System planets; comets may have delivered water to the young Earth; the behavior of cometary tails shed light on solar wind and radiation interactions. The background mosaic, featuring the Orion Nebula (M42), was taken over two nights of observation with the comet captured on the third night. The Orion Nebula is our nearest stellar nursery and, at about 2 million years old, is our something (relatively) new! Now at around 127.5 million kilometers from Earth, we wave goodbye to the borrowed Comet R3 PanSTARRS as it leaves the Solar System.   Growing Gallery: Comet R3 in 2026</p>
+        <strong><em>Julien De Winter, Sascha Ebeler Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)</em></strong>
     </div>
 </div>
