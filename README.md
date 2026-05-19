@@ -61,13 +61,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2605/ngc3169_ngc3166_ngc3165px1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2605/ngc3169_ngc3166_ngc3165px1024.jpg" width="400" height="500" alt="Simone Curzi">
+    <a href="https://apod.nasa.gov/apod/image/2605/Angel_Marriott_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2605/Angel_Marriott_960.jpg" width="400" height="500" alt="Jason Marriott">
     </a>
     <div>
-        <h4>Unraveling NGC 3169</h4>
-        <time>2026-05-18</time>
-        <p>Spiral galaxy NGC 3169 looks to be unraveling like a ball of cosmic yarn. It lies some 70 million light-years away, south of bright star Regulus toward the faint constellation Sextans. Wound up spiral arms are pulled out into sweeping tidal tails as NGC 3169 (left) and neighboring NGC 3166 interact gravitationally. Eventually the galaxies will merge into one, a common fate even for bright galaxies in the local universe. Drawn out stellar arcs and plumes are clear indications of the ongoing gravitational interactions across the deep and colorful galaxy group photo. The telescopic frame spans about 20 arc minutes or about 400,000 light-years at the group's estimated distance, and includes smaller, bluish NGC 3165 to the right. NGC 3169 is also known to shine across the spectrum from radio to X-rays, harboring an active galactic nucleus that is the site of a supermassive black hole.</p>
-        <strong><em>Simone Curzi</em></strong>
+        <h4>NGC 2170: The Angel Nebula</h4>
+        <time>2026-05-19</time>
+        <p>Is this a painting or a photograph? In this celestial abstract art composed with a cosmic brush, dusty nebula NGC 2170, also known as the Angel Nebula, shines just above the image center. Reflecting the light of nearby hot stars, NGC 2170 is joined by other bluish reflection nebulae, a red emission region, many dark absorption nebulae, and a backdrop of colorful stars. Like the common household items that abstract painters often choose for their subjects, the clouds of gas, dust, and hot stars featured here are also commonly found in a setting like this one --  a massive, star-forming molecular cloud in the constellation of the Unicorn (Monoceros). The giant molecular cloud Mon R2, is impressively close, estimated to be only 2,400 light-years or so away. At that distance, this canvas would be over 60 light-years across.   Almost Hyperspace: Random APOD Generator</p>
+        <strong><em>Jason Marriott</em></strong>
     </div>
 </div>
