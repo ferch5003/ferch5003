@@ -61,13 +61,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2605/WR134morrone1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2605/WR134morrone1024.jpg" width="400" height="500" alt="Luigi Morrone">
+    <a href="https://apod.nasa.gov/apod/image/2605/potw1913aM2_1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2605/potw1913aM2_1024.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>The Nebulous Realm of WR 134</h4>
-        <time>2026-05-22</time>
-        <p>This cosmic snapshot covers a field of view over twice as wide as the full Moon within the boundaries of the high-flying constellation Cygnus. Made using astronomical narrowband filters, the image highlights the bright edge of a ring-like nebula traced by the glow of ionized hydrogen and oxygen gas. Embedded in the region's expanse of interstellar clouds, the complex, glowing arcs are sections of shells of material swept up by the wind from Wolf-Rayet star WR 134, the brightest star near image center. Distance estimates put WR 134 about 6,000 light-years away, making this telescopic frame over 100 light-years across. Shedding their outer envelopes in powerful stellar winds, massive Wolf-Rayet stars have burned through their nuclear fuel at a prodigious rate and end their final phase of massive star evolution in a spectacular supernova. Their stellar winds and final supernova explosion enrich the interstellar material with heavy elements to be incorporated in future generations of stars.</p>
-        <strong><em>Luigi Morrone</em></strong>
+        <h4>Messier 2</h4>
+        <time>2026-05-23</time>
+        <p>After the Crab Nebula, this giant star cluster is the second entry in 18th century astronomer Charles Messier's famous list of things that are not comets. M2 is one of the largest globular star clusters now known to roam the halo of our Milky Way galaxy. Though Messier originally described it as a nebula without stars, this stunning Hubble image resolves stars across the cluster's central 40 light-years. Its population of stars numbers close to 150,000, concentrated within a total diameter of around 175 light-years. About 55,000 light-years distant toward the constellation Aquarius, this ancient denizen of the Milky Way, also known as NGC 7089, is 13 billion years old. An extended stellar debris stream, a signature of past gravitational tidal disruption, was recently found to be associated with Messier 2.</p>
+        <strong><em></em></strong>
     </div>
 </div>
