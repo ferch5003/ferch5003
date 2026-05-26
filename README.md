@@ -61,14 +61,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/" target="_blank">
-        <img align="left" src="https://img.icons8.com/color/480/null/video-file.png" width="400" height="500" alt="A Martian Eclipse: Phobos Crosses the Sun - Click to watch video">
+    <a href="https://apod.nasa.gov/apod/image/2605/Ngc3660Burcin_Block_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2605/Ngc3660Burcin_Block_960.jpg" width="400" height="500" alt="Adam Block, El Sauce Obs.">
     </a>
-    <!-- Video icon by Icons8: https://icons8.com/icon/video-file -->
     <div>
-        <h4>A Martian Eclipse: Phobos Crosses the Sun</h4>
-        <time>2026-05-24</time>
-        <p>What's that passing in front of the Sun? It looks like a moon, but it can't be Earth's Moon, because it isn't round. It's the Martian moon Phobos.  The featured video was taken from the surface of Mars in 2022 by the Perseverance rover. Phobos, at 11.5 kilometers across, is 150 times smaller than Luna (our moon) in diameter, but also 50 times closer to its parent planet.  In fact, Phobos is so close to Mars that it is expected to break up and crash into Mars within the next 50 million years.  In the near term, the low orbit of Phobos results in more rapid solar eclipses than seen from Earth. The featured video is shown in real time -- the transit really took about 40 seconds, as shown. The videographer -- the robotic rover Perseverance (Percy) -- continues to explore Jezero Crater on Mars, searching not only for clues to the watery history of the now dry world, but evidence of ancient microbial life.</p>
-        <strong><em></em></strong>
+        <h4>NGC 3660 and Burçin's Galaxy</h4>
+        <time>2026-05-26</time>
+        <p>The upper galaxy might be more photogenic, but the lower galaxy is more unusual.  The galaxy up top is NGC 3660, a spiral galaxy similar to our own Milky Way galaxy in that it has several bright blue spiral arms and a central bar of stars, dust, and gas. Captured by chance in the featured deep and colorful image, surprisingly, is SN 2026cff, a supernova found just to the right of the central bar.  Farther in the distance is the bottom galaxy, known informally as Burçin’s galaxy, but formally cataloged as LEDA 1000714. The center of this galaxy appears to be an old elliptical galaxy, but it is strangely surrounded by not one but two rings of stars.  What created Burçin's galaxy is a mystery and remains a continuing topic of research, but it likely involves the accretion of one or more smaller galaxies.</p>
+        <strong><em>Adam Block, El Sauce Obs.</em></strong>
     </div>
 </div>
