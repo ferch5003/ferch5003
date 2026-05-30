@@ -61,13 +61,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2605/M104noirlab2612a_1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2605/M104noirlab2612a_1024.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2605/SuperMicroMoon_Mukherjee_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2605/SuperMicroMoon_Mukherjee_960.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Messier 104</h4>
-        <time>2026-05-29</time>
-        <p>A gorgeous spiral galaxy, Messier 104 is famous for its nearly edge-on profile featuring a broad ring of obscuring dust lanes. Seen in silhouette against an extensive central bulge of stars, the swath of cosmic dust lends a broad brimmed hat-like appearance to the galaxy suggesting a more popular moniker, the Sombrero Galaxy. Also known as NGC 4594, the Sombrero galaxy can be seen across the spectrum and is host to a central supermassive black hole. About 50,000 light-years across and 28 million light-years away, M104 is one of the largest galaxies at the southern edge of the Virgo Galaxy Cluster. Still, the spiky foreground stars in this field of view lie well within our own Milky Way. This broad view of the well-known galaxy was processed to reveal M104's extended halo, as well as a faint tidal stellar stream. It was captured by the Dark Energy Camera (DECam) on the Blanco 4-meter telescope at the Cerro Tololo Inter-American Observatory.</p>
+        <h4>Supermoon Versus Micromoon</h4>
+        <time>2026-05-30</time>
+        <p>What is so micro about tonight's blue micromoon?  Just after sunset, a full moon will appear slightly smaller and dimmer than usual.  The reason is that the Moon's fully illuminated phase occurs within a short time of apogee - when the Moon is farthest from the Earth in its elliptical orbit.  In fact, tonight's micromoon will be the farthest, smallest, and dimmest Moon this year.  But tonight's micromoon is notable for yet another reason: it is also a blue moon, meaning that it is the second full moon in the same month (moon-th).  Pictured here, a supermoon -- when the full moon appears near its largest -- is compared to a micromoon as photographed from Kolkata, India in May and December of 2021.  Although the next micromoon occurs next month, and the next blue moon at the end of 2028, the next blue micromoon will not occur until 2053.</p>
         <strong><em></em></strong>
     </div>
 </div>
