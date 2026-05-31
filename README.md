@@ -61,13 +61,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2605/SuperMicroMoon_Mukherjee_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2605/SuperMicroMoon_Mukherjee_960.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2605/M16Ir_HubbleRomero_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2605/M16Ir_HubbleRomero_960.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Supermoon Versus Micromoon</h4>
-        <time>2026-05-30</time>
-        <p>What is so micro about tonight's blue micromoon?  Just after sunset, a full moon will appear slightly smaller and dimmer than usual.  The reason is that the Moon's fully illuminated phase occurs within a short time of apogee - when the Moon is farthest from the Earth in its elliptical orbit.  In fact, tonight's micromoon will be the farthest, smallest, and dimmest Moon this year.  But tonight's micromoon is notable for yet another reason: it is also a blue moon, meaning that it is the second full moon in the same month (moon-th).  Pictured here, a supermoon -- when the full moon appears near its largest -- is compared to a micromoon as photographed from Kolkata, India in May and December of 2021.  Although the next micromoon occurs next month, and the next blue moon at the end of 2028, the next blue micromoon will not occur until 2053.</p>
+        <h4>Eagle Nebula Pillars in Infrared from Hubble</h4>
+        <time>2026-05-31</time>
+        <p>Newborn stars are forming in the Eagle Nebula.  They are gravitationally contracting in pillars of dense gas and dust.  The intense radiation of these newly-formed bright stars is causing surrounding material to boil away. This image, taken with the Hubble Space Telescope in near infrared light, allows the viewer to see through much of the thick dust that makes the pillars opaque in visible light.  The giant structures are light years in length and dubbed informally the Pillars of Creation.  Associated with the open star cluster M16, the Eagle Nebula lies about 6,500 light years away.  The Eagle Nebula is a satisfying target for small telescopes in a nebula-rich part of the sky toward the split constellation Serpens Cauda (the tail of the snake).    Sky Surprise: What picture did APOD feature on your birthday? (after 1995)</p>
         <strong><em></em></strong>
     </div>
 </div>
