@@ -61,13 +61,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2606/andromeda_1024.png">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2606/andromeda_1024.png" width="400" height="500" alt="Nick Fritz Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)">
+    <a href="https://apod.nasa.gov/apod/image/2606/buckyballs_1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2606/buckyballs_1024.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Andromeda Through Gas and Dust</h4>
-        <time>2026-06-03</time>
-        <p>Over 1000 years ago, Persian astronomer Abd al-Rahman al-Sufi published humanity’s oldest known record of the Andromeda Galaxy in "The Book of Fixed Stars" (Bodleian Library MS. Marsh 144 p. 167). 800 years later, Andromeda became the 31st entry in Charles Messier’s "Catalogue of Nebulae and Star Clusters". From “a small cloud” to “nebula” and now known to be our nearest major galaxy, Andromeda has remained a fundamental astronomical object. Today’s image, taken over 202 hours, shows how far we have come in our ability to observe our neighbor. The diffuse red and blue clouds are mostly foreground ionized hydrogen and oxygen well within our Milky Way. Pink-red clouds of hydrogen ionized by the energetic light of young stars trace the galaxy’s dusty spiral arms. M32 and M110 are satellite galaxies pictured orbiting the larger Andromeda. Despite its long history of observation through ancient unaided eyes to modern telescopes, Andromeda still holds countless secrets that astronomers will continue to search for, including how galaxies merge and evolve, as well as the nature of the dark matter that galaxies reside in.   Teachers! the NASA/IPAC Teacher Archive Research Program is officially open for applications!</p>
-        <strong><em>Nick Fritz Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)</em></strong>
+        <h4>A Planetary Nebula with Cosmic Buckyballs</h4>
+        <time>2026-06-04</time>
+        <p>What is happening inside this unusual nebula?   Planetary nebula Tc 1, captured here in exquisite detail by the James Webb Space Telescope, is the celestial site where buckyballs were first identified in 2010.     Buckminsterfullerene — as buckyballs are officially called — is a molecule with 60 carbon atoms (C60) arranged in the shape of a soccer ball.   The molecule is named for architect Buckminster Fuller because of its resemblance to the geodesic dome he helped popularize.   Webb’s new data reveal where the C60 molecules live in this nebula, and the geometry is striking: they populate a thin spherical shell around the central star, visible here as the bright edge of the nebula’s glowing orange central region.   Look closely near the nebula’s heart and a more perplexing feature emerges: a delicate structure shaped uncannily like an upside-down question mark, fitting punctuation for the many questions this nebula still poses.</p>
+        <strong><em></em></strong>
     </div>
 </div>
