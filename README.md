@@ -61,13 +61,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2606/HydraClusterSampaio1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2606/HydraClusterSampaio1024.jpg" width="400" height="500" alt="Rafael Sampaio">
+    <a href="https://apod.nasa.gov/apod/image/2606/charon_then_now_1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2606/charon_then_now_1024.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>The Hydra Cluster of Galaxies</h4>
-        <time>2026-06-05</time>
-        <p>Within our own Milky Way galaxy, two bright, spiky stars stand like sentinels in the foreground of this cosmic snapshot. Far beyond them are the galaxies of the Hydra Cluster. In fact, while the spiky foreground stars are hundreds of light-years distant, the Hydra Cluster galaxies are well over 100 million light-years away. Three large galaxies near the cluster center, two yellow ellipticals (NGC 3311, NGC 3309) and one prominent blue spiral (NGC 3312), are the dominant galaxies, each about 150,000 light-years in diameter. An intriguing overlapping galaxy pair cataloged as NGC 3314 lies above and left of NGC 3312. Also known as Abell 1060, the Hydra galaxy cluster is one of three large galaxy clusters within 200 million light-years of the Milky Way. In the nearby universe, galaxies are gravitationally bound into clusters which themselves are loosely bound into superclusters. Superclusters in turn are seen to align over even larger scales.</p>
-        <strong><em>Rafael Sampaio</em></strong>
+        <h4>Charon: Moon of Pluto</h4>
+        <time>2026-06-06</time>
+        <p>A darkened and mysterious north polar region known to some as Mordor Macula caps this premier view of Charon, Pluto's largest moon. The high-resolution image was captured by the interplanetary space probe New Horizons near its closest approach to distant Pluto on July 14, 2015. The combined blue, red, and infrared image data was processed to enhance colors and follow variations in Charon's surface properties with a resolution of about 2.9 kilometers (1.8 miles). A stunning image of Charon's Pluto-facing hemisphere, it also features a clear view of an apparently moon-girdling belt of fractures and canyons that seems to separate smooth southern plains from varied northern terrain. Charon is 1,214 kilometers (754 miles) across. That's about 1/10th the size of planet Earth but a whopping 1/2 the diameter of Pluto itself, and makes it the largest satellite relative to its parent body in the Solar System. Still, the moon appears as a small bump at about the 1 o'clock position on Pluto's disk in the grainy, negative, telescopic picture inset at upper left. That image was used by James Christy and Robert Harrington at the U.S. Naval Observatory in Flagstaff to discover Charon in June of 1978.</p>
+        <strong><em></em></strong>
     </div>
 </div>
