@@ -61,13 +61,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2606/eagle_1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2606/eagle_1024.jpg" width="400" height="500" alt="Emmanuel Delgadillo Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)">
+    <a href="https://apod.nasa.gov/apod/image/2606/Mermaid_1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2606/Mermaid_1024.jpg" width="400" height="500" alt="Data acquisition: Sy Ming Wong; Processing: Guangyan Gao Text: Cecilia Chirenti (NASA GSFC, UMCP, CRESST II)">
     </a>
     <div>
-        <h4>The Eagle Nebula and Friends</h4>
-        <time>2026-06-10</time>
-        <p>What looks as if it is going to swallow the great Pillars of Creation? The Eagle Nebula (M16) is not a bird, a plane, or Superman. M16 is actually a combination of several celestial objects. NGC 6611 is the young star cluster that appears to peak out beneath the Eagle’s “wings”. The ultraviolet light from these stars ionizes the surrounding gas, creating the emission nebula IC 4703. The Stellar Spire is seen reaching towards the Pillars of Creation from the left. Both are structures of cold gas and dust that are optimal for star formation. Some astronomers previously thought the Pillars of Creation had been evaporated away by a supernova. Because M16 is 6,000 light years away, we would not be able to see the Pillars’ destruction for thousands more years. However, there is no conclusive evidence of the theorized supernova, so the Pillars of Creation will likely continue to create stars for millions of years.</p>
-        <strong><em>Emmanuel Delgadillo Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)</em></strong>
+        <h4>The Mermaid Nebula Supernova Remnant</h4>
+        <time>2026-06-11</time>
+        <p>Could the Little Mermaid turn into stardust instead of seafoam?   It would seem so in this beautiful nebula.   The featured image shows the Mermaid Nebula, also known as the Betta Fish Nebula, which is part of the G296.5+10.0 Supernova Remnant.   The blue color visible here originates from doubly ionized oxygen (OIII), while the deep red is emitted by hydrogen gas.   												 Estimated to be located a few thousand light-years away and about 10,000 years old, this nebula was formed when a massive star exploded as a supernova. 												 It left behind a peculiar pulsar, a young radio-quiet neutron star that spins around about twice every second.   The bright stars shown in the image are unassociated with the nebula.												   The pulsar can be detected in the X-rays but it does not have a confirmed detection in the optical (visible light) so far.   As a result, the pulsar itself is not visible in this image.</p>
+        <strong><em>Data acquisition: Sy Ming Wong; Processing: Guangyan Gao Text: Cecilia Chirenti (NASA GSFC, UMCP, CRESST II)</em></strong>
     </div>
 </div>
