@@ -61,13 +61,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2606/Mermaid_1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2606/Mermaid_1024.jpg" width="400" height="500" alt="Data acquisition: Sy Ming Wong; Processing: Guangyan Gao Text: Cecilia Chirenti (NASA GSFC, UMCP, CRESST II)">
+    <a href="https://apod.nasa.gov/apod/image/2606/earth_cassinimessenger_1024c.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2606/earth_cassinimessenger_1024c.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>The Mermaid Nebula Supernova Remnant</h4>
-        <time>2026-06-11</time>
-        <p>Could the Little Mermaid turn into stardust instead of seafoam?   It would seem so in this beautiful nebula.   The featured image shows the Mermaid Nebula, also known as the Betta Fish Nebula, which is part of the G296.5+10.0 Supernova Remnant.   The blue color visible here originates from doubly ionized oxygen (OIII), while the deep red is emitted by hydrogen gas.   												 Estimated to be located a few thousand light-years away and about 10,000 years old, this nebula was formed when a massive star exploded as a supernova. 												 It left behind a peculiar pulsar, a young radio-quiet neutron star that spins around about twice every second.   The bright stars shown in the image are unassociated with the nebula.												   The pulsar can be detected in the X-rays but it does not have a confirmed detection in the optical (visible light) so far.   As a result, the pulsar itself is not visible in this image.</p>
-        <strong><em>Data acquisition: Sy Ming Wong; Processing: Guangyan Gao Text: Cecilia Chirenti (NASA GSFC, UMCP, CRESST II)</em></strong>
+        <h4>Interplanetary Earth</h4>
+        <time>2026-06-13</time>
+        <p>In an interplanetary first, on July 19, 2013 Earth was photographed on the same day from two other worlds of the Solar System, innermost planet Mercury and ringed gas giant Saturn. Pictured on the left, Earth is the pale blue dot just below the rings of Saturn, as captured by the robotic Cassini spacecraft then orbiting the outermost gas giant. On that same day people across planet Earth snapped many of their own pictures of Saturn. On the right, the Earth-Moon system is seen against the dark background of space as captured by the sunward MESSENGER spacecraft, then in Mercury orbit. MESSENGER took its image as part of a search for small natural satellites of Mercury, moons that would be expected to be quite dim. In the MESSENGER image, the brighter Earth and Moon are both overexposed and shine brightly with reflected sunlight. Destined not to return to their home world, both Cassini and MESSENGER have since retired from their missions of Solar System exploration.</p>
+        <strong><em></em></strong>
     </div>
 </div>
