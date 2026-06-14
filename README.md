@@ -61,13 +61,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2606/earth_cassinimessenger_1024c.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2606/earth_cassinimessenger_1024c.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2606/VenusJupiter10_Pawar_1080.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2606/VenusJupiter10_Pawar_1080.jpg" width="400" height="500" alt="Aditya Pawar">
     </a>
     <div>
-        <h4>Interplanetary Earth</h4>
-        <time>2026-06-13</time>
-        <p>In an interplanetary first, on July 19, 2013 Earth was photographed on the same day from two other worlds of the Solar System, innermost planet Mercury and ringed gas giant Saturn. Pictured on the left, Earth is the pale blue dot just below the rings of Saturn, as captured by the robotic Cassini spacecraft then orbiting the outermost gas giant. On that same day people across planet Earth snapped many of their own pictures of Saturn. On the right, the Earth-Moon system is seen against the dark background of space as captured by the sunward MESSENGER spacecraft, then in Mercury orbit. MESSENGER took its image as part of a search for small natural satellites of Mercury, moons that would be expected to be quite dim. In the MESSENGER image, the brighter Earth and Moon are both overexposed and shine brightly with reflected sunlight. Destined not to return to their home world, both Cassini and MESSENGER have since retired from their missions of Solar System exploration.</p>
-        <strong><em></em></strong>
+        <h4>10 Days of Venus and Jupiter</h4>
+        <time>2026-06-14</time>
+        <p>Venus and Jupiter may have caught your attention lately.  The  recent close conjunction of the two brightest planets in recent evening skies has been hard to miss. With Jupiter at the top, starting on May 30 and ending on June 8, their close approach was chronicled daily, left to right, in the featured panels from Maharashtra, India. Near the western horizon, the evening sky colors and exposures used for each panel depend on the local conditions near sunset. At their closest on June 9, the celestial pair appeared to be only about three times the width of a full moon apart. Of course, on that date, the two planets were physically separated by over 600 million kilometers in their orbits around the Sun. In the coming days, Jupiter will slowly settle into the sunset glare, but Venus will continue to move farther from the Sun in the western sky to excel in its current role as the brilliant evening star.   Gallery: Venus - Jupiter Conjunction of 2026 June</p>
+        <strong><em>Aditya Pawar</em></strong>
     </div>
 </div>
