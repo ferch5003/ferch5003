@@ -61,13 +61,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2606/SaturnRingsMoons_Cassini_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2606/SaturnRingsMoons_Cassini_960.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2606/hamster_1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2606/hamster_1024.jpg" width="400" height="500" alt="Mazlin, Parker, Forman, Magill, Hanson Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)">
     </a>
     <div>
-        <h4>Moons, Rings, Shadows, Clouds: Saturn (Cassini)</h4>
-        <time>2026-06-16</time>
-        <p>While cruising around Saturn, be on the lookout for picturesque arrangements of moons, rings, and shadows. One such striking sight occurred in 2005 and was captured by the then Saturn-orbiting Cassini spacecraft. In the featured image, moons Mimas (left) and Tethys (right) are visible on either side of Saturn's thin rings, which are seen nearly edge-on.  Across the top of Saturn are dark shadows of the wide rings, exhibiting their impressive complexity. The violet-light image brings up the texture of the backdrop: Saturn's clouds. Cassini orbited Saturn from 2004 until mid-2017, when the robotic spacecraft was directed to dive into Saturn to keep it from contaminating any moons.    Explore the Universe: Random APOD Generator</p>
-        <strong><em></em></strong>
+        <h4>Longmore 8: The Hamster Wheel Nebula</h4>
+        <time>2026-06-17</time>
+        <p>How did a hamster wheel get into space? The Hamster Wheel Nebula (Longmore 8) was discovered by Andrew Longmore in 1976 as a part of a larger survey of the southern sky. This survey employed several improvements in photographic technology, including the use of highly sensitive film, to capture deeper and fainter objects on plates that were examined by eye and catalogued. The featured image, taken at Observatorio El Sauce in Chile, depicts an intricate wheel structure of glowing hydrogen that was thrown out into space by a dying star and ionized by the leftover white dwarf. This structure was barely visible on the original plate, emphasizing the power of modern telescopes and cameras. Two opposing clumps of red hydrogen gas encased in the blue veil of ionized oxygen hint at the presence of a companion to the bright white dwarf at the wheel’s center!</p>
+        <strong><em>Mazlin, Parker, Forman, Magill, Hanson Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)</em></strong>
     </div>
 </div>
