@@ -61,13 +61,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2606/hamster_1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2606/hamster_1024.jpg" width="400" height="500" alt="Mazlin, Parker, Forman, Magill, Hanson Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)">
+    <a href="https://apod.nasa.gov/apod/image/2606/sgrc.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2606/sgrc.jpg" width="400" height="500" alt="X-ray: NASA/CXC/UCLA/Z. Zhu et al.; ESA/XMM-Newton; Optical: PanSTARRS; Radio: MeerKAT; Image Processing: NASA/CXC/SAO/L. Frattare and P. Edmonds Text: Cecilia Chirenti (NASA GSFC, UMCP, CRESST II)">
     </a>
     <div>
-        <h4>Longmore 8: The Hamster Wheel Nebula</h4>
-        <time>2026-06-17</time>
-        <p>How did a hamster wheel get into space? The Hamster Wheel Nebula (Longmore 8) was discovered by Andrew Longmore in 1976 as a part of a larger survey of the southern sky. This survey employed several improvements in photographic technology, including the use of highly sensitive film, to capture deeper and fainter objects on plates that were examined by eye and catalogued. The featured image, taken at Observatorio El Sauce in Chile, depicts an intricate wheel structure of glowing hydrogen that was thrown out into space by a dying star and ionized by the leftover white dwarf. This structure was barely visible on the original plate, emphasizing the power of modern telescopes and cameras. Two opposing clumps of red hydrogen gas encased in the blue veil of ionized oxygen hint at the presence of a companion to the bright white dwarf at the wheel’s center!</p>
-        <strong><em>Mazlin, Parker, Forman, Magill, Hanson Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)</em></strong>
+        <h4>Possible Supernova Remnant in Galactic Center</h4>
+        <time>2026-06-18</time>
+        <p>Do you see that blue blob to the lower right of the image center?   Astronomers think that it shows where a massive star exploded as a supernova whose light reached Earth 1,700 years ago.   The image combines optical data from the PanSTARRS telescopes in Hawaii (background stars in red, green, and blue), radio from the MeerKAT telescope in South Africa (large red cloud) and X-rays from NASA's Chandra X-ray Observatory and ESA’s XMM-Newton (shown in blue).   The large cloud is a star forming region called Sagittarius C, which is approximately 50 light-years in extent and about 26,000 light-years from Earth.   It is located only about 260 light-years from the supermassive black hole in the center of the Galaxy (off to the left of the image).   If the blue blob is confirmed to be a supernova remnant, it would be one of the closest ever discovered to the Galactic Center.   In this dense region, the deaths of massive stars are connected to the birth of new stars through gas and magnetic fields in a complex way.</p>
+        <strong><em>X-ray: NASA/CXC/UCLA/Z. Zhu et al.; ESA/XMM-Newton; Optical: PanSTARRS; Radio: MeerKAT; Image Processing: NASA/CXC/SAO/L. Frattare and P. Edmonds Text: Cecilia Chirenti (NASA GSFC, UMCP, CRESST II)</em></strong>
     </div>
 </div>
