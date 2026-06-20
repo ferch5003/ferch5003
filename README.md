@@ -61,13 +61,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2606/StarryNight2_Guerra_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2606/StarryNight2_Guerra_960.jpg" width="400" height="500" alt="Rodrigo Guerra, Original Painting: Vincent van Gogh">
+    <a href="https://apod.nasa.gov/apod/image/2606/Venus_Moon_2026_06_17_1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2606/Venus_Moon_2026_06_17_1024.jpg" width="400" height="500" alt="Debra Ceravolo">
     </a>
     <div>
-        <h4>Starry Night II</h4>
-        <time>2026-06-19</time>
-        <p>Does this scene look familiar? It is a modern recreation of the famous painting Starry Night by Vincent van Gogh.  Both the image and the painting depict a tall tree on the left, a crescent moon on the upper right, the planet Venus just to the right of the tree, a foreground horizon rising from left to right, and clouds above the horizon. Differences include that the photograph was taken in mid-April earlier this year in Cascavel, Brazil, while the painting was composed in Saint-Rémy-de-Provence, France, in 1889.  The original Starry Night is considered by many to be one of the three most famous paintings in the world today and a statement about the wonders of the night sky. Today is (roughly) the anniversary of the morning that van Gogh saw the sky that he later painted in his version of Starry Night.    Night Sky Jigsaw: Astronomy Puzzle of the Day</p>
-        <strong><em>Rodrigo Guerra, Original Painting: Vincent van Gogh</em></strong>
+        <h4>Daytime Moon Meets Evening Star</h4>
+        <time>2026-06-20</time>
+        <p>Venus is now appearing on the celestial stage as Earth's brilliant evening star, performing with the Moon, other wandering planets, and bright stars in western skies. For evening sky gazers on June 17, the celestial beacon rose after sunset close by a young, slender, crescent Moon. But from some locations the Moon could be seen to occult or pass in front of Venus. And from a backyard observatory in southern British Columbia, Canada, the lunar occultation was played out in daylight. This stunning telescopic snapshot captured a scene in dramatically cloudy skies, following Venus' hour long disappearance, as the evening star emerged beyond the bright lunar limb.</p>
+        <strong><em>Debra Ceravolo</em></strong>
     </div>
 </div>
