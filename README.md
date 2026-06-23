@@ -61,13 +61,14 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2606/Keogram2025_Bassa_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2606/Keogram2025_Bassa_960.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/" target="_blank">
+        <img align="left" src="https://img.icons8.com/color/480/null/video-file.png" width="400" height="500" alt="Flying Past Neptune's Moon Triton - Click to watch video">
     </a>
+    <!-- Video icon by Icons8: https://icons8.com/icon/video-file -->
     <div>
-        <h4>Keogram: The Sky in 2025</h4>
-        <time>2026-06-21</time>
-        <p>What if you could see the entire sky -- all at once -- for an entire year? That, very nearly, is what is pictured here.  Every 15 seconds during 2025, an all-sky camera took an image of the sky over the Netherlands. Central columns from these images were then aligned and combined to create the featured keogram, with January at the top, December at the bottom, and the middle of the night running vertically just left of center. What do we see?  Most obviously, the daytime sky is mostly blue, while the nighttime sky is mostly black.  The twelve light bands crossing the night sky are caused by the glow of the Moon. The thinnest part of the black hourglass shape occurs during the summer solstice, like today, when days are the longest, while the thickest part occurs at the winter solstice. Equinoxes can also be located in the keogram, for example the northern-spring equinox from one year ago is about three-quarters of the way up.</p>
+        <h4>Flying Past Neptune's Moon Triton</h4>
+        <time>2026-06-23</time>
+        <p>What would it look like to fly past Triton, the largest moon of planet Neptune?  Only one spacecraft has ever done this -- and the images of this dramatic encounter have been gathered into a video.  In 1989, the Voyager 2 robotic spacecraft shot through the Neptune system with cameras blazing.  Triton is slightly smaller than Earth's Moon but has ice volcanoes and a surface rich in frozen nitrogen.  The first sequence in the video shows Voyager's approach to Triton, which, with the exception of an overall false green tint, appears in approximately true color.  The mysterious cantaloupe terrain seen under the spacecraft soon changed from light to dark, with the terminator of night crossing underneath.  After closest approach, Voyager pivoted to see the departing moon, now visible as a diminishing crescent.  In 2015, the robotic New Horizons spacecraft famously flew past Pluto, an orb of similar size to Triton.   Almost Hyperspace: Random APOD Generator</p>
         <strong><em></em></strong>
     </div>
 </div>
