@@ -61,14 +61,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/" target="_blank">
-        <img align="left" src="https://img.icons8.com/color/480/null/video-file.png" width="400" height="500" alt="SDO Observes a Coronal Mass Ejection - Click to watch video">
+    <a href="https://apod.nasa.gov/apod/image/2606/crepuscular2_1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2606/crepuscular2_1024.jpg" width="400" height="500" alt="Marcella Giulia Pace Text: Cecilia Chirenti (NASA GSFC, UMCP, CRESST II)">
     </a>
-    <!-- Video icon by Icons8: https://icons8.com/icon/video-file -->
     <div>
-        <h4>SDO Observes a Coronal Mass Ejection</h4>
-        <time>2026-06-24</time>
-        <p>Why does the Sun throw stuff at us? The Sun’s surface is a churning soup of energetic electrons and ions called plasma. The motion of those charged particles creates magnetic field loops that are larger than the Earth. These loops twist, turn, and trap plasma. The featured time-lapse, taken over 2 hours on April 24th, 2026 by the Solar Dynamics Observatory, shows what happens when those magnetic fields become too stressed: they snap and expel billions of tons (trillions of kilograms) of plasma into space at millions of miles (or kilometers) per hour in what is called a coronal mass ejection (CME). The Sun releases a few CMEs each day when it is at the peak of its activity cycle, which passed in 2025. Some of these eruptions hit Earth and can disrupt power grids, disable satellites, and endanger astronauts, which is why space weather monitoring is so important.</p>
-        <strong><em></em></strong>
+        <h4>Anticrepuscular Rays over Sicily</h4>
+        <time>2026-06-25</time>
+        <p>The Sun has just set... in the opposite side of the sky.   Pictured here are anticrepuscular rays apparently converging in the east in this image of the limestone plateau in the heart of the Hyblaean Mountains of southeastern Sicily, in Italy.   How were these anticrepuscular rays formed, if the Sun wasn't there?   After the Sun set (in the west, as usual) its light still illuminated a cloud higher up in the sky.   Partially blocked by the cloud, the sunlight produced patterns of light and shadow, crossing the sky in parallel lines.   Perspective makes it look like they converge in the east, in the same way that train tracks appear to meet in the distance.   This effect can also happen at sunrise, only the directions are exchanged.   In rare cases, both crepuscular and anticrepuscular rays can be seen at the same time.</p>
+        <strong><em>Marcella Giulia Pace Text: Cecilia Chirenti (NASA GSFC, UMCP, CRESST II)</em></strong>
     </div>
 </div>
