@@ -61,13 +61,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2606/crepuscular2_1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2606/crepuscular2_1024.jpg" width="400" height="500" alt="Marcella Giulia Pace Text: Cecilia Chirenti (NASA GSFC, UMCP, CRESST II)">
+    <a href="https://apod.nasa.gov/apod/image/2606/MilkyWaySeoulShingooLee800.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2606/MilkyWaySeoulShingooLee800.jpg" width="400" height="500" alt="Shingoo Lee">
     </a>
     <div>
-        <h4>Anticrepuscular Rays over Sicily</h4>
-        <time>2026-06-25</time>
-        <p>The Sun has just set... in the opposite side of the sky.   Pictured here are anticrepuscular rays apparently converging in the east in this image of the limestone plateau in the heart of the Hyblaean Mountains of southeastern Sicily, in Italy.   How were these anticrepuscular rays formed, if the Sun wasn't there?   After the Sun set (in the west, as usual) its light still illuminated a cloud higher up in the sky.   Partially blocked by the cloud, the sunlight produced patterns of light and shadow, crossing the sky in parallel lines.   Perspective makes it look like they converge in the east, in the same way that train tracks appear to meet in the distance.   This effect can also happen at sunrise, only the directions are exchanged.   In rare cases, both crepuscular and anticrepuscular rays can be seen at the same time.</p>
-        <strong><em>Marcella Giulia Pace Text: Cecilia Chirenti (NASA GSFC, UMCP, CRESST II)</em></strong>
+        <h4>Milky Way Urban Style</h4>
+        <time>2026-06-26</time>
+        <p>In a cosmic vista you can never see, the Milky Way arcs through the night above Seoul, South Korea. Remarkably, this urban night skyscape reveals our galaxy's faintly luminous central region and dark obscuring dust clouds in spite of the brilliant city lights. To overcome the extreme light pollution of the metropolitan area and record faint cosmic details, an infrared filter was used to capture the night scene in a single exposure. While the filter transmits predominately infrared light, it still passes some visible light to give the scene a natural appearance. The view is from Seoul's Ttukseom Hangang Park, with the Han River and a well lit railway bridge across the foreground. The 123 story Lotte World Tower looms in the distance, the tallest building in South Korea.</p>
+        <strong><em>Shingoo Lee</em></strong>
     </div>
 </div>
