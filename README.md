@@ -61,13 +61,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2606/MilkyWaySeoulShingooLee800.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2606/MilkyWaySeoulShingooLee800.jpg" width="400" height="500" alt="Shingoo Lee">
+    <a href="https://apod.nasa.gov/apod/image/2606/PIA26726_figA1024c.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2606/PIA26726_figA1024c.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Milky Way Urban Style</h4>
-        <time>2026-06-26</time>
-        <p>In a cosmic vista you can never see, the Milky Way arcs through the night above Seoul, South Korea. Remarkably, this urban night skyscape reveals our galaxy's faintly luminous central region and dark obscuring dust clouds in spite of the brilliant city lights. To overcome the extreme light pollution of the metropolitan area and record faint cosmic details, an infrared filter was used to capture the night scene in a single exposure. While the filter transmits predominately infrared light, it still passes some visible light to give the scene a natural appearance. The view is from Seoul's Ttukseom Hangang Park, with the Han River and a well lit railway bridge across the foreground. The 123 story Lotte World Tower looms in the distance, the tallest building in South Korea.</p>
-        <strong><em>Shingoo Lee</em></strong>
+        <h4>Mars Marathon by Perseverance</h4>
+        <time>2026-06-27</time>
+        <p>In this recent HiRISE view from the Mars Reconnaissance Orbiter, the little green dot indicated on the surface of the big Red Planet is the Perseverance Mars rover. Recorded on June 13, the car-sized, six-wheeled robot was imaged a day before completing a Martian marathon, traveling a total distance of 26.218 miles (42.195 kilometers) since it began exploring the surface of Mars. That equivalent marathon distance was achieved by Perseverance on its mission sol (Martian day) 1,890, after about 5 Earth years and 4 Earth months of driving. Perseverance is continuing to hunt for biosignatures. In the HiRISE image, the Mars rover's tracks can be seen leading to its location in an area west of its landing site in Jezero crater near an ancient river delta.</p>
+        <strong><em></em></strong>
     </div>
 </div>
