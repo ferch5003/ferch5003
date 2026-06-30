@@ -61,13 +61,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2606/M82_HubbleWebb_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2606/M82_HubbleWebb_960.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2606/itokawa07_hayabusa_1080.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2606/itokawa07_hayabusa_1080.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>M82: Galaxy with a Supergalactic Wind</h4>
-        <time>2026-06-29</time>
-        <p>Why is the Cigar Galaxy billowing red smoke?  M82, as this starburst galaxy is also known, was stirred up by a recent pass near large spiral galaxy M81.  This doesn't fully explain the source of the red-glowing outwardly expanding gas and dust, however.  Evidence indicates that this gas and dust is being driven out by the combined emerging particle winds of many stars, together creating a galactic superwind.  The dust particles are thought to originate in M82's interstellar medium and are actually similar in size to particles in cigar smoke.  The featured photographic mosaic combines images taken in visible light from the Hubble Space Telescope and images taken in infrared light from James Webb Space Telescope.  It shows the light-colored central galaxy nearly edge on across the image center with tremendous orange and red colored filaments of gas and dust extending both up and down.  The filaments extend for over 10,000 light years. The 12-million light-year distant Cigar Galaxy is the brightest galaxy in the sky in infrared light and can be seen in visible light with a small telescope towards the constellation of the Great Bear (Ursa Major).</p>
+        <h4>Unusually Smooth Sections of Asteroid Itokawa</h4>
+        <time>2026-06-30</time>
+        <p>Why are parts of this asteroid's surface so smooth?  The answer seems likely to do with the dynamics of an asteroid that is a loose pile of rubble rather than a solid rock.  The unusual asteroid Itokawa was visited by the Japanese spacecraft Hayabusa in 2005 which imaged and documented its unusual structure and mysterious lack of craters.  Analyses of the border regions between smooth and rugged sections indicate that jostling of the asteroid might be creating segregation between large and small rocks near the surface, like the Brazil nut effect.  The robotic Hayabusa actually touched down on one of the smooth patches, dubbed the MUSES Sea, and collected soil samples. These samples were returned to Earth and are not only giving clues to the ancient history of this unusual asteroid, but also about the early years of our entire Solar System. Computer simulations show that 500-meter asteroid Itokawa may impact the Earth within the next few million years.   Rocking Space: Today is Asteroid Day</p>
         <strong><em></em></strong>
     </div>
 </div>
