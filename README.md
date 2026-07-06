@@ -61,13 +61,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2607/iapetus4_cassini_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2607/iapetus4_cassini_960.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2607/ZodiMw_Looten_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2607/ZodiMw_Looten_960.jpg" width="400" height="500" alt="Julien Looten">
     </a>
     <div>
-        <h4>Saturn's Iapetus: Painted Moon</h4>
-        <time>2026-07-05</time>
-        <p>What has happened to Saturn's moon Iapetus?  Vast sections of this strange world are dark as coal, while others are as bright as snow.  To help better understand this unusually tinted moon, in 2007 NASA directed the robotic Cassini spacecraft then orbiting Saturn to swoop within 2,000 kilometers.  Pictured here, from about 75,000 kilometers out, is the hemisphere of Iapetus that is always trailing.  A large impact crater seen in the south spans 500 kilometers and appears superposed on an older crater of similar size.  The dark material is seen increasingly coating the easternmost part of Iapetus, darkening craters and highlands alike.  A leading hypothesis is that the dark material is mostly a form of carbon-rich soil leftover from when relatively warm but dirty ice sublimates.  An initial coating of this dark material may have been effectively painted on by the accretion of meteor-liberated debris from other moons.   Jigsaw Moon: Astronomy Puzzle of the Day</p>
-        <strong><em></em></strong>
+        <h4>Dueling Bands over the Atacama Desert</h4>
+        <time>2026-07-06</time>
+        <p>What are these two bands in the sky?  The more commonly seen band is on the left and is the central band of our Milky Way galaxy.  Our Sun orbits in the disk of this spiral galaxy so that from inside, it appears as a band of comparable brightness all the way around the sky.  The less commonly seen band, on the right, is zodiacal light -- sunlight reflected from dust orbiting the Sun in our Solar System.  Zodiacal light is brightest near the Sun and so is best seen just before sunrise or just after sunset.  On some evenings, this ribbon of zodiacal light can appear quite prominent.  It was discovered only in this century that zodiacal dust was mostly expelled by comets that have passed near Jupiter.  The featured image was captured about a year ago from the Atacama Desert in Chile.</p>
+        <strong><em>Julien Looten</em></strong>
     </div>
 </div>
