@@ -61,13 +61,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2607/ZodiMw_Looten_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2607/ZodiMw_Looten_960.jpg" width="400" height="500" alt="Julien Looten">
+    <a href="https://apod.nasa.gov/apod/image/2607/AraDragons_Prazeres_1080.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2607/AraDragons_Prazeres_1080.jpg" width="400" height="500" alt="Rod Prazeres">
     </a>
     <div>
-        <h4>Dueling Bands over the Atacama Desert</h4>
-        <time>2026-07-06</time>
-        <p>What are these two bands in the sky?  The more commonly seen band is on the left and is the central band of our Milky Way galaxy.  Our Sun orbits in the disk of this spiral galaxy so that from inside, it appears as a band of comparable brightness all the way around the sky.  The less commonly seen band, on the right, is zodiacal light -- sunlight reflected from dust orbiting the Sun in our Solar System.  Zodiacal light is brightest near the Sun and so is best seen just before sunrise or just after sunset.  On some evenings, this ribbon of zodiacal light can appear quite prominent.  It was discovered only in this century that zodiacal dust was mostly expelled by comets that have passed near Jupiter.  The featured image was captured about a year ago from the Atacama Desert in Chile.</p>
-        <strong><em>Julien Looten</em></strong>
+        <h4>NGC 6188: Dragons of Ara</h4>
+        <time>2026-07-07</time>
+        <p>Where can you find dragons fighting in the night sky?  In the southern constellation of the Altar: Ara. The dragons are, of course, actually made of suggestively shaped gas and dust.  The celestial home of the mythological battling beasts is cataloged as NGC 6188 and located about 4,000 light years away near the edge of a large molecular cloud.  Massive, young stars of the embedded Ara OB1 association were formed there only a few million years ago, sculpting the dark shapes and powering the nebular glow with stellar winds and intense ultraviolet radiation.  Joining NGC 6188 on this cosmic canvas, visible toward the lower right, is unusual emission nebula NGC 6164, also created by one of the region's massive stars.  This impressively wide field picture, captured from Queensland, Australia, spans over 2 degrees (four full Moons).</p>
+        <strong><em>Rod Prazeres</em></strong>
     </div>
 </div>
