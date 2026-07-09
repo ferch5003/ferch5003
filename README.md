@@ -61,13 +61,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2607/AraDragons_Prazeres_1080.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2607/AraDragons_Prazeres_1080.jpg" width="400" height="500" alt="Rod Prazeres">
+    <a href="https://apod.nasa.gov/apod/image/2607/cosmic_bat_halpha_1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2607/cosmic_bat_halpha_1024.jpg" width="400" height="500" alt="Humbert Cédric Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)">
     </a>
     <div>
-        <h4>NGC 6188: Dragons of Ara</h4>
-        <time>2026-07-07</time>
-        <p>Where can you find dragons fighting in the night sky?  In the southern constellation of the Altar: Ara. The dragons are, of course, actually made of suggestively shaped gas and dust.  The celestial home of the mythological battling beasts is cataloged as NGC 6188 and located about 4,000 light years away near the edge of a large molecular cloud.  Massive, young stars of the embedded Ara OB1 association were formed there only a few million years ago, sculpting the dark shapes and powering the nebular glow with stellar winds and intense ultraviolet radiation.  Joining NGC 6188 on this cosmic canvas, visible toward the lower right, is unusual emission nebula NGC 6164, also created by one of the region's massive stars.  This impressively wide field picture, captured from Queensland, Australia, spans over 2 degrees (four full Moons).</p>
-        <strong><em>Rod Prazeres</em></strong>
+        <h4>The Red Glow of the Cosmic Bat Nebula</h4>
+        <time>2026-07-09</time>
+        <p>This Cosmic Bat wishes you a happy Summerween! This mid-year celebration of Halloween transcends hemispheres, even though summer in the Northern hemisphere is winter in the South. Contrary to its eery aura, the Cosmic Bat Nebula (LDN 43), not to be confused with the Bat Nebula (NGC 6995), is a vibrant birthplace for stars. A bit of young starlight peeks through the dense clouds of gas and dust that make up the Cosmic Bat’s 12 lightyear wingspan. The ultraviolet light from the young stars energizes the nebula’s hydrogen gas, causing it to glow an ominous red. The jet of glowing hydrogen gas emerging from the bat’s head hints at the star formation hidden within.</p>
+        <strong><em>Humbert Cédric Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)</em></strong>
     </div>
 </div>
