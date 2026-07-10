@@ -61,13 +61,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2607/cosmic_bat_halpha_1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2607/cosmic_bat_halpha_1024.jpg" width="400" height="500" alt="Humbert Cédric Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)">
+    <a href="https://apod.nasa.gov/apod/image/2607/C14MareOrientaleGuyBardon1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2607/C14MareOrientaleGuyBardon1024.jpg" width="400" height="500" alt="The Mare Orientale">
     </a>
     <div>
-        <h4>The Red Glow of the Cosmic Bat Nebula</h4>
-        <time>2026-07-09</time>
-        <p>This Cosmic Bat wishes you a happy Summerween! This mid-year celebration of Halloween transcends hemispheres, even though summer in the Northern hemisphere is winter in the South. Contrary to its eery aura, the Cosmic Bat Nebula (LDN 43), not to be confused with the Bat Nebula (NGC 6995), is a vibrant birthplace for stars. A bit of young starlight peeks through the dense clouds of gas and dust that make up the Cosmic Bat’s 12 lightyear wingspan. The ultraviolet light from the young stars energizes the nebula’s hydrogen gas, causing it to glow an ominous red. The jet of glowing hydrogen gas emerging from the bat’s head hints at the star formation hidden within.</p>
-        <strong><em>Humbert Cédric Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)</em></strong>
+        <h4>Western Moon, Eastern Sea</h4>
+        <time>2026-07-10</time>
+        <p>The Mare Orientale, Latin for Eastern Sea, is one of the most striking large scale lunar features. The youngest of the large lunar impact basins it's very difficult to see from an earthbound perspective. Still, captured on July 7 during a period of favorable tilt, or libration of the lunar nearside, the Eastern Sea can be found at the upper right in this sharp telescopic view. In the image, the large lunar mare is extremely foreshortened and stretches along the Moon's western edge. Formed by the impact of an asteroid over 3 billion years ago and nearly 1000 kilometers across, the impact basin's concentric circular features are ripples in the lunar crust. But they are a little easier to spot in more direct images of the region taken from lunar orbit. So why is the Eastern Sea at the Moon's western edge? The Mare Orientale lunar feature was named before 1961. That's when the convention labeling east and west on lunar maps was reversed.</p>
+        <strong><em>The Mare Orientale</em></strong>
     </div>
 </div>
