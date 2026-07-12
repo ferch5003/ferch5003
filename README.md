@@ -61,13 +61,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2607/M24_1088.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2607/M24_1088.jpg" width="400" height="500" alt="Chuck Ayoub">
+    <a href="https://apod.nasa.gov/apod/image/2607/NGC474_CfhtCoelum_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2607/NGC474_CfhtCoelum_960.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Messier 24: Sagittarius Star Cloud</h4>
-        <time>2026-07-11</time>
-        <p>Unlike most entries in Charles Messier's famous catalog of deep sky objects, M24 is not a bright galaxy, star cluster, or nebula. It's a gap in nearby, obscuring interstellar dust clouds that allows a view of the distant stars in the Sagittarius spiral arm of our Milky Way galaxy. Direct your gaze through this gap with binoculars or a small telescope and you are looking through a window over 300 light-years wide at stars some 10,000 light-years or more from Earth. Sometimes called the Small Sagittarius Star Cloud, M24's luminous stars stretch across this gorgeous interstellar scene.  Spanning over four full moons on the sky toward the constellation Sagittarius, the telescopic field of view includes dark markings B92 and B93 near the center of M24, along with other clouds of dust and glowing nebulae toward the center of the Milky Way.</p>
-        <strong><em>Chuck Ayoub</em></strong>
+        <h4>Galaxy NGC 474: Shells and Star Streams</h4>
+        <time>2026-07-12</time>
+        <p>What's happening to galaxy NGC 474?  The multiple layers of emission appear strangely complex given the relatively featureless appearance of the elliptical galaxy in less deep images.  The cause of the shells is a topic of research, but they are possibly tidal tails related to debris left over from absorbing numerous small galaxies in the past billion years.  Alternatively, the shells may be like ripples in a pond, where the ongoing collision with the spiral galaxy just to the right of NGC 474 is causing density waves to ripple through the galactic giant.  Regardless of the actual cause, the featured image dramatically highlights the increasing evidence that the halos of some elliptical galaxies are surprisingly complicated.  Similarly, the halo of our own Milky Way Galaxy is one example of such unexpected intricacies.  NGC 474 spans about 250,000 light years and lies about 100 million light years distant toward the constellation of the Fish (Pisces).</p>
+        <strong><em></em></strong>
     </div>
 </div>
