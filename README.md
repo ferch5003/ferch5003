@@ -61,13 +61,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2607/red_sprite_700.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2607/red_sprite_700.jpg" width="400" height="500" alt="Mario Vargas Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)">
+    <a href="https://apod.nasa.gov/apod/image/2607/ngc300_1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2607/ngc300_1024.jpg" width="400" height="500" alt="Team Ciel Austral Text: Cecilia Chirenti (NASA GSFC, UMCP, CRESST II)">
     </a>
     <div>
-        <h4>Red Sprites in the Tatacoa Desert</h4>
-        <time>2026-07-15</time>
-        <p>Is there an angry Sith using force lightning in the Tatacoa Desert? This is not science fiction, but a red sprite with multiple streamers! Ordinary lightning occurs when thundercloud particles collide, lose their electrons, and build up negative charge at the cloud bottom. The cloud’s negative charge repels negative charge deeper into the Earth, leaving Earth’s surface positively charged. The opposite charges attract, reaching towards each other and superheating the air into a white strike of plasma. Red sprites are millisecond events triggered by positive cloud-to-ground lightning. They extend up into the mesosphere where the air is too thin for thunder. Their red glow comes from heated molecular nitrogen. There are several potential causes for red sprites, including that the preceding positive lightning exposes the negatively charged cloud core to the positively charged upper atmosphere, allowing those charges to connect. NASA’s Juno has observed sprites on Jupiter, indicating that sprites occur on other planets!</p>
-        <strong><em>Mario Vargas Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)</em></strong>
+        <h4>NGC 300: A Cosmic Gemstone with Stars and Gas Clouds</h4>
+        <time>2026-07-16</time>
+        <p>This sparkling, colorful gemstone is a spiral galaxy, NGC 300.   It is one of the closest spiral galaxies to Earth, only about 6 million light-years away.     But does it really look like this?   Here is a more standard portrait of it.   This unusual image combines the light from the stars and dust within the galaxy with the light from ionized clouds of interstellar gas shown in red (Sulphur), green (Hydrogen) and blue (Oxygen).   Combining red and green light in different proportions makes yellow or orange light, most visible in the image.   Light from other ionized gases is also at work in neon signs, fluorescent tubes and street lights.   These massive clouds of ionized gas are typically created by young, massive stars that produce high-energy ultraviolet radiation capable of ionizing the gas.   Massive stars are short-lived, compared with lighter stars like our sun, and explode as supernovas at the end of their lives.   Some of the colorful clouds in the image could be hiding supernova remnants.</p>
+        <strong><em>Team Ciel Austral Text: Cecilia Chirenti (NASA GSFC, UMCP, CRESST II)</em></strong>
     </div>
 </div>
