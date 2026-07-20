@@ -61,13 +61,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2607/Genesisimpact_nasa_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2607/Genesisimpact_nasa_960.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2607/LibertyNeb_Carpenter_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2607/LibertyNeb_Carpenter_960.jpg" width="400" height="500" alt="Logan Carpenter">
     </a>
     <div>
-        <h4>Flying Saucer Crash Lands in Utah Desert</h4>
-        <time>2026-07-19</time>
-        <p>A flying saucer from outer space crash-landed in the Utah desert after being tracked by radar and chased by helicopters.  The year was 2004, and no space aliens were involved.  The saucer, pictured here, was the Genesis sample return capsule, part of a human-made robot Genesis spaceship launched in 2001 by NASA itself to study the Sun.  The unexpectedly hard landing at over 300 kilometers per hour occurred because the parachutes did not open as planned.  The Genesis mission had been orbiting the Sun collecting solar wind particles that are usually deflected away by Earth's magnetic field. Despite the crash landing, many return samples remained in good enough condition to analyze. Genesis-related discoveries included new details about the composition of the Sun and how the abundance of some types of elements differ across the Solar System. These results have provided intriguing clues into details of how the Sun and planets formed billions of years ago.    Almost Hyperspace: Random APOD Generator</p>
-        <strong><em></em></strong>
+        <h4>NGC 3576: The Statue of Liberty Nebula</h4>
+        <time>2026-07-20</time>
+        <p>What's happening in the Statue of Liberty nebula?  Bright stars and interesting molecules are forming and being liberated. The complex nebula resides in the star forming region called RCW 57, and besides the iconic monument, to some looks like a flying superhero or a weeping angel.  This re-assigned color image showcases dense knots of dark interstellar dust, fields of glowing hydrogen gas ionized by these stars, and great loops of gas expelled by dying stars. A detailed study of NGC 3576, also known as NGC 3582 and NGC 3584, uncovered at least 33 massive stars in the end stages of formation, and the clear presence of the complex carbon molecules known as polycyclic aromatic hydrocarbons (PAHs). PAHs are thought to be created in the cooling gas of star forming regions, and their development in the Sun's formation nebula five billion years ago may have been an important step in the development of life on Earth.   Jigsaw Star Statue: Astronomy Puzzle of the Day</p>
+        <strong><em>Logan Carpenter</em></strong>
     </div>
 </div>
