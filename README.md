@@ -61,13 +61,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2607/LMC_1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2607/LMC_1024.jpg" width="400" height="500" alt="Monica Mesa Text: Cecilia Chirenti (NASA GSFC, UMCP, CRESST II)">
+    <a href="https://apod.nasa.gov/apod/image/2607/RCW86Final1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2607/RCW86Final1024.jpg" width="400" height="500" alt="Chinese astronomers">
     </a>
     <div>
-        <h4>The Large Magellanic Cloud</h4>
-        <time>2026-07-23</time>
-        <p>Have you ever seen another galaxy with your own eyes?   The featured image shows the Large Magellanic Cloud (LMC), one of the closest neighbors of our Milky Way.     If you are anywhere south of latitude 20° N (but the further south, the better), you can see it with the unaided eye if you go to a dark sky location, away from big cities and light polution.   It is a dwarf irregular galaxy about 163,000 light-years away, and a member of our Local Group of galaxies.   Despite being small, with a total mass approximately equivalent to 10% - 20% of the mass of the Milky Way, the LMC is very actively forming stars.   This is likely due in part to the gravitational push and pull of tides caused by the Milky Way on the LMC.   Some astronomers have predicted that it will collide with the Milky Way in in about 2 billion years.</p>
-        <strong><em>Monica Mesa Text: Cecilia Chirenti (NASA GSFC, UMCP, CRESST II)</em></strong>
+        <h4>RCW 86: Historical Supernova Remnant</h4>
+        <time>2026-07-24</time>
+        <p>In 185 AD, Chinese astronomers recorded the appearance of a new star in the Nanmen asterism. That part of the sky is identified with part of the southern constellation Centaurus on modern star charts. In fact, the new star was reported to be visible to the naked-eye for months before it faded from view, and is now thought to be the earliest recorded supernova. In this 21st century telescopic image, the wispy outlines of a faint emission nebula recognized as the remnant of that historical stellar explosion can be traced against a starry background. The ragged but roughly circular extent of the nebula, cataloged as RCW 86, represents interstellar gas ionized by the supernova's still expanding shock wave. Space-based images indicate an abundance of the element iron in RCW 86 and the absence of a neutron star or pulsar within the remnant, suggesting that the original supernova was Type Ia. Unlike the core collapse supernova explosion of a massive star, a Type Ia supernova is a thermonuclear detonation on a white dwarf star that has accreted material from its companion in a binary star system. Near the plane of our Milky Way galaxy and larger than the full moon on the sky this supernova remnant is too faint to be seen by eye though. RCW 86 is some 8,000 light-years distant and around 100 light-years across.</p>
+        <strong><em>Chinese astronomers</em></strong>
     </div>
 </div>
