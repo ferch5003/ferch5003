@@ -61,13 +61,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2607/Bubble_Piechnik_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2607/Bubble_Piechnik_960.jpg" width="400" height="500" alt="Paweł Piechnik">
+    <a href="https://apod.nasa.gov/apod/image/2607/LoopVolcanos_Laserna_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2607/LoopVolcanos_Laserna_960.jpg" width="400" height="500" alt="Gonzalo Laserna Vargas">
     </a>
     <div>
-        <h4>NGC 7635: The Bubble Nebula</h4>
-        <time>2026-07-27</time>
-        <p>What created this huge space bubble? Blown by the wind from a star, this tantalizing, head-like apparition is cataloged as NGC 7635, but known simply as the Bubble Nebula. Taken from Krakow, Poland, the featured view utilizes a long exposure to reveal the intricate details of this cosmic bubble and its environment. Although it looks delicate, the 10 light-year diameter bubble offers evidence of violent processes at work. Seen here right of the Bubble's center, a bright hot star is embedded in the nebula's reflecting dust. A fierce stellar wind and intense radiation from the star, which likely has a mass 10 to 20 times that of the Sun, has blasted out the structure of glowing gas against denser material in a surrounding molecular cloud. The intriguing Bubble Nebula lies a mere 11,000 light-years away toward the boastful constellation Cassiopeia.</p>
-        <strong><em>Paweł Piechnik</em></strong>
+        <h4>Barnards Loop over Twin Volcanoes</h4>
+        <time>2026-07-28</time>
+        <p>What's connecting these two volcanoes? In ancient folklore, the two volcanoes, Parinacota (left) and Pomerape (right), are connected by representing a mythical prince and princess who engaged in a forbidden romance.  Beneath the ground, the two peaks are not known to be connected by a common pool of hot magma, and neither volcano has erupted in the past 1000 years.  Above the ground, there is usually nothing in the sky that connects them -- except if you use careful timing and look from a specific location.  The featured well-planned image was captured from Bolivia in mid-April with a series of camera exposures taken on the same day and from the same location.  Then, Barnard's Loop appeared to connect the volcanic peaks. Also visible in the image is the Orion Nebula in the center, the star Betelgeuse on the right, and the Rosette Nebula on the upper right.    Sky Surprise: What picture did APOD feature on your birthday? (after 1995)</p>
+        <strong><em>Gonzalo Laserna Vargas</em></strong>
     </div>
 </div>
