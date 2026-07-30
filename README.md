@@ -61,13 +61,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://www.youtube.com/embed/6_cH5-daLjg?si=i9geSInQj3VMZwx3">
-        <img align="left" src="https://img.youtube.com/vi/6_cH5-daLjg/0.jpg" width="400" height="500" alt="Psyche Receives Gravity Assist from Mars - Click to watch video">
+    <a href="https://apod.nasa.gov/apod/image/2607/red_sun_1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2607/red_sun_1024.jpg" width="400" height="500" alt="Debra Ceravolo Text: Cecilia Chirenti (NASA GSFC, UMCP, CRESST II)">
     </a>
     <div>
-        <h4>Psyche Receives Gravity Assist from Mars</h4>
-        <time>2026-07-29</time>
-        <p>Solar System bodies make deep space exploration more fuel efficient! Today’s video shows the Psyche spacecraft gaining speed and changing its trajectory with minimal fuel spent due to a gravity assist from Mars in May 2026. Mars has an average orbital speed of almost 87,000 km/h (54,000 mph) around the Sun. Its orbital motion and its gravity allowed Mars to pull Psyche along with it, increasing the spacecraft’s speed. Gravity assists have been used since 1959’s Luna 3 mission to allow for spacecraft (the Voyagers, Cassini) to reach farther than they could with fuel alone. This assist helped the Psyche spacecraft on its journey to the Psyche asteroid, which it will reach in 2029. While passing Mars, the spacecraft tested instruments that will analyze the asteroid’s composition and magnetic field. This is the first mission to an asteroid thought to be largely made of metal, an essential building block for planets, rather than rock or ice.   Find dark skies and look up this August to witness the Perseid meteor shower uninhibited by the Moon!</p>
-        <strong><em></em></strong>
+        <h4>Red Sun through Wildfire Smoke</h4>
+        <time>2026-07-30</time>
+        <p>This could be the view from an exoplanet orbiting around a red dwarf star, but it is our own Sun.   This image was taken on July 22, 2026, in the Okanagan region in the Canadian province of British Columbia.   Wildfire smoke from the Pacific Northwest acted as a solar filter, allowing the photographer to take this photo of the Sun directly.   Several sunspots are also visible in this eerie image; just below and right of the center is AR 4493, a fast evolving, giant active solar region and sunspot group.     The smoke is made of tiny particles that help block and scatter light with bluer colors, so the light we see coming from the Sun is dimmer and redder than usual (but it is never safe to stare directly at the Sun).   Sunsets and sunrises are also more colorful because of the smoke.      Some 6 billion years from now, the Sun will actually start to turn redder as it approaches its red giant phase.</p>
+        <strong><em>Debra Ceravolo Text: Cecilia Chirenti (NASA GSFC, UMCP, CRESST II)</em></strong>
     </div>
 </div>
