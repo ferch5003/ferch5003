@@ -61,13 +61,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2608/FullMoon28-7-2026BrankoNadj1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2608/FullMoon28-7-2026BrankoNadj1024.jpg" width="400" height="500" alt="Branko Nadj">
+    <a href="https://apod.nasa.gov/apod/image/2608/FireRainbow_Harbig_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2608/FireRainbow_Harbig_960.jpg" width="400" height="500" alt="Christa Harbig">
     </a>
     <div>
-        <h4>Buck Moon and Belt of Venus</h4>
-        <time>2026-08-01</time>
-        <p>The Buck Moon is a traditional name for the full moon of July. In this colorful Adriatic sea and skyscape captured on July 28 from Krk Island along the coast of Croatia, a full Buck Moon is just rising over distant mountains. Since a full moon rises as the Sun sets, Earth's shadow also rises in the twilight scene, a diffuse gray band extending above the mountainous southeastern horizon. Above Earth's shadow band is the pinkish antitwilight arch. That subtly tinted band of backscattered sunlight is more widely known as the Belt of Venus. But as it shares the eastern horizon with the atmospheric shadow of Earth and Belt of Venus, this full Buck Moon seems to set the stage for the New Moon to come. The New Moon of August 12 will cast its shadow on planet Earth in a much anticipated total solar eclipse.</p>
-        <strong><em>Branko Nadj</em></strong>
+        <h4>A Fire Rainbow over West Virginia</h4>
+        <time>2026-08-02</time>
+        <p>What's happening to this cloud? Ice crystals in a distant cirrus cloud are acting like little floating prisms.  Known informally as a fire rainbow for its flame-like appearance, a circumhorizon arc appears parallel to the horizon. For a circumhorizontal arc to be visible, the Sun must be at least 58 degrees high in a sky where cirrus clouds present below --  in this case cirrus fibratus.  The numerous, flat, hexagonal ice-crystals that compose the cirrus cloud must be aligned horizontally to properly refract sunlight in a collectively similar manner.  Therefore, circumhorizontal arcs are somewhat unusual to see.  The featured fire rainbow was photographed in 2021 near North Fork Mountain in West Virginia, USA.    Sky Surprise: What picture did APOD feature on your birthday? (after 1995)</p>
+        <strong><em>Christa Harbig</em></strong>
     </div>
 </div>
