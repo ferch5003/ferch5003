@@ -61,13 +61,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2608/noirlab2618b_1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2608/noirlab2618b_1024.jpg" width="400" height="500" alt="NSF–DOE Vera C. Rubin Observatory/NOIRLab/SLAC/AURA Text: Cecilia Chirenti (NASA GSFC, UMCP, CRESST II)">
+    <a href="https://apod.nasa.gov/apod/image/2608/sunsilhouettes_gilbert_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2608/sunsilhouettes_gilbert_960.jpg" width="400" height="500" alt="Steven Gilbert">
     </a>
     <div>
-        <h4>Rubin's COSMOS field</h4>
-        <time>2026-08-07</time>
-        <p>There are more than half a million galaxies in the central panel of this image from the NSF-DOE Vera C. Rubin Observatory in Chile.   This is the COSMOS field, a patch of sky several times larger than the full moon, first observed by Hubble.   It has also been observed by Webb and other telescopes because it contains comparatively few bright stars from our own galaxy, offering a relatively unimpeded view of other galaxies outside the Milky Way.   The outer panels, numbered 1-10, show zoomed-in views of the corresponding small regions highlighted in the central panel.   The variety of galaxy shapes and sizes is astonishing.   Some of them are so far away that their light has traveled for billions of years before reaching Earth.   Rubin will come back every couple of days to the COSMOS field as part of its ten-year Legacy Survey of Space and Time.   It will allow a dynamic view of the COSMOS field and how the sky changes over time.</p>
-        <strong><em>NSF–DOE Vera C. Rubin Observatory/NOIRLab/SLAC/AURA Text: Cecilia Chirenti (NASA GSFC, UMCP, CRESST II)</em></strong>
+        <h4>Contemplating the Sun</h4>
+        <time>2026-08-09</time>
+        <p>Have you contemplated your home star recently?  Featured here, a Sun partially eclipsed on the top left by the Moon is also seen eclipsed by earthlings contemplating the eclipse below.  This spectacular menagerie of silhouettes was taken in 2012 from the Glen Canyon National Recreation Area near Page, Arizona, USA, where park rangers and astronomers expounded on the unusual event to interested gatherers.  Also, faintly visible on the Sun's disk, just to the lower right of the dark Moon's disk, is a group of sunspots.  A new solar eclipse will occur this week and give many people in northern North America, Europe, and northwestern Africa a new chance to contemplate a partially eclipsed Sun. A thin swath of Earth from Greenland to Portugal will further experience a total solar eclipse. An open question is whether any meteors from the peaking Perseids will be visible during totality.</p>
+        <strong><em>Steven Gilbert</em></strong>
     </div>
 </div>
