@@ -61,13 +61,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2608/2026-08-05-0609_7-SaturnSystem_c.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2608/2026-08-05-0609_7-SaturnSystem_c.jpg" width="400" height="500" alt="Alexandre Trentini">
+    <a href="https://apod.nasa.gov/apod/image/2608/A_Planet_of_Meteors_1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2608/A_Planet_of_Meteors_1024.jpg" width="400" height="500" alt="Marcin Rosadziński Text: Cecilia Chirenti (NASA GSFC, UMCP, CRESST II)">
     </a>
     <div>
-        <h4>Six Moons of Saturn</h4>
-        <time>2026-08-11</time>
-        <p>How many moons does Saturn have? While the total will likely continue to grow, as of June 2026 the ringed gas giant had 293 confirmed moons. That's easily more than any other planet of the Solar System, including ruling gas giant Jupiter with a mere 115 confirmed moons. Most of Saturn's known moons are small, irregular satellites. Many are only few kilometers to a fraction of a kilometer across and grouped in tilted outer orbits. Six of its largest satellites can be seen here, though, in this sharp telescopic Saturnian family portrait taken on August 5. Larger than Earth's Moon and even slightly larger than inner planet Mercury, Titan, with a diameter of 5,150 kilometers, is at lower right. You can also spot icy major moons Mimas, Tethys, Enceladus, Dione, and Rhea in the frame. Saturn's first known natural satellite, Titan was discovered in 1655 by Dutch astronomer Christiaan Huygens. During the space age Voyager and Cassini discoveries have added to the swelling ranks of Saturnian moons.  NASA Stream: August 12 Total Solar Eclipse.</p>
-        <strong><em>Alexandre Trentini</em></strong>
+        <h4>Perseids Over a little Planet</h4>
+        <time>2026-08-12</time>
+        <p>It looks like a view from the Little Prince's planet.   The featured image is a throwback to the 2024 Perseid meteor shower, surrounded in this projection by the Bieszczady Mountains in Poland.   Visible in the sky is the arch of the Milky Way, along with several nebulas in red and over a hundred meteors pointing to the radiant.     The Perseids are easily visible and quite popular in the Northern Hemisphere summer. (Watching meteor showers in the winter is less convenient for a good reason).     This year they are expected to offer an even more dazzling spectacle than usual, because the peak coincides with a new moon.   The 2026 Perseid meteor shower will peak tonight with as many as 50-100 meteors per hour, when the Earth's path crosses through debris left behind by Comet Swift-Tuttle.   Typically, the best times for seeing the meteors are between midnight and pre-dawn.   You won't need binoculars to see the meteors, but a lawn chair and a dark sky location help.       There is total solar eclipse happening today! See here if you are in the path of totality.</p>
+        <strong><em>Marcin Rosadziński Text: Cecilia Chirenti (NASA GSFC, UMCP, CRESST II)</em></strong>
     </div>
 </div>
