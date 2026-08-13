@@ -61,13 +61,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2608/A_Planet_of_Meteors_1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2608/A_Planet_of_Meteors_1024.jpg" width="400" height="500" alt="Marcin Rosadziński Text: Cecilia Chirenti (NASA GSFC, UMCP, CRESST II)">
+    <a href="https://apod.nasa.gov/apod/image/2608/total_solar_eclipse_900.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2608/total_solar_eclipse_900.jpg" width="400" height="500" alt="Ruiyu Zhang Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)">
     </a>
     <div>
-        <h4>Perseids Over a little Planet</h4>
-        <time>2026-08-12</time>
-        <p>It looks like a view from the Little Prince's planet.   The featured image is a throwback to the 2024 Perseid meteor shower, surrounded in this projection by the Bieszczady Mountains in Poland.   Visible in the sky is the arch of the Milky Way, along with several nebulas in red and over a hundred meteors pointing to the radiant.     The Perseids are easily visible and quite popular in the Northern Hemisphere summer. (Watching meteor showers in the winter is less convenient for a good reason).     This year they are expected to offer an even more dazzling spectacle than usual, because the peak coincides with a new moon.   The 2026 Perseid meteor shower will peak tonight with as many as 50-100 meteors per hour, when the Earth's path crosses through debris left behind by Comet Swift-Tuttle.   Typically, the best times for seeing the meteors are between midnight and pre-dawn.   You won't need binoculars to see the meteors, but a lawn chair and a dark sky location help.       There is total solar eclipse happening today! See here if you are in the path of totality.</p>
-        <strong><em>Marcin Rosadziński Text: Cecilia Chirenti (NASA GSFC, UMCP, CRESST II)</em></strong>
+        <h4>Total Solar Eclipse Over Spain</h4>
+        <time>2026-08-13</time>
+        <p>On August 12th, 2026, the Moon totally eclipsed the Sun and cast its shadow across Siberia, Greenland, Iceland, Spain, and Portugal. Today’s image features two total solar eclipses viewed from Zaragoza, Spain, one over the Cathedral-Basilica of Our Lady of the Pillar and the other reflecting in the Ebro River. For a few moments, Spain saw its first major total solar eclipse since 1905. Those witnessing totality may experience a chill in the air, the quieting of birds, the confused chirps of insects, and the shared awe of many. It’s the corona’s time to shine as the Sun’s bright disk is blocked by the Moon. Among other reasons to study eclipses, they help scientists understand why the corona is millions of degrees hotter than the Sun’s surface. Enthusiastic citizens can contribute to these studies by recording how wildlife responds, imaging the corona, and monitoring air temperature and clouds.  More spectacular eclipse images: Solar Eclipse of 2026 August 12</p>
+        <strong><em>Ruiyu Zhang Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)</em></strong>
     </div>
 </div>
