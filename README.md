@@ -61,13 +61,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2608/total_solar_eclipse_900.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2608/total_solar_eclipse_900.jpg" width="400" height="500" alt="Ruiyu Zhang Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)">
+    <a href="https://apod.nasa.gov/apod/image/2608/TSE2026DR_Madhaven1024.jpeg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2608/TSE2026DR_Madhaven1024.jpeg" width="400" height="500" alt="On August 12">
     </a>
     <div>
-        <h4>Total Solar Eclipse Over Spain</h4>
-        <time>2026-08-13</time>
-        <p>On August 12th, 2026, the Moon totally eclipsed the Sun and cast its shadow across Siberia, Greenland, Iceland, Spain, and Portugal. Today’s image features two total solar eclipses viewed from Zaragoza, Spain, one over the Cathedral-Basilica of Our Lady of the Pillar and the other reflecting in the Ebro River. For a few moments, Spain saw its first major total solar eclipse since 1905. Those witnessing totality may experience a chill in the air, the quieting of birds, the confused chirps of insects, and the shared awe of many. It’s the corona’s time to shine as the Sun’s bright disk is blocked by the Moon. Among other reasons to study eclipses, they help scientists understand why the corona is millions of degrees hotter than the Sun’s surface. Enthusiastic citizens can contribute to these studies by recording how wildlife responds, imaging the corona, and monitoring air temperature and clouds.  More spectacular eclipse images: Solar Eclipse of 2026 August 12</p>
-        <strong><em>Ruiyu Zhang Text: Keighley Rockcliffe (NASA GSFC, UMBC CSST, CRESST II)</em></strong>
+        <h4>Total Solar Eclipse from Greenland</h4>
+        <time>2026-08-14</time>
+        <p>On August 12, the Moon's shadow reached out to touch our fair planet. Beginning in the Arctic Ocean, it swept along a narrow track that led the dark lunar umbra across parts of Greenland, Iceland, the Atlantic, Portugal, and northern Spain. And for a moment, denizens of Earth who found themselves with clear skies under the shadow of the Moon could witness a total solar eclipse. After dodging the weather by sea and making a landing along Rype Fjord on the Greenland east coast (at 71.07055N, 27.71252W), this hard-won snapshot was captured at 17:33:26 UTC. That's near the initial reach of clearing skies along the path of totality, so the image is likely one of the first unobstructed views of the totally eclipsed Sun. Through a break in the clouds, the stunning photo also records one of this eclipse's transient diamond rings and the magnificent solar corona emerging near the moment totality began.  More spectacular eclipse images: Solar Eclipse of 2026 August 12</p>
+        <strong><em>On August 12</em></strong>
     </div>
 </div>
