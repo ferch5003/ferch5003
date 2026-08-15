@@ -61,13 +61,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2608/TSE2026DR_Madhaven1024.jpeg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2608/TSE2026DR_Madhaven1024.jpeg" width="400" height="500" alt="On August 12">
+    <a href="https://apod.nasa.gov/apod/image/2608/PerseidsAPOD_P-MHeden.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2608/PerseidsAPOD_P-MHeden.jpg" width="400" height="500" alt="Clear Skies">
     </a>
     <div>
-        <h4>Total Solar Eclipse from Greenland</h4>
-        <time>2026-08-14</time>
-        <p>On August 12, the Moon's shadow reached out to touch our fair planet. Beginning in the Arctic Ocean, it swept along a narrow track that led the dark lunar umbra across parts of Greenland, Iceland, the Atlantic, Portugal, and northern Spain. And for a moment, denizens of Earth who found themselves with clear skies under the shadow of the Moon could witness a total solar eclipse. After dodging the weather by sea and making a landing along Rype Fjord on the Greenland east coast (at 71.07055N, 27.71252W), this hard-won snapshot was captured at 17:33:26 UTC. That's near the initial reach of clearing skies along the path of totality, so the image is likely one of the first unobstructed views of the totally eclipsed Sun. Through a break in the clouds, the stunning photo also records one of this eclipse's transient diamond rings and the magnificent solar corona emerging near the moment totality began.  More spectacular eclipse images: Solar Eclipse of 2026 August 12</p>
-        <strong><em>On August 12</em></strong>
+        <h4>Bright Perseids from Sweden</h4>
+        <time>2026-08-15</time>
+        <p>Known for its bright and fast meteors, the annual Perseid Meteor Shower comes to planet Earth's skies from a radiant in the heroic constellation Perseus. The popular northern summer celestial spectacle is created as grains of dust cast off along the orbit of periodic comet 109P/Swift-Tuttle vaporize in Earth's dense atmosphere, tracing brief, but beautiful streaks through the night. Taken near the shower's peak of activity on August 12, this composite image recorded two bright perseid meteors and one meteor's watery reflection from a location near the coastal village of Grisslehamn, Sweden.  Almost as bright as Altair, brightest star on the scene, the meteors appear along with the faint, diffuse background of the Milky Way. This year, the shower's peak activity coincided with a New Moon, so perseid meteor flashes were undiminished by bright moonlight. And for many skywatchers, this night of bright perseid meteors followed their viewing of the silhouette of the New Moon in a much anticipated solar eclipse.  Growing Gallery: Solar Eclipse of 2026 August 12</p>
+        <strong><em>Clear Skies</em></strong>
     </div>
 </div>
