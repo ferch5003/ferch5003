@@ -61,13 +61,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2608/PerseidsAPOD_P-MHeden.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2608/PerseidsAPOD_P-MHeden.jpg" width="400" height="500" alt="Clear Skies">
+    <a href="https://apod.nasa.gov/apod/image/2608/mwyellowstone_lane_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2608/mwyellowstone_lane_960.jpg" width="400" height="500" alt="Dave Lane">
     </a>
     <div>
-        <h4>Bright Perseids from Sweden</h4>
-        <time>2026-08-15</time>
-        <p>Known for its bright and fast meteors, the annual Perseid Meteor Shower comes to planet Earth's skies from a radiant in the heroic constellation Perseus. The popular northern summer celestial spectacle is created as grains of dust cast off along the orbit of periodic comet 109P/Swift-Tuttle vaporize in Earth's dense atmosphere, tracing brief, but beautiful streaks through the night. Taken near the shower's peak of activity on August 12, this composite image recorded two bright perseid meteors and one meteor's watery reflection from a location near the coastal village of Grisslehamn, Sweden.  Almost as bright as Altair, brightest star on the scene, the meteors appear along with the faint, diffuse background of the Milky Way. This year, the shower's peak activity coincided with a New Moon, so perseid meteor flashes were undiminished by bright moonlight. And for many skywatchers, this night of bright perseid meteors followed their viewing of the silhouette of the New Moon in a much anticipated solar eclipse.  Growing Gallery: Solar Eclipse of 2026 August 12</p>
-        <strong><em>Clear Skies</em></strong>
+        <h4>Milky Way over Yellowstone</h4>
+        <time>2026-08-16</time>
+        <p>The Milky Way was not created by an evaporating lake.  The colorful pool of water, about 10 meters across, is known as Silex Spring and is located in Yellowstone National Park in Wyoming, USA.  Illuminated artificially, the colors are caused by layers of bacteria that grow in the hot spring.  Steam rises off the spring, heated by underground magma associated with the Yellowstone Hotspot.  Unrelated and far in the distance, the central band of our Milky Way Galaxy arches high overhead, a band lit by billions of stars.  The picture features a 16-image panorama taken in 2014.  If the Yellowstone Hotspot causes another supervolcanic eruption as it did about 640,000 years ago, a large part of North America would be affected.</p>
+        <strong><em>Dave Lane</em></strong>
     </div>
 </div>
