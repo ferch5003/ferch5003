@@ -61,13 +61,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2608/mwyellowstone_lane_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2608/mwyellowstone_lane_960.jpg" width="400" height="500" alt="Dave Lane">
+    <a href="https://apod.nasa.gov/apod/image/2608/GoldCorona_Santos_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2608/GoldCorona_Santos_960.jpg" width="400" height="500" alt="Rui Santos (Living Impressions)">
     </a>
     <div>
-        <h4>Milky Way over Yellowstone</h4>
-        <time>2026-08-16</time>
-        <p>The Milky Way was not created by an evaporating lake.  The colorful pool of water, about 10 meters across, is known as Silex Spring and is located in Yellowstone National Park in Wyoming, USA.  Illuminated artificially, the colors are caused by layers of bacteria that grow in the hot spring.  Steam rises off the spring, heated by underground magma associated with the Yellowstone Hotspot.  Unrelated and far in the distance, the central band of our Milky Way Galaxy arches high overhead, a band lit by billions of stars.  The picture features a 16-image panorama taken in 2014.  If the Yellowstone Hotspot causes another supervolcanic eruption as it did about 640,000 years ago, a large part of North America would be affected.</p>
-        <strong><em>Dave Lane</em></strong>
+        <h4>A Golden Corona Eclipse</h4>
+        <time>2026-08-17</time>
+        <p>This total solar eclipse appeared not only poetically beautiful but scientifically interesting.  Usually the solar corona appears white, and to some observers the corona of last week's total solar eclipse did appear this pearly color.  But this time, totality observers in Spain saw a corona that appeared unusually golden.  For one reason, from Spain, the totality occurred when the setting Sun was near the horizon.  That low, sunlight travels through a large amount of air which scatters out blue light. An unusual amount of smoke in the air from nearby forest fires acted as a second filter, further scattering the remaining blue tones and deepening the already gold-dominated light. The HDR-processed, multiple-exposure featured image was captured from Benavente, Spain last week.  One thing that did not appear golden was a hydrogen-glowing prominence that hovered over the Sun's left edge -- its original bright pink color survived.   Gallery: Solar Eclipse of 2026 August 12</p>
+        <strong><em>Rui Santos (Living Impressions)</em></strong>
     </div>
 </div>
