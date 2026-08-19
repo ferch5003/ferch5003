@@ -61,13 +61,14 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2608/Perseids_karuk_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2608/Perseids_karuk_960.jpg" width="400" height="500" alt="Jakub Kuřák">
+    <a href="https://apod.nasa.gov/apod/" target="_blank">
+        <img align="left" src="https://img.icons8.com/color/480/null/video-file.png" width="400" height="500" alt="The Case of the Mysterious Maybe Meteor - Click to watch video">
     </a>
+    <!-- Video icon by Icons8: https://icons8.com/icon/video-file -->
     <div>
-        <h4>Perseids from Perseus</h4>
-        <time>2026-08-18</time>
-        <p>This was a good year for the Perseids meteor shower.  A key reason was the Moon was absent from lighting up Earth's night sky so that more meteors were visible than usual.  Where was the Moon?  It was busy visiting the Sun.  Near the Perseids peak, the Moon moved directly in front of the Sun and created a total solar eclipse visible from Greenland and Spain. The Perseids occur when the Earth collides with a stream of Sun-orbiting debris cast off by Comet Swift-Tuttle. Perseid meteors, although typically only the size of a sand grain, tend to be fast and bright because Swift-Tuttle's debris orbits the Sun in a direction partly opposite Earth's orbital motion. In the featured image compilation, accumulated over several nights from Jizerka in the Czech Republic, the Perseids meteor streaks can be traced back to a single location on the sky -- its radiant in Perseus.    Gallery: Perseids Meteor Shower of 2026</p>
-        <strong><em>Jakub Kuřák</em></strong>
+        <h4>The Case of the Mysterious Maybe Meteor</h4>
+        <time>2026-08-19</time>
+        <p>Whatdunit? What disappeared while crossing a partially eclipsed Sun? Let’s present the evidence. The 24 frames-per-second video was taken in Spain (40°34'30.3"N 1°12'28.8"W) at 20:28 local time on August 12, 2026. The Perseids meteor shower was at its peak during this time. Is this a meteor? Meteor showers trace back to a region of the sky called a radiant point that corresponds to where the Earth is crossing a comet’s path. The object’s path might trace back to the Perseids’ radiant point in the Perseus constellation. The object trails a smaller angle on the sky than the 0.5 degree Sun and Moon, which is smaller than expected for a meteor. Its brightness does not extend much past the Sun, but a meteor burning up in the sky would not need sunlight to be seen. Perhaps the sunlight is reflecting off of the object? After cross-referencing the location, time, and point in the sky with a flight database, the culprit is found to be an airplane contrail!</p>
+        <strong><em></em></strong>
     </div>
 </div>
