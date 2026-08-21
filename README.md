@@ -61,13 +61,14 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2608/IMG_5201_sgarbossa1024.jpeg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2608/IMG_5201_sgarbossa1024.jpeg" width="400" height="500" alt="Eddie Sgarbossa">
+    <a href="https://apod.nasa.gov/apod/" target="_blank">
+        <img align="left" src="https://img.icons8.com/color/480/null/video-file.png" width="400" height="500" alt="Time-Lapse of the Star S301 Orbiting the Black Hole in the Center of the Galaxy - Click to watch video">
     </a>
+    <!-- Video icon by Icons8: https://icons8.com/icon/video-file -->
     <div>
-        <h4>The Elephant's Trunk in Cepheus</h4>
-        <time>2026-08-20</time>
-        <p>Like an illustration in a galactic Just So Story, the Elephant's Trunk Nebula winds through the emission region and young star cluster complex IC 1396, in the high and far off constellation of Cepheus. Also known as vdB 142, this cosmic elephant's trunk is over 20 light-years long. The detailed telescopic view features the bright swept-back ridges and pockets of cool interstellar dust and gas that abound in the region. But the dark, tendril-shaped clouds contain the raw material for star formation and hide protostars within. Nearly 3,000 light-years distant, the relatively faint IC 1396 complex covers a large region on the sky, spanning over 5 degrees. Top to bottom this proboscidean-like rendition reaches across an almost 1 degree wide field of view, though. That's a little less than the angular size of 2 full moons.</p>
-        <strong><em>Eddie Sgarbossa</em></strong>
+        <h4>Time-Lapse of the Star S301 Orbiting the Black Hole in the Center of the Galaxy</h4>
+        <time>2026-08-21</time>
+        <p>What does it feel like to zoom around a spinning supermassive black hole?   The featured video is an animation showing a time-lapse of 4 years of observations of the star S301 orbiting Sagittarius A*, the 4-million-solar-mass black hole in the center of our Galaxy.   S301 was discovered in 2023 with the Very Large Telescope Interferometer of the European Southern Observatory, located in the Atacama Desert in Chile.   Astronomers recently found that S301 takes approximately 8.7 years to go around the black hole and reaches speeds of 25,000 km/s.   It comes closer to the black hole than any other stars detected before, at a distance similar to that from Saturn to the Sun.   Because it comes so close to Sagittarius A*, S301 could be used to directly measure how fast the black hole spins and test Einstein's theory of general relativity.   According to the theory, a spinning black hole drags the fabric of spacetime around itself, affecting the orbits of close-by objects.</p>
+        <strong><em></em></strong>
     </div>
 </div>
