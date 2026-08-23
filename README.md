@@ -61,13 +61,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2608/allsky_CEMeNt_Aug12-13final_pretty_8bit1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2608/allsky_CEMeNt_Aug12-13final_pretty_8bit1024.jpg" width="400" height="500" alt="Valašské Meziříčí Observatory">
+    <a href="https://player.vimeo.com/video/11386048#t=0m58s?color=8BA0FF&portrait=0">
+        <img align="left" src="https://i.vimeocdn.com/video/62374077-15e3fbe97d70f73b4903d5cace93470fe5e57bff5f54b6936b8a9d2b74dcf61f-d_640?region=us" width="400" height="500" alt="Cassini Approaches Saturn - Click to watch video">
     </a>
     <div>
-        <h4>Mostly Perseids</h4>
-        <time>2026-08-22</time>
-        <p>Recorded the night of August 12-13, images from four dedicated meteor-monitoring cameras at an astronomical observatory in Czechia were aligned and combined to create this all-night, all-sky view. On that night, the total count came to 1,706 meteors. And since that coincided with the peak activity of the 2026 Perseid Meteor Shower, most are perseids. Their overwhelming numbers make them easy to spot. Quite convincingly, perseid trails all trace back to a single radiant on the sky at the upper right, a region in the annual shower's eponymous constellation Perseus. But meteors belonging to other much less active showers can also revealed by finding their radiants too. For example, seen crossing the perseid trails are meteors from a shower whose radiant lies in Cygnus, known as Kappa Cygnids. The antihelion complex, a general region near Aquarius and opposite the Sun in the sky, is also identifiable as a weak source for meteors.</p>
-        <strong><em>Valašské Meziříčí Observatory</em></strong>
+        <h4>Cassini Approaches Saturn</h4>
+        <time>2026-08-23</time>
+        <p>What would it look like to approach the grand planet Saturn? One doesn't have to just imagine -- the Cassini spacecraft did just this in 2004, recording thousands of images along the way, and hundreds of thousands more since entering orbit. Some of Cassini's early images have been digitally tweaked, cropped, and compiled into the featured inspiring video which is part of a larger IMAX movie project named In Saturn's Rings.  In the concluding sequence, Saturn looms increasingly large on approach as cloudy Titan swoops below. With Saturn whirling around in the background, Cassini is next depicted flying over Mimas, with large Herschel Crater clearly visible. Saturn's majestic rings then take over the show as Cassini crosses Saturn's thin ring plane. Dark shadows of the ring appear on Saturn itself. Finally, the enigmatic ice-geyser moon Enceladus appears in the distance and then is approached just as the video clip ends. After more than a decade of exploration and discovery, the Cassini spacecraft ran low on fuel in 2017 was directed to enter Saturn's atmosphere, where it surely melted.    APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod</p>
+        <strong><em>Cassini Imaging Team, ISS, JPL, NASA, ESA, S. Van Vuuren et al.; Music: Adagio for Strings (NY Philharmonic)</em></strong>
     </div>
 </div>
