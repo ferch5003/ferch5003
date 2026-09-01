@@ -61,14 +61,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/" target="_blank">
-        <img align="left" src="https://img.icons8.com/color/480/null/video-file.png" width="400" height="500" alt="Launch of the Roman Space Telescope - Click to watch video">
+    <a href="https://apod.nasa.gov/apod/image/2608/PlaneEclipse_Ferreira_1059.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2608/PlaneEclipse_Ferreira_1059.jpg" width="400" height="500" alt="">
     </a>
-    <!-- Video icon by Icons8: https://icons8.com/icon/video-file -->
     <div>
-        <h4>Launch of the Roman Space Telescope</h4>
-        <time>2026-08-31</time>
-        <p>A new telescope has been launched into space to study the universe. The Nancy Grace Roman Space Telescope (RST) has the same size main mirror as the Hubble Space Telescope (HST) but sees 100 times more sky during each snapshot.  This is possible because when compared to HST, RST's main mirror is more curved, its secondary mirror is closer, and its main camera is larger.  The result is that RST can inspect more of the sky more quickly, likely allowing, among other capabilities, the discovery of many more supernovas which tell us more about the expansion rate and composition of our universe, and many more planets orbiting other stars that tell us more about the possibilities for life elsewhere in the universe. RST will orbit the Sun, not the Earth, like the James Webb Space Telescope.  The featured video shows Roman being launched yesterday from Kennedy Space Center, Florida, USA aboard a SpaceX Falcon Heavy rocket.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod</p>
+        <h4>A Plane Lunar Eclipse</h4>
+        <time>2026-09-01</time>
+        <p>Did you need to be on the right side of this airplane to see this eclipse? No.  Lunar eclipses are routinely seen from the half of the Earth facing the Moon when the eclipse occurs, making them some of the most commonly witnessed astronomical events. You don't even need any special equipment to see one -- just your unaided eyes.  Lunar eclipses are also some of the most photographed astronomical events because, unlike with a solar eclipse, your eyes and camera do not have to look toward the bright Sun. However, considering the featured image taken last week from Portugal, if you were on the left side of that airplane during takeoff, you might have trouble seeing it -- at first. But even then, after takeoff, since lunar eclipses typically last for hours, you might soon be able to safely cross the aisle(s) to see it.   Gallery: Lunar Eclipse of 2026 August APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod</p>
         <strong><em></em></strong>
     </div>
 </div>
