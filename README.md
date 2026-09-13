@@ -61,13 +61,14 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2609/AS11-40-5872HR1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2609/AS11-40-5872HR1024.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/" target="_blank">
+        <img align="left" src="https://img.icons8.com/color/480/null/video-file.png" width="400" height="500" alt="Comet NEOWISE Rising over the Adriatic Sea - Click to watch video">
     </a>
+    <!-- Video icon by Icons8: https://icons8.com/icon/video-file -->
     <div>
-        <h4>Apollo 11: Catching Some Sun</h4>
-        <time>2026-09-12</time>
-        <p>Bright sunlight glints as long dark shadows mark this image of the surface of the Moon. It was taken on July 20, 1969, by Apollo 11 astronaut Neil Armstrong, the first to walk on the lunar surface. Pictured is the mission's lunar module, the Eagle, and spacesuited lunar module pilot Buzz Aldrin. Aldrin is unfurling a long sheet of foil also known as the Solar Wind Composition Experiment. Exposed facing the Sun, the foil trapped particles streaming outward in the solar wind, catching a sample of material from the Sun itself. Along with 22 kilograms of moon rocks and lunar soil samples, the solar wind collector was returned for analysis in earthbound laboratories.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod</p>
-        <strong><em></em></strong>
+        <h4>Comet NEOWISE Rising over the Adriatic Sea</h4>
+        <time>2026-09-13</time>
+        <p>This sight was worth getting out of bed early.  Just over four years ago, Comet C/2020 F3 (NEOWISE) rose before dawn to the delight of northern sky enthusiasts awake that early. Up before sunrise on July 8th, the featured photographer was able to capture in dramatic fashion one of the few comets visible to the unaided eye this century, an inner-Solar System intruder that has become known as the Great Comet of 2020.  The resulting video detailed Comet NEOWISE from Italy rising over the Adriatic Sea. The featured time-lapse video combines over 240 images taken over 30 minutes.  The comet was seen rising through a foreground of bright and undulating noctilucent clouds, and before a background of distant stars.  Comet NEOWISE remained unexpectedly bright for over a month, with its ion and dust tails found to emanate from a nucleus spanning about five kilometers across.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod</p>
+        <strong><em>Paolo Girotti</em></strong>
     </div>
 </div>
