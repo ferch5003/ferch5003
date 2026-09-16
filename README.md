@@ -61,13 +61,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2609/MoonVenus_Mariat_960.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2609/MoonVenus_Mariat_960.jpg" width="400" height="500" alt="Arnaud Mariat">
+    <a href="https://apod.nasa.gov/apod/image/2609/M64_Webb_1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2609/M64_Webb_1024.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>A Daytime Eclipse: Moon Occults Venus</h4>
-        <time>2026-09-15</time>
-        <p>There was something behind the clouds.  Upon close inspection, it was the Moon, which was hard to see yesterday around noon above the small village of Cessy, France.  But soon, it was not only the Moon. As expected, a bright dot suddenly appeared from behind the Moon -- the planet Venus far in the distance.  Captured in the single featured exposure, both appeared to show a crescent phase.  The Moon's crescent was quite slight -- with only about 10 percent of its face illuminated by the Sun. In contrast, Venus's crescent was more full -- showing about 25 percent illumination. Venus appeared brighter because it is nearer the Sun and because its clouds are more reflective than the dark lunar surface. An occultation of Venus by the Moon is visible to only about 10 percent of the Earth, but in yesterday's event even most of that was experiencing daytime.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod</p>
-        <strong><em>Arnaud Mariat</em></strong>
+        <h4>Webb's View of M64</h4>
+        <time>2026-09-16</time>
+        <p>Sometimes where Hubble finds darkness, Webb sees light. An example is today’s composite images of Messier 64 (M64), a nearby spiral galaxy of many names. The dark band of dust partially blocking its bright core earned it the moniker “the Black Eye Galaxy.” Webb’s Mid-InfraRed Instrument (MIRI) sees that dust, shown in red, as it absorbs and re-emits light from surrounding newborn stars. These young stars are embedded in pink star-forming regions in the secondary Hubble-only image. M64’s inner and outer gas regions counter-rotate, creating regions of increased star formation where the two gas “currents” meet and compress. A merger between M64 and a smaller galaxy was likely the cause of the opposing motion of the outer gas. Spiral galaxies were once thought to have peaceful histories. M64 was key evidence that spiral galaxies, including the Milky Way, can and do experience mergers. Webb’s view of M64 will tell astronomers about the structure, motion, and composition of the galaxy’s dust and add context to the galaxy’s merger history and evolution.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod</p>
+        <strong><em></em></strong>
     </div>
 </div>
