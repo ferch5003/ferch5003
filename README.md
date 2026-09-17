@@ -61,13 +61,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2609/M64_Webb_1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2609/M64_Webb_1024.jpg" width="400" height="500" alt="">
+    <a href="https://apod.nasa.gov/apod/image/2609/JWST_Treasure_Chest_800.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2609/JWST_Treasure_Chest_800.jpg" width="400" height="500" alt="ESA/Webb, NASA & CSA, M. Reiter; Acknowledgement: M. H. Özsaraç Text: Cecilia Chirenti (NASA GSFC, UMCP, CRESST II)">
     </a>
     <div>
-        <h4>Webb's View of M64</h4>
-        <time>2026-09-16</time>
-        <p>Sometimes where Hubble finds darkness, Webb sees light. An example is today’s composite images of Messier 64 (M64), a nearby spiral galaxy of many names. The dark band of dust partially blocking its bright core earned it the moniker “the Black Eye Galaxy.” Webb’s Mid-InfraRed Instrument (MIRI) sees that dust, shown in red, as it absorbs and re-emits light from surrounding newborn stars. These young stars are embedded in pink star-forming regions in the secondary Hubble-only image. M64’s inner and outer gas regions counter-rotate, creating regions of increased star formation where the two gas “currents” meet and compress. A merger between M64 and a smaller galaxy was likely the cause of the opposing motion of the outer gas. Spiral galaxies were once thought to have peaceful histories. M64 was key evidence that spiral galaxies, including the Milky Way, can and do experience mergers. Webb’s view of M64 will tell astronomers about the structure, motion, and composition of the galaxy’s dust and add context to the galaxy’s merger history and evolution.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod</p>
-        <strong><em></em></strong>
+        <h4>A Treasure Chest in the Carina Nebula</h4>
+        <time>2026-09-17</time>
+        <p>This treasure chest is full of stars.   The featured image was obtained with NASA's James Webb Space Telescope and shows a dust pilar in the Carina Nebula inside our Galaxy, roughly 7500 light-years away.   It is formed by interstellar gas and dust, and shaped by powerful stellar winds and radiation form neighboring stars like the nearby Eta Carinae stellar system which is more luminous than 5 million suns.   The star formation inside the pillar is excavating its head, creating the open lid of the chest.     Astronomers estimate that there are about 70 stars in a compact cluster inside the pillar.   This cluster is now thought to be only around 1.3 million years old.   Its bounty of young stars includes a massive star approximately 19 times as massive as the Sun.   More massive stars are rarer, shine brighter and evolve faster than less massive stars.   They are the shiniest jewels in the treasure chest.     APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod</p>
+        <strong><em>ESA/Webb, NASA & CSA, M. Reiter; Acknowledgement: M. H. Özsaraç Text: Cecilia Chirenti (NASA GSFC, UMCP, CRESST II)</em></strong>
     </div>
 </div>
