@@ -61,13 +61,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2609/m33m14_rasa3NM1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2609/m33m14_rasa3NM1024.jpg" width="400" height="500" alt="George Chatzifrantzis">
+    <a href="https://apod.nasa.gov/apod/image/2609/2026-09-09ZodiacalLightHSP1024.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2609/2026-09-09ZodiacalLightHSP1024.jpg" width="400" height="500" alt="Neelam and Ajay Talwar">
     </a>
     <div>
-        <h4>Messier 33: The Triangulum Galaxy</h4>
-        <time>2026-09-18</time>
-        <p>The small, northern constellation Triangulum harbors this magnificent face-on spiral galaxy, Messier 33. Its popular names include the Pinwheel Galaxy or just the Triangulum Galaxy. M33 is over 50,000 light-years in diameter, third largest in the Local Group of galaxies after the Andromeda Galaxy (M31), and our own Milky Way. About 3 million light-years from the Milky Way, M33 is itself thought to be a satellite of the Andromeda Galaxy and astronomers in these two galaxies would likely have spectacular views of each other's grand spiral star systems. As for the view from the Milky Way, this sharp telescopic image shows off M33's blue star clusters and pinkish star forming regions along the galaxy's loosely wound spiral arms. In fact, the cavernous NGC 604 is the brightest star forming region, seen here at about the 5 o'clock position from the galaxy center. Like M31, M33's population of well-measured variable stars have helped make this nearby spiral a cosmic yardstick for establishing the distance scale of the Universe.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod</p>
-        <strong><em>George Chatzifrantzis</em></strong>
+        <h4>A Zodiacal Night</h4>
+        <time>2026-09-19</time>
+        <p>Also known as the false dawn, a luminous band of zodiacal light is captured in this dark night skyscape. The serene view was recorded just before the beginning of astronomical twilight during September's star party at the remote Hanle Dark Sky Reserve, Ladakh, India, planet Earth. At about 4,500 meters altitude, the dark sky reserve presents a haven for hardy stargazing and astrophotography enthusiasts. While meteors streak through the night, bright planet Jupiter appears immersed in the faint zodiacal glow near the eastern horizon. Follow the zodiacal band toward the zenith to find open star cluster M44 and a yellowish tinged planet Mars near the center of the frame. In fact, serendipitous detections of interplanetary dust by NASA's Juno spacecraft suggest Mars itself is the source of dust that back scatters sunlight and creates zodiacal light in planet Earth's night.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod</p>
+        <strong><em>Neelam and Ajay Talwar</em></strong>
     </div>
 </div>
