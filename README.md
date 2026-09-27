@@ -61,13 +61,13 @@
 ### Did you know...
 
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2609/MilkyWayMeteorLSTJeffDai1024.jpg">
-        <img align="left" src="https://apod.nasa.gov/apod/image/2609/MilkyWayMeteorLSTJeffDai1024.jpg" width="400" height="500" alt="Jeff Dai">
+    <a href="https://apod.nasa.gov/apod/image/2609/M31Before_Scherer_960.jpg">
+        <img align="left" src="https://apod.nasa.gov/apod/image/2609/M31Before_Scherer_960.jpg" width="400" height="500" alt="">
     </a>
     <div>
-        <h4>Mirrored Meteor and Milky Way</h4>
-        <time>2026-09-26</time>
-        <p>On August 15, this perseid meteor streaked through night skies over the Observatorio del Roque de los Muchachos at La Palma, Canary Islands, Spain. The bright and colorful meteor trail was captured next to the central Milky Way, whose dark interstellar dust clouds and luminous starlight reach above the horizon. In the foreground of this tantalizing celestial scene is the 23 meter diameter mirror of the prototype Large-Sized Telescope (LST-1). LST-1 is the first telescope constructed at the northern hemisphere site of the innovative Cherenkov Telescope Array Observatory. With 198 hexagonal mirror segments and a large, high-efficiency, pixelized camera, LST-1 is designed to detect extremely brief, atmospheric visible light flashes. Lasting about a billionth of a second, the visible light flashes are triggered by energetic gamma-rays from cosmic sources such as distant active galaxies and gamma-ray bursts. Of course, on that night some individual mirror segments of LST-1 also reflected the atmospheric flash of the bright perseid meteor.  APOD's email for image submissions has changed. Please see: APOD Submissions. APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod</p>
-        <strong><em>Jeff Dai</em></strong>
+        <h4>Andromeda before Photoshop</h4>
+        <time>2026-09-27</time>
+        <p>What does the Andromeda galaxy really look like? The featured image shows how our Milky Way Galaxy's closest major galactic neighbor really appears in a long exposure through Earth's busy skies and with a digital camera that introduces normal imperfections.  The picture is a stack of 223 images, each a 300 second exposure, taken from a garden observatory in Portugal during 2019.  Obvious image deficiencies include bright parallel airplane trails, long and continuous satellite trails, short cosmic ray streaks, and bad pixels.  These imperfections were actually not removed with Photoshop specifically, but rather greatly reduced with a series of computer software packages that included Astro Pixel Processor, DeepSkyStacker, and PixInsight.  All of this work was done not to deceive you with a digital fantasy that has little to do with the real likeness of the Andromeda galaxy (M31), but to minimize Earthly artifacts that have nothing to do with the distant galaxy and so better recreate what M31 really does look like.   APOD's email for image submissions has changed. Please see: APOD Submissions APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod</p>
+        <strong><em></em></strong>
     </div>
 </div>
