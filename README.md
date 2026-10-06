@@ -66,8 +66,8 @@
     </a>
     <div>
         <h4>NASA Science</h4>
-        <time>2026-10-05</time>
-        <p>A deep image of the Sombrero galaxy reveals surprises. M104 is named the Sombrero galaxy because, on shorter exposures, it looks like a hat. A key defining feature of this huge galaxy is a dark brim of dust that circles the disk galaxy's center. A much longer exposure, however, brings up a hairy past where a bright, hazy halo is revealed that extends well past the central disk and contains many unresolved stars. Surprisingly, in this stellar haze, structures can be seen that include a diagonal ring. These structures and tidal streams provide fresh evidence that M104 had a violent past and is surely the result of collisions and mergers of smaller galaxies. Light takes about 30 million years to reach us from the Sombrero galaxy, which fully spans about 150 thousand light years across. The featured image was taken over seven days in mid-2026 from Namibia.Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)Tomorrow's picture: a smile						</p>
+        <time>2026-10-06</time>
+        <p>Have you ever seen a complete auroral oval? You can't see one from the ground because it makes too large a circle around one of Earth's magnetic poles. But spacecraft high above the Earth can see them. The featured video from ESA and CAS's robotic SMILE spacecraft shows not only a full auroral oval, but using ultraviolet light, one that occurred during the day. The time-lapse covers about an hour in late July and shows visually how variable and turbulent auroras really are. The points of light on the sides are distant stars that appear to move only because SMILE's camera view shifts as the spacecraft orbits the Earth. A goal of SMILE is to better understand how the Sun's wind interacts with the Earth's magnetosphere -- and so better understand how to protect astronauts, spacecraft, and ground-based electrical grids from solar storms.Tomorrow's picture: a ghost						</p>
         <strong><em></em></strong>
     </div>
 </div>
