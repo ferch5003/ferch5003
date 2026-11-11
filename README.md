@@ -66,8 +66,8 @@
     </a>
     <div>
         <h4>NASA Science</h4>
-        <time>2026-11-05</time>
-        <p>One of our Solar System's most tantalizing worlds, Enceladus is backlit by the Sun in this Cassini spacecraft image from November 1, 2009. The dramatic illumination reveals the plumes that continuously spew into space from the south pole of Saturn's 500 kilometer diameter moon. Discovered by Cassini in 2005, the icy plumes are likely connected to an ocean beneath the ice shell of Enceladus. They supply material directly to Saturn's outer, tenuous E ring and make the surface of Enceladus as reflective as snow. Across the scene, Saturn's icy rings scatter sunlight toward Cassini's cameras. Beyond the rings (lower right), the night side of 80 kilometer diameter moon Pandora is faintly lit by Saturnlight.Tomorrow's picture: pixels in space						</p>
+        <time>2026-11-11</time>
+        <p>Don’t judge a galaxy by its size. Our home galaxy, the Milky Way, is about 100,000 light years across. This huge expanse of space contains hundreds of billions of stars! The smallest galaxies, called dwarf galaxies, are about 1/10th the size of the Milky Way and only contain a few billion stars. They are also the most common type of galaxy in the whole universe. Today’s image shows one such dwarf galaxy, NGC 4449, captured by the Hubble Space Telescope. NGC 4449 and similar dwarf galaxies are missing more oxygen than models predict. This suggests their stellar winds and supernovae are surprisingly effective at blowing away oxygen and other heavy elements. Turns out these tiny galaxies may play a big role in spreading heavy elements — the building blocks of stars, planets, and life — throughout the universe!Tomorrow's picture: a date in Poland						</p>
         <strong><em></em></strong>
     </div>
 </div>
